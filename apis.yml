@@ -2814,6 +2814,8 @@ network:
   url: https://github.com/api-evangelist/fiserv
 - name: Fish and Wildlife Service
   url: https://github.com/api-evangelist/fish-and-wildlife-service
+- name: FiscalNote
+  url: https://github.com/api-evangelist/fiscalnote
 - name: Fis
   url: https://github.com/api-evangelist/fis
 - name: Fiware
@@ -4046,6 +4048,8 @@ network:
   url: https://github.com/api-evangelist/lens
 - name: Lets Encrypt
   url: https://github.com/api-evangelist/lets-encrypt
+- name: Level2
+  url: https://github.com/api-evangelist/level2
 - name: Lexisnexis
   url: https://github.com/api-evangelist/lexisnexis
 - name: Lf AI and Data
@@ -4176,6 +4180,8 @@ network:
   url: https://github.com/api-evangelist/lumen-technologies
 - name: Lumos
   url: https://github.com/api-evangelist/lumos
+- name: Ludo.ai
+  url: https://github.com/api-evangelist/ludo-ai
 - name: Lunar Dev
   url: https://github.com/api-evangelist/lunar-dev
 - name: Lura Project
@@ -4660,6 +4666,8 @@ network:
   url: https://github.com/api-evangelist/mirage-js
 - name: Mississippi River Commission
   url: https://github.com/api-evangelist/mississippi-river-commission
+- name: Mistral AI
+  url: https://github.com/api-evangelist/mistral-ai
 - name: Mistral
   url: https://github.com/api-evangelist/mistral
 - name: Mit
@@ -4970,6 +4978,8 @@ network:
   url: https://github.com/api-evangelist/nokia-netact
 - name: Nomad
   url: https://github.com/api-evangelist/nomad
+- name: Nomba
+  url: https://github.com/api-evangelist/nomba
 - name: Nops
   url: https://github.com/api-evangelist/nops
 - name: Nordstrom
@@ -5728,6 +5738,8 @@ network:
   url: https://github.com/api-evangelist/quantexa
 - name: Quant
   url: https://github.com/api-evangelist/quant
+- name: Qubrid AI
+  url: https://github.com/api-evangelist/qubrid-ai
 - name: Qube Horizon
   url: https://github.com/api-evangelist/qube-horizon
 - name: Qube
@@ -5882,6 +5894,8 @@ network:
   url: https://github.com/api-evangelist/reliance
 - name: Reloadly
   url: https://github.com/api-evangelist/reloadly
+- name: Remitian
+  url: https://github.com/api-evangelist/remitian
 - name: Render
   url: https://github.com/api-evangelist/render
 - name: Renovate JSON
@@ -6768,6 +6782,8 @@ network:
   url: https://github.com/api-evangelist/traceable
 - name: Tractor Supply
   url: https://github.com/api-evangelist/tractor-supply
+- name: TradeStation
+  url: https://github.com/api-evangelist/tradestation
 - name: Tradeweb
   url: https://github.com/api-evangelist/tradeweb
 - name: Traefik Labs
@@ -6878,6 +6894,8 @@ network:
   url: https://github.com/api-evangelist/unified-to
 - name: Union Pacific
   url: https://github.com/api-evangelist/union-pacific
+- name: Uniblock
+  url: https://github.com/api-evangelist/uniblock
 - name: Uniswap
   url: https://github.com/api-evangelist/uniswap
 - name: United Airlines
@@ -6934,6 +6952,8 @@ network:
   url: https://github.com/api-evangelist/upkeep
 - name: UPS
   url: https://github.com/api-evangelist/ups
+- name: Upvest
+  url: https://github.com/api-evangelist/upvest
 - name: Upwork
   url: https://github.com/api-evangelist/upwork
 - name: US Abilityone Commission
