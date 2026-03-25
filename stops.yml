@@ -26,6 +26,10 @@ stops:
         url: https://raw.githubusercontent.com/api-evangelist/authelia/refs/heads/main/apis.yml
       - name: Authentik
         url: https://raw.githubusercontent.com/api-evangelist/authentik/refs/heads/main/apis.yml
+      - name: Casdoor
+        url: https://raw.githubusercontent.com/api-evangelist/casdoor/refs/heads/main/apis.yml
+      - name: Cerbos
+        url: https://raw.githubusercontent.com/api-evangelist/cerbos/refs/heads/main/apis.yml
       - name: CyberArk
         url: https://raw.githubusercontent.com/api-evangelist/cyberark/refs/heads/main/apis.yml
       - name: Duo Security
@@ -36,6 +40,8 @@ stops:
         url: https://raw.githubusercontent.com/api-evangelist/hashicorp-vault/refs/heads/main/apis.yml
       - name: Keycloak
         url: https://raw.githubusercontent.com/api-evangelist/keycloak/refs/heads/main/apis.yml
+      - name: Logto
+        url: https://raw.githubusercontent.com/api-evangelist/logto/refs/heads/main/apis.yml
       - name: Microsoft Entra ID
         url: https://raw.githubusercontent.com/api-evangelist/microsoft-entra-id/refs/heads/main/apis.yml
       - name: Okta
@@ -48,6 +54,10 @@ stops:
         url: https://raw.githubusercontent.com/api-evangelist/ping-identity/refs/heads/main/apis.yml
       - name: SailPoint
         url: https://raw.githubusercontent.com/api-evangelist/sailpoint/refs/heads/main/apis.yml
+      - name: SuperTokens
+        url: https://raw.githubusercontent.com/api-evangelist/supertokens/refs/heads/main/apis.yml
+      - name: WorkOS
+        url: https://raw.githubusercontent.com/api-evangelist/workos/refs/heads/main/apis.yml
       - name: Zitadel
         url: https://raw.githubusercontent.com/api-evangelist/zitadel/refs/heads/main/apis.yml
   - name: Backups
