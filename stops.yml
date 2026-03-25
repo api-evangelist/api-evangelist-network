@@ -6,30 +6,74 @@ created: '2026-03-16'
 modified: '2026-03-16'
 total: 85
 stops:
-  - name: Accessibility
-  - name: Acquisitions
   - name: Aggregation
-  - name: Algorithms
   - name: Analysis
   - name: Authentication
   - name: Backups
   - name: Bots
-  - name: Branding
   - name: Breaches
   - name: Browsers
   - name: Caching
-  - name: Certification
   - name: Change Log
-  - name: Client
+  - name: Clients
   - name: Command Line Interface
   - name: Communications
   - name: Containers
-  - name: Copyright
-  - name: Cybersecurity
   - name: Database
   - name: Definitions
   - name: Deployment
   - name: Design
+    description: >-
+      API design covers the tools, specification languages, and platforms used
+      to model, author, lint, and govern API interfaces before implementation.
+      This includes visual API editors, specification languages like OpenAPI,
+      AsyncAPI, GraphQL SDL, and gRPC/Protobuf, linting and style guide
+      enforcement tools, schema registries, governance platforms, and
+      design-first frameworks that generate code and documentation from
+      API descriptions.
+    repos:
+      - name: API Blueprint
+        url: https://raw.githubusercontent.com/api-evangelist/api-blueprint/refs/heads/main/apis.yml
+      - name: Apiary
+        url: https://raw.githubusercontent.com/api-evangelist/apiary/refs/heads/main/apis.yml
+      - name: Apicurio
+        url: https://raw.githubusercontent.com/api-evangelist/apicurio/refs/heads/main/apis.yml
+      - name: Apidog
+        url: https://raw.githubusercontent.com/api-evangelist/apidog/refs/heads/main/apis.yml
+      - name: AsyncAPI
+        url: https://raw.githubusercontent.com/api-evangelist/asyncapi/refs/heads/main/apis.yml
+      - name: Buf
+        url: https://raw.githubusercontent.com/api-evangelist/buf/refs/heads/main/apis.yml
+      - name: Connexion
+        url: https://raw.githubusercontent.com/api-evangelist/connexion/refs/heads/main/apis.yml
+      - name: FastAPI
+        url: https://raw.githubusercontent.com/api-evangelist/fastapi/refs/heads/main/apis.yml
+      - name: JSON Schema
+        url: https://raw.githubusercontent.com/api-evangelist/json-schema/refs/heads/main/apis.yml
+      - name: OpenAPI
+        url: https://raw.githubusercontent.com/api-evangelist/openapi/refs/heads/main/apis.yml
+      - name: Optic
+        url: https://raw.githubusercontent.com/api-evangelist/optic/refs/heads/main/apis.yml
+      - name: Prism
+        url: https://raw.githubusercontent.com/api-evangelist/prism/refs/heads/main/apis.yml
+      - name: RAML
+        url: https://raw.githubusercontent.com/api-evangelist/raml/refs/heads/main/apis.yml
+      - name: Redocly
+        url: https://raw.githubusercontent.com/api-evangelist/redocly/refs/heads/main/apis.yml
+      - name: Smithy
+        url: https://raw.githubusercontent.com/api-evangelist/smithy/refs/heads/main/apis.yml
+      - name: Spectral
+        url: https://raw.githubusercontent.com/api-evangelist/spectral/refs/heads/main/apis.yml
+      - name: Stoplight
+        url: https://raw.githubusercontent.com/api-evangelist/stoplight/refs/heads/main/apis.yml
+      - name: Swagger
+        url: https://raw.githubusercontent.com/api-evangelist/swagger/refs/heads/main/apis.yml
+      - name: TypeSpec
+        url: https://raw.githubusercontent.com/api-evangelist/typespec/refs/heads/main/apis.yml
+      - name: Vacuum
+        url: https://raw.githubusercontent.com/api-evangelist/vacuum/refs/heads/main/apis.yml
+      - name: Zally
+        url: https://raw.githubusercontent.com/api-evangelist/zally/refs/heads/main/apis.yml
   - name: Discovery
   - name: DNS
   - name: Documentation
