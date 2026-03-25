@@ -346,6 +346,8 @@ stops:
     repos:
       - name: API Layer
         url: https://raw.githubusercontent.com/api-evangelist/api-layer/refs/heads/main/apis.yml
+      - name: Apiman
+        url: https://raw.githubusercontent.com/api-evangelist/apiman/refs/heads/main/apis.yml
       - name: APIMatic
         url: https://raw.githubusercontent.com/api-evangelist/apimatic/refs/heads/main/apis.yml
       - name: APIs.guru
@@ -368,6 +370,8 @@ stops:
         url: https://raw.githubusercontent.com/api-evangelist/konfig/refs/heads/main/apis.yml
       - name: Mintlify
         url: https://raw.githubusercontent.com/api-evangelist/mintlify/refs/heads/main/apis.yml
+      - name: Moesif
+        url: https://raw.githubusercontent.com/api-evangelist/moesif/refs/heads/main/apis.yml
       - name: Port
         url: https://raw.githubusercontent.com/api-evangelist/port/refs/heads/main/apis.yml
       - name: Postman
