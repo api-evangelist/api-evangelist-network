@@ -251,7 +251,52 @@ stops:
   - name: Reliability
   - name: Road Map
   - name: Rogue
-  - name: SDK
+  - name: SDKs
+    description: >-
+      API SDKs are client libraries and code generation tools that provide
+      language-native interfaces for consuming APIs. They range from
+      auto-generated clients produced by tools like OpenAPI Generator,
+      Speakeasy, Stainless, and Fern, to hand-crafted SDKs maintained by
+      API providers. This category also covers RPC frameworks like gRPC
+      and schema-driven code generation tools that produce type-safe
+      client and server code from API specifications.
+    repos:
+      - name: APIMatic
+        url: https://raw.githubusercontent.com/api-evangelist/apimatic/refs/heads/main/apis.yml
+      - name: Apollo
+        url: https://raw.githubusercontent.com/api-evangelist/apollo/refs/heads/main/apis.yml
+      - name: AutoRest
+        url: https://raw.githubusercontent.com/api-evangelist/autorest/refs/heads/main/apis.yml
+      - name: Buf
+        url: https://raw.githubusercontent.com/api-evangelist/buf/refs/heads/main/apis.yml
+      - name: Connect-RPC
+        url: https://raw.githubusercontent.com/api-evangelist/connect-rpc/refs/heads/main/apis.yml
+      - name: Fern
+        url: https://raw.githubusercontent.com/api-evangelist/fern/refs/heads/main/apis.yml
+      - name: GraphQL Code Generator
+        url: https://raw.githubusercontent.com/api-evangelist/graphql-codegen/refs/heads/main/apis.yml
+      - name: gRPC
+        url: https://raw.githubusercontent.com/api-evangelist/grpc/refs/heads/main/apis.yml
+      - name: Hey API
+        url: https://raw.githubusercontent.com/api-evangelist/hey-api/refs/heads/main/apis.yml
+      - name: Kiota
+        url: https://raw.githubusercontent.com/api-evangelist/kiota/refs/heads/main/apis.yml
+      - name: Liblab
+        url: https://raw.githubusercontent.com/api-evangelist/liblab/refs/heads/main/apis.yml
+      - name: OpenAPI Generator
+        url: https://raw.githubusercontent.com/api-evangelist/openapi-generator/refs/heads/main/apis.yml
+      - name: Orval
+        url: https://raw.githubusercontent.com/api-evangelist/orval/refs/heads/main/apis.yml
+      - name: Sideko
+        url: https://raw.githubusercontent.com/api-evangelist/sideko/refs/heads/main/apis.yml
+      - name: Smithy
+        url: https://raw.githubusercontent.com/api-evangelist/smithy/refs/heads/main/apis.yml
+      - name: Speakeasy
+        url: https://raw.githubusercontent.com/api-evangelist/speakeasy/refs/heads/main/apis.yml
+      - name: Stainless
+        url: https://raw.githubusercontent.com/api-evangelist/stainless/refs/heads/main/apis.yml
+      - name: Swagger Codegen
+        url: https://raw.githubusercontent.com/api-evangelist/swagger-codegen/refs/heads/main/apis.yml
   - name: Scraping
   - name: Search
   - name: Security
