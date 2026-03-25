@@ -456,6 +456,10 @@ stops:
         url: https://raw.githubusercontent.com/api-evangelist/moesif/refs/heads/main/apis.yml
       - name: New Relic
         url: https://raw.githubusercontent.com/api-evangelist/new-relic/refs/heads/main/apis.yml
+      - name: OneUptime
+        url: https://raw.githubusercontent.com/api-evangelist/oneuptime/refs/heads/main/apis.yml
+      - name: OpenObserve
+        url: https://raw.githubusercontent.com/api-evangelist/openobserve/refs/heads/main/apis.yml
       - name: OpenTelemetry
         url: https://raw.githubusercontent.com/api-evangelist/opentelemetry/refs/heads/main/apis.yml
       - name: Prometheus
