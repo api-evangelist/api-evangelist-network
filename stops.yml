@@ -9,6 +9,47 @@ stops:
   - name: Aggregation
   - name: Analysis
   - name: Authentication
+    description: >-
+      Authentication and authorization are the gatekeepers of every API,
+      covering how consumers prove their identity and how access is granted
+      or denied. This spans protocols and standards such as OAuth 2.0, OpenID
+      Connect, SAML, and SCIM, through to identity providers, single sign-on
+      platforms, privileged access management, secrets management, MFA, and
+      passwordless solutions. Effective authentication is foundational to API
+      security, developer experience, and regulatory compliance.
+    repos:
+      - name: Amazon Cognito
+        url: https://raw.githubusercontent.com/api-evangelist/aws-cognito/refs/heads/main/apis.yml
+      - name: Auth0
+        url: https://raw.githubusercontent.com/api-evangelist/auth0/refs/heads/main/apis.yml
+      - name: Authelia
+        url: https://raw.githubusercontent.com/api-evangelist/authelia/refs/heads/main/apis.yml
+      - name: Authentik
+        url: https://raw.githubusercontent.com/api-evangelist/authentik/refs/heads/main/apis.yml
+      - name: CyberArk
+        url: https://raw.githubusercontent.com/api-evangelist/cyberark/refs/heads/main/apis.yml
+      - name: Duo Security
+        url: https://raw.githubusercontent.com/api-evangelist/duo-security/refs/heads/main/apis.yml
+      - name: ForgeRock
+        url: https://raw.githubusercontent.com/api-evangelist/forgerock/refs/heads/main/apis.yml
+      - name: HashiCorp Vault
+        url: https://raw.githubusercontent.com/api-evangelist/hashicorp-vault/refs/heads/main/apis.yml
+      - name: Keycloak
+        url: https://raw.githubusercontent.com/api-evangelist/keycloak/refs/heads/main/apis.yml
+      - name: Microsoft Entra ID
+        url: https://raw.githubusercontent.com/api-evangelist/microsoft-entra-id/refs/heads/main/apis.yml
+      - name: Okta
+        url: https://raw.githubusercontent.com/api-evangelist/okta/refs/heads/main/apis.yml
+      - name: OneLogin
+        url: https://raw.githubusercontent.com/api-evangelist/onelogin/refs/heads/main/apis.yml
+      - name: Ory
+        url: https://raw.githubusercontent.com/api-evangelist/ory/refs/heads/main/apis.yml
+      - name: Ping Identity
+        url: https://raw.githubusercontent.com/api-evangelist/ping-identity/refs/heads/main/apis.yml
+      - name: SailPoint
+        url: https://raw.githubusercontent.com/api-evangelist/sailpoint/refs/heads/main/apis.yml
+      - name: Zitadel
+        url: https://raw.githubusercontent.com/api-evangelist/zitadel/refs/heads/main/apis.yml
   - name: Backups
   - name: Bots
   - name: Breaches
@@ -266,8 +307,6 @@ stops:
   - name: Industrial
   - name: Integrations
   - name: Internet of Things
-  - name: Investment
-  - name: iPaaS
   - name: Issues
   - name: Licensing
   - name: Logging
@@ -282,19 +321,15 @@ stops:
   - name: Observability
   - name: Orchestration
   - name: Partners
-  - name: Patents
   - name: Performance
   - name: Plans
   - name: Plugin
   - name: Portal
   - name: Privacy
   - name: Proxy
-  - name: Real Time
-  - name: Reclaim
   - name: Regulation
   - name: Reliability
   - name: Road Map
-  - name: Rogue
   - name: SDKs
     description: >-
       API SDKs are client libraries and code generation tools that provide
@@ -362,7 +397,6 @@ stops:
   - name: Security
   - name: Serverless
   - name: Support
-  - name: Surveillance
   - name: Testing
     description: >-
       API testing encompasses the tools, frameworks, and platforms used to
