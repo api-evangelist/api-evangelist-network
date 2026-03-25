@@ -77,6 +77,8 @@ stops:
       for scripting, CI/CD pipelines, local development, and automation
       workflows across the API lifecycle.
     repos:
+      - name: API Dash
+        url: https://raw.githubusercontent.com/api-evangelist/api-dash/refs/heads/main/apis.yml
       - name: AsyncAPI
         url: https://raw.githubusercontent.com/api-evangelist/asyncapi/refs/heads/main/apis.yml
       - name: AWS CLI
