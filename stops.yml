@@ -269,10 +269,14 @@ stops:
         url: https://raw.githubusercontent.com/api-evangelist/autorest/refs/heads/main/apis.yml
       - name: Buf
         url: https://raw.githubusercontent.com/api-evangelist/buf/refs/heads/main/apis.yml
+      - name: Cap'n Proto
+        url: https://raw.githubusercontent.com/api-evangelist/capn-proto/refs/heads/main/apis.yml
       - name: Connect-RPC
         url: https://raw.githubusercontent.com/api-evangelist/connect-rpc/refs/heads/main/apis.yml
       - name: Fern
         url: https://raw.githubusercontent.com/api-evangelist/fern/refs/heads/main/apis.yml
+      - name: Genql
+        url: https://raw.githubusercontent.com/api-evangelist/genql/refs/heads/main/apis.yml
       - name: GraphQL Code Generator
         url: https://raw.githubusercontent.com/api-evangelist/graphql-codegen/refs/heads/main/apis.yml
       - name: gRPC
@@ -281,12 +285,24 @@ stops:
         url: https://raw.githubusercontent.com/api-evangelist/hey-api/refs/heads/main/apis.yml
       - name: Kiota
         url: https://raw.githubusercontent.com/api-evangelist/kiota/refs/heads/main/apis.yml
+      - name: Konfig
+        url: https://raw.githubusercontent.com/api-evangelist/konfig/refs/heads/main/apis.yml
       - name: Liblab
         url: https://raw.githubusercontent.com/api-evangelist/liblab/refs/heads/main/apis.yml
+      - name: NSwag
+        url: https://raw.githubusercontent.com/api-evangelist/nswag/refs/heads/main/apis.yml
+      - name: oapi-codegen
+        url: https://raw.githubusercontent.com/api-evangelist/oapi-codegen/refs/heads/main/apis.yml
+      - name: Ogen
+        url: https://raw.githubusercontent.com/api-evangelist/ogen/refs/heads/main/apis.yml
       - name: OpenAPI Generator
         url: https://raw.githubusercontent.com/api-evangelist/openapi-generator/refs/heads/main/apis.yml
       - name: Orval
         url: https://raw.githubusercontent.com/api-evangelist/orval/refs/heads/main/apis.yml
+      - name: Refitter
+        url: https://raw.githubusercontent.com/api-evangelist/refitter/refs/heads/main/apis.yml
+      - name: Relay Compiler
+        url: https://raw.githubusercontent.com/api-evangelist/relay-compiler/refs/heads/main/apis.yml
       - name: Sideko
         url: https://raw.githubusercontent.com/api-evangelist/sideko/refs/heads/main/apis.yml
       - name: Smithy
