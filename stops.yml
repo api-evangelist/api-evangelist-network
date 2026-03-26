@@ -51,6 +51,8 @@ stops:
         url: https://raw.githubusercontent.com/api-evangelist/composio/refs/heads/main/apis.yml
       - name: Datafiniti
         url: https://raw.githubusercontent.com/api-evangelist/datafiniti/refs/heads/main/apis.yml
+      - name: DigitalAPI
+        url: https://raw.githubusercontent.com/api-evangelist/digitalapi/refs/heads/main/apis.yml
       - name: Diffbot
         url: https://raw.githubusercontent.com/api-evangelist/diffbot/refs/heads/main/apis.yml
       - name: Finverse
