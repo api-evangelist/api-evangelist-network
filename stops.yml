@@ -639,10 +639,14 @@ stops:
         url: https://raw.githubusercontent.com/api-evangelist/fastapi/refs/heads/main/apis.yml
       - name: Fastify
         url: https://raw.githubusercontent.com/api-evangelist/fastify/refs/heads/main/apis.yml
+      - name: Fiber
+        url: https://raw.githubusercontent.com/api-evangelist/fiber/refs/heads/main/apis.yml
       - name: Flask
         url: https://raw.githubusercontent.com/api-evangelist/flask/refs/heads/main/apis.yml
       - name: Go Kit
         url: https://raw.githubusercontent.com/api-evangelist/go-kit/refs/heads/main/apis.yml
+      - name: Gin
+        url: https://raw.githubusercontent.com/api-evangelist/gin/refs/heads/main/apis.yml
       - name: Go Micro
         url: https://raw.githubusercontent.com/api-evangelist/go-micro/refs/heads/main/apis.yml
       - name: Google Pub/Sub
@@ -669,6 +673,8 @@ stops:
         url: https://raw.githubusercontent.com/api-evangelist/kratos/refs/heads/main/apis.yml
       - name: Lagom
         url: https://raw.githubusercontent.com/api-evangelist/lagom/refs/heads/main/apis.yml
+      - name: LittleHorse
+        url: https://raw.githubusercontent.com/api-evangelist/littlehorse/refs/heads/main/apis.yml
       - name: MassTransit
         url: https://raw.githubusercontent.com/api-evangelist/masstransit/refs/heads/main/apis.yml
       - name: Micronaut
@@ -691,6 +697,8 @@ stops:
         url: https://raw.githubusercontent.com/api-evangelist/netflix-hystrix/refs/heads/main/apis.yml
       - name: OpenTelemetry
         url: https://raw.githubusercontent.com/api-evangelist/opentelemetry/refs/heads/main/apis.yml
+      - name: Orkes
+        url: https://raw.githubusercontent.com/api-evangelist/orkes/refs/heads/main/apis.yml
       - name: Polly
         url: https://raw.githubusercontent.com/api-evangelist/polly/refs/heads/main/apis.yml
       - name: Protocol Buffers
@@ -703,12 +711,16 @@ stops:
         url: https://raw.githubusercontent.com/api-evangelist/redis-streams/refs/heads/main/apis.yml
       - name: Resilience4j
         url: https://raw.githubusercontent.com/api-evangelist/resilience4j/refs/heads/main/apis.yml
+      - name: Restate
+        url: https://raw.githubusercontent.com/api-evangelist/restate/refs/heads/main/apis.yml
       - name: Seneca
         url: https://raw.githubusercontent.com/api-evangelist/seneca/refs/heads/main/apis.yml
       - name: Spring Boot
         url: https://raw.githubusercontent.com/api-evangelist/spring-boot/refs/heads/main/apis.yml
       - name: Spring Cloud
         url: https://raw.githubusercontent.com/api-evangelist/spring-cloud/refs/heads/main/apis.yml
+      - name: Spin
+        url: https://raw.githubusercontent.com/api-evangelist/spin/refs/heads/main/apis.yml
       - name: Spring Cloud Config
         url: https://raw.githubusercontent.com/api-evangelist/spring-cloud-config/refs/heads/main/apis.yml
       - name: Temporal
