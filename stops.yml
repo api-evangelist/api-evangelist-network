@@ -7,6 +7,98 @@ modified: '2026-03-16'
 total: 85
 stops:
   - name: Aggregation
+    description: >-
+      API aggregation brings together APIs from multiple providers into unified
+      directories, marketplaces, catalogs, and search engines, making it easier
+      for developers to discover, compare, and consume APIs. This includes API
+      marketplaces that let providers list and monetize their APIs, directories
+      and registries that catalog publicly available APIs, discovery tools that
+      crawl and index API definitions, and aggregation platforms that unify
+      multiple provider APIs behind a single normalized interface for categories
+      like accounting, CRM, HRIS, and payments.
+    repos:
+      - name: Alloy Automation
+        url: https://raw.githubusercontent.com/api-evangelist/alloy-automation/refs/heads/main/apis.yml
+      - name: Any-API
+        url: https://raw.githubusercontent.com/api-evangelist/any-api/refs/heads/main/apis.yml
+      - name: API Harmony
+        url: https://raw.githubusercontent.com/api-evangelist/api-harmony/refs/heads/main/apis.yml
+      - name: API Layer
+        url: https://raw.githubusercontent.com/api-evangelist/api-layer/refs/heads/main/apis.yml
+      - name: API Stack
+        url: https://raw.githubusercontent.com/api-evangelist/api-stack/refs/heads/main/apis.yml
+      - name: Apideck
+        url: https://raw.githubusercontent.com/api-evangelist/apideck/refs/heads/main/apis.yml
+      - name: Apify
+        url: https://raw.githubusercontent.com/api-evangelist/apify/refs/heads/main/apis.yml
+      - name: APIpark
+        url: https://raw.githubusercontent.com/api-evangelist/apipark/refs/heads/main/apis.yml
+      - name: APIs.guru
+        url: https://raw.githubusercontent.com/api-evangelist/apis-guru/refs/heads/main/apis.yml
+      - name: APIs.io
+        url: https://raw.githubusercontent.com/api-evangelist/apis-io/refs/heads/main/apis.yml
+      - name: APIs.json
+        url: https://raw.githubusercontent.com/api-evangelist/apis-json/refs/heads/main/apis.yml
+      - name: Backstage
+        url: https://raw.githubusercontent.com/api-evangelist/backstage/refs/heads/main/apis.yml
+      - name: Blobr
+        url: https://raw.githubusercontent.com/api-evangelist/blobr/refs/heads/main/apis.yml
+      - name: Bright Data
+        url: https://raw.githubusercontent.com/api-evangelist/bright-data/refs/heads/main/apis.yml
+      - name: Codat
+        url: https://raw.githubusercontent.com/api-evangelist/codat/refs/heads/main/apis.yml
+      - name: Composio
+        url: https://raw.githubusercontent.com/api-evangelist/composio/refs/heads/main/apis.yml
+      - name: Datafiniti
+        url: https://raw.githubusercontent.com/api-evangelist/datafiniti/refs/heads/main/apis.yml
+      - name: Diffbot
+        url: https://raw.githubusercontent.com/api-evangelist/diffbot/refs/heads/main/apis.yml
+      - name: Finverse
+        url: https://raw.githubusercontent.com/api-evangelist/finverse/refs/heads/main/apis.yml
+      - name: Hotglue
+        url: https://raw.githubusercontent.com/api-evangelist/hotglue/refs/heads/main/apis.yml
+      - name: Import.io
+        url: https://raw.githubusercontent.com/api-evangelist/import-io/refs/heads/main/apis.yml
+      - name: Merge
+        url: https://raw.githubusercontent.com/api-evangelist/merge/refs/heads/main/apis.yml
+      - name: Nango
+        url: https://raw.githubusercontent.com/api-evangelist/nango/refs/heads/main/apis.yml
+      - name: Optic
+        url: https://raw.githubusercontent.com/api-evangelist/optic/refs/heads/main/apis.yml
+      - name: Paragon
+        url: https://raw.githubusercontent.com/api-evangelist/paragon/refs/heads/main/apis.yml
+      - name: Plaid
+        url: https://raw.githubusercontent.com/api-evangelist/plaid/refs/heads/main/apis.yml
+      - name: Postman
+        url: https://raw.githubusercontent.com/api-evangelist/postman/refs/heads/main/apis.yml
+      - name: ProgrammableWeb
+        url: https://raw.githubusercontent.com/api-evangelist/programmableweb/refs/heads/main/apis.yml
+      - name: Public APIs
+        url: https://raw.githubusercontent.com/api-evangelist/public-apis/refs/heads/main/apis.yml
+      - name: RapidAPI
+        url: https://raw.githubusercontent.com/api-evangelist/rapidapi/refs/heads/main/apis.yml
+      - name: Rutter
+        url: https://raw.githubusercontent.com/api-evangelist/rutter/refs/heads/main/apis.yml
+      - name: SaaSHub
+        url: https://raw.githubusercontent.com/api-evangelist/saashub/refs/heads/main/apis.yml
+      - name: ScrapingBee
+        url: https://raw.githubusercontent.com/api-evangelist/scrapingbee/refs/heads/main/apis.yml
+      - name: SmartBear
+        url: https://raw.githubusercontent.com/api-evangelist/smartbear/refs/heads/main/apis.yml
+      - name: Stoplight
+        url: https://raw.githubusercontent.com/api-evangelist/stoplight/refs/heads/main/apis.yml
+      - name: SwaggerHub
+        url: https://raw.githubusercontent.com/api-evangelist/swaggerhub/refs/heads/main/apis.yml
+      - name: Tray.io
+        url: https://raw.githubusercontent.com/api-evangelist/tray-io/refs/heads/main/apis.yml
+      - name: Unified.to
+        url: https://raw.githubusercontent.com/api-evangelist/unified-to/refs/heads/main/apis.yml
+      - name: Vessel
+        url: https://raw.githubusercontent.com/api-evangelist/vessel/refs/heads/main/apis.yml
+      - name: Workato
+        url: https://raw.githubusercontent.com/api-evangelist/workato/refs/heads/main/apis.yml
+      - name: Zyla
+        url: https://raw.githubusercontent.com/api-evangelist/zyla/refs/heads/main/apis.yml
   - name: Analysis
   - name: Authentication
     description: >-
