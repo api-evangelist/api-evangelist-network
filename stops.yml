@@ -120,6 +120,8 @@ stops:
         url: https://raw.githubusercontent.com/api-evangelist/akita-software/refs/heads/main/apis.yml
       - name: Amplitude
         url: https://raw.githubusercontent.com/api-evangelist/amplitude/refs/heads/main/apis.yml
+      - name: API Dynamics
+        url: https://raw.githubusercontent.com/api-evangelist/api-dynamics/refs/heads/main/apis.yml
       - name: APIClarity
         url: https://raw.githubusercontent.com/api-evangelist/apiclarity/refs/heads/main/apis.yml
       - name: APIMatic
@@ -144,6 +146,8 @@ stops:
         url: https://raw.githubusercontent.com/api-evangelist/fiddler/refs/heads/main/apis.yml
       - name: Grafana
         url: https://raw.githubusercontent.com/api-evangelist/grafana/refs/heads/main/apis.yml
+      - name: GoReplay
+        url: https://raw.githubusercontent.com/api-evangelist/goreplay/refs/heads/main/apis.yml
       - name: Grafana Tempo
         url: https://raw.githubusercontent.com/api-evangelist/grafana-tempo/refs/heads/main/apis.yml
       - name: Heap
@@ -154,12 +158,18 @@ stops:
         url: https://raw.githubusercontent.com/api-evangelist/hoppscotch/refs/heads/main/apis.yml
       - name: Keen
         url: https://raw.githubusercontent.com/api-evangelist/keen/refs/heads/main/apis.yml
+      - name: Knowi
+        url: https://raw.githubusercontent.com/api-evangelist/knowi/refs/heads/main/apis.yml
       - name: Lightstep
         url: https://raw.githubusercontent.com/api-evangelist/lightstep/refs/heads/main/apis.yml
       - name: Lunar.dev
         url: https://raw.githubusercontent.com/api-evangelist/lunar-dev/refs/heads/main/apis.yml
       - name: Matomo
         url: https://raw.githubusercontent.com/api-evangelist/matomo/refs/heads/main/apis.yml
+      - name: Metabase
+        url: https://raw.githubusercontent.com/api-evangelist/metabase/refs/heads/main/apis.yml
+      - name: Middleware
+        url: https://raw.githubusercontent.com/api-evangelist/middleware/refs/heads/main/apis.yml
       - name: mitmproxy
         url: https://raw.githubusercontent.com/api-evangelist/mitmproxy/refs/heads/main/apis.yml
       - name: Mixpanel
@@ -170,6 +180,10 @@ stops:
         url: https://raw.githubusercontent.com/api-evangelist/new-relic/refs/heads/main/apis.yml
       - name: Noname Security
         url: https://raw.githubusercontent.com/api-evangelist/noname-security/refs/heads/main/apis.yml
+      - name: OpenPanel
+        url: https://raw.githubusercontent.com/api-evangelist/openpanel/refs/heads/main/apis.yml
+      - name: OpenReplay
+        url: https://raw.githubusercontent.com/api-evangelist/openreplay/refs/heads/main/apis.yml
       - name: Optic
         url: https://raw.githubusercontent.com/api-evangelist/optic/refs/heads/main/apis.yml
       - name: Plausible
@@ -188,6 +202,8 @@ stops:
         url: https://raw.githubusercontent.com/api-evangelist/salt-security/refs/heads/main/apis.yml
       - name: Segment
         url: https://raw.githubusercontent.com/api-evangelist/segment/refs/heads/main/apis.yml
+      - name: Snowplow
+        url: https://raw.githubusercontent.com/api-evangelist/snowplow/refs/heads/main/apis.yml
       - name: Spectral
         url: https://raw.githubusercontent.com/api-evangelist/spectral/refs/heads/main/apis.yml
       - name: Speedscale
@@ -196,10 +212,14 @@ stops:
         url: https://raw.githubusercontent.com/api-evangelist/splunk/refs/heads/main/apis.yml
       - name: Sumo Logic
         url: https://raw.githubusercontent.com/api-evangelist/sumo-logic/refs/heads/main/apis.yml
+      - name: Swetrix
+        url: https://raw.githubusercontent.com/api-evangelist/swetrix/refs/heads/main/apis.yml
       - name: Traceable
         url: https://raw.githubusercontent.com/api-evangelist/traceable/refs/heads/main/apis.yml
       - name: Treblle
         url: https://raw.githubusercontent.com/api-evangelist/treblle/refs/heads/main/apis.yml
+      - name: Umami
+        url: https://raw.githubusercontent.com/api-evangelist/umami/refs/heads/main/apis.yml
       - name: Vacuum
         url: https://raw.githubusercontent.com/api-evangelist/vacuum/refs/heads/main/apis.yml
       - name: Wallarm
