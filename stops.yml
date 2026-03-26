@@ -169,6 +169,8 @@ stops:
         url: https://raw.githubusercontent.com/api-evangelist/amazon-eks/refs/heads/main/apis.yml
       - name: Amazon Fargate
         url: https://raw.githubusercontent.com/api-evangelist/amazon-fargate/refs/heads/main/apis.yml
+      - name: Anchore
+        url: https://raw.githubusercontent.com/api-evangelist/anchore/refs/heads/main/apis.yml
       - name: Aqua Security
         url: https://raw.githubusercontent.com/api-evangelist/aqua-security/refs/heads/main/apis.yml
       - name: Argo CD
@@ -185,6 +187,8 @@ stops:
         url: https://raw.githubusercontent.com/api-evangelist/buildpacks/refs/heads/main/apis.yml
       - name: Calico
         url: https://raw.githubusercontent.com/api-evangelist/calico/refs/heads/main/apis.yml
+      - name: Carvel
+        url: https://raw.githubusercontent.com/api-evangelist/carvel/refs/heads/main/apis.yml
       - name: Chainguard
         url: https://raw.githubusercontent.com/api-evangelist/chainguard/refs/heads/main/apis.yml
       - name: Cilium
@@ -203,6 +207,8 @@ stops:
         url: https://raw.githubusercontent.com/api-evangelist/docker/refs/heads/main/apis.yml
       - name: Docker Hub
         url: https://raw.githubusercontent.com/api-evangelist/docker-hub/refs/heads/main/apis.yml
+      - name: Docker Swarm
+        url: https://raw.githubusercontent.com/api-evangelist/docker-swarm/refs/heads/main/apis.yml
       - name: Earthly
         url: https://raw.githubusercontent.com/api-evangelist/earthly/refs/heads/main/apis.yml
       - name: Falco
@@ -215,6 +221,8 @@ stops:
         url: https://raw.githubusercontent.com/api-evangelist/fluxcd/refs/heads/main/apis.yml
       - name: GitHub Container Registry
         url: https://raw.githubusercontent.com/api-evangelist/github-container-registry/refs/heads/main/apis.yml
+      - name: GitLab Container Registry
+        url: https://raw.githubusercontent.com/api-evangelist/gitlab-container-registry/refs/heads/main/apis.yml
       - name: Google Artifact Registry
         url: https://raw.githubusercontent.com/api-evangelist/google-artifact-registry/refs/heads/main/apis.yml
       - name: Google Cloud Run
@@ -233,6 +241,8 @@ stops:
         url: https://raw.githubusercontent.com/api-evangelist/helm/refs/heads/main/apis.yml
       - name: IBM Cloud Kubernetes
         url: https://raw.githubusercontent.com/api-evangelist/ibm-cloud-kubernetes/refs/heads/main/apis.yml
+      - name: Incus
+        url: https://raw.githubusercontent.com/api-evangelist/incus/refs/heads/main/apis.yml
       - name: JFrog Container Registry
         url: https://raw.githubusercontent.com/api-evangelist/jfrog-container-registry/refs/heads/main/apis.yml
       - name: Jib
@@ -249,6 +259,8 @@ stops:
         url: https://raw.githubusercontent.com/api-evangelist/kustomize/refs/heads/main/apis.yml
       - name: Longhorn
         url: https://raw.githubusercontent.com/api-evangelist/longhorn/refs/heads/main/apis.yml
+      - name: Mirantis
+        url: https://raw.githubusercontent.com/api-evangelist/mirantis/refs/heads/main/apis.yml
       - name: Multus CNI
         url: https://raw.githubusercontent.com/api-evangelist/multus-cni/refs/heads/main/apis.yml
       - name: NeuVector
@@ -261,6 +273,8 @@ stops:
         url: https://raw.githubusercontent.com/api-evangelist/oracle-container-engine/refs/heads/main/apis.yml
       - name: Podman
         url: https://raw.githubusercontent.com/api-evangelist/podman/refs/heads/main/apis.yml
+      - name: Portainer
+        url: https://raw.githubusercontent.com/api-evangelist/portainer/refs/heads/main/apis.yml
       - name: Portworx
         url: https://raw.githubusercontent.com/api-evangelist/portworx/refs/heads/main/apis.yml
       - name: Prisma Cloud
@@ -277,16 +291,26 @@ stops:
         url: https://raw.githubusercontent.com/api-evangelist/runc/refs/heads/main/apis.yml
       - name: Sigstore
         url: https://raw.githubusercontent.com/api-evangelist/sigstore/refs/heads/main/apis.yml
+      - name: Spinnaker
+        url: https://raw.githubusercontent.com/api-evangelist/spinnaker/refs/heads/main/apis.yml
       - name: Snyk Container
         url: https://raw.githubusercontent.com/api-evangelist/snyk-container/refs/heads/main/apis.yml
       - name: StackRox
         url: https://raw.githubusercontent.com/api-evangelist/stackrox/refs/heads/main/apis.yml
       - name: Sysdig
         url: https://raw.githubusercontent.com/api-evangelist/sysdig/refs/heads/main/apis.yml
+      - name: Timoni
+        url: https://raw.githubusercontent.com/api-evangelist/timoni/refs/heads/main/apis.yml
       - name: Trivy
         url: https://raw.githubusercontent.com/api-evangelist/trivy/refs/heads/main/apis.yml
       - name: VMware Tanzu
         url: https://raw.githubusercontent.com/api-evangelist/vmware-tanzu/refs/heads/main/apis.yml
+      - name: WasmEdge
+        url: https://raw.githubusercontent.com/api-evangelist/wasmedge/refs/heads/main/apis.yml
+      - name: Weave Net
+        url: https://raw.githubusercontent.com/api-evangelist/weave-net/refs/heads/main/apis.yml
+      - name: youki
+        url: https://raw.githubusercontent.com/api-evangelist/youki/refs/heads/main/apis.yml
   - name: Database
   - name: Deployment
   - name: Design
