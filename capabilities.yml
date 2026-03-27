@@ -1689,6 +1689,8 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/netflix-conductor/refs/heads/main/apis.yml
       - name: Node-RED
         url: https://raw.githubusercontent.com/api-evangelist/node-red/refs/heads/main/apis.yml
+      - name: ONEiO
+        url: https://raw.githubusercontent.com/api-evangelist/oneio/refs/heads/main/apis.yml
       - name: Oracle Integration
         url: https://raw.githubusercontent.com/api-evangelist/oracle-integration/refs/heads/main/apis.yml
       - name: Orkes
