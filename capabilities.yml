@@ -4,7 +4,7 @@ url: https://raw.githubusercontent.com/api-evangelist/network/refs/heads/main/ca
 source: https://apievangelist.com/2017/08/16/the-85-stops-along-the-api-lifecycle-i-track-on/
 created: '2026-03-16'
 modified: '2026-03-27'
-total: 74
+total: 76
 capabilities:
   - name: Aggregation
     skill: aggregation
@@ -1887,10 +1887,53 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/vessel/refs/heads/main/apis.yml
   - name: Service Mesh
     skill: service-mesh
-    updated: '2026-01-01'
+    updated: '2026-03-27'
     description: >-
       Traffic, retries, security patterns applied across internal and external
       boundaries.
+    repos:
+      - name: Ambient Mesh
+        url: https://raw.githubusercontent.com/api-evangelist/ambient-mesh/refs/heads/main/apis.yml
+      - name: AWS App Mesh
+        url: https://raw.githubusercontent.com/api-evangelist/aws-app-mesh/refs/heads/main/apis.yml
+      - name: Calico
+        url: https://raw.githubusercontent.com/api-evangelist/calico/refs/heads/main/apis.yml
+      - name: Cilium
+        url: https://raw.githubusercontent.com/api-evangelist/cilium/refs/heads/main/apis.yml
+      - name: Consul Connect
+        url: https://raw.githubusercontent.com/api-evangelist/consul-connect/refs/heads/main/apis.yml
+      - name: Gloo Mesh
+        url: https://raw.githubusercontent.com/api-evangelist/gloo-mesh/refs/heads/main/apis.yml
+      - name: Google Cloud Service Mesh
+        url: https://raw.githubusercontent.com/api-evangelist/google-cloud-service-mesh/refs/heads/main/apis.yml
+      - name: Istio
+        url: https://raw.githubusercontent.com/api-evangelist/istio/refs/heads/main/apis.yml
+      - name: Kuma
+        url: https://raw.githubusercontent.com/api-evangelist/kuma/refs/heads/main/apis.yml
+      - name: Linkerd
+        url: https://raw.githubusercontent.com/api-evangelist/linkerd/refs/heads/main/apis.yml
+      - name: Merbridge
+        url: https://raw.githubusercontent.com/api-evangelist/merbridge/refs/heads/main/apis.yml
+      - name: Meshery
+        url: https://raw.githubusercontent.com/api-evangelist/meshery/refs/heads/main/apis.yml
+      - name: MOSN
+        url: https://raw.githubusercontent.com/api-evangelist/mosn/refs/heads/main/apis.yml
+      - name: NGINX Service Mesh
+        url: https://raw.githubusercontent.com/api-evangelist/nginx-service-mesh/refs/heads/main/apis.yml
+      - name: Open Service Mesh
+        url: https://raw.githubusercontent.com/api-evangelist/open-service-mesh/refs/heads/main/apis.yml
+      - name: Pipy
+        url: https://raw.githubusercontent.com/api-evangelist/pipy/refs/heads/main/apis.yml
+      - name: Service Mesh Interface
+        url: https://raw.githubusercontent.com/api-evangelist/service-mesh-interface/refs/heads/main/apis.yml
+      - name: Solo.io
+        url: https://raw.githubusercontent.com/api-evangelist/solo/refs/heads/main/apis.yml
+      - name: SPIFFE
+        url: https://raw.githubusercontent.com/api-evangelist/spiffe/refs/heads/main/apis.yml
+      - name: SPIRE
+        url: https://raw.githubusercontent.com/api-evangelist/spire/refs/heads/main/apis.yml
+      - name: Traefik Mesh
+        url: https://raw.githubusercontent.com/api-evangelist/traefik-mesh/refs/heads/main/apis.yml
   - name: Unified APIs
     skill: unified-apis
     updated: '2026-03-27'
@@ -2304,3 +2347,29 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/typespec/refs/heads/main/apis.yml
       - name: Upbound
         url: https://raw.githubusercontent.com/api-evangelist/upbound/refs/heads/main/apis.yml
+  - name: AIOps
+    skill: aiops
+    updated: '2026-03-27'
+    description: >-
+      AIOps applies artificial intelligence and machine learning to IT
+      operations, enabling intelligent alerting, anomaly detection, automated
+      root cause analysis, and predictive incident management. This includes
+      AIOps platforms that correlate events across monitoring tools, observability
+      solutions with built-in AI capabilities, incident management platforms that
+      use ML to reduce alert noise and accelerate resolution, and anomaly
+      detection tools that identify unusual patterns in metrics, logs, and traces
+      before they become outages.
+    repos: []
+  - name: AI Automation
+    skill: ai-automation
+    updated: '2026-03-27'
+    description: >-
+      AI automation combines artificial intelligence with workflow and process
+      automation to create intelligent, autonomous systems. This includes AI
+      agent frameworks that orchestrate multi-step reasoning and tool use,
+      autonomous coding agents, AI-powered workflow platforms that add
+      intelligence to integration and automation pipelines, intelligent process
+      automation (IPA) that extends RPA with ML and NLP capabilities, and AI
+      orchestration tools that coordinate multiple models and agents to complete
+      complex tasks end-to-end.
+    repos: []
