@@ -1307,6 +1307,8 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/backupify/refs/heads/main/apis.yml
       - name: Beamy
         url: https://raw.githubusercontent.com/api-evangelist/beamy/refs/heads/main/apis.yml
+      - name: Binadox
+        url: https://raw.githubusercontent.com/api-evangelist/binadox/refs/heads/main/apis.yml
       - name: BetterCloud
         url: https://raw.githubusercontent.com/api-evangelist/bettercloud/refs/heads/main/apis.yml
       - name: Blissfully
@@ -1321,6 +1323,8 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/cloudally/refs/heads/main/apis.yml
       - name: CloudEagle
         url: https://raw.githubusercontent.com/api-evangelist/cloudeagle/refs/heads/main/apis.yml
+      - name: CloudNuro
+        url: https://raw.githubusercontent.com/api-evangelist/cloudnuro/refs/heads/main/apis.yml
       - name: Corma
         url: https://raw.githubusercontent.com/api-evangelist/corma/refs/heads/main/apis.yml
       - name: DoControl
@@ -1413,6 +1417,8 @@ capabilities:
     repos:
       - name: APIMatic
         url: https://raw.githubusercontent.com/api-evangelist/apimatic/refs/heads/main/apis.yml
+      - name: Apache Thrift
+        url: https://raw.githubusercontent.com/api-evangelist/thrift/refs/heads/main/apis.yml
       - name: Apollo
         url: https://raw.githubusercontent.com/api-evangelist/apollo/refs/heads/main/apis.yml
       - name: AutoRest
@@ -1423,6 +1429,8 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/capn-proto/refs/heads/main/apis.yml
       - name: Connect-RPC
         url: https://raw.githubusercontent.com/api-evangelist/connect-rpc/refs/heads/main/apis.yml
+      - name: Feign
+        url: https://raw.githubusercontent.com/api-evangelist/feign/refs/heads/main/apis.yml
       - name: Fern
         url: https://raw.githubusercontent.com/api-evangelist/fern/refs/heads/main/apis.yml
       - name: Genql
@@ -1447,12 +1455,20 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/ogen/refs/heads/main/apis.yml
       - name: OpenAPI Generator
         url: https://raw.githubusercontent.com/api-evangelist/openapi-generator/refs/heads/main/apis.yml
+      - name: OpenAPI TypeScript Codegen
+        url: https://raw.githubusercontent.com/api-evangelist/openapi-typescript-codegen/refs/heads/main/apis.yml
       - name: Orval
         url: https://raw.githubusercontent.com/api-evangelist/orval/refs/heads/main/apis.yml
+      - name: Protocol Buffers
+        url: https://raw.githubusercontent.com/api-evangelist/protobuf/refs/heads/main/apis.yml
       - name: Refitter
         url: https://raw.githubusercontent.com/api-evangelist/refitter/refs/heads/main/apis.yml
       - name: Relay Compiler
         url: https://raw.githubusercontent.com/api-evangelist/relay-compiler/refs/heads/main/apis.yml
+      - name: RestSharp
+        url: https://raw.githubusercontent.com/api-evangelist/restsharp/refs/heads/main/apis.yml
+      - name: Retrofit
+        url: https://raw.githubusercontent.com/api-evangelist/retrofit/refs/heads/main/apis.yml
       - name: Sideko
         url: https://raw.githubusercontent.com/api-evangelist/sideko/refs/heads/main/apis.yml
       - name: Smithy
@@ -1463,6 +1479,10 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/stainless/refs/heads/main/apis.yml
       - name: Swagger Codegen
         url: https://raw.githubusercontent.com/api-evangelist/swagger-codegen/refs/heads/main/apis.yml
+      - name: tRPC
+        url: https://raw.githubusercontent.com/api-evangelist/trpc/refs/heads/main/apis.yml
+      - name: Twirp
+        url: https://raw.githubusercontent.com/api-evangelist/twirp/refs/heads/main/apis.yml
   - name: Scraping
     skill: scraping
     updated: '2026-01-01'
