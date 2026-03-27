@@ -2250,6 +2250,8 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/cortex/refs/heads/main/apis.yml
       - name: Crossplane
         url: https://raw.githubusercontent.com/api-evangelist/crossplane/refs/heads/main/apis.yml
+      - name: Cycloid
+        url: https://raw.githubusercontent.com/api-evangelist/cycloid/refs/heads/main/apis.yml
       - name: DeveloperHub
         url: https://raw.githubusercontent.com/api-evangelist/developerhub/refs/heads/main/apis.yml
       - name: Docusaurus
@@ -2266,6 +2268,8 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/massdriver/refs/heads/main/apis.yml
       - name: Mintlify
         url: https://raw.githubusercontent.com/api-evangelist/mintlify/refs/heads/main/apis.yml
+      - name: Northflank
+        url: https://raw.githubusercontent.com/api-evangelist/northflank/refs/heads/main/apis.yml
       - name: OpsLevel
         url: https://raw.githubusercontent.com/api-evangelist/opslevel/refs/heads/main/apis.yml
       - name: Optic
