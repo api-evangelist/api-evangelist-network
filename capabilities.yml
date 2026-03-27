@@ -729,8 +729,12 @@ capabilities:
       communication inside the cluster, while AI gateways add model routing and
       governance for LLM workloads.
     repos:
+      - name: Amazon API Gateway
+        url: https://raw.githubusercontent.com/api-evangelist/aws-api-gateway/refs/heads/main/apis.yml
       - name: Apache APISIX
         url: https://raw.githubusercontent.com/api-evangelist/apache-apisix/refs/heads/main/apis.yml
+      - name: Apigee
+        url: https://raw.githubusercontent.com/api-evangelist/apigee/refs/heads/main/apis.yml
       - name: Apinizer
         url: https://raw.githubusercontent.com/api-evangelist/apinizer/refs/heads/main/apis.yml
       - name: AWS App Mesh
@@ -777,6 +781,8 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/kuma/refs/heads/main/apis.yml
       - name: Linkerd
         url: https://raw.githubusercontent.com/api-evangelist/linkerd/refs/heads/main/apis.yml
+      - name: Lura
+        url: https://raw.githubusercontent.com/api-evangelist/lura/refs/heads/main/apis.yml
       - name: Lura Project
         url: https://raw.githubusercontent.com/api-evangelist/lura-project/refs/heads/main/apis.yml
       - name: Microsoft Azure API Management
@@ -799,6 +805,8 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/sap-integration-suite/refs/heads/main/apis.yml
       - name: Software AG
         url: https://raw.githubusercontent.com/api-evangelist/software-ag/refs/heads/main/apis.yml
+      - name: Solo.io
+        url: https://raw.githubusercontent.com/api-evangelist/solo/refs/heads/main/apis.yml
       - name: Spring Cloud Gateway
         url: https://raw.githubusercontent.com/api-evangelist/spring-cloud-gateway/refs/heads/main/apis.yml
       - name: Tetrate
