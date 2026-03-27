@@ -819,6 +819,8 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/tyk/refs/heads/main/apis.yml
       - name: WSO2
         url: https://raw.githubusercontent.com/api-evangelist/wso2/refs/heads/main/apis.yml
+      - name: Zuul
+        url: https://raw.githubusercontent.com/api-evangelist/zuul/refs/heads/main/apis.yml
   - name: Hypermedia
     skill: hypermedia
     updated: '2026-01-01'
@@ -1868,8 +1870,6 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/ternary/refs/heads/main/apis.yml
       - name: Vantage
         url: https://raw.githubusercontent.com/api-evangelist/vantage/refs/heads/main/apis.yml
-      - name: Zesty
-        url: https://raw.githubusercontent.com/api-evangelist/zesty/refs/heads/main/apis.yml
   - name: Developer Experience
     skill: developer-experience
     updated: '2026-01-01'
