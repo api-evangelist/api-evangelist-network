@@ -304,7 +304,75 @@ capabilities:
     updated: '2026-01-01'
   - name: Clients
     skill: clients
-    updated: '2026-01-01'
+    updated: '2026-03-27'
+    description: >-
+      API clients are tools, libraries, and extensions that enable developers to
+      send HTTP requests, test APIs, and consume API services. This includes GUI
+      desktop clients like Postman, Insomnia, and Bruno, CLI tools like curl and
+      HTTPie, IDE extensions like Thunder Client and REST Client, and HTTP
+      libraries like Axios, Requests, and OkHttp for programmatic API
+      consumption across multiple languages and platforms.
+    repos:
+      - name: API Dash
+        url: https://raw.githubusercontent.com/api-evangelist/api-dash/refs/heads/main/apis.yml
+      - name: Axios
+        url: https://raw.githubusercontent.com/api-evangelist/axios/refs/heads/main/apis.yml
+      - name: Bruno
+        url: https://raw.githubusercontent.com/api-evangelist/bruno/refs/heads/main/apis.yml
+      - name: cURL
+        url: https://raw.githubusercontent.com/api-evangelist/curl/refs/heads/main/apis.yml
+      - name: Curlie
+        url: https://raw.githubusercontent.com/api-evangelist/curlie/refs/heads/main/apis.yml
+      - name: Firecamp
+        url: https://raw.githubusercontent.com/api-evangelist/firecamp/refs/heads/main/apis.yml
+      - name: Got
+        url: https://raw.githubusercontent.com/api-evangelist/got/refs/heads/main/apis.yml
+      - name: gRPCurl
+        url: https://raw.githubusercontent.com/api-evangelist/grpcurl/refs/heads/main/apis.yml
+      - name: Hoppscotch
+        url: https://raw.githubusercontent.com/api-evangelist/hoppscotch/refs/heads/main/apis.yml
+      - name: HTTP Client
+        url: https://raw.githubusercontent.com/api-evangelist/http-client/refs/heads/main/apis.yml
+      - name: HTTPie
+        url: https://raw.githubusercontent.com/api-evangelist/httpie/refs/heads/main/apis.yml
+      - name: HTTPX
+        url: https://raw.githubusercontent.com/api-evangelist/httpx/refs/heads/main/apis.yml
+      - name: Insomnia
+        url: https://raw.githubusercontent.com/api-evangelist/insomnia/refs/heads/main/apis.yml
+      - name: Kreya
+        url: https://raw.githubusercontent.com/api-evangelist/kreya/refs/heads/main/apis.yml
+      - name: Milkman
+        url: https://raw.githubusercontent.com/api-evangelist/milkman/refs/heads/main/apis.yml
+      - name: Nightingale
+        url: https://raw.githubusercontent.com/api-evangelist/nightingale/refs/heads/main/apis.yml
+      - name: node-fetch
+        url: https://raw.githubusercontent.com/api-evangelist/node-fetch/refs/heads/main/apis.yml
+      - name: OkHttp
+        url: https://raw.githubusercontent.com/api-evangelist/okhttp/refs/heads/main/apis.yml
+      - name: Paw
+        url: https://raw.githubusercontent.com/api-evangelist/paw/refs/heads/main/apis.yml
+      - name: Postman
+        url: https://raw.githubusercontent.com/api-evangelist/postman/refs/heads/main/apis.yml
+      - name: ReqBin
+        url: https://raw.githubusercontent.com/api-evangelist/reqbin/refs/heads/main/apis.yml
+      - name: Requests
+        url: https://raw.githubusercontent.com/api-evangelist/requests/refs/heads/main/apis.yml
+      - name: REST Client
+        url: https://raw.githubusercontent.com/api-evangelist/rest-client/refs/heads/main/apis.yml
+      - name: Restfox
+        url: https://raw.githubusercontent.com/api-evangelist/restfox/refs/heads/main/apis.yml
+      - name: RestSharp
+        url: https://raw.githubusercontent.com/api-evangelist/restsharp/refs/heads/main/apis.yml
+      - name: Retrofit
+        url: https://raw.githubusercontent.com/api-evangelist/retrofit/refs/heads/main/apis.yml
+      - name: Thunder Client
+        url: https://raw.githubusercontent.com/api-evangelist/thunder-client/refs/heads/main/apis.yml
+      - name: Wget
+        url: https://raw.githubusercontent.com/api-evangelist/wget/refs/heads/main/apis.yml
+      - name: xh
+        url: https://raw.githubusercontent.com/api-evangelist/xh/refs/heads/main/apis.yml
+      - name: Yaak
+        url: https://raw.githubusercontent.com/api-evangelist/yaak/refs/heads/main/apis.yml
   - name: Command Line Interface
     skill: cli
     updated: '2026-03-27'
