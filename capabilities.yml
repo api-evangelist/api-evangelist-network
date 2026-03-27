@@ -1309,8 +1309,12 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/beamy/refs/heads/main/apis.yml
       - name: BetterCloud
         url: https://raw.githubusercontent.com/api-evangelist/bettercloud/refs/heads/main/apis.yml
+      - name: Blissfully
+        url: https://raw.githubusercontent.com/api-evangelist/blissfully/refs/heads/main/apis.yml
       - name: Certero
         url: https://raw.githubusercontent.com/api-evangelist/certero/refs/heads/main/apis.yml
+      - name: Cleanshelf
+        url: https://raw.githubusercontent.com/api-evangelist/cleanshelf/refs/heads/main/apis.yml
       - name: Cledara
         url: https://raw.githubusercontent.com/api-evangelist/cledara/refs/heads/main/apis.yml
       - name: CloudAlly
@@ -1325,10 +1329,14 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/druva/refs/heads/main/apis.yml
       - name: Flexera
         url: https://raw.githubusercontent.com/api-evangelist/flexera/refs/heads/main/apis.yml
+      - name: G2 Track
+        url: https://raw.githubusercontent.com/api-evangelist/g2-track/refs/heads/main/apis.yml
       - name: Genuity
         url: https://raw.githubusercontent.com/api-evangelist/genuity/refs/heads/main/apis.yml
       - name: Grip Security
         url: https://raw.githubusercontent.com/api-evangelist/grip-security/refs/heads/main/apis.yml
+      - name: Intello
+        url: https://raw.githubusercontent.com/api-evangelist/intello/refs/heads/main/apis.yml
       - name: Ivanti
         url: https://raw.githubusercontent.com/api-evangelist/ivanti/refs/heads/main/apis.yml
       - name: Josys
