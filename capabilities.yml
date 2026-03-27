@@ -1705,10 +1705,14 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/dagster/refs/heads/main/apis.yml
       - name: Dapr
         url: https://raw.githubusercontent.com/api-evangelist/dapr/refs/heads/main/apis.yml
+      - name: DBOS
+        url: https://raw.githubusercontent.com/api-evangelist/dbos/refs/heads/main/apis.yml
       - name: Express Gateway
         url: https://raw.githubusercontent.com/api-evangelist/express-gateway/refs/heads/main/apis.yml
       - name: Fastify
         url: https://raw.githubusercontent.com/api-evangelist/fastify/refs/heads/main/apis.yml
+      - name: Google Cloud Workflows
+        url: https://raw.githubusercontent.com/api-evangelist/google-cloud-workflows/refs/heads/main/apis.yml
       - name: GraphQL Mesh
         url: https://raw.githubusercontent.com/api-evangelist/graphql-mesh/refs/heads/main/apis.yml
       - name: Hasura
@@ -1717,10 +1721,16 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/hatchet/refs/heads/main/apis.yml
       - name: Inngest
         url: https://raw.githubusercontent.com/api-evangelist/inngest/refs/heads/main/apis.yml
+      - name: Kestra
+        url: https://raw.githubusercontent.com/api-evangelist/kestra/refs/heads/main/apis.yml
+      - name: LittleHorse
+        url: https://raw.githubusercontent.com/api-evangelist/littlehorse/refs/heads/main/apis.yml
       - name: NestJS
         url: https://raw.githubusercontent.com/api-evangelist/nestjs/refs/heads/main/apis.yml
       - name: Netflix Conductor
         url: https://raw.githubusercontent.com/api-evangelist/netflix-conductor/refs/heads/main/apis.yml
+      - name: Orkes
+        url: https://raw.githubusercontent.com/api-evangelist/orkes/refs/heads/main/apis.yml
       - name: Prefect
         url: https://raw.githubusercontent.com/api-evangelist/prefect/refs/heads/main/apis.yml
       - name: Restate
