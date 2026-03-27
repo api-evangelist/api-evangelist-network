@@ -7,6 +7,7 @@ modified: '2026-03-16'
 total: 85
 stops:
   - name: Aggregation
+    skill: aggregation
     description: >-
       API aggregation brings together APIs from multiple providers into unified
       directories, marketplaces, catalogs, and search engines, making it easier
@@ -102,6 +103,7 @@ stops:
       - name: Zyla
         url: https://raw.githubusercontent.com/api-evangelist/zyla/refs/heads/main/apis.yml
   - name: Analysis
+    skill: analysis
     description: >-
       API analysis encompasses the tools and platforms used to understand API
       usage, performance, behavior, and quality. This includes API analytics
@@ -227,6 +229,7 @@ stops:
       - name: Wireshark
         url: https://raw.githubusercontent.com/api-evangelist/wireshark/refs/heads/main/apis.yml
   - name: Authentication
+    skill: authentication
     description: >-
       Authentication and authorization are the gatekeepers of every API,
       covering how consumers prove their identity and how access is granted
@@ -279,13 +282,21 @@ stops:
       - name: Zitadel
         url: https://raw.githubusercontent.com/api-evangelist/zitadel/refs/heads/main/apis.yml
   - name: Backups
+    skill: backups
   - name: Bots
+    skill: bots
   - name: Breaches
+    skill: breaches
   - name: Browsers
+    skill: browsers
   - name: Caching
+    skill: caching
   - name: Change Log
+    skill: change-log
   - name: Clients
+    skill: clients
   - name: Command Line Interface
+    skill: cli
     description: >-
       API command line interfaces are terminal-based tools that let developers
       interact with, test, manage, and automate APIs from the shell. This
@@ -366,7 +377,9 @@ stops:
       - name: xh
         url: https://raw.githubusercontent.com/api-evangelist/xh/refs/heads/main/apis.yml
   - name: Communications
+    skill: communications
   - name: Containers
+    skill: containers
     description: >-
       Containers package applications and their dependencies into lightweight,
       portable units that run consistently across environments. The container
@@ -530,8 +543,11 @@ stops:
       - name: youki
         url: https://raw.githubusercontent.com/api-evangelist/youki/refs/heads/main/apis.yml
   - name: Database
+    skill: database
   - name: Deployment
+    skill: deployment
   - name: Design
+    skill: design
     description: >-
       API design covers the tools, specification languages, and platforms used
       to model, author, lint, and govern API interfaces before implementation.
@@ -584,8 +600,11 @@ stops:
       - name: Zally
         url: https://raw.githubusercontent.com/api-evangelist/zally/refs/heads/main/apis.yml
   - name: Discovery
+    skill: discovery
   - name: DNS
+    skill: dns
   - name: Documentation
+    skill: documentation
     description: >-
       API documentation covers the tools, frameworks, and platforms used to
       produce, publish, and maintain human-readable and machine-readable
@@ -673,8 +692,11 @@ stops:
       - name: Zudoku
         url: https://raw.githubusercontent.com/api-evangelist/zudoku/refs/heads/main/apis.yml
   - name: Embeddable
+    skill: embeddable
   - name: Encryption
+    skill: encryption
   - name: Gateways
+    skill: gateway
     description: >-
       API gateways are the primary entry point for API traffic, sitting between
       clients and backend services to handle routing, authentication, rate
@@ -768,17 +790,29 @@ stops:
       - name: WSO2
         url: https://raw.githubusercontent.com/api-evangelist/wso2/refs/heads/main/apis.yml
   - name: Hypermedia
+    skill: hypermedia
   - name: IDE
+    skill: ide
   - name: Industrial
+    skill: industrial
   - name: Integrations
+    skill: integrations
   - name: Internet of Things
+    skill: internet-of-things
   - name: Issues
+    skill: issues
   - name: Licensing
+    skill: licensing
   - name: Logging
+    skill: logging
   - name: Low Hanging Fruit
+    skill: low-hanging-fruit
   - name: Machine Learning
+    skill: machine-learning
   - name: Management
+    skill: management
   - name: Microservices
+    skill: microservices
     description: >-
       Microservices architecture decomposes applications into small, independent
       services that communicate over APIs and can be developed, deployed, and
@@ -950,10 +984,15 @@ stops:
       - name: Zipkin
         url: https://raw.githubusercontent.com/api-evangelist/zipkin/refs/heads/main/apis.yml
   - name: Migration
+    skill: migration
   - name: Monetization
+    skill: monetization
   - name: Monitoring
+    skill: monitoring
   - name: Network
+    skill: network
   - name: Observability
+    skill: observability
     description: >-
       API observability encompasses the tools, platforms, and standards used
       to monitor, trace, log, and analyze API behavior in production. This
@@ -1033,11 +1072,17 @@ stops:
       - name: Zipkin
         url: https://raw.githubusercontent.com/api-evangelist/zipkin/refs/heads/main/apis.yml
   - name: Orchestration
+    skill: orchestration
   - name: Partners
+    skill: partners
   - name: Performance
+    skill: performance
   - name: Plans
+    skill: plans
   - name: Plugin
+    skill: plugin
   - name: Portal
+    skill: portal
     description: >-
       API developer portals are the front door for API consumers, providing
       self-service access to documentation, API keys, SDKs, interactive
@@ -1101,11 +1146,125 @@ stops:
       - name: Zuplo
         url: https://raw.githubusercontent.com/api-evangelist/zuplo/refs/heads/main/apis.yml
   - name: Privacy
+    skill: privacy
   - name: Proxy
+    skill: proxy
   - name: Regulation
+    skill: regulation
   - name: Reliability
+    skill: reliability
   - name: Road Map
+    skill: road-map
+  - name: SaaS Management
+    skill: saas-management
+    description: >-
+      SaaS management platforms help organizations discover, govern, optimize,
+      and secure the growing portfolio of cloud-based software subscriptions
+      used across the enterprise. They cover SaaS spend optimization and
+      procurement, shadow IT discovery, license management, SaaS security
+      posture management (SSPM), SaaS backup and data protection, and IT
+      asset management. These tools provide visibility into SaaS usage,
+      automate renewal and offboarding workflows, enforce compliance
+      policies, and reduce wasted spend on unused or redundant applications.
+    repos:
+      - name: Adaptive Shield
+        url: https://raw.githubusercontent.com/api-evangelist/adaptive-shield/refs/heads/main/apis.yml
+      - name: AppOmni
+        url: https://raw.githubusercontent.com/api-evangelist/appomni/refs/heads/main/apis.yml
+      - name: Augmentt
+        url: https://raw.githubusercontent.com/api-evangelist/augmentt/refs/heads/main/apis.yml
+      - name: Axonius
+        url: https://raw.githubusercontent.com/api-evangelist/axonius/refs/heads/main/apis.yml
+      - name: Backupify
+        url: https://raw.githubusercontent.com/api-evangelist/backupify/refs/heads/main/apis.yml
+      - name: Beamy
+        url: https://raw.githubusercontent.com/api-evangelist/beamy/refs/heads/main/apis.yml
+      - name: BetterCloud
+        url: https://raw.githubusercontent.com/api-evangelist/bettercloud/refs/heads/main/apis.yml
+      - name: Certero
+        url: https://raw.githubusercontent.com/api-evangelist/certero/refs/heads/main/apis.yml
+      - name: Cledara
+        url: https://raw.githubusercontent.com/api-evangelist/cledara/refs/heads/main/apis.yml
+      - name: CloudAlly
+        url: https://raw.githubusercontent.com/api-evangelist/cloudally/refs/heads/main/apis.yml
+      - name: CloudEagle
+        url: https://raw.githubusercontent.com/api-evangelist/cloudeagle/refs/heads/main/apis.yml
+      - name: Corma
+        url: https://raw.githubusercontent.com/api-evangelist/corma/refs/heads/main/apis.yml
+      - name: DoControl
+        url: https://raw.githubusercontent.com/api-evangelist/docontrol/refs/heads/main/apis.yml
+      - name: Druva
+        url: https://raw.githubusercontent.com/api-evangelist/druva/refs/heads/main/apis.yml
+      - name: Flexera
+        url: https://raw.githubusercontent.com/api-evangelist/flexera/refs/heads/main/apis.yml
+      - name: Genuity
+        url: https://raw.githubusercontent.com/api-evangelist/genuity/refs/heads/main/apis.yml
+      - name: Grip Security
+        url: https://raw.githubusercontent.com/api-evangelist/grip-security/refs/heads/main/apis.yml
+      - name: Ivanti
+        url: https://raw.githubusercontent.com/api-evangelist/ivanti/refs/heads/main/apis.yml
+      - name: Josys
+        url: https://raw.githubusercontent.com/api-evangelist/josys/refs/heads/main/apis.yml
+      - name: Keepit
+        url: https://raw.githubusercontent.com/api-evangelist/keepit/refs/heads/main/apis.yml
+      - name: LeanIX
+        url: https://raw.githubusercontent.com/api-evangelist/leanix/refs/heads/main/apis.yml
+      - name: Lumos
+        url: https://raw.githubusercontent.com/api-evangelist/lumos/refs/heads/main/apis.yml
+      - name: NachoNacho
+        url: https://raw.githubusercontent.com/api-evangelist/nachonacho/refs/heads/main/apis.yml
+      - name: Nudge Security
+        url: https://raw.githubusercontent.com/api-evangelist/nudge-security/refs/heads/main/apis.yml
+      - name: Obsidian Security
+        url: https://raw.githubusercontent.com/api-evangelist/obsidian-security/refs/heads/main/apis.yml
+      - name: Oomnitza
+        url: https://raw.githubusercontent.com/api-evangelist/oomnitza/refs/heads/main/apis.yml
+      - name: OwnBackup
+        url: https://raw.githubusercontent.com/api-evangelist/ownbackup/refs/heads/main/apis.yml
+      - name: Productiv
+        url: https://raw.githubusercontent.com/api-evangelist/productiv/refs/heads/main/apis.yml
+      - name: Reco
+        url: https://raw.githubusercontent.com/api-evangelist/reco/refs/heads/main/apis.yml
+      - name: SaaS Alerts
+        url: https://raw.githubusercontent.com/api-evangelist/saas-alerts/refs/heads/main/apis.yml
+      - name: SaaSHub
+        url: https://raw.githubusercontent.com/api-evangelist/saashub/refs/heads/main/apis.yml
+      - name: Saasment
+        url: https://raw.githubusercontent.com/api-evangelist/saasment/refs/heads/main/apis.yml
+      - name: Sastrify
+        url: https://raw.githubusercontent.com/api-evangelist/sastrify/refs/heads/main/apis.yml
+      - name: Snow Software
+        url: https://raw.githubusercontent.com/api-evangelist/snow-software/refs/heads/main/apis.yml
+      - name: Spanning
+        url: https://raw.githubusercontent.com/api-evangelist/spanning/refs/heads/main/apis.yml
+      - name: Spendflo
+        url: https://raw.githubusercontent.com/api-evangelist/spendflo/refs/heads/main/apis.yml
+      - name: Spin.AI
+        url: https://raw.githubusercontent.com/api-evangelist/spin-ai/refs/heads/main/apis.yml
+      - name: Substly
+        url: https://raw.githubusercontent.com/api-evangelist/substly/refs/heads/main/apis.yml
+      - name: Torii
+        url: https://raw.githubusercontent.com/api-evangelist/torii/refs/heads/main/apis.yml
+      - name: Trelica
+        url: https://raw.githubusercontent.com/api-evangelist/trelica/refs/heads/main/apis.yml
+      - name: Tropic
+        url: https://raw.githubusercontent.com/api-evangelist/tropic/refs/heads/main/apis.yml
+      - name: Valence Security
+        url: https://raw.githubusercontent.com/api-evangelist/valence-security/refs/heads/main/apis.yml
+      - name: Varonis
+        url: https://raw.githubusercontent.com/api-evangelist/varonis/refs/heads/main/apis.yml
+      - name: Vendr
+        url: https://raw.githubusercontent.com/api-evangelist/vendr/refs/heads/main/apis.yml
+      - name: Vertice
+        url: https://raw.githubusercontent.com/api-evangelist/vertice/refs/heads/main/apis.yml
+      - name: Wing Security
+        url: https://raw.githubusercontent.com/api-evangelist/wing-security/refs/heads/main/apis.yml
+      - name: Zluri
+        url: https://raw.githubusercontent.com/api-evangelist/zluri/refs/heads/main/apis.yml
+      - name: Zylo
+        url: https://raw.githubusercontent.com/api-evangelist/zylo/refs/heads/main/apis.yml
   - name: SDKs
+    skill: sdk
     description: >-
       API SDKs are client libraries and code generation tools that provide
       language-native interfaces for consuming APIs. They range from
@@ -1168,11 +1327,17 @@ stops:
       - name: Swagger Codegen
         url: https://raw.githubusercontent.com/api-evangelist/swagger-codegen/refs/heads/main/apis.yml
   - name: Scraping
+    skill: scraping
   - name: Search
+    skill: search
   - name: Security
+    skill: security
   - name: Serverless
+    skill: serverless
   - name: Support
+    skill: support
   - name: Testing
+    skill: testing
     description: >-
       API testing encompasses the tools, frameworks, and platforms used to
       validate, verify, and monitor APIs throughout their lifecycle. This
@@ -1243,8 +1408,58 @@ stops:
       - name: WireMock
         url: https://raw.githubusercontent.com/api-evangelist/wiremock/refs/heads/main/apis.yml
   - name: Transparency
+    skill: transparency
   - name: Versioning
+    skill: versioning
   - name: Virtualization
+    skill: virtualization
   - name: Visualization
+    skill: visualization
   - name: Webhooks
+    skill: webhooks
   - name: Deprecation
+    skill: deprecation
+  - name: iPaaS
+    skill: ipaas
+    description: >-
+      Standards-based, declarative orchestration instead of proprietary flow
+      models.
+  - name: Embedded iPaaS
+    skill: embedded-ipaas
+    description: >-
+      Packaged, embeddable capability components with consistent governance.
+  - name: Service Mesh
+    skill: service-mesh
+    description: >-
+      Traffic, retries, security patterns applied across internal and external
+      boundaries.
+  - name: Unified APIs
+    skill: unified-apis
+    description: >-
+      Compose and normalize multiple providers into your own domain interface.
+  - name: Pro-code API Composition
+    skill: pro-code-api-composition
+    description: >-
+      Pro-code authoring with platform-grade execution and governance.
+  - name: API Clients
+    skill: api-clients
+    description: >-
+      Native sandboxing, mocking, and contract-driven testing for every
+      capability.
+  - name: API Proxies
+    skill: api-proxies
+    description: >-
+      Transformation, caching, and security behaviors as versioned, governed
+      config.
+  - name: Workflow Automation
+    skill: workflow-automation
+    description: >-
+      Standards-based workflow orchestration with policy and observability.
+  - name: FinOps
+    skill: finops
+    description: >-
+      Budget-aware execution and cost telemetry at runtime.
+  - name: Developer Experience
+    skill: developer-experience
+    description: >-
+      GitOps and IDE-native authoring, discoverable via portals.
