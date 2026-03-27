@@ -632,6 +632,8 @@ capabilities:
       hosted documentation platforms. Good documentation is the primary driver
       of API adoption and developer experience.
     repos:
+      - name: ApiNotes
+        url: https://raw.githubusercontent.com/api-evangelist/apinotes/refs/heads/main/apis.yml
       - name: Apiary
         url: https://raw.githubusercontent.com/api-evangelist/apiary/refs/heads/main/apis.yml
       - name: Archbee
@@ -642,6 +644,8 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/bruno/refs/heads/main/apis.yml
       - name: Bump.sh
         url: https://raw.githubusercontent.com/api-evangelist/bump-sh/refs/heads/main/apis.yml
+      - name: DapperDox
+        url: https://raw.githubusercontent.com/api-evangelist/dapperdox/refs/heads/main/apis.yml
       - name: DeveloperHub
         url: https://raw.githubusercontent.com/api-evangelist/developerhub/refs/heads/main/apis.yml
       - name: Docsify
@@ -1205,7 +1209,54 @@ capabilities:
     updated: '2026-01-01'
   - name: Proxies
     skill: proxy
-    updated: '2026-01-01'
+    updated: '2026-03-27'
+    description: >-
+      API proxies, reverse proxies, forward proxies, debugging proxies, caching
+      proxies, and proxy middleware tools used for traffic management, inspection,
+      and security across API ecosystems.
+    repos:
+      - name: Apache HTTP Server
+        url: https://raw.githubusercontent.com/api-evangelist/apache-httpd/refs/heads/main/apis.yml
+      - name: Caddy
+        url: https://raw.githubusercontent.com/api-evangelist/caddy/refs/heads/main/apis.yml
+      - name: Charles Proxy
+        url: https://raw.githubusercontent.com/api-evangelist/charles-proxy/refs/heads/main/apis.yml
+      - name: Envoy
+        url: https://raw.githubusercontent.com/api-evangelist/envoy/refs/heads/main/apis.yml
+      - name: Fiddler
+        url: https://raw.githubusercontent.com/api-evangelist/fiddler/refs/heads/main/apis.yml
+      - name: GoReplay
+        url: https://raw.githubusercontent.com/api-evangelist/goreplay/refs/heads/main/apis.yml
+      - name: HAProxy
+        url: https://raw.githubusercontent.com/api-evangelist/haproxy/refs/heads/main/apis.yml
+      - name: Lunar.dev
+        url: https://raw.githubusercontent.com/api-evangelist/lunar-dev/refs/heads/main/apis.yml
+      - name: mitmproxy
+        url: https://raw.githubusercontent.com/api-evangelist/mitmproxy/refs/heads/main/apis.yml
+      - name: Moesif
+        url: https://raw.githubusercontent.com/api-evangelist/moesif/refs/heads/main/apis.yml
+      - name: NGINX
+        url: https://raw.githubusercontent.com/api-evangelist/nginx/refs/heads/main/apis.yml
+      - name: Privoxy
+        url: https://raw.githubusercontent.com/api-evangelist/privoxy/refs/heads/main/apis.yml
+      - name: Proxyman
+        url: https://raw.githubusercontent.com/api-evangelist/proxyman/refs/heads/main/apis.yml
+      - name: Resurface
+        url: https://raw.githubusercontent.com/api-evangelist/resurface/refs/heads/main/apis.yml
+      - name: Speedscale
+        url: https://raw.githubusercontent.com/api-evangelist/speedscale/refs/heads/main/apis.yml
+      - name: Squid
+        url: https://raw.githubusercontent.com/api-evangelist/squid/refs/heads/main/apis.yml
+      - name: Tinyproxy
+        url: https://raw.githubusercontent.com/api-evangelist/tinyproxy/refs/heads/main/apis.yml
+      - name: Traefik
+        url: https://raw.githubusercontent.com/api-evangelist/traefik/refs/heads/main/apis.yml
+      - name: Treblle
+        url: https://raw.githubusercontent.com/api-evangelist/treblle/refs/heads/main/apis.yml
+      - name: Varnish Cache
+        url: https://raw.githubusercontent.com/api-evangelist/varnish/refs/heads/main/apis.yml
+      - name: Whistle
+        url: https://raw.githubusercontent.com/api-evangelist/whistle/refs/heads/main/apis.yml
   - name: Regulation
     skill: regulation
     updated: '2026-01-01'
@@ -1736,6 +1787,8 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/defer/refs/heads/main/apis.yml
       - name: Durable Functions
         url: https://raw.githubusercontent.com/api-evangelist/durable-functions/refs/heads/main/apis.yml
+      - name: Flyte
+        url: https://raw.githubusercontent.com/api-evangelist/flyte/refs/heads/main/apis.yml
       - name: Google Cloud Workflows
         url: https://raw.githubusercontent.com/api-evangelist/google-cloud-workflows/refs/heads/main/apis.yml
       - name: Hatchet
@@ -1758,6 +1811,8 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/make/refs/heads/main/apis.yml
       - name: n8n
         url: https://raw.githubusercontent.com/api-evangelist/n8n/refs/heads/main/apis.yml
+      - name: Nected
+        url: https://raw.githubusercontent.com/api-evangelist/nected/refs/heads/main/apis.yml
       - name: Netflix Conductor
         url: https://raw.githubusercontent.com/api-evangelist/netflix-conductor/refs/heads/main/apis.yml
       - name: Node-RED
