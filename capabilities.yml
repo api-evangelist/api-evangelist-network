@@ -1800,9 +1800,76 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/zeebe/refs/heads/main/apis.yml
   - name: FinOps
     skill: finops
-    updated: '2026-01-01'
+    updated: '2026-03-27'
     description: >-
       Budget-aware execution and cost telemetry at runtime.
+    repos:
+      - name: Amberflo
+        url: https://raw.githubusercontent.com/api-evangelist/amberflo/refs/heads/main/apis.yml
+      - name: Anodot
+        url: https://raw.githubusercontent.com/api-evangelist/anodot/refs/heads/main/apis.yml
+      - name: Apptio
+        url: https://raw.githubusercontent.com/api-evangelist/apptio/refs/heads/main/apis.yml
+      - name: CAST AI
+        url: https://raw.githubusercontent.com/api-evangelist/cast-ai/refs/heads/main/apis.yml
+      - name: Certero
+        url: https://raw.githubusercontent.com/api-evangelist/certero/refs/heads/main/apis.yml
+      - name: Cloud Custodian
+        url: https://raw.githubusercontent.com/api-evangelist/cloud-custodian/refs/heads/main/apis.yml
+      - name: Cloudability
+        url: https://raw.githubusercontent.com/api-evangelist/cloudability/refs/heads/main/apis.yml
+      - name: CloudHealth
+        url: https://raw.githubusercontent.com/api-evangelist/cloudhealth/refs/heads/main/apis.yml
+      - name: env0
+        url: https://raw.githubusercontent.com/api-evangelist/env0/refs/heads/main/apis.yml
+      - name: FinOps Foundation
+        url: https://raw.githubusercontent.com/api-evangelist/finops-foundation/refs/heads/main/apis.yml
+      - name: Flexera
+        url: https://raw.githubusercontent.com/api-evangelist/flexera/refs/heads/main/apis.yml
+      - name: FOCUS Spec
+        url: https://raw.githubusercontent.com/api-evangelist/focus-spec/refs/heads/main/apis.yml
+      - name: Harness Cloud Cost
+        url: https://raw.githubusercontent.com/api-evangelist/harness-cloud-cost/refs/heads/main/apis.yml
+      - name: Infracost
+        url: https://raw.githubusercontent.com/api-evangelist/infracost/refs/heads/main/apis.yml
+      - name: Komiser
+        url: https://raw.githubusercontent.com/api-evangelist/komiser/refs/heads/main/apis.yml
+      - name: Kubecost
+        url: https://raw.githubusercontent.com/api-evangelist/kubecost/refs/heads/main/apis.yml
+      - name: Lago
+        url: https://raw.githubusercontent.com/api-evangelist/lago/refs/heads/main/apis.yml
+      - name: Metronome
+        url: https://raw.githubusercontent.com/api-evangelist/metronome/refs/heads/main/apis.yml
+      - name: Moesif
+        url: https://raw.githubusercontent.com/api-evangelist/moesif/refs/heads/main/apis.yml
+      - name: nOps
+        url: https://raw.githubusercontent.com/api-evangelist/nops/refs/heads/main/apis.yml
+      - name: OpenCost
+        url: https://raw.githubusercontent.com/api-evangelist/opencost/refs/heads/main/apis.yml
+      - name: Orb
+        url: https://raw.githubusercontent.com/api-evangelist/orb/refs/heads/main/apis.yml
+      - name: PerfectScale
+        url: https://raw.githubusercontent.com/api-evangelist/perfectscale/refs/heads/main/apis.yml
+      - name: ProsperOps
+        url: https://raw.githubusercontent.com/api-evangelist/prosperops/refs/heads/main/apis.yml
+      - name: Scalr
+        url: https://raw.githubusercontent.com/api-evangelist/scalr/refs/heads/main/apis.yml
+      - name: Schematic
+        url: https://raw.githubusercontent.com/api-evangelist/schematic/refs/heads/main/apis.yml
+      - name: Spacelift
+        url: https://raw.githubusercontent.com/api-evangelist/spacelift/refs/heads/main/apis.yml
+      - name: Spot by NetApp
+        url: https://raw.githubusercontent.com/api-evangelist/spot-by-netapp/refs/heads/main/apis.yml
+      - name: Stigg
+        url: https://raw.githubusercontent.com/api-evangelist/stigg/refs/heads/main/apis.yml
+      - name: StormForge
+        url: https://raw.githubusercontent.com/api-evangelist/stormforge/refs/heads/main/apis.yml
+      - name: Ternary
+        url: https://raw.githubusercontent.com/api-evangelist/ternary/refs/heads/main/apis.yml
+      - name: Vantage
+        url: https://raw.githubusercontent.com/api-evangelist/vantage/refs/heads/main/apis.yml
+      - name: Zesty
+        url: https://raw.githubusercontent.com/api-evangelist/zesty/refs/heads/main/apis.yml
   - name: Developer Experience
     skill: developer-experience
     updated: '2026-01-01'
