@@ -323,6 +323,8 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/curl/refs/heads/main/apis.yml
       - name: Curlie
         url: https://raw.githubusercontent.com/api-evangelist/curlie/refs/heads/main/apis.yml
+      - name: ezy
+        url: https://raw.githubusercontent.com/api-evangelist/ezy/refs/heads/main/apis.yml
       - name: Firecamp
         url: https://raw.githubusercontent.com/api-evangelist/firecamp/refs/heads/main/apis.yml
       - name: Got
