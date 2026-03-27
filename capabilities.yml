@@ -1897,6 +1897,8 @@ capabilities:
     repos:
       - name: Amberflo
         url: https://raw.githubusercontent.com/api-evangelist/amberflo/refs/heads/main/apis.yml
+      - name: Amnic
+        url: https://raw.githubusercontent.com/api-evangelist/amnic/refs/heads/main/apis.yml
       - name: Anodot
         url: https://raw.githubusercontent.com/api-evangelist/anodot/refs/heads/main/apis.yml
       - name: Apptio
@@ -1909,12 +1911,18 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/cloud-custodian/refs/heads/main/apis.yml
       - name: Cloudability
         url: https://raw.githubusercontent.com/api-evangelist/cloudability/refs/heads/main/apis.yml
+      - name: CloudChipr
+        url: https://raw.githubusercontent.com/api-evangelist/cloudchipr/refs/heads/main/apis.yml
       - name: CloudHealth
         url: https://raw.githubusercontent.com/api-evangelist/cloudhealth/refs/heads/main/apis.yml
+      - name: CloudZero
+        url: https://raw.githubusercontent.com/api-evangelist/cloudzero/refs/heads/main/apis.yml
       - name: env0
         url: https://raw.githubusercontent.com/api-evangelist/env0/refs/heads/main/apis.yml
       - name: FinOps Foundation
         url: https://raw.githubusercontent.com/api-evangelist/finops-foundation/refs/heads/main/apis.yml
+      - name: Finout
+        url: https://raw.githubusercontent.com/api-evangelist/finout/refs/heads/main/apis.yml
       - name: Flexera
         url: https://raw.githubusercontent.com/api-evangelist/flexera/refs/heads/main/apis.yml
       - name: FOCUS Spec
@@ -1929,6 +1937,8 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/kubecost/refs/heads/main/apis.yml
       - name: Lago
         url: https://raw.githubusercontent.com/api-evangelist/lago/refs/heads/main/apis.yml
+      - name: m3ter
+        url: https://raw.githubusercontent.com/api-evangelist/m3ter/refs/heads/main/apis.yml
       - name: Metronome
         url: https://raw.githubusercontent.com/api-evangelist/metronome/refs/heads/main/apis.yml
       - name: Moesif
@@ -1937,16 +1947,22 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/nops/refs/heads/main/apis.yml
       - name: OpenCost
         url: https://raw.githubusercontent.com/api-evangelist/opencost/refs/heads/main/apis.yml
+      - name: OptScale
+        url: https://raw.githubusercontent.com/api-evangelist/optscale/refs/heads/main/apis.yml
       - name: Orb
         url: https://raw.githubusercontent.com/api-evangelist/orb/refs/heads/main/apis.yml
       - name: PerfectScale
         url: https://raw.githubusercontent.com/api-evangelist/perfectscale/refs/heads/main/apis.yml
       - name: ProsperOps
         url: https://raw.githubusercontent.com/api-evangelist/prosperops/refs/heads/main/apis.yml
+      - name: ScaleOps
+        url: https://raw.githubusercontent.com/api-evangelist/scaleops/refs/heads/main/apis.yml
       - name: Scalr
         url: https://raw.githubusercontent.com/api-evangelist/scalr/refs/heads/main/apis.yml
       - name: Schematic
         url: https://raw.githubusercontent.com/api-evangelist/schematic/refs/heads/main/apis.yml
+      - name: Sedai
+        url: https://raw.githubusercontent.com/api-evangelist/sedai/refs/heads/main/apis.yml
       - name: Spacelift
         url: https://raw.githubusercontent.com/api-evangelist/spacelift/refs/heads/main/apis.yml
       - name: Spot by NetApp
