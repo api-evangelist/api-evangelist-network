@@ -1397,6 +1397,8 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/vendr/refs/heads/main/apis.yml
       - name: Vertice
         url: https://raw.githubusercontent.com/api-evangelist/vertice/refs/heads/main/apis.yml
+      - name: Whatfix
+        url: https://raw.githubusercontent.com/api-evangelist/whatfix/refs/heads/main/apis.yml
       - name: Wing Security
         url: https://raw.githubusercontent.com/api-evangelist/wing-security/refs/heads/main/apis.yml
       - name: Zluri
