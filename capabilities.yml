@@ -1558,6 +1558,8 @@ capabilities:
     repos:
       - name: Alloy Automation
         url: https://raw.githubusercontent.com/api-evangelist/alloy-automation/refs/heads/main/apis.yml
+      - name: Ampersand
+        url: https://raw.githubusercontent.com/api-evangelist/ampersand/refs/heads/main/apis.yml
       - name: Apideck
         url: https://raw.githubusercontent.com/api-evangelist/apideck/refs/heads/main/apis.yml
       - name: Cloud Elements
