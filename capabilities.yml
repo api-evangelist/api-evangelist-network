@@ -733,6 +733,8 @@ capabilities:
       communication inside the cluster, while AI gateways add model routing and
       governance for LLM workloads.
     repos:
+      - name: AgentGateway
+        url: https://raw.githubusercontent.com/api-evangelist/agentgateway/refs/heads/main/apis.yml
       - name: Amazon API Gateway
         url: https://raw.githubusercontent.com/api-evangelist/aws-api-gateway/refs/heads/main/apis.yml
       - name: Apache APISIX
@@ -755,6 +757,8 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/emissary-ingress/refs/heads/main/apis.yml
       - name: Envoy
         url: https://raw.githubusercontent.com/api-evangelist/envoy/refs/heads/main/apis.yml
+      - name: Envoy Gateway
+        url: https://raw.githubusercontent.com/api-evangelist/envoy-gateway/refs/heads/main/apis.yml
       - name: Envoy Proxy
         url: https://raw.githubusercontent.com/api-evangelist/envoy-proxy/refs/heads/main/apis.yml
       - name: Fusio
@@ -1241,12 +1245,20 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/moesif/refs/heads/main/apis.yml
       - name: NGINX
         url: https://raw.githubusercontent.com/api-evangelist/nginx/refs/heads/main/apis.yml
+      - name: oauth2-proxy
+        url: https://raw.githubusercontent.com/api-evangelist/oauth2-proxy/refs/heads/main/apis.yml
+      - name: Pomerium
+        url: https://raw.githubusercontent.com/api-evangelist/pomerium/refs/heads/main/apis.yml
       - name: Privoxy
         url: https://raw.githubusercontent.com/api-evangelist/privoxy/refs/heads/main/apis.yml
       - name: Proxyman
         url: https://raw.githubusercontent.com/api-evangelist/proxyman/refs/heads/main/apis.yml
       - name: Resurface
         url: https://raw.githubusercontent.com/api-evangelist/resurface/refs/heads/main/apis.yml
+      - name: SafeLine
+        url: https://raw.githubusercontent.com/api-evangelist/safeline/refs/heads/main/apis.yml
+      - name: Sozu
+        url: https://raw.githubusercontent.com/api-evangelist/sozu/refs/heads/main/apis.yml
       - name: Speedscale
         url: https://raw.githubusercontent.com/api-evangelist/speedscale/refs/heads/main/apis.yml
       - name: Squid
