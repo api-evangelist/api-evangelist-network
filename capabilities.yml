@@ -1221,10 +1221,14 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/caddy/refs/heads/main/apis.yml
       - name: Charles Proxy
         url: https://raw.githubusercontent.com/api-evangelist/charles-proxy/refs/heads/main/apis.yml
+      - name: Dev Proxy
+        url: https://raw.githubusercontent.com/api-evangelist/dev-proxy/refs/heads/main/apis.yml
       - name: Envoy
         url: https://raw.githubusercontent.com/api-evangelist/envoy/refs/heads/main/apis.yml
       - name: Fiddler
         url: https://raw.githubusercontent.com/api-evangelist/fiddler/refs/heads/main/apis.yml
+      - name: frp
+        url: https://raw.githubusercontent.com/api-evangelist/frp/refs/heads/main/apis.yml
       - name: GoReplay
         url: https://raw.githubusercontent.com/api-evangelist/goreplay/refs/heads/main/apis.yml
       - name: HAProxy
@@ -1626,10 +1630,14 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/airbyte/refs/heads/main/apis.yml
       - name: Alloy Automation
         url: https://raw.githubusercontent.com/api-evangelist/alloy-automation/refs/heads/main/apis.yml
+      - name: Ampersand
+        url: https://raw.githubusercontent.com/api-evangelist/ampersand/refs/heads/main/apis.yml
       - name: Apideck
         url: https://raw.githubusercontent.com/api-evangelist/apideck/refs/heads/main/apis.yml
       - name: Basiq
         url: https://raw.githubusercontent.com/api-evangelist/basiq/refs/heads/main/apis.yml
+      - name: Bindbee
+        url: https://raw.githubusercontent.com/api-evangelist/bindbee/refs/heads/main/apis.yml
       - name: Census
         url: https://raw.githubusercontent.com/api-evangelist/census/refs/heads/main/apis.yml
       - name: Codat
@@ -1638,6 +1646,8 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/composio/refs/heads/main/apis.yml
       - name: Cyclr
         url: https://raw.githubusercontent.com/api-evangelist/cyclr/refs/heads/main/apis.yml
+      - name: DigitalAPI
+        url: https://raw.githubusercontent.com/api-evangelist/digitalapi/refs/heads/main/apis.yml
       - name: Finverse
         url: https://raw.githubusercontent.com/api-evangelist/finverse/refs/heads/main/apis.yml
       - name: Fivetran
