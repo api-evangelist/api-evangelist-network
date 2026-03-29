@@ -1659,7 +1659,29 @@ capabilities:
     updated: '2026-01-01'
   - name: Deprecation
     skill: deprecation
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    description: >-
+      API deprecation, sunset headers, end-of-life management, and API
+      retirement tools and services.
+    repos:
+      - name: AnnounceKit
+        url: https://raw.githubusercontent.com/api-evangelist/announcekit/refs/heads/main/apis.yml
+      - name: APIMatic
+        url: https://raw.githubusercontent.com/api-evangelist/apimatic/refs/heads/main/apis.yml
+      - name: Beamer
+        url: https://raw.githubusercontent.com/api-evangelist/beamer/refs/heads/main/apis.yml
+      - name: Bump.sh
+        url: https://raw.githubusercontent.com/api-evangelist/bump-sh/refs/heads/main/apis.yml
+      - name: Deprecation
+        url: https://raw.githubusercontent.com/api-evangelist/deprecation/refs/heads/main/apis.yml
+      - name: LaunchNotes
+        url: https://raw.githubusercontent.com/api-evangelist/launchnotes/refs/heads/main/apis.yml
+      - name: Oasdiff
+        url: https://raw.githubusercontent.com/api-evangelist/oasdiff/refs/heads/main/apis.yml
+      - name: Optic
+        url: https://raw.githubusercontent.com/api-evangelist/optic/refs/heads/main/apis.yml
+      - name: Sunset Header
+        url: https://raw.githubusercontent.com/api-evangelist/sunset-header/refs/heads/main/apis.yml
   - name: iPaaS
     skill: ipaas
     updated: '2026-03-27'
@@ -2359,7 +2381,69 @@ capabilities:
       use ML to reduce alert noise and accelerate resolution, and anomaly
       detection tools that identify unusual patterns in metrics, logs, and traces
       before they become outages.
-    repos: []
+    repos:
+      - name: Anodot
+        url: https://raw.githubusercontent.com/api-evangelist/anodot/refs/heads/main/apis.yml
+      - name: BigPanda
+        url: https://raw.githubusercontent.com/api-evangelist/bigpanda/refs/heads/main/apis.yml
+      - name: Blameless
+        url: https://raw.githubusercontent.com/api-evangelist/blameless/refs/heads/main/apis.yml
+      - name: Chronosphere
+        url: https://raw.githubusercontent.com/api-evangelist/chronosphere/refs/heads/main/apis.yml
+      - name: Coralogix
+        url: https://raw.githubusercontent.com/api-evangelist/coralogix/refs/heads/main/apis.yml
+      - name: Datadog APM
+        url: https://raw.githubusercontent.com/api-evangelist/datadog-apm/refs/heads/main/apis.yml
+      - name: Dynatrace
+        url: https://raw.githubusercontent.com/api-evangelist/dynatrace/refs/heads/main/apis.yml
+      - name: Elastic Observability
+        url: https://raw.githubusercontent.com/api-evangelist/elastic-observability/refs/heads/main/apis.yml
+      - name: FireHydrant
+        url: https://raw.githubusercontent.com/api-evangelist/firehydrant/refs/heads/main/apis.yml
+      - name: Groundcover
+        url: https://raw.githubusercontent.com/api-evangelist/groundcover/refs/heads/main/apis.yml
+      - name: Honeycomb
+        url: https://raw.githubusercontent.com/api-evangelist/honeycomb/refs/heads/main/apis.yml
+      - name: incident.io
+        url: https://raw.githubusercontent.com/api-evangelist/incident-io/refs/heads/main/apis.yml
+      - name: Lightstep
+        url: https://raw.githubusercontent.com/api-evangelist/lightstep/refs/heads/main/apis.yml
+      - name: LogicMonitor
+        url: https://raw.githubusercontent.com/api-evangelist/logicmonitor/refs/heads/main/apis.yml
+      - name: Metaplane
+        url: https://raw.githubusercontent.com/api-evangelist/metaplane/refs/heads/main/apis.yml
+      - name: Monte Carlo
+        url: https://raw.githubusercontent.com/api-evangelist/monte-carlo-data/refs/heads/main/apis.yml
+      - name: Moogsoft
+        url: https://raw.githubusercontent.com/api-evangelist/moogsoft/refs/heads/main/apis.yml
+      - name: Motadata
+        url: https://raw.githubusercontent.com/api-evangelist/motadata/refs/heads/main/apis.yml
+      - name: Netreo
+        url: https://raw.githubusercontent.com/api-evangelist/netreo/refs/heads/main/apis.yml
+      - name: New Relic
+        url: https://raw.githubusercontent.com/api-evangelist/new-relic/refs/heads/main/apis.yml
+      - name: OpenObserve
+        url: https://raw.githubusercontent.com/api-evangelist/openobserve/refs/heads/main/apis.yml
+      - name: Opsgenie
+        url: https://raw.githubusercontent.com/api-evangelist/opsgenie/refs/heads/main/apis.yml
+      - name: OpsRamp
+        url: https://raw.githubusercontent.com/api-evangelist/opsramp/refs/heads/main/apis.yml
+      - name: PagerDuty
+        url: https://raw.githubusercontent.com/api-evangelist/pagerduty/refs/heads/main/apis.yml
+      - name: Rootly
+        url: https://raw.githubusercontent.com/api-evangelist/rootly/refs/heads/main/apis.yml
+      - name: ScienceLogic
+        url: https://raw.githubusercontent.com/api-evangelist/sciencelogic/refs/heads/main/apis.yml
+      - name: Shoreline
+        url: https://raw.githubusercontent.com/api-evangelist/shoreline/refs/heads/main/apis.yml
+      - name: SigNoz
+        url: https://raw.githubusercontent.com/api-evangelist/signoz/refs/heads/main/apis.yml
+      - name: Soda
+        url: https://raw.githubusercontent.com/api-evangelist/soda-data/refs/heads/main/apis.yml
+      - name: Splunk
+        url: https://raw.githubusercontent.com/api-evangelist/splunk/refs/heads/main/apis.yml
+      - name: Zenoss
+        url: https://raw.githubusercontent.com/api-evangelist/zenoss/refs/heads/main/apis.yml
   - name: AI Automation
     skill: ai-automation
     updated: '2026-03-27'
@@ -2372,4 +2456,62 @@ capabilities:
       automation (IPA) that extends RPA with ML and NLP capabilities, and AI
       orchestration tools that coordinate multiple models and agents to complete
       complex tasks end-to-end.
-    repos: []
+    repos:
+      - name: ABBYY
+        url: https://raw.githubusercontent.com/api-evangelist/abbyy/refs/heads/main/apis.yml
+      - name: Activepieces
+        url: https://raw.githubusercontent.com/api-evangelist/activepieces/refs/heads/main/apis.yml
+      - name: AutoGen
+        url: https://raw.githubusercontent.com/api-evangelist/autogen/refs/heads/main/apis.yml
+      - name: AutoGPT
+        url: https://raw.githubusercontent.com/api-evangelist/autogpt/refs/heads/main/apis.yml
+      - name: Automation Anywhere
+        url: https://raw.githubusercontent.com/api-evangelist/automation-anywhere/refs/heads/main/apis.yml
+      - name: Bardeen
+        url: https://raw.githubusercontent.com/api-evangelist/bardeen/refs/heads/main/apis.yml
+      - name: Blue Prism
+        url: https://raw.githubusercontent.com/api-evangelist/blue-prism/refs/heads/main/apis.yml
+      - name: Browser Use
+        url: https://raw.githubusercontent.com/api-evangelist/browser-use/refs/heads/main/apis.yml
+      - name: Crawl4AI
+        url: https://raw.githubusercontent.com/api-evangelist/crawl4ai/refs/heads/main/apis.yml
+      - name: CrewAI
+        url: https://raw.githubusercontent.com/api-evangelist/crewai/refs/heads/main/apis.yml
+      - name: Cursor
+        url: https://raw.githubusercontent.com/api-evangelist/cursor/refs/heads/main/apis.yml
+      - name: Google ADK
+        url: https://raw.githubusercontent.com/api-evangelist/google-adk/refs/heads/main/apis.yml
+      - name: Haystack
+        url: https://raw.githubusercontent.com/api-evangelist/haystack/refs/heads/main/apis.yml
+      - name: LangChain
+        url: https://raw.githubusercontent.com/api-evangelist/langchain/refs/heads/main/apis.yml
+      - name: LangGraph
+        url: https://raw.githubusercontent.com/api-evangelist/langgraph/refs/heads/main/apis.yml
+      - name: Lindy
+        url: https://raw.githubusercontent.com/api-evangelist/lindy/refs/heads/main/apis.yml
+      - name: LlamaIndex
+        url: https://raw.githubusercontent.com/api-evangelist/llamaindex/refs/heads/main/apis.yml
+      - name: Mastra
+        url: https://raw.githubusercontent.com/api-evangelist/mastra/refs/heads/main/apis.yml
+      - name: n8n
+        url: https://raw.githubusercontent.com/api-evangelist/n8n/refs/heads/main/apis.yml
+      - name: Orkes
+        url: https://raw.githubusercontent.com/api-evangelist/orkes/refs/heads/main/apis.yml
+      - name: Prefect
+        url: https://raw.githubusercontent.com/api-evangelist/prefect/refs/heads/main/apis.yml
+      - name: Relevance AI
+        url: https://raw.githubusercontent.com/api-evangelist/relevance-ai/refs/heads/main/apis.yml
+      - name: Semantic Kernel
+        url: https://raw.githubusercontent.com/api-evangelist/semantic-kernel/refs/heads/main/apis.yml
+      - name: SuperAgent
+        url: https://raw.githubusercontent.com/api-evangelist/superagent/refs/heads/main/apis.yml
+      - name: Temporal
+        url: https://raw.githubusercontent.com/api-evangelist/temporal/refs/heads/main/apis.yml
+      - name: Tray.io
+        url: https://raw.githubusercontent.com/api-evangelist/tray-io/refs/heads/main/apis.yml
+      - name: UiPath
+        url: https://raw.githubusercontent.com/api-evangelist/uipath/refs/heads/main/apis.yml
+      - name: Workato
+        url: https://raw.githubusercontent.com/api-evangelist/workato/refs/heads/main/apis.yml
+      - name: Zapier
+        url: https://raw.githubusercontent.com/api-evangelist/zapier/refs/heads/main/apis.yml

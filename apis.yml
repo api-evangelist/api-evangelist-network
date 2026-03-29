@@ -884,6 +884,8 @@ network:
   url: https://github.com/api-evangelist/anixter-international
 - name: ann
   url: https://github.com/api-evangelist/ann
+- name: announcekit
+  url: https://github.com/api-evangelist/announcekit
 - name: anodot
   url: https://github.com/api-evangelist/anodot
 - name: anomaly-detection
@@ -1576,6 +1578,8 @@ network:
   url: https://github.com/api-evangelist/bdd
 - name: beacon-roofing-supply
   url: https://github.com/api-evangelist/beacon-roofing-supply
+- name: beamer
+  url: https://github.com/api-evangelist/beamer
 - name: beamy
   url: https://github.com/api-evangelist/beamy
 - name: bean-validation
@@ -2882,6 +2886,8 @@ network:
   url: https://github.com/api-evangelist/dependabot-yml
 - name: dependency-injection
   url: https://github.com/api-evangelist/dependency-injection
+- name: deprecation
+  url: https://github.com/api-evangelist/deprecation
 - name: design-patterns
   url: https://github.com/api-evangelist/design-patterns
 - name: design-standards
@@ -5136,6 +5142,8 @@ network:
   url: https://github.com/api-evangelist/launchdarkly
 - name: launching-next
   url: https://github.com/api-evangelist/launching-next
+- name: launchnotes
+  url: https://github.com/api-evangelist/launchnotes
 - name: ldap
   url: https://github.com/api-evangelist/ldap
 - name: leaf-agriculture
@@ -6410,6 +6418,8 @@ network:
   url: https://github.com/api-evangelist/oaktree-capital-group
 - name: oapi-codegen
   url: https://github.com/api-evangelist/oapi-codegen
+- name: oasdiff
+  url: https://github.com/api-evangelist/oasdiff
 - name: oauth2-proxy
   url: https://github.com/api-evangelist/oauth2-proxy
 - name: oauth
@@ -8418,6 +8428,8 @@ network:
   url: https://github.com/api-evangelist/sungard-data-systems
 - name: sunpower
   url: https://github.com/api-evangelist/sunpower
+- name: sunset-header
+  url: https://github.com/api-evangelist/sunset-header
 - name: supabase
   url: https://github.com/api-evangelist/supabase
 - name: supaglue
