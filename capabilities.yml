@@ -9,15 +9,9 @@ capabilities:
   - name: Aggregation
     skill: aggregation
     updated: '2026-03-27'
-    description: >-
-      API aggregation brings together APIs from multiple providers into unified
-      directories, marketplaces, catalogs, and search engines, making it easier
-      for developers to discover, compare, and consume APIs. This includes API
-      marketplaces that let providers list and monetize their APIs, directories
-      and registries that catalog publicly available APIs, discovery tools that
-      crawl and index API definitions, and aggregation platforms that unify
-      multiple provider APIs behind a single normalized interface for categories
-      like accounting, CRM, HRIS, and payments.
+    description: API aggregation brings together APIs from multiple providers into unified directories, marketplaces, catalogs, and search engines, making it easier for developers to discover, compare,
+      and consume APIs. This includes API marketplaces that let providers list and monetize their APIs, directories and registries that catalog publicly available APIs, discovery tools that crawl and index
+      API definitions, and aggregation platforms that unify multiple provider APIs behind a single normalized interface for categories like accounting, CRM, HRIS, and payments.
     repos:
       - name: Alloy Automation
         url: https://raw.githubusercontent.com/api-evangelist/alloy-automation/refs/heads/main/apis.yml
@@ -106,15 +100,9 @@ capabilities:
   - name: Analysis
     skill: analysis
     updated: '2026-03-27'
-    description: >-
-      API analysis encompasses the tools and platforms used to understand API
-      usage, performance, behavior, and quality. This includes API analytics
-      platforms that track consumption and traffic patterns, observability
-      tools that provide metrics and tracing, product analytics that measure
-      developer adoption, traffic analysis tools for debugging and inspection,
-      design analysis and linting tools that enforce API standards, and
-      security analysis platforms that detect threats and vulnerabilities
-      in API traffic.
+    description: API analysis encompasses the tools and platforms used to understand API usage, performance, behavior, and quality. This includes API analytics platforms that track consumption and traffic
+      patterns, observability tools that provide metrics and tracing, product analytics that measure developer adoption, traffic analysis tools for debugging and inspection, design analysis and linting
+      tools that enforce API standards, and security analysis platforms that detect threats and vulnerabilities in API traffic.
     repos:
       - name: 42Crunch
         url: https://raw.githubusercontent.com/api-evangelist/42crunch/refs/heads/main/apis.yml
@@ -233,14 +221,9 @@ capabilities:
   - name: Authentication
     skill: authentication
     updated: '2026-03-27'
-    description: >-
-      Authentication and authorization are the gatekeepers of every API,
-      covering how consumers prove their identity and how access is granted
-      or denied. This spans protocols and standards such as OAuth 2.0, OpenID
-      Connect, SAML, and SCIM, through to identity providers, single sign-on
-      platforms, privileged access management, secrets management, MFA, and
-      passwordless solutions. Effective authentication is foundational to API
-      security, developer experience, and regulatory compliance.
+    description: Authentication and authorization are the gatekeepers of every API, covering how consumers prove their identity and how access is granted or denied. This spans protocols and standards such
+      as OAuth 2.0, OpenID Connect, SAML, and SCIM, through to identity providers, single sign-on platforms, privileged access management, secrets management, MFA, and passwordless solutions. Effective
+      authentication is foundational to API security, developer experience, and regulatory compliance.
     repos:
       - name: Amazon Cognito
         url: https://raw.githubusercontent.com/api-evangelist/aws-cognito/refs/heads/main/apis.yml
@@ -286,32 +269,120 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/zitadel/refs/heads/main/apis.yml
   - name: Backups
     skill: backups
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Acronis
+        url: https://raw.githubusercontent.com/api-evangelist/acronis/refs/heads/main/apis.yml
+      - name: Amazon Backup
+        url: https://raw.githubusercontent.com/api-evangelist/amazon-backup/refs/heads/main/apis.yml
+      - name: Backblaze
+        url: https://raw.githubusercontent.com/api-evangelist/backblaze/refs/heads/main/apis.yml
+      - name: Backupify
+        url: https://raw.githubusercontent.com/api-evangelist/backupify/refs/heads/main/apis.yml
+      - name: Cohesity
+        url: https://raw.githubusercontent.com/api-evangelist/cohesity/refs/heads/main/apis.yml
+      - name: Commvault
+        url: https://raw.githubusercontent.com/api-evangelist/commvault/refs/heads/main/apis.yml
+      - name: Druva
+        url: https://raw.githubusercontent.com/api-evangelist/druva/refs/heads/main/apis.yml
+      - name: Microsoft Azure Backup
+        url: https://raw.githubusercontent.com/api-evangelist/microsoft-azure-backup/refs/heads/main/apis.yml
+      - name: Ownbackup
+        url: https://raw.githubusercontent.com/api-evangelist/ownbackup/refs/heads/main/apis.yml
+      - name: Veritas Netbackup
+        url: https://raw.githubusercontent.com/api-evangelist/veritas-netbackup/refs/heads/main/apis.yml
   - name: Bots
     skill: bots
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Amazon Lex
+        url: https://raw.githubusercontent.com/api-evangelist/amazon-lex/refs/heads/main/apis.yml
+      - name: Drift
+        url: https://raw.githubusercontent.com/api-evangelist/drift/refs/heads/main/apis.yml
+      - name: Google Cloud Dialogflow Cx
+        url: https://raw.githubusercontent.com/api-evangelist/google-cloud-dialogflow-cx/refs/heads/main/apis.yml
+      - name: Google Dialogflow
+        url: https://raw.githubusercontent.com/api-evangelist/google-dialogflow/refs/heads/main/apis.yml
+      - name: Microsoft Bot Framework
+        url: https://raw.githubusercontent.com/api-evangelist/microsoft-bot-framework/refs/heads/main/apis.yml
   - name: Breaches
     skill: breaches
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Firehydrant
+        url: https://raw.githubusercontent.com/api-evangelist/firehydrant/refs/heads/main/apis.yml
+      - name: Incident IO
+        url: https://raw.githubusercontent.com/api-evangelist/incident-io/refs/heads/main/apis.yml
+      - name: Rootly
+        url: https://raw.githubusercontent.com/api-evangelist/rootly/refs/heads/main/apis.yml
   - name: Browsers
     skill: browsers
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Bruno
+        url: https://raw.githubusercontent.com/api-evangelist/bruno/refs/heads/main/apis.yml
+      - name: Hoppscotch
+        url: https://raw.githubusercontent.com/api-evangelist/hoppscotch/refs/heads/main/apis.yml
+      - name: Httpie
+        url: https://raw.githubusercontent.com/api-evangelist/httpie/refs/heads/main/apis.yml
+      - name: Kreya
+        url: https://raw.githubusercontent.com/api-evangelist/kreya/refs/heads/main/apis.yml
+      - name: Paw
+        url: https://raw.githubusercontent.com/api-evangelist/paw/refs/heads/main/apis.yml
+      - name: Rapidoc
+        url: https://raw.githubusercontent.com/api-evangelist/rapidoc/refs/heads/main/apis.yml
+      - name: Redoc
+        url: https://raw.githubusercontent.com/api-evangelist/redoc/refs/heads/main/apis.yml
+      - name: Redocly
+        url: https://raw.githubusercontent.com/api-evangelist/redocly/refs/heads/main/apis.yml
+      - name: Stoplight
+        url: https://raw.githubusercontent.com/api-evangelist/stoplight/refs/heads/main/apis.yml
   - name: Caching
     skill: caching
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Akamai
+        url: https://raw.githubusercontent.com/api-evangelist/akamai/refs/heads/main/apis.yml
+      - name: Amazon Cloudfront
+        url: https://raw.githubusercontent.com/api-evangelist/amazon-cloudfront/refs/heads/main/apis.yml
+      - name: Amazon Elasticache
+        url: https://raw.githubusercontent.com/api-evangelist/amazon-elasticache/refs/heads/main/apis.yml
+      - name: Apache Ignite
+        url: https://raw.githubusercontent.com/api-evangelist/apache-ignite/refs/heads/main/apis.yml
+      - name: Cloudflare
+        url: https://raw.githubusercontent.com/api-evangelist/cloudflare/refs/heads/main/apis.yml
+      - name: Fastly
+        url: https://raw.githubusercontent.com/api-evangelist/fastly/refs/heads/main/apis.yml
+      - name: Hazelcast
+        url: https://raw.githubusercontent.com/api-evangelist/hazelcast/refs/heads/main/apis.yml
+      - name: Microsoft Azure Cache For Redis
+        url: https://raw.githubusercontent.com/api-evangelist/microsoft-azure-cache-for-redis/refs/heads/main/apis.yml
+      - name: Redis
+        url: https://raw.githubusercontent.com/api-evangelist/redis/refs/heads/main/apis.yml
+      - name: Redis Streams
+        url: https://raw.githubusercontent.com/api-evangelist/redis-streams/refs/heads/main/apis.yml
+      - name: Varnish
+        url: https://raw.githubusercontent.com/api-evangelist/varnish/refs/heads/main/apis.yml
   - name: Change Log
     skill: change-log
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Announcekit
+        url: https://raw.githubusercontent.com/api-evangelist/announcekit/refs/heads/main/apis.yml
+      - name: Beamer
+        url: https://raw.githubusercontent.com/api-evangelist/beamer/refs/heads/main/apis.yml
+      - name: Changelog
+        url: https://raw.githubusercontent.com/api-evangelist/changelog/refs/heads/main/apis.yml
+      - name: Changelog Md
+        url: https://raw.githubusercontent.com/api-evangelist/changelog-md/refs/heads/main/apis.yml
+      - name: Launchnotes
+        url: https://raw.githubusercontent.com/api-evangelist/launchnotes/refs/heads/main/apis.yml
   - name: Clients
     skill: clients
     updated: '2026-03-27'
-    description: >-
-      API clients are tools, libraries, and extensions that enable developers to
-      send HTTP requests, test APIs, and consume API services. This includes GUI
-      desktop clients like Postman, Insomnia, and Bruno, CLI tools like curl and
-      HTTPie, IDE extensions like Thunder Client and REST Client, and HTTP
-      libraries like Axios, Requests, and OkHttp for programmatic API
-      consumption across multiple languages and platforms.
+    description: API clients are tools, libraries, and extensions that enable developers to send HTTP requests, test APIs, and consume API services. This includes GUI desktop clients like Postman, Insomnia,
+      and Bruno, CLI tools like curl and HTTPie, IDE extensions like Thunder Client and REST Client, and HTTP libraries like Axios, Requests, and OkHttp for programmatic API consumption across multiple
+      languages and platforms.
     repos:
       - name: API Dash
         url: https://raw.githubusercontent.com/api-evangelist/api-dash/refs/heads/main/apis.yml
@@ -378,14 +449,9 @@ capabilities:
   - name: Command Line Interface
     skill: cli
     updated: '2026-03-27'
-    description: >-
-      API command line interfaces are terminal-based tools that let developers
-      interact with, test, manage, and automate APIs from the shell. This
-      includes general-purpose HTTP clients like curl and HTTPie, API-specific
-      CLIs from cloud providers and SaaS platforms, specification linting and
-      validation CLIs, and infrastructure management tools. CLIs are essential
-      for scripting, CI/CD pipelines, local development, and automation
-      workflows across the API lifecycle.
+    description: API command line interfaces are terminal-based tools that let developers interact with, test, manage, and automate APIs from the shell. This includes general-purpose HTTP clients like curl
+      and HTTPie, API-specific CLIs from cloud providers and SaaS platforms, specification linting and validation CLIs, and infrastructure management tools. CLIs are essential for scripting, CI/CD pipelines,
+      local development, and automation workflows across the API lifecycle.
     repos:
       - name: API Dash
         url: https://raw.githubusercontent.com/api-evangelist/api-dash/refs/heads/main/apis.yml
@@ -459,21 +525,31 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/xh/refs/heads/main/apis.yml
   - name: Communications
     skill: communications
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Amazon Ses
+        url: https://raw.githubusercontent.com/api-evangelist/amazon-ses/refs/heads/main/apis.yml
+      - name: Amazon Sns
+        url: https://raw.githubusercontent.com/api-evangelist/amazon-sns/refs/heads/main/apis.yml
+      - name: Bandwidth
+        url: https://raw.githubusercontent.com/api-evangelist/bandwidth/refs/heads/main/apis.yml
+      - name: Mailchimp
+        url: https://raw.githubusercontent.com/api-evangelist/mailchimp/refs/heads/main/apis.yml
+      - name: Messagebird
+        url: https://raw.githubusercontent.com/api-evangelist/messagebird/refs/heads/main/apis.yml
+      - name: Sendgrid
+        url: https://raw.githubusercontent.com/api-evangelist/sendgrid/refs/heads/main/apis.yml
+      - name: Twilio
+        url: https://raw.githubusercontent.com/api-evangelist/twilio/refs/heads/main/apis.yml
+      - name: Vonage
+        url: https://raw.githubusercontent.com/api-evangelist/vonage/refs/heads/main/apis.yml
   - name: Containers
     skill: containers
     updated: '2026-03-27'
-    description: >-
-      Containers package applications and their dependencies into lightweight,
-      portable units that run consistently across environments. The container
-      ecosystem spans runtimes that execute containers, orchestrators that manage
-      them at scale, registries that store and distribute images, build tools
-      that create images from source code, security scanners that detect
-      vulnerabilities, networking plugins that connect containers, and standards
-      bodies like OCI that ensure interoperability. Cloud providers offer managed
-      container services for running workloads without managing infrastructure,
-      while GitOps tools automate deployment from version-controlled
-      declarations.
+    description: Containers package applications and their dependencies into lightweight, portable units that run consistently across environments. The container ecosystem spans runtimes that execute containers,
+      orchestrators that manage them at scale, registries that store and distribute images, build tools that create images from source code, security scanners that detect vulnerabilities, networking plugins
+      that connect containers, and standards bodies like OCI that ensure interoperability. Cloud providers offer managed container services for running workloads without managing infrastructure, while GitOps
+      tools automate deployment from version-controlled declarations.
     repos:
       - name: Amazon ECR
         url: https://raw.githubusercontent.com/api-evangelist/amazon-ecr/refs/heads/main/apis.yml
@@ -627,21 +703,76 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/youki/refs/heads/main/apis.yml
   - name: Database
     skill: database
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Cockroach Labs
+        url: https://raw.githubusercontent.com/api-evangelist/cockroach-labs/refs/heads/main/apis.yml
+      - name: Cockroachdb
+        url: https://raw.githubusercontent.com/api-evangelist/cockroachdb/refs/heads/main/apis.yml
+      - name: Dreamfactory
+        url: https://raw.githubusercontent.com/api-evangelist/dreamfactory/refs/heads/main/apis.yml
+      - name: Fauna
+        url: https://raw.githubusercontent.com/api-evangelist/fauna/refs/heads/main/apis.yml
+      - name: Hasura
+        url: https://raw.githubusercontent.com/api-evangelist/hasura/refs/heads/main/apis.yml
+      - name: Neon
+        url: https://raw.githubusercontent.com/api-evangelist/neon/refs/heads/main/apis.yml
+      - name: Planetscale
+        url: https://raw.githubusercontent.com/api-evangelist/planetscale/refs/heads/main/apis.yml
+      - name: Prisma
+        url: https://raw.githubusercontent.com/api-evangelist/prisma/refs/heads/main/apis.yml
+      - name: Prisma Cloud
+        url: https://raw.githubusercontent.com/api-evangelist/prisma-cloud/refs/heads/main/apis.yml
+      - name: Prismatic
+        url: https://raw.githubusercontent.com/api-evangelist/prismatic/refs/heads/main/apis.yml
+      - name: Strapi
+        url: https://raw.githubusercontent.com/api-evangelist/strapi/refs/heads/main/apis.yml
+      - name: Supabase
+        url: https://raw.githubusercontent.com/api-evangelist/supabase/refs/heads/main/apis.yml
   - name: Deployment
     skill: deployment
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Argo CD
+        url: https://raw.githubusercontent.com/api-evangelist/argo-cd/refs/heads/main/apis.yml
+      - name: Circleci
+        url: https://raw.githubusercontent.com/api-evangelist/circleci/refs/heads/main/apis.yml
+      - name: Flux
+        url: https://raw.githubusercontent.com/api-evangelist/flux/refs/heads/main/apis.yml
+      - name: Fly IO
+        url: https://raw.githubusercontent.com/api-evangelist/fly-io/refs/heads/main/apis.yml
+      - name: Github Actions
+        url: https://raw.githubusercontent.com/api-evangelist/github-actions/refs/heads/main/apis.yml
+      - name: Gitlab
+        url: https://raw.githubusercontent.com/api-evangelist/gitlab/refs/heads/main/apis.yml
+      - name: Gitlab Container Registry
+        url: https://raw.githubusercontent.com/api-evangelist/gitlab-container-registry/refs/heads/main/apis.yml
+      - name: Harness
+        url: https://raw.githubusercontent.com/api-evangelist/harness/refs/heads/main/apis.yml
+      - name: Harness Cloud Cost
+        url: https://raw.githubusercontent.com/api-evangelist/harness-cloud-cost/refs/heads/main/apis.yml
+      - name: Jenkins
+        url: https://raw.githubusercontent.com/api-evangelist/jenkins/refs/heads/main/apis.yml
+      - name: Jenkins Pipeline
+        url: https://raw.githubusercontent.com/api-evangelist/jenkins-pipeline/refs/heads/main/apis.yml
+      - name: Netlify
+        url: https://raw.githubusercontent.com/api-evangelist/netlify/refs/heads/main/apis.yml
+      - name: Railway
+        url: https://raw.githubusercontent.com/api-evangelist/railway/refs/heads/main/apis.yml
+      - name: Render
+        url: https://raw.githubusercontent.com/api-evangelist/render/refs/heads/main/apis.yml
+      - name: Spinnaker
+        url: https://raw.githubusercontent.com/api-evangelist/spinnaker/refs/heads/main/apis.yml
+      - name: Vercel
+        url: https://raw.githubusercontent.com/api-evangelist/vercel/refs/heads/main/apis.yml
+      - name: Webflux
+        url: https://raw.githubusercontent.com/api-evangelist/webflux/refs/heads/main/apis.yml
   - name: Design
     skill: design
     updated: '2026-03-27'
-    description: >-
-      API design covers the tools, specification languages, and platforms used
-      to model, author, lint, and govern API interfaces before implementation.
-      This includes visual API editors, specification languages like OpenAPI,
-      AsyncAPI, GraphQL SDL, and gRPC/Protobuf, linting and style guide
-      enforcement tools, schema registries, governance platforms, and
-      design-first frameworks that generate code and documentation from
-      API descriptions.
+    description: API design covers the tools, specification languages, and platforms used to model, author, lint, and govern API interfaces before implementation. This includes visual API editors, specification
+      languages like OpenAPI, AsyncAPI, GraphQL SDL, and gRPC/Protobuf, linting and style guide enforcement tools, schema registries, governance platforms, and design-first frameworks that generate code
+      and documentation from API descriptions.
     repos:
       - name: API Blueprint
         url: https://raw.githubusercontent.com/api-evangelist/api-blueprint/refs/heads/main/apis.yml
@@ -687,20 +818,55 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/zally/refs/heads/main/apis.yml
   - name: Discovery
     skill: discovery
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Apis IO
+        url: https://raw.githubusercontent.com/api-evangelist/apis-io/refs/heads/main/apis.yml
+      - name: Apis Json
+        url: https://raw.githubusercontent.com/api-evangelist/apis-json/refs/heads/main/apis.yml
+      - name: Backstage
+        url: https://raw.githubusercontent.com/api-evangelist/backstage/refs/heads/main/apis.yml
+      - name: Bump Sh
+        url: https://raw.githubusercontent.com/api-evangelist/bump-sh/refs/heads/main/apis.yml
+      - name: Optic
+        url: https://raw.githubusercontent.com/api-evangelist/optic/refs/heads/main/apis.yml
+      - name: Opticodds
+        url: https://raw.githubusercontent.com/api-evangelist/opticodds/refs/heads/main/apis.yml
+      - name: Port
+        url: https://raw.githubusercontent.com/api-evangelist/port/refs/heads/main/apis.yml
+      - name: Rapidapi
+        url: https://raw.githubusercontent.com/api-evangelist/rapidapi/refs/heads/main/apis.yml
+      - name: Readme
+        url: https://raw.githubusercontent.com/api-evangelist/readme/refs/heads/main/apis.yml
+      - name: Swaggerhub
+        url: https://raw.githubusercontent.com/api-evangelist/swaggerhub/refs/heads/main/apis.yml
   - name: DNS
     skill: dns
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Amazon Route 53
+        url: https://raw.githubusercontent.com/api-evangelist/amazon-route-53/refs/heads/main/apis.yml
+      - name: Amazon Route53 Resolver
+        url: https://raw.githubusercontent.com/api-evangelist/amazon-route53-resolver/refs/heads/main/apis.yml
+      - name: Coredns
+        url: https://raw.githubusercontent.com/api-evangelist/coredns/refs/heads/main/apis.yml
+      - name: DNS
+        url: https://raw.githubusercontent.com/api-evangelist/dns/refs/heads/main/apis.yml
+      - name: DNS Coffee
+        url: https://raw.githubusercontent.com/api-evangelist/dns-coffee/refs/heads/main/apis.yml
+      - name: Dnsimple
+        url: https://raw.githubusercontent.com/api-evangelist/dnsimple/refs/heads/main/apis.yml
+      - name: Godaddy
+        url: https://raw.githubusercontent.com/api-evangelist/godaddy/refs/heads/main/apis.yml
+      - name: Google Cloud DNS
+        url: https://raw.githubusercontent.com/api-evangelist/google-cloud-dns/refs/heads/main/apis.yml
+      - name: Infoblox
+        url: https://raw.githubusercontent.com/api-evangelist/infoblox/refs/heads/main/apis.yml
   - name: Documentation
     skill: documentation
     updated: '2026-03-27'
-    description: >-
-      API documentation covers the tools, frameworks, and platforms used to
-      produce, publish, and maintain human-readable and machine-readable
-      references for APIs. This includes OpenAPI renderers, static site
-      generators, developer portals, linting and style-guide tools, and
-      hosted documentation platforms. Good documentation is the primary driver
-      of API adoption and developer experience.
+    description: API documentation covers the tools, frameworks, and platforms used to produce, publish, and maintain human-readable and machine-readable references for APIs. This includes OpenAPI renderers,
+      static site generators, developer portals, linting and style-guide tools, and hosted documentation platforms. Good documentation is the primary driver of API adoption and developer experience.
     repos:
       - name: ApiNotes
         url: https://raw.githubusercontent.com/api-evangelist/apinotes/refs/heads/main/apis.yml
@@ -786,22 +952,42 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/zudoku/refs/heads/main/apis.yml
   - name: Embeddable
     skill: embeddable
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Calendly
+        url: https://raw.githubusercontent.com/api-evangelist/calendly/refs/heads/main/apis.yml
+      - name: Intercom
+        url: https://raw.githubusercontent.com/api-evangelist/intercom/refs/heads/main/apis.yml
+      - name: Mapbox
+        url: https://raw.githubusercontent.com/api-evangelist/mapbox/refs/heads/main/apis.yml
+      - name: Plaid
+        url: https://raw.githubusercontent.com/api-evangelist/plaid/refs/heads/main/apis.yml
   - name: Encryption
     skill: encryption
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Cert Manager
+        url: https://raw.githubusercontent.com/api-evangelist/cert-manager/refs/heads/main/apis.yml
+      - name: Google Cloud Kms
+        url: https://raw.githubusercontent.com/api-evangelist/google-cloud-kms/refs/heads/main/apis.yml
+      - name: Google Vault
+        url: https://raw.githubusercontent.com/api-evangelist/google-vault/refs/heads/main/apis.yml
+      - name: Hashicorp Vault
+        url: https://raw.githubusercontent.com/api-evangelist/hashicorp-vault/refs/heads/main/apis.yml
+      - name: Hvault
+        url: https://raw.githubusercontent.com/api-evangelist/hvault/refs/heads/main/apis.yml
+      - name: Lets Encrypt
+        url: https://raw.githubusercontent.com/api-evangelist/lets-encrypt/refs/heads/main/apis.yml
+      - name: Microsoft Azure Key Vault
+        url: https://raw.githubusercontent.com/api-evangelist/microsoft-azure-key-vault/refs/heads/main/apis.yml
+      - name: Vault
+        url: https://raw.githubusercontent.com/api-evangelist/vault/refs/heads/main/apis.yml
   - name: Gateways
     skill: gateway
     updated: '2026-03-27'
-    description: >-
-      API gateways are the primary entry point for API traffic, sitting between
-      clients and backend services to handle routing, authentication, rate
-      limiting, transformation, and observability. They range from open-source
-      reverse proxies and cloud-native ingress controllers to full enterprise
-      API management platforms with developer portals, analytics, and
-      monetization. Service meshes extend gateway concepts to service-to-service
-      communication inside the cluster, while AI gateways add model routing and
-      governance for LLM workloads.
+    description: API gateways are the primary entry point for API traffic, sitting between clients and backend services to handle routing, authentication, rate limiting, transformation, and observability.
+      They range from open-source reverse proxies and cloud-native ingress controllers to full enterprise API management platforms with developer portals, analytics, and monetization. Service meshes extend
+      gateway concepts to service-to-service communication inside the cluster, while AI gateways add model routing and governance for LLM workloads.
     repos:
       - name: AgentGateway
         url: https://raw.githubusercontent.com/api-evangelist/agentgateway/refs/heads/main/apis.yml
@@ -901,51 +1087,236 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/zuul/refs/heads/main/apis.yml
   - name: Hypermedia
     skill: hypermedia
-    updated: '2026-01-01'
+    updated: '2026-03-29'
   - name: IDE
     skill: ide
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Eclipse
+        url: https://raw.githubusercontent.com/api-evangelist/eclipse/refs/heads/main/apis.yml
+      - name: Jetbrains
+        url: https://raw.githubusercontent.com/api-evangelist/jetbrains/refs/heads/main/apis.yml
+      - name: Replit
+        url: https://raw.githubusercontent.com/api-evangelist/replit/refs/heads/main/apis.yml
+      - name: Vs Code Marketplace
+        url: https://raw.githubusercontent.com/api-evangelist/vs-code-marketplace/refs/heads/main/apis.yml
   - name: Industrial
     skill: industrial
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Honeywell
+        url: https://raw.githubusercontent.com/api-evangelist/honeywell/refs/heads/main/apis.yml
+      - name: Ptc Thingworx
+        url: https://raw.githubusercontent.com/api-evangelist/ptc-thingworx/refs/heads/main/apis.yml
+      - name: Rockwell Automation
+        url: https://raw.githubusercontent.com/api-evangelist/rockwell-automation/refs/heads/main/apis.yml
+      - name: Rockwell Collins
+        url: https://raw.githubusercontent.com/api-evangelist/rockwell-collins/refs/heads/main/apis.yml
+      - name: Rockwell Factorytalk
+        url: https://raw.githubusercontent.com/api-evangelist/rockwell-factorytalk/refs/heads/main/apis.yml
+      - name: Scada
+        url: https://raw.githubusercontent.com/api-evangelist/scada/refs/heads/main/apis.yml
+      - name: Schneider Electric Exchange
+        url: https://raw.githubusercontent.com/api-evangelist/schneider-electric-exchange/refs/heads/main/apis.yml
+      - name: Siemens
+        url: https://raw.githubusercontent.com/api-evangelist/siemens/refs/heads/main/apis.yml
+      - name: Siemens Mindsphere
+        url: https://raw.githubusercontent.com/api-evangelist/siemens-mindsphere/refs/heads/main/apis.yml
   - name: Integrations
     skill: integrations
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Airbyte
+        url: https://raw.githubusercontent.com/api-evangelist/airbyte/refs/heads/main/apis.yml
+      - name: Boomi
+        url: https://raw.githubusercontent.com/api-evangelist/boomi/refs/heads/main/apis.yml
+      - name: Celigo
+        url: https://raw.githubusercontent.com/api-evangelist/celigo/refs/heads/main/apis.yml
+      - name: Fivetran
+        url: https://raw.githubusercontent.com/api-evangelist/fivetran/refs/heads/main/apis.yml
+      - name: Jitterbit
+        url: https://raw.githubusercontent.com/api-evangelist/jitterbit/refs/heads/main/apis.yml
+      - name: Make
+        url: https://raw.githubusercontent.com/api-evangelist/make/refs/heads/main/apis.yml
+      - name: Mulesoft
+        url: https://raw.githubusercontent.com/api-evangelist/mulesoft/refs/heads/main/apis.yml
+      - name: Schema Stitching
+        url: https://raw.githubusercontent.com/api-evangelist/schema-stitching/refs/heads/main/apis.yml
+      - name: Segment
+        url: https://raw.githubusercontent.com/api-evangelist/segment/refs/heads/main/apis.yml
+      - name: Snaplogic
+        url: https://raw.githubusercontent.com/api-evangelist/snaplogic/refs/heads/main/apis.yml
+      - name: Stitch
+        url: https://raw.githubusercontent.com/api-evangelist/stitch/refs/heads/main/apis.yml
+      - name: Tray IO
+        url: https://raw.githubusercontent.com/api-evangelist/tray-io/refs/heads/main/apis.yml
+      - name: Workato
+        url: https://raw.githubusercontent.com/api-evangelist/workato/refs/heads/main/apis.yml
+      - name: Zapier
+        url: https://raw.githubusercontent.com/api-evangelist/zapier/refs/heads/main/apis.yml
   - name: Internet of Things
     skill: internet-of-things
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Amazon IOT Core
+        url: https://raw.githubusercontent.com/api-evangelist/amazon-iot-core/refs/heads/main/apis.yml
+      - name: Amazon IOT Device Defender
+        url: https://raw.githubusercontent.com/api-evangelist/amazon-iot-device-defender/refs/heads/main/apis.yml
+      - name: Amazon IOT Device Management
+        url: https://raw.githubusercontent.com/api-evangelist/amazon-iot-device-management/refs/heads/main/apis.yml
+      - name: Amazon IOT Events
+        url: https://raw.githubusercontent.com/api-evangelist/amazon-iot-events/refs/heads/main/apis.yml
+      - name: Amazon IOT Fleetwise
+        url: https://raw.githubusercontent.com/api-evangelist/amazon-iot-fleetwise/refs/heads/main/apis.yml
+      - name: Amazon IOT Greengrass
+        url: https://raw.githubusercontent.com/api-evangelist/amazon-iot-greengrass/refs/heads/main/apis.yml
+      - name: Amazon IOT Sitewise
+        url: https://raw.githubusercontent.com/api-evangelist/amazon-iot-sitewise/refs/heads/main/apis.yml
+      - name: Amazon IOT Twinmaker
+        url: https://raw.githubusercontent.com/api-evangelist/amazon-iot-twinmaker/refs/heads/main/apis.yml
+      - name: Kiota
+        url: https://raw.githubusercontent.com/api-evangelist/kiota/refs/heads/main/apis.yml
+      - name: Marriott International
+        url: https://raw.githubusercontent.com/api-evangelist/marriott-international/refs/heads/main/apis.yml
+      - name: Riot Games
+        url: https://raw.githubusercontent.com/api-evangelist/riot-games/refs/heads/main/apis.yml
+      - name: Tuya
+        url: https://raw.githubusercontent.com/api-evangelist/tuya/refs/heads/main/apis.yml
   - name: Issues
     skill: issues
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Asana
+        url: https://raw.githubusercontent.com/api-evangelist/asana/refs/heads/main/apis.yml
+      - name: Atlassian Jira
+        url: https://raw.githubusercontent.com/api-evangelist/atlassian-jira/refs/heads/main/apis.yml
+      - name: Clickup
+        url: https://raw.githubusercontent.com/api-evangelist/clickup/refs/heads/main/apis.yml
+      - name: Jira
+        url: https://raw.githubusercontent.com/api-evangelist/jira/refs/heads/main/apis.yml
+      - name: Linear
+        url: https://raw.githubusercontent.com/api-evangelist/linear/refs/heads/main/apis.yml
+      - name: Monday Com
+        url: https://raw.githubusercontent.com/api-evangelist/monday-com/refs/heads/main/apis.yml
+      - name: Notion
+        url: https://raw.githubusercontent.com/api-evangelist/notion/refs/heads/main/apis.yml
+      - name: Sentry
+        url: https://raw.githubusercontent.com/api-evangelist/sentry/refs/heads/main/apis.yml
+      - name: Sentry Insurance Group
+        url: https://raw.githubusercontent.com/api-evangelist/sentry-insurance-group/refs/heads/main/apis.yml
+      - name: Sentry System
+        url: https://raw.githubusercontent.com/api-evangelist/sentry-system/refs/heads/main/apis.yml
+      - name: Trello
+        url: https://raw.githubusercontent.com/api-evangelist/trello/refs/heads/main/apis.yml
   - name: Licensing
     skill: licensing
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Amazon License Manager
+        url: https://raw.githubusercontent.com/api-evangelist/amazon-license-manager/refs/heads/main/apis.yml
+      - name: License Md
+        url: https://raw.githubusercontent.com/api-evangelist/license-md/refs/heads/main/apis.yml
   - name: Logging
     skill: logging
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Datadog
+        url: https://raw.githubusercontent.com/api-evangelist/datadog/refs/heads/main/apis.yml
+      - name: Datadog Apm
+        url: https://raw.githubusercontent.com/api-evangelist/datadog-apm/refs/heads/main/apis.yml
+      - name: Elastic
+        url: https://raw.githubusercontent.com/api-evangelist/elastic/refs/heads/main/apis.yml
+      - name: Elasticsearch
+        url: https://raw.githubusercontent.com/api-evangelist/elasticsearch/refs/heads/main/apis.yml
+      - name: Fluentd
+        url: https://raw.githubusercontent.com/api-evangelist/fluentd/refs/heads/main/apis.yml
+      - name: Graylog
+        url: https://raw.githubusercontent.com/api-evangelist/graylog/refs/heads/main/apis.yml
+      - name: Logstash
+        url: https://raw.githubusercontent.com/api-evangelist/logstash/refs/heads/main/apis.yml
+      - name: Loki
+        url: https://raw.githubusercontent.com/api-evangelist/loki/refs/heads/main/apis.yml
+      - name: New Relic
+        url: https://raw.githubusercontent.com/api-evangelist/new-relic/refs/heads/main/apis.yml
+      - name: Splunk
+        url: https://raw.githubusercontent.com/api-evangelist/splunk/refs/heads/main/apis.yml
+      - name: Sumo Logic
+        url: https://raw.githubusercontent.com/api-evangelist/sumo-logic/refs/heads/main/apis.yml
   - name: Low Hanging Fruit
     skill: low-hanging-fruit
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Apiclarity
+        url: https://raw.githubusercontent.com/api-evangelist/apiclarity/refs/heads/main/apis.yml
+      - name: Optic
+        url: https://raw.githubusercontent.com/api-evangelist/optic/refs/heads/main/apis.yml
+      - name: Redocly
+        url: https://raw.githubusercontent.com/api-evangelist/redocly/refs/heads/main/apis.yml
+      - name: Spectral
+        url: https://raw.githubusercontent.com/api-evangelist/spectral/refs/heads/main/apis.yml
+      - name: Vacuum
+        url: https://raw.githubusercontent.com/api-evangelist/vacuum/refs/heads/main/apis.yml
+      - name: Zally
+        url: https://raw.githubusercontent.com/api-evangelist/zally/refs/heads/main/apis.yml
   - name: Machine Learning
     skill: machine-learning
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Amazon Sagemaker
+        url: https://raw.githubusercontent.com/api-evangelist/amazon-sagemaker/refs/heads/main/apis.yml
+      - name: Anthropic
+        url: https://raw.githubusercontent.com/api-evangelist/anthropic/refs/heads/main/apis.yml
+      - name: Cohere
+        url: https://raw.githubusercontent.com/api-evangelist/cohere/refs/heads/main/apis.yml
+      - name: Google Vertex AI
+        url: https://raw.githubusercontent.com/api-evangelist/google-vertex-ai/refs/heads/main/apis.yml
+      - name: Hugging Face
+        url: https://raw.githubusercontent.com/api-evangelist/hugging-face/refs/heads/main/apis.yml
+      - name: Hugging Face Transformers
+        url: https://raw.githubusercontent.com/api-evangelist/hugging-face-transformers/refs/heads/main/apis.yml
+      - name: Microsoft Azure Openai
+        url: https://raw.githubusercontent.com/api-evangelist/microsoft-azure-openai/refs/heads/main/apis.yml
+      - name: Openai
+        url: https://raw.githubusercontent.com/api-evangelist/openai/refs/heads/main/apis.yml
+      - name: Openai Apis
+        url: https://raw.githubusercontent.com/api-evangelist/openai-apis/refs/heads/main/apis.yml
+      - name: Replicate
+        url: https://raw.githubusercontent.com/api-evangelist/replicate/refs/heads/main/apis.yml
   - name: Management
     skill: management
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Apigee
+        url: https://raw.githubusercontent.com/api-evangelist/apigee/refs/heads/main/apis.yml
+      - name: AWS API Gateway
+        url: https://raw.githubusercontent.com/api-evangelist/aws-api-gateway/refs/heads/main/apis.yml
+      - name: Gloo
+        url: https://raw.githubusercontent.com/api-evangelist/gloo/refs/heads/main/apis.yml
+      - name: Google Apigee
+        url: https://raw.githubusercontent.com/api-evangelist/google-apigee/refs/heads/main/apis.yml
+      - name: Gravitee
+        url: https://raw.githubusercontent.com/api-evangelist/gravitee/refs/heads/main/apis.yml
+      - name: Kong
+        url: https://raw.githubusercontent.com/api-evangelist/kong/refs/heads/main/apis.yml
+      - name: Microsoft Azure API Management
+        url: https://raw.githubusercontent.com/api-evangelist/microsoft-azure-api-management/refs/heads/main/apis.yml
+      - name: Mulesoft
+        url: https://raw.githubusercontent.com/api-evangelist/mulesoft/refs/heads/main/apis.yml
+      - name: Red Hat 3scale
+        url: https://raw.githubusercontent.com/api-evangelist/red-hat-3scale/refs/heads/main/apis.yml
+      - name: Solo IO
+        url: https://raw.githubusercontent.com/api-evangelist/solo-io/refs/heads/main/apis.yml
+      - name: Tyk
+        url: https://raw.githubusercontent.com/api-evangelist/tyk/refs/heads/main/apis.yml
+      - name: Wso2
+        url: https://raw.githubusercontent.com/api-evangelist/wso2/refs/heads/main/apis.yml
   - name: Microservices
     skill: microservices
     updated: '2026-03-27'
-    description: >-
-      Microservices architecture decomposes applications into small, independent
-      services that communicate over APIs and can be developed, deployed, and
-      scaled independently. The ecosystem includes application frameworks that
-      simplify building services, service discovery tools that enable dynamic
-      routing, resilience libraries that handle failures gracefully, workflow
-      engines that coordinate multi-step business processes, event-driven
-      messaging systems that decouple producers from consumers, and
-      observability platforms that provide distributed tracing across service
-      boundaries. Patterns like circuit breakers, sagas, CQRS, and event
-      sourcing address the inherent complexity of distributed systems.
+    description: Microservices architecture decomposes applications into small, independent services that communicate over APIs and can be developed, deployed, and scaled independently. The ecosystem includes
+      application frameworks that simplify building services, service discovery tools that enable dynamic routing, resilience libraries that handle failures gracefully, workflow engines that coordinate
+      multi-step business processes, event-driven messaging systems that decouple producers from consumers, and observability platforms that provide distributed tracing across service boundaries. Patterns
+      like circuit breakers, sagas, CQRS, and event sourcing address the inherent complexity of distributed systems.
     repos:
       - name: Akka
         url: https://raw.githubusercontent.com/api-evangelist/akka/refs/heads/main/apis.yml
@@ -1107,28 +1478,80 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/zipkin/refs/heads/main/apis.yml
   - name: Migration
     skill: migration
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Amazon Application Migration Service
+        url: https://raw.githubusercontent.com/api-evangelist/amazon-application-migration-service/refs/heads/main/apis.yml
+      - name: Amazon Migration Hub
+        url: https://raw.githubusercontent.com/api-evangelist/amazon-migration-hub/refs/heads/main/apis.yml
+      - name: Google Cloud Migration Center
+        url: https://raw.githubusercontent.com/api-evangelist/google-cloud-migration-center/refs/heads/main/apis.yml
+      - name: Microsoft Azure Migrate
+        url: https://raw.githubusercontent.com/api-evangelist/microsoft-azure-migrate/refs/heads/main/apis.yml
+      - name: Us Citizenship And Immigration Services
+        url: https://raw.githubusercontent.com/api-evangelist/us-citizenship-and-immigration-services/refs/heads/main/apis.yml
   - name: Monetization
     skill: monetization
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Amberflo
+        url: https://raw.githubusercontent.com/api-evangelist/amberflo/refs/heads/main/apis.yml
+      - name: Blobr
+        url: https://raw.githubusercontent.com/api-evangelist/blobr/refs/heads/main/apis.yml
+      - name: Lago
+        url: https://raw.githubusercontent.com/api-evangelist/lago/refs/heads/main/apis.yml
+      - name: Moesif
+        url: https://raw.githubusercontent.com/api-evangelist/moesif/refs/heads/main/apis.yml
+      - name: Zuplo
+        url: https://raw.githubusercontent.com/api-evangelist/zuplo/refs/heads/main/apis.yml
   - name: Monitoring
     skill: monitoring
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Amazon Managed Grafana
+        url: https://raw.githubusercontent.com/api-evangelist/amazon-managed-grafana/refs/heads/main/apis.yml
+      - name: Amazon Managed Prometheus
+        url: https://raw.githubusercontent.com/api-evangelist/amazon-managed-prometheus/refs/heads/main/apis.yml
+      - name: Checkly
+        url: https://raw.githubusercontent.com/api-evangelist/checkly/refs/heads/main/apis.yml
+      - name: Dynatrace
+        url: https://raw.githubusercontent.com/api-evangelist/dynatrace/refs/heads/main/apis.yml
+      - name: Grafana
+        url: https://raw.githubusercontent.com/api-evangelist/grafana/refs/heads/main/apis.yml
+      - name: Grafana Tempo
+        url: https://raw.githubusercontent.com/api-evangelist/grafana-tempo/refs/heads/main/apis.yml
+      - name: Prometheus
+        url: https://raw.githubusercontent.com/api-evangelist/prometheus/refs/heads/main/apis.yml
   - name: Network
     skill: network
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Cilium
+        url: https://raw.githubusercontent.com/api-evangelist/cilium/refs/heads/main/apis.yml
+      - name: Citrix
+        url: https://raw.githubusercontent.com/api-evangelist/citrix/refs/heads/main/apis.yml
+      - name: Citrix Netscaler
+        url: https://raw.githubusercontent.com/api-evangelist/citrix-netscaler/refs/heads/main/apis.yml
+      - name: Envoy
+        url: https://raw.githubusercontent.com/api-evangelist/envoy/refs/heads/main/apis.yml
+      - name: F5
+        url: https://raw.githubusercontent.com/api-evangelist/f5/refs/heads/main/apis.yml
+      - name: Haproxy
+        url: https://raw.githubusercontent.com/api-evangelist/haproxy/refs/heads/main/apis.yml
+      - name: Nginx
+        url: https://raw.githubusercontent.com/api-evangelist/nginx/refs/heads/main/apis.yml
+      - name: Nginx Service Mesh
+        url: https://raw.githubusercontent.com/api-evangelist/nginx-service-mesh/refs/heads/main/apis.yml
+      - name: Traefik
+        url: https://raw.githubusercontent.com/api-evangelist/traefik/refs/heads/main/apis.yml
+      - name: Traefik Mesh
+        url: https://raw.githubusercontent.com/api-evangelist/traefik-mesh/refs/heads/main/apis.yml
   - name: Observability
     skill: observability
     updated: '2026-03-27'
-    description: >-
-      API observability encompasses the tools, platforms, and standards used
-      to monitor, trace, log, and analyze API behavior in production. This
-      includes application performance monitoring (APM) platforms, distributed
-      tracing systems, log aggregation pipelines, metrics collection and
-      visualization, API-specific analytics and monitoring tools, uptime and
-      status page services, and error tracking platforms. Observability is
-      essential for understanding API health, diagnosing issues, and ensuring
-      reliability at scale.
+    description: API observability encompasses the tools, platforms, and standards used to monitor, trace, log, and analyze API behavior in production. This includes application performance monitoring (APM)
+      platforms, distributed tracing systems, log aggregation pipelines, metrics collection and visualization, API-specific analytics and monitoring tools, uptime and status page services, and error tracking
+      platforms. Observability is essential for understanding API health, diagnosing issues, and ensuring reliability at scale.
     repos:
       - name: AppDynamics
         url: https://raw.githubusercontent.com/api-evangelist/appdynamics/refs/heads/main/apis.yml
@@ -1200,31 +1623,89 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/zipkin/refs/heads/main/apis.yml
   - name: Orchestration
     skill: orchestration
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Airflow
+        url: https://raw.githubusercontent.com/api-evangelist/airflow/refs/heads/main/apis.yml
+      - name: Amazon Step Functions
+        url: https://raw.githubusercontent.com/api-evangelist/amazon-step-functions/refs/heads/main/apis.yml
+      - name: Apache Airflow
+        url: https://raw.githubusercontent.com/api-evangelist/apache-airflow/refs/heads/main/apis.yml
+      - name: Argo Workflows
+        url: https://raw.githubusercontent.com/api-evangelist/argo-workflows/refs/heads/main/apis.yml
+      - name: AWS Step Functions
+        url: https://raw.githubusercontent.com/api-evangelist/aws-step-functions/refs/heads/main/apis.yml
+      - name: Cadence
+        url: https://raw.githubusercontent.com/api-evangelist/cadence/refs/heads/main/apis.yml
+      - name: Camunda
+        url: https://raw.githubusercontent.com/api-evangelist/camunda/refs/heads/main/apis.yml
+      - name: Conductor
+        url: https://raw.githubusercontent.com/api-evangelist/conductor/refs/heads/main/apis.yml
+      - name: Dagster
+        url: https://raw.githubusercontent.com/api-evangelist/dagster/refs/heads/main/apis.yml
+      - name: N8n
+        url: https://raw.githubusercontent.com/api-evangelist/n8n/refs/heads/main/apis.yml
+      - name: Netflix Conductor
+        url: https://raw.githubusercontent.com/api-evangelist/netflix-conductor/refs/heads/main/apis.yml
+      - name: On Semiconductor
+        url: https://raw.githubusercontent.com/api-evangelist/on-semiconductor/refs/heads/main/apis.yml
+      - name: Orkes
+        url: https://raw.githubusercontent.com/api-evangelist/orkes/refs/heads/main/apis.yml
+      - name: Prefect
+        url: https://raw.githubusercontent.com/api-evangelist/prefect/refs/heads/main/apis.yml
+      - name: Step Functions
+        url: https://raw.githubusercontent.com/api-evangelist/step-functions/refs/heads/main/apis.yml
+      - name: Temporal
+        url: https://raw.githubusercontent.com/api-evangelist/temporal/refs/heads/main/apis.yml
+      - name: Zeebe
+        url: https://raw.githubusercontent.com/api-evangelist/zeebe/refs/heads/main/apis.yml
   - name: Partners
     skill: partners
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Partnerstack
+        url: https://raw.githubusercontent.com/api-evangelist/partnerstack/refs/heads/main/apis.yml
   - name: Performance
     skill: performance
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Apache Jmeter
+        url: https://raw.githubusercontent.com/api-evangelist/apache-jmeter/refs/heads/main/apis.yml
+      - name: Artillery
+        url: https://raw.githubusercontent.com/api-evangelist/artillery/refs/heads/main/apis.yml
+      - name: Gatling
+        url: https://raw.githubusercontent.com/api-evangelist/gatling/refs/heads/main/apis.yml
+      - name: Jmeter
+        url: https://raw.githubusercontent.com/api-evangelist/jmeter/refs/heads/main/apis.yml
+      - name: K6
+        url: https://raw.githubusercontent.com/api-evangelist/k6/refs/heads/main/apis.yml
+      - name: Locust
+        url: https://raw.githubusercontent.com/api-evangelist/locust/refs/heads/main/apis.yml
+      - name: Vegeta
+        url: https://raw.githubusercontent.com/api-evangelist/vegeta/refs/heads/main/apis.yml
   - name: Plans
     skill: plans
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Metronome
+        url: https://raw.githubusercontent.com/api-evangelist/metronome/refs/heads/main/apis.yml
+      - name: Orb
+        url: https://raw.githubusercontent.com/api-evangelist/orb/refs/heads/main/apis.yml
+      - name: Schematic
+        url: https://raw.githubusercontent.com/api-evangelist/schematic/refs/heads/main/apis.yml
+      - name: Stigg
+        url: https://raw.githubusercontent.com/api-evangelist/stigg/refs/heads/main/apis.yml
+      - name: Togai
+        url: https://raw.githubusercontent.com/api-evangelist/togai/refs/heads/main/apis.yml
   - name: Plugin
     skill: plugin
-    updated: '2026-01-01'
+    updated: '2026-03-29'
   - name: Portal
     skill: portal
     updated: '2026-03-27'
-    description: >-
-      API developer portals are the front door for API consumers, providing
-      self-service access to documentation, API keys, SDKs, interactive
-      consoles, usage analytics, and onboarding flows. They range from
-      dedicated portal platforms and gateway-bundled developer experiences
-      to documentation-as-portal tools, API marketplaces, and open source
-      frameworks. A great developer portal is the primary driver of API
-      adoption, reducing time-to-first-call and improving developer
-      satisfaction.
+    description: API developer portals are the front door for API consumers, providing self-service access to documentation, API keys, SDKs, interactive consoles, usage analytics, and onboarding flows.
+      They range from dedicated portal platforms and gateway-bundled developer experiences to documentation-as-portal tools, API marketplaces, and open source frameworks. A great developer portal is the
+      primary driver of API adoption, reducing time-to-first-call and improving developer satisfaction.
     repos:
       - name: API Layer
         url: https://raw.githubusercontent.com/api-evangelist/api-layer/refs/heads/main/apis.yml
@@ -1280,14 +1761,16 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/zuplo/refs/heads/main/apis.yml
   - name: Privacy
     skill: privacy
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Data Privacy Standards
+        url: https://raw.githubusercontent.com/api-evangelist/data-privacy-standards/refs/heads/main/apis.yml
+      - name: Privacy By Design
+        url: https://raw.githubusercontent.com/api-evangelist/privacy-by-design/refs/heads/main/apis.yml
   - name: Proxies
     skill: proxy
     updated: '2026-03-27'
-    description: >-
-      API proxies, reverse proxies, forward proxies, debugging proxies, caching
-      proxies, and proxy middleware tools used for traffic management, inspection,
-      and security across API ecosystems.
+    description: API proxies, reverse proxies, forward proxies, debugging proxies, caching proxies, and proxy middleware tools used for traffic management, inspection, and security across API ecosystems.
     repos:
       - name: Apache HTTP Server
         url: https://raw.githubusercontent.com/api-evangelist/apache-httpd/refs/heads/main/apis.yml
@@ -1345,25 +1828,59 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/whistle/refs/heads/main/apis.yml
   - name: Regulation
     skill: regulation
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Banking Regulation
+        url: https://raw.githubusercontent.com/api-evangelist/banking-regulation/refs/heads/main/apis.yml
+      - name: Basel Compliance
+        url: https://raw.githubusercontent.com/api-evangelist/basel-compliance/refs/heads/main/apis.yml
+      - name: Dot Regulations
+        url: https://raw.githubusercontent.com/api-evangelist/dot-regulations/refs/heads/main/apis.yml
+      - name: Fda Regulations
+        url: https://raw.githubusercontent.com/api-evangelist/fda-regulations/refs/heads/main/apis.yml
+      - name: Fhir
+        url: https://raw.githubusercontent.com/api-evangelist/fhir/refs/heads/main/apis.yml
+      - name: Financial Regulation
+        url: https://raw.githubusercontent.com/api-evangelist/financial-regulation/refs/heads/main/apis.yml
+      - name: Harbor Compliance
+        url: https://raw.githubusercontent.com/api-evangelist/harbor-compliance/refs/heads/main/apis.yml
+      - name: HL7 Fhir
+        url: https://raw.githubusercontent.com/api-evangelist/hl7-fhir/refs/heads/main/apis.yml
+      - name: Labvantage
+        url: https://raw.githubusercontent.com/api-evangelist/labvantage/refs/heads/main/apis.yml
+      - name: PCI Compliance
+        url: https://raw.githubusercontent.com/api-evangelist/pci-compliance/refs/heads/main/apis.yml
+      - name: Regulation
+        url: https://raw.githubusercontent.com/api-evangelist/regulation/refs/heads/main/apis.yml
+      - name: Regulatory
+        url: https://raw.githubusercontent.com/api-evangelist/regulatory/refs/heads/main/apis.yml
+      - name: Regulatory Templates
+        url: https://raw.githubusercontent.com/api-evangelist/regulatory-templates/refs/heads/main/apis.yml
+      - name: Vanta
+        url: https://raw.githubusercontent.com/api-evangelist/vanta/refs/heads/main/apis.yml
+      - name: Vantage
+        url: https://raw.githubusercontent.com/api-evangelist/vantage/refs/heads/main/apis.yml
   - name: Reliability
     skill: reliability
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Blameless
+        url: https://raw.githubusercontent.com/api-evangelist/blameless/refs/heads/main/apis.yml
+      - name: Gremlin
+        url: https://raw.githubusercontent.com/api-evangelist/gremlin/refs/heads/main/apis.yml
+      - name: Litmus
+        url: https://raw.githubusercontent.com/api-evangelist/litmus/refs/heads/main/apis.yml
+      - name: Resilience4j
+        url: https://raw.githubusercontent.com/api-evangelist/resilience4j/refs/heads/main/apis.yml
   - name: Road Map
     skill: road-map
-    updated: '2026-01-01'
+    updated: '2026-03-29'
   - name: SaaS Management
     skill: saas-management
     updated: '2026-03-27'
-    description: >-
-      SaaS management platforms help organizations discover, govern, optimize,
-      and secure the growing portfolio of cloud-based software subscriptions
-      used across the enterprise. They cover SaaS spend optimization and
-      procurement, shadow IT discovery, license management, SaaS security
-      posture management (SSPM), SaaS backup and data protection, and IT
-      asset management. These tools provide visibility into SaaS usage,
-      automate renewal and offboarding workflows, enforce compliance
-      policies, and reduce wasted spend on unused or redundant applications.
+    description: SaaS management platforms help organizations discover, govern, optimize, and secure the growing portfolio of cloud-based software subscriptions used across the enterprise. They cover SaaS
+      spend optimization and procurement, shadow IT discovery, license management, SaaS security posture management (SSPM), SaaS backup and data protection, and IT asset management. These tools provide
+      visibility into SaaS usage, automate renewal and offboarding workflows, enforce compliance policies, and reduce wasted spend on unused or redundant applications.
     repos:
       - name: Adaptive Shield
         url: https://raw.githubusercontent.com/api-evangelist/adaptive-shield/refs/heads/main/apis.yml
@@ -1478,14 +1995,9 @@ capabilities:
   - name: SDKs
     skill: sdk
     updated: '2026-03-27'
-    description: >-
-      API SDKs are client libraries and code generation tools that provide
-      language-native interfaces for consuming APIs. They range from
-      auto-generated clients produced by tools like OpenAPI Generator,
-      Speakeasy, Stainless, and Fern, to hand-crafted SDKs maintained by
-      API providers. This category also covers RPC frameworks like gRPC
-      and schema-driven code generation tools that produce type-safe
-      client and server code from API specifications.
+    description: API SDKs are client libraries and code generation tools that provide language-native interfaces for consuming APIs. They range from auto-generated clients produced by tools like OpenAPI
+      Generator, Speakeasy, Stainless, and Fern, to hand-crafted SDKs maintained by API providers. This category also covers RPC frameworks like gRPC and schema-driven code generation tools that produce
+      type-safe client and server code from API specifications.
     repos:
       - name: APIMatic
         url: https://raw.githubusercontent.com/api-evangelist/apimatic/refs/heads/main/apis.yml
@@ -1558,15 +2070,9 @@ capabilities:
   - name: Scraping
     skill: scraping
     updated: '2026-03-29'
-    description: >-
-      Web scraping encompasses the tools, frameworks, services, and proxy
-      networks used to extract structured data from websites. This includes
-      scraping API services that handle proxies, headless browsers, and
-      CAPTCHAs; open-source crawling frameworks and HTML parsing libraries;
-      browser automation tools used for dynamic page scraping; visual
-      scraping platforms with point-and-click interfaces; AI-powered data
-      extraction services; and proxy network providers that enable
-      large-scale web data collection.
+    description: Web scraping encompasses the tools, frameworks, services, and proxy networks used to extract structured data from websites. This includes scraping API services that handle proxies, headless
+      browsers, and CAPTCHAs; open-source crawling frameworks and HTML parsing libraries; browser automation tools used for dynamic page scraping; visual scraping platforms with point-and-click interfaces;
+      AI-powered data extraction services; and proxy network providers that enable large-scale web data collection.
     repos:
       - name: Apify
         url: https://raw.githubusercontent.com/api-evangelist/apify/refs/heads/main/apis.yml
@@ -1612,27 +2118,96 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/zyte/refs/heads/main/apis.yml
   - name: Search
     skill: search
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Algolia
+        url: https://raw.githubusercontent.com/api-evangelist/algolia/refs/heads/main/apis.yml
+      - name: Amazon Opensearch
+        url: https://raw.githubusercontent.com/api-evangelist/amazon-opensearch/refs/heads/main/apis.yml
+      - name: Amazon Opensearch Service
+        url: https://raw.githubusercontent.com/api-evangelist/amazon-opensearch-service/refs/heads/main/apis.yml
+      - name: Apache Solr
+        url: https://raw.githubusercontent.com/api-evangelist/apache-solr/refs/heads/main/apis.yml
+      - name: Elastic Search
+        url: https://raw.githubusercontent.com/api-evangelist/elastic-search/refs/heads/main/apis.yml
+      - name: Elasticsearch
+        url: https://raw.githubusercontent.com/api-evangelist/elasticsearch/refs/heads/main/apis.yml
+      - name: Meilisearch
+        url: https://raw.githubusercontent.com/api-evangelist/meilisearch/refs/heads/main/apis.yml
+      - name: Opensearch
+        url: https://raw.githubusercontent.com/api-evangelist/opensearch/refs/heads/main/apis.yml
+      - name: Pinecone
+        url: https://raw.githubusercontent.com/api-evangelist/pinecone/refs/heads/main/apis.yml
+      - name: Qdrant
+        url: https://raw.githubusercontent.com/api-evangelist/qdrant/refs/heads/main/apis.yml
+      - name: Typesense
+        url: https://raw.githubusercontent.com/api-evangelist/typesense/refs/heads/main/apis.yml
+      - name: Weaviate
+        url: https://raw.githubusercontent.com/api-evangelist/weaviate/refs/heads/main/apis.yml
   - name: Security
     skill: security
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: 42crunch
+        url: https://raw.githubusercontent.com/api-evangelist/42crunch/refs/heads/main/apis.yml
+      - name: Auth0
+        url: https://raw.githubusercontent.com/api-evangelist/auth0/refs/heads/main/apis.yml
+      - name: Cequence
+        url: https://raw.githubusercontent.com/api-evangelist/cequence/refs/heads/main/apis.yml
+      - name: Noname Security
+        url: https://raw.githubusercontent.com/api-evangelist/noname-security/refs/heads/main/apis.yml
+      - name: Okta
+        url: https://raw.githubusercontent.com/api-evangelist/okta/refs/heads/main/apis.yml
+      - name: Salt Security
+        url: https://raw.githubusercontent.com/api-evangelist/salt-security/refs/heads/main/apis.yml
+      - name: Snyk Container
+        url: https://raw.githubusercontent.com/api-evangelist/snyk-container/refs/heads/main/apis.yml
+      - name: Traceable
+        url: https://raw.githubusercontent.com/api-evangelist/traceable/refs/heads/main/apis.yml
+      - name: Wallarm
+        url: https://raw.githubusercontent.com/api-evangelist/wallarm/refs/heads/main/apis.yml
   - name: Serverless
     skill: serverless
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Amazon Lambda
+        url: https://raw.githubusercontent.com/api-evangelist/amazon-lambda/refs/heads/main/apis.yml
+      - name: Amazon Serverless Application Repository
+        url: https://raw.githubusercontent.com/api-evangelist/amazon-serverless-application-repository/refs/heads/main/apis.yml
+      - name: AWS Lambda
+        url: https://raw.githubusercontent.com/api-evangelist/aws-lambda/refs/heads/main/apis.yml
+      - name: Azure Function Apps
+        url: https://raw.githubusercontent.com/api-evangelist/azure-function-apps/refs/heads/main/apis.yml
+      - name: Azure Functions
+        url: https://raw.githubusercontent.com/api-evangelist/azure-functions/refs/heads/main/apis.yml
+      - name: Google Cloud Functions
+        url: https://raw.githubusercontent.com/api-evangelist/google-cloud-functions/refs/heads/main/apis.yml
+      - name: Lambda
+        url: https://raw.githubusercontent.com/api-evangelist/lambda/refs/heads/main/apis.yml
+      - name: Microsoft Azure Functions
+        url: https://raw.githubusercontent.com/api-evangelist/microsoft-azure-functions/refs/heads/main/apis.yml
+      - name: Serverless Patterns
+        url: https://raw.githubusercontent.com/api-evangelist/serverless-patterns/refs/heads/main/apis.yml
+      - name: Serverless Workflow
+        url: https://raw.githubusercontent.com/api-evangelist/serverless-workflow/refs/heads/main/apis.yml
+      - name: Sparx Enterprise Architect
+        url: https://raw.githubusercontent.com/api-evangelist/sparx-enterprise-architect/refs/heads/main/apis.yml
   - name: Support
     skill: support
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Freshdesk
+        url: https://raw.githubusercontent.com/api-evangelist/freshdesk/refs/heads/main/apis.yml
+      - name: Intercom
+        url: https://raw.githubusercontent.com/api-evangelist/intercom/refs/heads/main/apis.yml
+      - name: Zendesk
+        url: https://raw.githubusercontent.com/api-evangelist/zendesk/refs/heads/main/apis.yml
   - name: Testing
     skill: testing
     updated: '2026-03-27'
-    description: >-
-      API testing encompasses the tools, frameworks, and platforms used to
-      validate, verify, and monitor APIs throughout their lifecycle. This
-      includes functional testing and API clients, contract testing tools
-      that verify provider-consumer agreements, load and performance testing
-      frameworks, mocking and service virtualization tools, security testing
-      scanners, and continuous monitoring platforms that ensure APIs remain
-      reliable, performant, and correct in production.
+    description: API testing encompasses the tools, frameworks, and platforms used to validate, verify, and monitor APIs throughout their lifecycle. This includes functional testing and API clients, contract
+      testing tools that verify provider-consumer agreements, load and performance testing frameworks, mocking and service virtualization tools, security testing scanners, and continuous monitoring platforms
+      that ensure APIs remain reliable, performant, and correct in production.
     repos:
       - name: Artillery
         url: https://raw.githubusercontent.com/api-evangelist/artillery/refs/heads/main/apis.yml
@@ -1696,25 +2271,68 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/wiremock/refs/heads/main/apis.yml
   - name: Transparency
     skill: transparency
-    updated: '2026-01-01'
+    updated: '2026-03-29'
   - name: Versioning
     skill: versioning
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Bump Sh
+        url: https://raw.githubusercontent.com/api-evangelist/bump-sh/refs/heads/main/apis.yml
+      - name: Fern
+        url: https://raw.githubusercontent.com/api-evangelist/fern/refs/heads/main/apis.yml
+      - name: Konfig
+        url: https://raw.githubusercontent.com/api-evangelist/konfig/refs/heads/main/apis.yml
+      - name: Speakeasy
+        url: https://raw.githubusercontent.com/api-evangelist/speakeasy/refs/heads/main/apis.yml
+      - name: Stainless
+        url: https://raw.githubusercontent.com/api-evangelist/stainless/refs/heads/main/apis.yml
   - name: Virtualization
     skill: virtualization
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Beeceptor
+        url: https://raw.githubusercontent.com/api-evangelist/beeceptor/refs/heads/main/apis.yml
+      - name: Hoverfly
+        url: https://raw.githubusercontent.com/api-evangelist/hoverfly/refs/heads/main/apis.yml
+      - name: Microcks
+        url: https://raw.githubusercontent.com/api-evangelist/microcks/refs/heads/main/apis.yml
+      - name: Mockoon
+        url: https://raw.githubusercontent.com/api-evangelist/mockoon/refs/heads/main/apis.yml
+      - name: Mockserver
+        url: https://raw.githubusercontent.com/api-evangelist/mockserver/refs/heads/main/apis.yml
+      - name: Prism
+        url: https://raw.githubusercontent.com/api-evangelist/prism/refs/heads/main/apis.yml
+      - name: Wiremock
+        url: https://raw.githubusercontent.com/api-evangelist/wiremock/refs/heads/main/apis.yml
   - name: Visualization
     skill: visualization
-    updated: '2026-01-01'
+    updated: '2026-03-29'
   - name: Webhooks
     skill: webhooks
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    repos:
+      - name: Amazon Eventbridge
+        url: https://raw.githubusercontent.com/api-evangelist/amazon-eventbridge/refs/heads/main/apis.yml
+      - name: Amazon Eventbridge Pipes
+        url: https://raw.githubusercontent.com/api-evangelist/amazon-eventbridge-pipes/refs/heads/main/apis.yml
+      - name: Amazon Eventbridge Scheduler
+        url: https://raw.githubusercontent.com/api-evangelist/amazon-eventbridge-scheduler/refs/heads/main/apis.yml
+      - name: Cloudevents
+        url: https://raw.githubusercontent.com/api-evangelist/cloudevents/refs/heads/main/apis.yml
+      - name: Hookdeck
+        url: https://raw.githubusercontent.com/api-evangelist/hookdeck/refs/heads/main/apis.yml
+      - name: Inngest
+        url: https://raw.githubusercontent.com/api-evangelist/inngest/refs/heads/main/apis.yml
+      - name: Ngrok
+        url: https://raw.githubusercontent.com/api-evangelist/ngrok/refs/heads/main/apis.yml
+      - name: Ngrok AI
+        url: https://raw.githubusercontent.com/api-evangelist/ngrok-ai/refs/heads/main/apis.yml
+      - name: Trigger Dev
+        url: https://raw.githubusercontent.com/api-evangelist/trigger-dev/refs/heads/main/apis.yml
   - name: Deprecation
     skill: deprecation
     updated: '2026-03-29'
-    description: >-
-      API deprecation, sunset headers, end-of-life management, and API
-      retirement tools and services.
+    description: API deprecation, sunset headers, end-of-life management, and API retirement tools and services.
     repos:
       - name: AnnounceKit
         url: https://raw.githubusercontent.com/api-evangelist/announcekit/refs/heads/main/apis.yml
@@ -1737,9 +2355,7 @@ capabilities:
   - name: iPaaS
     skill: ipaas
     updated: '2026-03-27'
-    description: >-
-      Standards-based, declarative orchestration instead of proprietary flow
-      models.
+    description: Standards-based, declarative orchestration instead of proprietary flow models.
     repos:
       - name: Activepieces
         url: https://raw.githubusercontent.com/api-evangelist/activepieces/refs/heads/main/apis.yml
@@ -1902,8 +2518,7 @@ capabilities:
   - name: Embedded iPaaS
     skill: embedded-ipaas
     updated: '2026-03-27'
-    description: >-
-      Packaged, embeddable capability components with consistent governance.
+    description: Packaged, embeddable capability components with consistent governance.
     repos:
       - name: Alloy Automation
         url: https://raw.githubusercontent.com/api-evangelist/alloy-automation/refs/heads/main/apis.yml
@@ -1962,9 +2577,7 @@ capabilities:
   - name: Service Mesh
     skill: service-mesh
     updated: '2026-03-27'
-    description: >-
-      Traffic, retries, security patterns applied across internal and external
-      boundaries.
+    description: Traffic, retries, security patterns applied across internal and external boundaries.
     repos:
       - name: Ambient Mesh
         url: https://raw.githubusercontent.com/api-evangelist/ambient-mesh/refs/heads/main/apis.yml
@@ -2011,8 +2624,7 @@ capabilities:
   - name: Unified APIs
     skill: unified-apis
     updated: '2026-03-27'
-    description: >-
-      Compose and normalize multiple providers into your own domain interface.
+    description: Compose and normalize multiple providers into your own domain interface.
     repos:
       - name: Airbyte
         url: https://raw.githubusercontent.com/api-evangelist/airbyte/refs/heads/main/apis.yml
@@ -2079,11 +2691,8 @@ capabilities:
   - name: Pro-code API Composition
     skill: pro-code-api-composition
     updated: '2026-03-27'
-    description: >-
-      Pro-code API composition covers workflow engines, code-first platforms,
-      serverless orchestration services, GraphQL composition patterns, and
-      backend-for-frontend frameworks that enable developers to author API
-      orchestrations in code with platform-grade execution and governance.
+    description: Pro-code API composition covers workflow engines, code-first platforms, serverless orchestration services, GraphQL composition patterns, and backend-for-frontend frameworks that enable
+      developers to author API orchestrations in code with platform-grade execution and governance.
     repos:
       - name: Apollo Federation
         url: https://raw.githubusercontent.com/api-evangelist/apollo-federation/refs/heads/main/apis.yml
@@ -2151,23 +2760,59 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/zeebe/refs/heads/main/apis.yml
   - name: API Clients
     skill: api-clients
-    updated: '2026-01-01'
-    description: >-
-      Native sandboxing, mocking, and contract-driven testing for every
-      capability.
+    updated: '2026-03-29'
+    description: Native sandboxing, mocking, and contract-driven testing for every capability.
+    repos:
+      - name: Bruno
+        url: https://raw.githubusercontent.com/api-evangelist/bruno/refs/heads/main/apis.yml
+      - name: Hoppscotch
+        url: https://raw.githubusercontent.com/api-evangelist/hoppscotch/refs/heads/main/apis.yml
+      - name: Httpie
+        url: https://raw.githubusercontent.com/api-evangelist/httpie/refs/heads/main/apis.yml
+      - name: Insomnia
+        url: https://raw.githubusercontent.com/api-evangelist/insomnia/refs/heads/main/apis.yml
+      - name: Kreya
+        url: https://raw.githubusercontent.com/api-evangelist/kreya/refs/heads/main/apis.yml
+      - name: Paw
+        url: https://raw.githubusercontent.com/api-evangelist/paw/refs/heads/main/apis.yml
+      - name: Postman
+        url: https://raw.githubusercontent.com/api-evangelist/postman/refs/heads/main/apis.yml
+      - name: Restfox
+        url: https://raw.githubusercontent.com/api-evangelist/restfox/refs/heads/main/apis.yml
+      - name: Thunder Client
+        url: https://raw.githubusercontent.com/api-evangelist/thunder-client/refs/heads/main/apis.yml
   - name: API Proxies
     skill: api-proxies
-    updated: '2026-01-01'
-    description: >-
-      Transformation, caching, and security behaviors as versioned, governed
-      config.
+    updated: '2026-03-29'
+    description: Transformation, caching, and security behaviors as versioned, governed config.
+    repos:
+      - name: Caddy
+        url: https://raw.githubusercontent.com/api-evangelist/caddy/refs/heads/main/apis.yml
+      - name: Charles Proxy
+        url: https://raw.githubusercontent.com/api-evangelist/charles-proxy/refs/heads/main/apis.yml
+      - name: Dev Proxy
+        url: https://raw.githubusercontent.com/api-evangelist/dev-proxy/refs/heads/main/apis.yml
+      - name: Envoy Proxy
+        url: https://raw.githubusercontent.com/api-evangelist/envoy-proxy/refs/heads/main/apis.yml
+      - name: Fiddler
+        url: https://raw.githubusercontent.com/api-evangelist/fiddler/refs/heads/main/apis.yml
+      - name: Haproxy
+        url: https://raw.githubusercontent.com/api-evangelist/haproxy/refs/heads/main/apis.yml
+      - name: Mitmproxy
+        url: https://raw.githubusercontent.com/api-evangelist/mitmproxy/refs/heads/main/apis.yml
+      - name: oauth2 Proxy
+        url: https://raw.githubusercontent.com/api-evangelist/oauth2-proxy/refs/heads/main/apis.yml
+      - name: Proxy
+        url: https://raw.githubusercontent.com/api-evangelist/proxy/refs/heads/main/apis.yml
+      - name: Proxyman
+        url: https://raw.githubusercontent.com/api-evangelist/proxyman/refs/heads/main/apis.yml
+      - name: Tinyproxy
+        url: https://raw.githubusercontent.com/api-evangelist/tinyproxy/refs/heads/main/apis.yml
   - name: Workflow Automation
     skill: workflow-automation
     updated: '2026-03-27'
-    description: >-
-      Standards-based workflow orchestration with policy and observability,
-      covering no-code platforms, enterprise automation services, open source
-      engines, developer-first tools, self-hosted solutions, and RPA platforms.
+    description: Standards-based workflow orchestration with policy and observability, covering no-code platforms, enterprise automation services, open source engines, developer-first tools, self-hosted
+      solutions, and RPA platforms.
     repos:
       - name: Activepieces
         url: https://raw.githubusercontent.com/api-evangelist/activepieces/refs/heads/main/apis.yml
@@ -2268,8 +2913,7 @@ capabilities:
   - name: FinOps
     skill: finops
     updated: '2026-03-27'
-    description: >-
-      Budget-aware execution and cost telemetry at runtime.
+    description: Budget-aware execution and cost telemetry at runtime.
     repos:
       - name: Amberflo
         url: https://raw.githubusercontent.com/api-evangelist/amberflo/refs/heads/main/apis.yml
@@ -2354,8 +2998,7 @@ capabilities:
   - name: Developer Experience
     skill: developer-experience
     updated: '2026-03-27'
-    description: >-
-      GitOps and IDE-native authoring, discoverable via portals.
+    description: GitOps and IDE-native authoring, discoverable via portals.
     repos:
       - name: APIMatic
         url: https://raw.githubusercontent.com/api-evangelist/apimatic/refs/heads/main/apis.yml
@@ -2424,15 +3067,9 @@ capabilities:
   - name: AIOps
     skill: aiops
     updated: '2026-03-27'
-    description: >-
-      AIOps applies artificial intelligence and machine learning to IT
-      operations, enabling intelligent alerting, anomaly detection, automated
-      root cause analysis, and predictive incident management. This includes
-      AIOps platforms that correlate events across monitoring tools, observability
-      solutions with built-in AI capabilities, incident management platforms that
-      use ML to reduce alert noise and accelerate resolution, and anomaly
-      detection tools that identify unusual patterns in metrics, logs, and traces
-      before they become outages.
+    description: AIOps applies artificial intelligence and machine learning to IT operations, enabling intelligent alerting, anomaly detection, automated root cause analysis, and predictive incident management.
+      This includes AIOps platforms that correlate events across monitoring tools, observability solutions with built-in AI capabilities, incident management platforms that use ML to reduce alert noise
+      and accelerate resolution, and anomaly detection tools that identify unusual patterns in metrics, logs, and traces before they become outages.
     repos:
       - name: Anodot
         url: https://raw.githubusercontent.com/api-evangelist/anodot/refs/heads/main/apis.yml
@@ -2499,15 +3136,9 @@ capabilities:
   - name: AI Automation
     skill: ai-automation
     updated: '2026-03-27'
-    description: >-
-      AI automation combines artificial intelligence with workflow and process
-      automation to create intelligent, autonomous systems. This includes AI
-      agent frameworks that orchestrate multi-step reasoning and tool use,
-      autonomous coding agents, AI-powered workflow platforms that add
-      intelligence to integration and automation pipelines, intelligent process
-      automation (IPA) that extends RPA with ML and NLP capabilities, and AI
-      orchestration tools that coordinate multiple models and agents to complete
-      complex tasks end-to-end.
+    description: AI automation combines artificial intelligence with workflow and process automation to create intelligent, autonomous systems. This includes AI agent frameworks that orchestrate multi-step
+      reasoning and tool use, autonomous coding agents, AI-powered workflow platforms that add intelligence to integration and automation pipelines, intelligent process automation (IPA) that extends RPA
+      with ML and NLP capabilities, and AI orchestration tools that coordinate multiple models and agents to complete complex tasks end-to-end.
     repos:
       - name: ABBYY
         url: https://raw.githubusercontent.com/api-evangelist/abbyy/refs/heads/main/apis.yml
