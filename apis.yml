@@ -1578,6 +1578,8 @@ network:
   url: https://github.com/api-evangelist/bdd
 - name: beacon-roofing-supply
   url: https://github.com/api-evangelist/beacon-roofing-supply
+- name: beautiful-soup
+  url: https://github.com/api-evangelist/beautiful-soup
 - name: beamer
   url: https://github.com/api-evangelist/beamer
 - name: beamy
@@ -2146,6 +2148,8 @@ network:
   url: https://github.com/api-evangelist/checkpoint
 - name: chef
   url: https://github.com/api-evangelist/chef
+- name: cheerio
+  url: https://github.com/api-evangelist/cheerio
 - name: chemius
   url: https://github.com/api-evangelist/chemius
 - name: chemtura
@@ -6790,6 +6794,8 @@ network:
   url: https://github.com/api-evangelist/ownbackup
 - name: oxia
   url: https://github.com/api-evangelist/oxia
+- name: oxylabs
+  url: https://github.com/api-evangelist/oxylabs
 - name: p-g
   url: https://github.com/api-evangelist/p-g
 - name: p4
@@ -6858,6 +6864,8 @@ network:
   url: https://github.com/api-evangelist/parkpow
 - name: parquet
   url: https://github.com/api-evangelist/parquet
+- name: parsehub
+  url: https://github.com/api-evangelist/parsehub
 - name: partitioning
   url: https://github.com/api-evangelist/partitioning
 - name: partnerstack
@@ -7254,6 +7262,8 @@ network:
   url: https://github.com/api-evangelist/pulumi
 - name: puppet
   url: https://github.com/api-evangelist/puppet
+- name: puppeteer
+  url: https://github.com/api-evangelist/puppeteer
 - name: putty
   url: https://github.com/api-evangelist/putty
 - name: pvh
@@ -7854,10 +7864,16 @@ network:
   url: https://github.com/api-evangelist/score
 - name: scotts-miracle-gro
   url: https://github.com/api-evangelist/scotts-miracle-gro
+- name: scraper-api
+  url: https://github.com/api-evangelist/scraper-api
 - name: scrapfly
   url: https://github.com/api-evangelist/scrapfly
+- name: scrapingant
+  url: https://github.com/api-evangelist/scrapingant
 - name: scrapingbee
   url: https://github.com/api-evangelist/scrapingbee
+- name: scrapy
+  url: https://github.com/api-evangelist/scrapy
 - name: screenshotone
   url: https://github.com/api-evangelist/screenshotone
 - name: scripps-networks-interactive
@@ -8068,6 +8084,8 @@ network:
   url: https://github.com/api-evangelist/smartbear
 - name: smartcar
   url: https://github.com/api-evangelist/smartcar
+- name: smartproxy
+  url: https://github.com/api-evangelist/smartproxy
 - name: smartrecruiters
   url: https://github.com/api-evangelist/smartrecruiters
 - name: smithery
@@ -9634,3 +9652,5 @@ network:
   url: https://github.com/api-evangelist/zylo
 - name: zype
   url: https://github.com/api-evangelist/zype
+- name: zyte
+  url: https://github.com/api-evangelist/zyte

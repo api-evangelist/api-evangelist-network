@@ -1557,7 +1557,59 @@ capabilities:
         url: https://raw.githubusercontent.com/api-evangelist/twirp/refs/heads/main/apis.yml
   - name: Scraping
     skill: scraping
-    updated: '2026-01-01'
+    updated: '2026-03-29'
+    description: >-
+      Web scraping encompasses the tools, frameworks, services, and proxy
+      networks used to extract structured data from websites. This includes
+      scraping API services that handle proxies, headless browsers, and
+      CAPTCHAs; open-source crawling frameworks and HTML parsing libraries;
+      browser automation tools used for dynamic page scraping; visual
+      scraping platforms with point-and-click interfaces; AI-powered data
+      extraction services; and proxy network providers that enable
+      large-scale web data collection.
+    repos:
+      - name: Apify
+        url: https://raw.githubusercontent.com/api-evangelist/apify/refs/heads/main/apis.yml
+      - name: Beautiful Soup
+        url: https://raw.githubusercontent.com/api-evangelist/beautiful-soup/refs/heads/main/apis.yml
+      - name: Bright Data
+        url: https://raw.githubusercontent.com/api-evangelist/bright-data/refs/heads/main/apis.yml
+      - name: Cheerio
+        url: https://raw.githubusercontent.com/api-evangelist/cheerio/refs/heads/main/apis.yml
+      - name: Crawl4AI
+        url: https://raw.githubusercontent.com/api-evangelist/crawl4ai/refs/heads/main/apis.yml
+      - name: Crawlee
+        url: https://raw.githubusercontent.com/api-evangelist/crawlee/refs/heads/main/apis.yml
+      - name: Diffbot
+        url: https://raw.githubusercontent.com/api-evangelist/diffbot/refs/heads/main/apis.yml
+      - name: Firecrawl
+        url: https://raw.githubusercontent.com/api-evangelist/firecrawl/refs/heads/main/apis.yml
+      - name: Import.io
+        url: https://raw.githubusercontent.com/api-evangelist/import-io/refs/heads/main/apis.yml
+      - name: Octoparse
+        url: https://raw.githubusercontent.com/api-evangelist/octoparse/refs/heads/main/apis.yml
+      - name: Oxylabs
+        url: https://raw.githubusercontent.com/api-evangelist/oxylabs/refs/heads/main/apis.yml
+      - name: ParseHub
+        url: https://raw.githubusercontent.com/api-evangelist/parsehub/refs/heads/main/apis.yml
+      - name: Playwright
+        url: https://raw.githubusercontent.com/api-evangelist/playwright/refs/heads/main/apis.yml
+      - name: Puppeteer
+        url: https://raw.githubusercontent.com/api-evangelist/puppeteer/refs/heads/main/apis.yml
+      - name: ScraperAPI
+        url: https://raw.githubusercontent.com/api-evangelist/scraper-api/refs/heads/main/apis.yml
+      - name: ScrapingAnt
+        url: https://raw.githubusercontent.com/api-evangelist/scrapingant/refs/heads/main/apis.yml
+      - name: ScrapingBee
+        url: https://raw.githubusercontent.com/api-evangelist/scrapingbee/refs/heads/main/apis.yml
+      - name: Scrapy
+        url: https://raw.githubusercontent.com/api-evangelist/scrapy/refs/heads/main/apis.yml
+      - name: Selenium
+        url: https://raw.githubusercontent.com/api-evangelist/selenium/refs/heads/main/apis.yml
+      - name: Smartproxy
+        url: https://raw.githubusercontent.com/api-evangelist/smartproxy/refs/heads/main/apis.yml
+      - name: Zyte
+        url: https://raw.githubusercontent.com/api-evangelist/zyte/refs/heads/main/apis.yml
   - name: Search
     skill: search
     updated: '2026-01-01'
