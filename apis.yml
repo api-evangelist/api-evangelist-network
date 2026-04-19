@@ -94,63 +94,83 @@ network:
 - name: abstract-api
   url: https://github.com/api-evangelist/abstract-api
   x-type: company
+  x-profiled: 2026-04
 - name: academy-software-foundation
   url: https://github.com/api-evangelist/academy-software-foundation
   x-type: company
+  x-profiled: 2026-04
 - name: acadia
   url: https://github.com/api-evangelist/acadia
   x-type: company
+  x-profiled: 2026-04
 - name: acceldata
   url: https://github.com/api-evangelist/acceldata
   x-type: company
+  x-profiled: 2026-04
 - name: acceptance-criteria
   url: https://github.com/api-evangelist/acceptance-criteria
   x-type: company
+  x-profiled: 2026-04
 - name: accessibility-standards
   url: https://github.com/api-evangelist/accessibility-standards
   x-type: company
+  x-profiled: 2026-04
 - name: accounting-standards
   url: https://github.com/api-evangelist/accounting-standards
   x-type: company
+  x-profiled: 2026-04
 - name: accuweather
   url: https://github.com/api-evangelist/accuweather
   x-type: company
+  x-profiled: 2026-04
 - name: ace-hardware
   url: https://github.com/api-evangelist/ace-hardware
   x-type: company
+  x-profiled: 2026-04
 - name: acid
   url: https://github.com/api-evangelist/acid
   x-type: company
+  x-profiled: 2026-04
 - name: acknowledgments-md
   url: https://github.com/api-evangelist/acknowledgments-md
   x-type: company
+  x-profiled: 2026-04
 - name: acord
   url: https://github.com/api-evangelist/acord
   x-type: company
+  x-profiled: 2026-04
 - name: acquia
   url: https://github.com/api-evangelist/acquia
   x-type: company
+  x-profiled: 2026-04
 - name: acronis
   url: https://github.com/api-evangelist/acronis
   x-type: company
+  x-profiled: 2026-04
 - name: active-directory
   url: https://github.com/api-evangelist/active-directory
   x-type: company
+  x-profiled: 2026-04
 - name: activecampaign
   url: https://github.com/api-evangelist/activecampaign
   x-type: company
+  x-profiled: 2026-04
 - name: activepieces
   url: https://github.com/api-evangelist/activepieces
   x-type: company
+  x-profiled: 2026-04
 - name: activision-blizzard
   url: https://github.com/api-evangelist/activision-blizzard
   x-type: company
+  x-profiled: 2026-04
 - name: actor-model
   url: https://github.com/api-evangelist/actor-model
   x-type: company
+  x-profiled: 2026-04
 - name: acuity-brands
   url: https://github.com/api-evangelist/acuity-brands
   x-type: company
+  x-profiled: 2026-04
 - name: adams-resources-and-energy
   url: https://github.com/api-evangelist/adams-resources-and-energy
   x-type: company
