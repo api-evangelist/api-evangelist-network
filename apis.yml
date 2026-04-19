@@ -174,24 +174,31 @@ network:
 - name: adams-resources-and-energy
   url: https://github.com/api-evangelist/adams-resources-and-energy
   x-type: company
+  x-profiled: 2026-04
 - name: adaptigent
   url: https://github.com/api-evangelist/adaptigent
   x-type: company
+  x-profiled: 2026-04
 - name: adaptive-shield
   url: https://github.com/api-evangelist/adaptive-shield
   x-type: company
+  x-profiled: 2026-04
 - name: administration-for-community-living-acl-
   url: https://github.com/api-evangelist/administration-for-community-living-acl-
   x-type: government
+  x-profiled: 2026-04
 - name: administration-for-native-americans-ana-
   url: https://github.com/api-evangelist/administration-for-native-americans-ana-
   x-type: government
+  x-profiled: 2026-04
 - name: administrative-conference-of-the-united-states
   url: https://github.com/api-evangelist/administrative-conference-of-the-united-states
   x-type: company
+  x-profiled: 2026-04
 - name: administrative-office-of-the-u-s-courts
   url: https://github.com/api-evangelist/administrative-office-of-the-u-s-courts
   x-type: company
+  x-profiled: 2026-04
 - name: adobe-analytics
   url: https://github.com/api-evangelist/adobe-analytics
   x-profiled: 2026-04
@@ -203,6 +210,7 @@ network:
 - name: adobe-captivate
   url: https://github.com/api-evangelist/adobe-captivate
   x-type: company
+  x-profiled: 2026-04
 - name: adobe-creative-cloud
   url: https://github.com/api-evangelist/adobe-creative-cloud
   x-profiled: 2026-04
@@ -214,6 +222,7 @@ network:
 - name: adobe-experience-cloud
   url: https://github.com/api-evangelist/adobe-experience-cloud
   x-type: company
+  x-profiled: 2026-04
 - name: adobe-illustrator
   url: https://github.com/api-evangelist/adobe-illustrator
   x-profiled: 2026-04
@@ -229,6 +238,7 @@ network:
 - name: adobe-premiere
   url: https://github.com/api-evangelist/adobe-premiere
   x-type: company
+  x-profiled: 2026-04
 - name: adobe-premiere-pro
   url: https://github.com/api-evangelist/adobe-premiere-pro
   x-profiled: 2026-04
@@ -248,33 +258,43 @@ network:
 - name: adt
   url: https://github.com/api-evangelist/adt
   x-type: company
+  x-profiled: 2026-04
 - name: advance-auto-parts
   url: https://github.com/api-evangelist/advance-auto-parts
   x-type: company
+  x-profiled: 2026-04
 - name: advanced-excel
   url: https://github.com/api-evangelist/advanced-excel
   x-type: company
+  x-profiled: 2026-04
 - name: advanced-micro-devices
   url: https://github.com/api-evangelist/advanced-micro-devices
   x-type: company
+  x-profiled: 2026-04
 - name: adyen
   url: https://github.com/api-evangelist/adyen
   x-type: company
+  x-profiled: 2026-04
 - name: aecom
   url: https://github.com/api-evangelist/aecom
   x-type: company
+  x-profiled: 2026-04
 - name: aerodatabox
   url: https://github.com/api-evangelist/aerodatabox
   x-type: company
+  x-profiled: 2026-04
 - name: aes
   url: https://github.com/api-evangelist/aes
   x-type: company
+  x-profiled: 2026-04
 - name: aetna
   url: https://github.com/api-evangelist/aetna
   x-type: company
+  x-profiled: 2026-04
 - name: affiliated-managers-group
   url: https://github.com/api-evangelist/affiliated-managers-group
   x-type: company
+  x-profiled: 2026-04
 - name: affirm
   url: https://github.com/api-evangelist/affirm
   x-type: company
