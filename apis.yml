@@ -1681,69 +1681,91 @@ network:
 - name: amazon-mediaconnect
   url: https://github.com/api-evangelist/amazon-mediaconnect
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-mediaconvert
   url: https://github.com/api-evangelist/amazon-mediaconvert
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-medialive
   url: https://github.com/api-evangelist/amazon-medialive
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-mediapackage
   url: https://github.com/api-evangelist/amazon-mediapackage
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-mediastore
   url: https://github.com/api-evangelist/amazon-mediastore
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-mediatailor
   url: https://github.com/api-evangelist/amazon-mediatailor
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-memorydb
   url: https://github.com/api-evangelist/amazon-memorydb
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-migration-hub
   url: https://github.com/api-evangelist/amazon-migration-hub
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-monitron
   url: https://github.com/api-evangelist/amazon-monitron
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-mq
   url: https://github.com/api-evangelist/amazon-mq
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-msk
   url: https://github.com/api-evangelist/amazon-msk
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-neptune
   url: https://github.com/api-evangelist/amazon-neptune
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-network-firewall
   url: https://github.com/api-evangelist/amazon-network-firewall
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-nova
   url: https://github.com/api-evangelist/amazon-nova
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-opensearch-service
   url: https://github.com/api-evangelist/amazon-opensearch-service
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-opensearch
   url: https://github.com/api-evangelist/amazon-opensearch
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-organizations
   url: https://github.com/api-evangelist/amazon-organizations
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-outposts
   url: https://github.com/api-evangelist/amazon-outposts
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-panorama
   url: https://github.com/api-evangelist/amazon-panorama
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-parallel-computing-service
   url: https://github.com/api-evangelist/amazon-parallel-computing-service
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-payment-cryptography
   url: https://github.com/api-evangelist/amazon-payment-cryptography
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-personalize
   url: https://github.com/api-evangelist/amazon-personalize
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-pinpoint
   url: https://github.com/api-evangelist/amazon-pinpoint
   x-type: company
@@ -1827,15 +1849,19 @@ network:
 - name: amazon-signer
   url: https://github.com/api-evangelist/amazon-signer
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-simpledb
   url: https://github.com/api-evangelist/amazon-simpledb
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-simspace-weaver
   url: https://github.com/api-evangelist/amazon-simspace-weaver
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-snow-family
   url: https://github.com/api-evangelist/amazon-snow-family
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-sns
   url: https://github.com/api-evangelist/amazon-sns
   x-profiled: 2026-04
@@ -1847,63 +1873,83 @@ network:
 - name: amazon-step-functions
   url: https://github.com/api-evangelist/amazon-step-functions
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-storage-gateway
   url: https://github.com/api-evangelist/amazon-storage-gateway
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-supply-chain
   url: https://github.com/api-evangelist/amazon-supply-chain
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-swf
   url: https://github.com/api-evangelist/amazon-swf
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-systems-manager
   url: https://github.com/api-evangelist/amazon-systems-manager
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-textract
   url: https://github.com/api-evangelist/amazon-textract
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-timestream
   url: https://github.com/api-evangelist/amazon-timestream
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-transcribe
   url: https://github.com/api-evangelist/amazon-transcribe
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-transfer-family
   url: https://github.com/api-evangelist/amazon-transfer-family
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-transit-gateway
   url: https://github.com/api-evangelist/amazon-transit-gateway
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-translate
   url: https://github.com/api-evangelist/amazon-translate
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-trusted-advisor
   url: https://github.com/api-evangelist/amazon-trusted-advisor
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-verified-access
   url: https://github.com/api-evangelist/amazon-verified-access
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-verified-permissions
   url: https://github.com/api-evangelist/amazon-verified-permissions
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-vpc-lattice
   url: https://github.com/api-evangelist/amazon-vpc-lattice
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-vpc
   url: https://github.com/api-evangelist/amazon-vpc
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-vpn
   url: https://github.com/api-evangelist/amazon-vpn
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-waf
   url: https://github.com/api-evangelist/amazon-waf
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-web-services-aws
   url: https://github.com/api-evangelist/amazon-web-services-aws
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-web-services
   url: https://github.com/api-evangelist/amazon-web-services
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-well-architected-tool
   url: https://github.com/api-evangelist/amazon-well-architected-tool
   x-type: company
