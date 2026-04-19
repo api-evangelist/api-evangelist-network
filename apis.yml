@@ -1327,69 +1327,91 @@ network:
 - name: amazon-connect
   url: https://github.com/api-evangelist/amazon-connect
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-control-tower
   url: https://github.com/api-evangelist/amazon-control-tower
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-data-exchange
   url: https://github.com/api-evangelist/amazon-data-exchange
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-data-lifecycle-manager
   url: https://github.com/api-evangelist/amazon-data-lifecycle-manager
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-data-pipeline
   url: https://github.com/api-evangelist/amazon-data-pipeline
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-datasync
   url: https://github.com/api-evangelist/amazon-datasync
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-datazone
   url: https://github.com/api-evangelist/amazon-datazone
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-deadline-cloud
   url: https://github.com/api-evangelist/amazon-deadline-cloud
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-deepracer
   url: https://github.com/api-evangelist/amazon-deepracer
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-detective
   url: https://github.com/api-evangelist/amazon-detective
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-device-farm
   url: https://github.com/api-evangelist/amazon-device-farm
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-devops-guru
   url: https://github.com/api-evangelist/amazon-devops-guru
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-direct-connect
   url: https://github.com/api-evangelist/amazon-direct-connect
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-directory-service
   url: https://github.com/api-evangelist/amazon-directory-service
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-dms
   url: https://github.com/api-evangelist/amazon-dms
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-documentdb
   url: https://github.com/api-evangelist/amazon-documentdb
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-dynamodb
   url: https://github.com/api-evangelist/amazon-dynamodb
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-ebs
   url: https://github.com/api-evangelist/amazon-ebs
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-ec2-auto-scaling
   url: https://github.com/api-evangelist/amazon-ec2-auto-scaling
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-ec2-image-builder
   url: https://github.com/api-evangelist/amazon-ec2-image-builder
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-ec2
   url: https://github.com/api-evangelist/amazon-ec2
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-ecr
   url: https://github.com/api-evangelist/amazon-ecr
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-ecs
   url: https://github.com/api-evangelist/amazon-ecs
   x-profiled: 2026-04
@@ -1397,177 +1419,235 @@ network:
 - name: amazon-efs
   url: https://github.com/api-evangelist/amazon-efs
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-eks
   url: https://github.com/api-evangelist/amazon-eks
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-elastic-beanstalk
   url: https://github.com/api-evangelist/amazon-elastic-beanstalk
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-elastic-load-balancing
   url: https://github.com/api-evangelist/amazon-elastic-load-balancing
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-elastic-transcoder
   url: https://github.com/api-evangelist/amazon-elastic-transcoder
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-elasticache
   url: https://github.com/api-evangelist/amazon-elasticache
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-emr
   url: https://github.com/api-evangelist/amazon-emr
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-entity-resolution
   url: https://github.com/api-evangelist/amazon-entity-resolution
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-eventbridge-pipes
   url: https://github.com/api-evangelist/amazon-eventbridge-pipes
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-eventbridge-scheduler
   url: https://github.com/api-evangelist/amazon-eventbridge-scheduler
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-eventbridge
   url: https://github.com/api-evangelist/amazon-eventbridge
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-fargate
   url: https://github.com/api-evangelist/amazon-fargate
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-fault-injection-simulator
   url: https://github.com/api-evangelist/amazon-fault-injection-simulator
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-finspace
   url: https://github.com/api-evangelist/amazon-finspace
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-firewall-manager
   url: https://github.com/api-evangelist/amazon-firewall-manager
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-forecast
   url: https://github.com/api-evangelist/amazon-forecast
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-fraud-detector
   url: https://github.com/api-evangelist/amazon-fraud-detector
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-freertos
   url: https://github.com/api-evangelist/amazon-freertos
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-fsx
   url: https://github.com/api-evangelist/amazon-fsx
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-gamelift
   url: https://github.com/api-evangelist/amazon-gamelift
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-global-accelerator
   url: https://github.com/api-evangelist/amazon-global-accelerator
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-glue-databrew
   url: https://github.com/api-evangelist/amazon-glue-databrew
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-glue
   url: https://github.com/api-evangelist/amazon-glue
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-ground-station
   url: https://github.com/api-evangelist/amazon-ground-station
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-guardduty
   url: https://github.com/api-evangelist/amazon-guardduty
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-health-dashboard
   url: https://github.com/api-evangelist/amazon-health-dashboard
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-healthimaging
   url: https://github.com/api-evangelist/amazon-healthimaging
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-healthlake
   url: https://github.com/api-evangelist/amazon-healthlake
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-healthomics
   url: https://github.com/api-evangelist/amazon-healthomics
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-iam-access-analyzer
   url: https://github.com/api-evangelist/amazon-iam-access-analyzer
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-iam-identity-center
   url: https://github.com/api-evangelist/amazon-iam-identity-center
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-iam
   url: https://github.com/api-evangelist/amazon-iam
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-incident-manager
   url: https://github.com/api-evangelist/amazon-incident-manager
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-inspector
   url: https://github.com/api-evangelist/amazon-inspector
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-interactive-video-service
   url: https://github.com/api-evangelist/amazon-interactive-video-service
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-iot-core
   url: https://github.com/api-evangelist/amazon-iot-core
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-iot-device-defender
   url: https://github.com/api-evangelist/amazon-iot-device-defender
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-iot-device-management
   url: https://github.com/api-evangelist/amazon-iot-device-management
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-iot-events
   url: https://github.com/api-evangelist/amazon-iot-events
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-iot-fleetwise
   url: https://github.com/api-evangelist/amazon-iot-fleetwise
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-iot-greengrass
   url: https://github.com/api-evangelist/amazon-iot-greengrass
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-iot-sitewise
   url: https://github.com/api-evangelist/amazon-iot-sitewise
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-iot-twinmaker
   url: https://github.com/api-evangelist/amazon-iot-twinmaker
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-kendra
   url: https://github.com/api-evangelist/amazon-kendra
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-keyspaces
   url: https://github.com/api-evangelist/amazon-keyspaces
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-kinesis-firehose
   url: https://github.com/api-evangelist/amazon-kinesis-firehose
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-kinesis-video-streams
   url: https://github.com/api-evangelist/amazon-kinesis-video-streams
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-kinesis
   url: https://github.com/api-evangelist/amazon-kinesis
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-kms
   url: https://github.com/api-evangelist/amazon-kms
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-lake-formation
   url: https://github.com/api-evangelist/amazon-lake-formation
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-lakeformation
   url: https://github.com/api-evangelist/amazon-lakeformation
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-lambda
   url: https://github.com/api-evangelist/amazon-lambda
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-launch-wizard
   url: https://github.com/api-evangelist/amazon-launch-wizard
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-lex
   url: https://github.com/api-evangelist/amazon-lex
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-license-manager
   url: https://github.com/api-evangelist/amazon-license-manager
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-lightsail
   url: https://github.com/api-evangelist/amazon-lightsail
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-location-service
   url: https://github.com/api-evangelist/amazon-location-service
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-lookout-for-equipment
   url: https://github.com/api-evangelist/amazon-lookout-for-equipment
   x-type: company
+  x-profiled: 2026-04
 - name: amazon-lookout-for-metrics
   url: https://github.com/api-evangelist/amazon-lookout-for-metrics
   x-type: company
