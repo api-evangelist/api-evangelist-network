@@ -2592,243 +2592,322 @@ network:
 - name: apache-openmeetings
   url: https://github.com/api-evangelist/apache-openmeetings
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-opennlp
   url: https://github.com/api-evangelist/apache-opennlp
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-openwhisk
   url: https://github.com/api-evangelist/apache-openwhisk
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-orc
   url: https://github.com/api-evangelist/apache-orc
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-ozone
   url: https://github.com/api-evangelist/apache-ozone
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-pdfbox
   url: https://github.com/api-evangelist/apache-pdfbox
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-pig
   url: https://github.com/api-evangelist/apache-pig
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-pinot
   url: https://github.com/api-evangelist/apache-pinot
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-poi
   url: https://github.com/api-evangelist/apache-poi
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-pulsar
   url: https://github.com/api-evangelist/apache-pulsar
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-ranger
   url: https://github.com/api-evangelist/apache-ranger
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-rocketmq
   url: https://github.com/api-evangelist/apache-rocketmq
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-samza
   url: https://github.com/api-evangelist/apache-samza
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-seatunnel
   url: https://github.com/api-evangelist/apache-seatunnel
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-servicemix
   url: https://github.com/api-evangelist/apache-servicemix
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-shardingsphere
   url: https://github.com/api-evangelist/apache-shardingsphere
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-shiro
   url: https://github.com/api-evangelist/apache-shiro
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-skywalking
   url: https://github.com/api-evangelist/apache-skywalking
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-sling
   url: https://github.com/api-evangelist/apache-sling
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-software-foundation
   url: https://github.com/api-evangelist/apache-software-foundation
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-solr
   url: https://github.com/api-evangelist/apache-solr
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-spark
   url: https://github.com/api-evangelist/apache-spark
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-sqoop
   url: https://github.com/api-evangelist/apache-sqoop
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-storm
   url: https://github.com/api-evangelist/apache-storm
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-struts
   url: https://github.com/api-evangelist/apache-struts
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-superset
   url: https://github.com/api-evangelist/apache-superset
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-systemds
   url: https://github.com/api-evangelist/apache-systemds
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-tapestry
   url: https://github.com/api-evangelist/apache-tapestry
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-tez
   url: https://github.com/api-evangelist/apache-tez
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-thrift
   url: https://github.com/api-evangelist/apache-thrift
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-tika
   url: https://github.com/api-evangelist/apache-tika
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-tinkerpop
   url: https://github.com/api-evangelist/apache-tinkerpop
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-tomcat
   url: https://github.com/api-evangelist/apache-tomcat
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-tvm
   url: https://github.com/api-evangelist/apache-tvm
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-wicket
   url: https://github.com/api-evangelist/apache-wicket
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-zeppelin
   url: https://github.com/api-evangelist/apache-zeppelin
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-zipkin
   url: https://github.com/api-evangelist/apache-zipkin
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache-zookeeper
   url: https://github.com/api-evangelist/apache-zookeeper
   x-type: opensource
+  x-profiled: 2026-04
 - name: apache
   url: https://github.com/api-evangelist/apache
   x-type: opensource
+  x-profiled: 2026-04
 - name: apa
   url: https://github.com/api-evangelist/apa
   x-type: company
+  x-profiled: 2026-04
 - name: api-blueprint
   url: https://github.com/api-evangelist/api-blueprint
   x-type: standard
+  x-profiled: 2026-04
 - name: api-dash
   url: https://github.com/api-evangelist/api-dash
   x-type: company
+  x-profiled: 2026-04
 - name: api-dynamics
   url: https://github.com/api-evangelist/api-dynamics
   x-type: company
+  x-profiled: 2026-04
 - name: api-evangelist-network
   url: https://github.com/api-evangelist/api-evangelist-network
   x-type: company
 - name: api-fiddle
   url: https://github.com/api-evangelist/api-fiddle
   x-type: company
+  x-profiled: 2026-04
 - name: api-first
   url: https://github.com/api-evangelist/api-first
   x-type: company
+  x-profiled: 2026-04
 - name: api-football
   url: https://github.com/api-evangelist/api-football
   x-type: company
+  x-profiled: 2026-04
 - name: api-harmony
   url: https://github.com/api-evangelist/api-harmony
   x-type: company
+  x-profiled: 2026-04
 - name: api-insights
   url: https://github.com/api-evangelist/api-insights
   x-type: company
+  x-profiled: 2026-04
 - name: api-layer
   url: https://github.com/api-evangelist/api-layer
   x-type: company
+  x-profiled: 2026-04
 - name: api-league
   url: https://github.com/api-evangelist/api-league
   x-type: company
+  x-profiled: 2026-04
 - name: api-pulse
   url: https://github.com/api-evangelist/api-pulse
   x-type: company
+  x-profiled: 2026-04
 - name: api-sports
   url: https://github.com/api-evangelist/api-sports
   x-type: company
+  x-profiled: 2026-04
 - name: api-stack
   url: https://github.com/api-evangelist/api-stack
   x-type: company
+  x-profiled: 2026-04
 - name: api-video
   url: https://github.com/api-evangelist/api-video
   x-type: company
+  x-profiled: 2026-04
 - name: apiable
   url: https://github.com/api-evangelist/apiable
   x-type: company
+  x-profiled: 2026-04
 - name: apiary
   url: https://github.com/api-evangelist/apiary
   x-type: company
+  x-profiled: 2026-04
 - name: apiclarity
   url: https://github.com/api-evangelist/apiclarity
   x-type: company
+  x-profiled: 2026-04
 - name: apicontext
   url: https://github.com/api-evangelist/apicontext
   x-type: company
+  x-profiled: 2026-04
 - name: apicurio
   url: https://github.com/api-evangelist/apicurio
   x-type: standard
+  x-profiled: 2026-04
 - name: apideck
   url: https://github.com/api-evangelist/apideck
   x-type: company
+  x-profiled: 2026-04
 - name: apidog
   url: https://github.com/api-evangelist/apidog
   x-type: company
+  x-profiled: 2026-04
 - name: apifuse
   url: https://github.com/api-evangelist/apifuse
   x-type: company
+  x-profiled: 2026-04
 - name: apify
   url: https://github.com/api-evangelist/apify
   x-type: company
+  x-profiled: 2026-04
 - name: apigee
   url: https://github.com/api-evangelist/apigee
   x-type: company
+  x-profiled: 2026-04
 - name: apigen
   url: https://github.com/api-evangelist/apigen
   x-type: company
+  x-profiled: 2026-04
 - name: apigit
   url: https://github.com/api-evangelist/apigit
   x-type: company
+  x-profiled: 2026-04
 - name: apigovernance-dev
   url: https://github.com/api-evangelist/apigovernance-dev
   x-type: company
+  x-profiled: 2026-04
 - name: apiida
   url: https://github.com/api-evangelist/apiida
   x-type: company
+  x-profiled: 2026-04
 - name: apilayer
   url: https://github.com/api-evangelist/apilayer
   x-type: company
+  x-profiled: 2026-04
 - name: apiman
   url: https://github.com/api-evangelist/apiman
   x-type: company
+  x-profiled: 2026-04
 - name: apimatic
   url: https://github.com/api-evangelist/apimatic
   x-type: company
+  x-profiled: 2026-04
 - name: apinity-io
   url: https://github.com/api-evangelist/apinity-io
   x-type: company
+  x-profiled: 2026-04
 - name: apinizer
   url: https://github.com/api-evangelist/apinizer
   x-type: company
+  x-profiled: 2026-04
 - name: apinotes
   url: https://github.com/api-evangelist/apinotes
   x-type: company
+  x-profiled: 2026-04
 - name: apiops-cycles-canvas
   url: https://github.com/api-evangelist/apiops-cycles-canvas
   x-type: company
+  x-profiled: 2026-04
 - name: apipark
   url: https://github.com/api-evangelist/apipark
   x-type: company
+  x-profiled: 2026-04
 - name: apis-guru
   url: https://github.com/api-evangelist/apis-guru
   x-type: company
+  x-profiled: 2026-04
 - name: apis-io
   url: https://github.com/api-evangelist/apis-io
   x-type: company
+  x-profiled: 2026-04
 - name: apis-json
   url: https://github.com/api-evangelist/apis-json
   x-type: company
+  x-profiled: 2026-04
 - name: apishare
   url: https://github.com/api-evangelist/apishare
   x-type: company
