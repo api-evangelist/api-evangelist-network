@@ -2764,6 +2764,7 @@ network:
 - name: api-evangelist-network
   url: https://github.com/api-evangelist/api-evangelist-network
   x-type: company
+  x-profiled: 2026-04
 - name: api-fiddle
   url: https://github.com/api-evangelist/api-fiddle
   x-type: company
