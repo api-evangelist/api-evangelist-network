@@ -165,6 +165,7 @@ propertyTypes:
     - name: ProfessionalServices
     - name: KnowledgeCenter
     - name: Hub
+    - name: KubernetesCRD
     - name: Resources
 
 contactProperties:
