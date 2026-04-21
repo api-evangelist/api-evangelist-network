@@ -3682,6 +3682,7 @@ network:
 - name: backblaze
   url: https://github.com/api-evangelist/backblaze
   x-type: company
+  x-profiled: 2026-04
 - name: backstage
   url: https://github.com/api-evangelist/backstage
   x-type: company
@@ -3712,6 +3713,7 @@ network:
 - name: bandwidth
   url: https://github.com/api-evangelist/bandwidth
   x-type: company
+  x-profiled: 2026-04
 - name: bank-of-america
   url: https://github.com/api-evangelist/bank-of-america
   x-type: company
@@ -3872,6 +3874,7 @@ network:
 - name: bettercloud
   url: https://github.com/api-evangelist/bettercloud
   x-type: company
+  x-profiled: 2026-04
 - name: betterstack
   url: https://github.com/api-evangelist/betterstack
   x-type: company
@@ -3897,9 +3900,11 @@ network:
 - name: bigcommerce
   url: https://github.com/api-evangelist/bigcommerce
   x-type: company
+  x-profiled: 2026-04
 - name: bigpanda
   url: https://github.com/api-evangelist/bigpanda
   x-type: company
+  x-profiled: 2026-04
 - name: binadox
   url: https://github.com/api-evangelist/binadox
   x-type: company
@@ -3972,9 +3977,11 @@ network:
 - name: block
   url: https://github.com/api-evangelist/block
   x-type: company
+  x-profiled: 2026-04
 - name: bloom-credit
   url: https://github.com/api-evangelist/bloom-credit
   x-type: company
+  x-profiled: 2026-04
 - name: bloomberg-aim
   url: https://github.com/api-evangelist/bloomberg-aim
   x-profiled: 2026-04
@@ -4197,6 +4204,7 @@ network:
 - name: box
   url: https://github.com/api-evangelist/box
   x-type: company
+  x-profiled: 2026-04
 - name: boycott-israeli-consumer-goods-dataset
   url: https://github.com/api-evangelist/boycott-israeli-consumer-goods-dataset
   x-type: company
@@ -4212,6 +4220,7 @@ network:
 - name: braintree
   url: https://github.com/api-evangelist/braintree
   x-type: company
+  x-profiled: 2026-04
 - name: brand-api
   url: https://github.com/api-evangelist/brand-api
   x-type: company
@@ -4235,9 +4244,11 @@ network:
 - name: brevo
   url: https://github.com/api-evangelist/brevo
   x-type: company
+  x-profiled: 2026-04
 - name: brex
   url: https://github.com/api-evangelist/brex
   x-type: company
+  x-profiled: 2026-04
 - name: brick
   url: https://github.com/api-evangelist/brick
   x-type: company
@@ -4265,6 +4276,7 @@ network:
   url: https://github.com/api-evangelist/broadcom
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: broadridge
   url: https://github.com/api-evangelist/broadridge
   x-type: company
@@ -4325,6 +4337,7 @@ network:
 - name: bugsnag
   url: https://github.com/api-evangelist/bugsnag
   x-type: company
+  x-profiled: 2026-04
 - name: buildah
   url: https://github.com/api-evangelist/buildah
   x-type: company
@@ -4492,6 +4505,7 @@ network:
 - name: camunda
   url: https://github.com/api-evangelist/camunda
   x-type: company
+  x-profiled: 2026-04
 - name: cancer-gov
   url: https://github.com/api-evangelist/cancer-gov
   x-type: government
@@ -4826,6 +4840,7 @@ network:
 - name: checkly
   url: https://github.com/api-evangelist/checkly
   x-type: company
+  x-profiled: 2026-04
 - name: checkmarx
   url: https://github.com/api-evangelist/checkmarx
   x-type: company
@@ -5107,6 +5122,7 @@ network:
 - name: clickup
   url: https://github.com/api-evangelist/clickup
   x-type: company
+  x-profiled: 2026-04
 - name: clients
   url: https://github.com/api-evangelist/clients
   x-type: company
@@ -5238,6 +5254,7 @@ network:
 - name: codat
   url: https://github.com/api-evangelist/codat
   x-type: company
+  x-profiled: 2026-04
 - name: code-first
   url: https://github.com/api-evangelist/code-first
   x-type: company
@@ -5268,6 +5285,7 @@ network:
 - name: cohere
   url: https://github.com/api-evangelist/cohere
   x-type: company
+  x-profiled: 2026-04
 - name: cohesity
   url: https://github.com/api-evangelist/cohesity
   x-type: company
@@ -5429,6 +5447,7 @@ network:
 - name: confluent
   url: https://github.com/api-evangelist/confluent
   x-type: company
+  x-profiled: 2026-04
 - name: congressional-budget-office
   url: https://github.com/api-evangelist/congressional-budget-office
   x-type: company
@@ -5500,6 +5519,7 @@ network:
 - name: contentful
   url: https://github.com/api-evangelist/contentful
   x-type: company
+  x-profiled: 2026-04
 - name: contentstack
   url: https://github.com/api-evangelist/contentstack
   x-type: company
