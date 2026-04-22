@@ -99,7 +99,7 @@ network:
 - name: about-exim-exim-gov-export-import-bank-of-the-united-states
   url: https://github.com/api-evangelist/about-exim-exim-gov-export-import-bank-of-the-united-states
   x-profiled: 2026-04
-  x-type: company
+  x-type: government
 - name: absence-io
   url: https://github.com/api-evangelist/absence-io
   x-profiled: 2026-04
@@ -132,15 +132,15 @@ network:
   x-profiled: 2026-04
 - name: acceptance-criteria
   url: https://github.com/api-evangelist/acceptance-criteria
-  x-type: company
+  x-type: topic
   x-profiled: 2026-04
 - name: accessibility-standards
   url: https://github.com/api-evangelist/accessibility-standards
-  x-type: company
+  x-type: topic
   x-profiled: 2026-04
 - name: accounting-standards
   url: https://github.com/api-evangelist/accounting-standards
-  x-type: company
+  x-type: topic
   x-profiled: 2026-04
 - name: accuweather
   url: https://github.com/api-evangelist/accuweather
@@ -152,11 +152,11 @@ network:
   x-profiled: 2026-04
 - name: acid
   url: https://github.com/api-evangelist/acid
-  x-type: company
+  x-type: topic
   x-profiled: 2026-04
 - name: acknowledgments-md
   url: https://github.com/api-evangelist/acknowledgments-md
-  x-type: company
+  x-type: topic
   x-profiled: 2026-04
 - name: acme-markets
   url: https://github.com/api-evangelist/acme-markets
@@ -194,7 +194,7 @@ network:
   x-profiled: 2026-04
 - name: actor-model
   url: https://github.com/api-evangelist/actor-model
-  x-type: company
+  x-type: topic
   x-profiled: 2026-04
 - name: acts-retirement
   url: https://github.com/api-evangelist/acts-retirement
@@ -234,11 +234,11 @@ network:
   x-profiled: 2026-04
 - name: administrative-conference-of-the-united-states
   url: https://github.com/api-evangelist/administrative-conference-of-the-united-states
-  x-type: company
+  x-type: government
   x-profiled: 2026-04
 - name: administrative-office-of-the-u-s-courts
   url: https://github.com/api-evangelist/administrative-office-of-the-u-s-courts
-  x-type: company
+  x-type: government
   x-profiled: 2026-04
 - name: adobe-analytics
   url: https://github.com/api-evangelist/adobe-analytics
@@ -309,7 +309,7 @@ network:
   x-profiled: 2026-04
 - name: advanced-excel
   url: https://github.com/api-evangelist/advanced-excel
-  x-type: company
+  x-type: topic
   x-profiled: 2026-04
 - name: advanced-micro-devices
   url: https://github.com/api-evangelist/advanced-micro-devices
@@ -371,15 +371,15 @@ network:
   x-profiled: 2026-04
 - name: agent-diff
   url: https://github.com/api-evangelist/agent-diff
-  x-type: company
+  x-type: topic
   x-profiled: 2026-04
 - name: agent-md
   url: https://github.com/api-evangelist/agent-md
-  x-type: company
+  x-type: topic
   x-profiled: 2026-04
 - name: agent-skills
   url: https://github.com/api-evangelist/agent-skills
-  x-type: company
+  x-type: topic
   x-profiled: 2026-04
 - name: agentgateway
   url: https://github.com/api-evangelist/agentgateway
@@ -395,11 +395,11 @@ network:
   x-profiled: 2026-04
 - name: agents-md
   url: https://github.com/api-evangelist/agents-md
-  x-type: company
+  x-type: topic
   x-profiled: 2026-04
 - name: aggregation
   url: https://github.com/api-evangelist/aggregation
-  x-type: company
+  x-type: topic
   x-profiled: 2026-04
 - name: agify-io
   url: https://github.com/api-evangelist/agify-io
@@ -407,15 +407,15 @@ network:
   x-profiled: 2026-04
 - name: agile-delivery
   url: https://github.com/api-evangelist/agile-delivery
-  x-type: company
+  x-type: topic
   x-profiled: 2026-04
 - name: agile-methodology
   url: https://github.com/api-evangelist/agile-methodology
-  x-type: company
+  x-type: topic
   x-profiled: 2026-04
 - name: agile-sdlc
   url: https://github.com/api-evangelist/agile-sdlc
-  x-type: company
+  x-type: topic
   x-profiled: 2026-04
 - name: agilent-technologies
   url: https://github.com/api-evangelist/agilent-technologies
@@ -424,7 +424,7 @@ network:
   x-profiled: 2026-04
 - name: agile
   url: https://github.com/api-evangelist/agile
-  x-type: company
+  x-type: topic
   x-profiled: 2026-04
 - name: agl-resources
   url: https://github.com/api-evangelist/agl-resources
@@ -433,11 +433,11 @@ network:
   x-profiled: 2026-04
 - name: agricultural-marketing-service
   url: https://github.com/api-evangelist/agricultural-marketing-service
-  x-type: company
+  x-type: government
   x-profiled: 2026-04
 - name: agricultural-statistics-service
   url: https://github.com/api-evangelist/agricultural-statistics-service
-  x-type: company
+  x-type: government
   x-profiled: 2026-04
 - name: agrio
   url: https://github.com/api-evangelist/agrio
@@ -449,7 +449,7 @@ network:
   x-profiled: 2026-04
 - name: agstack
   url: https://github.com/api-evangelist/agstack
-  x-type: company
+  x-type: opensource
   x-profiled: 2026-04
 - name: ahasend
   url: https://github.com/api-evangelist/ahasend
@@ -458,10 +458,10 @@ network:
 - name: ai-automation
   url: https://github.com/api-evangelist/ai-automation
   x-profiled: 2026-04
-  x-type: company
+  x-type: topic
 - name: ai-habitat
   url: https://github.com/api-evangelist/ai-habitat
-  x-type: company
+  x-type: opensource
   x-profiled: 2026-04
 - name: aig
   url: https://github.com/api-evangelist/aig
@@ -479,7 +479,7 @@ network:
 - name: aiops
   url: https://github.com/api-evangelist/aiops
   x-profiled: 2026-04
-  x-type: company
+  x-type: topic
 - name: air-force-reserve
   url: https://github.com/api-evangelist/air-force-reserve
   x-type: government
@@ -491,7 +491,7 @@ network:
   x-profiled: 2026-04
 - name: air-quality-programmatic-apis
   url: https://github.com/api-evangelist/air-quality-programmatic-apis
-  x-type: company
+  x-type: government
   x-profiled: 2026-04
 - name: airbnb
   url: https://github.com/api-evangelist/airbnb
@@ -561,7 +561,7 @@ network:
   x-profiled: 2026-04
 - name: akri
   url: https://github.com/api-evangelist/akri
-  x-type: company
+  x-type: opensource
   x-profiled: 2026-04
 - name: aladdin-studio
   url: https://github.com/api-evangelist/aladdin-studio
@@ -2321,14 +2321,14 @@ network:
 - name: ansible-automation-platform
   url: https://github.com/api-evangelist/ansible-automation-platform
   x-profiled: 2026-04
-  x-type: company
+  x-type: opensource
 - name: ansible-playbooks
   url: https://github.com/api-evangelist/ansible-playbooks
-  x-type: company
+  x-type: opensource
   x-profiled: 2026-04
 - name: ansible-roles
   url: https://github.com/api-evangelist/ansible-roles
-  x-type: company
+  x-type: opensource
   x-profiled: 2026-04
 - name: ansible
   url: https://github.com/api-evangelist/ansible
@@ -2771,7 +2771,7 @@ network:
   x-profiled: 2026-04
 - name: api-first
   url: https://github.com/api-evangelist/api-first
-  x-type: company
+  x-type: topic
   x-profiled: 2026-04
 - name: api-football
   url: https://github.com/api-evangelist/api-football
@@ -3089,11 +3089,11 @@ network:
   x-profiled: 2026-04
 - name: architectural-design-patterns
   url: https://github.com/api-evangelist/architectural-design-patterns
-  x-type: company
+  x-type: topic
   x-profiled: 2026-04
 - name: architecture-pattern
   url: https://github.com/api-evangelist/architecture-pattern
-  x-type: company
+  x-type: topic
   x-profiled: 2026-04
 - name: archrock
   url: https://github.com/api-evangelist/archrock
@@ -3106,11 +3106,11 @@ network:
   x-fortune: Fortune 1000
 - name: argo-cd
   url: https://github.com/api-evangelist/argo-cd
-  x-type: company
+  x-type: opensource
   x-profiled: 2026-04
 - name: argo-workflows
   url: https://github.com/api-evangelist/argo-workflows
-  x-type: company
+  x-type: opensource
   x-profiled: 2026-04
 - name: argo
   url: https://github.com/api-evangelist/argo
@@ -3277,7 +3277,7 @@ network:
   x-profiled: 2026-04
 - name: national-council-on-disability
   url: https://github.com/api-evangelist/ational-council-on-disability
-  x-type: company
+  x-type: government
   x-profiled: 2026-04
 - name: atlassian-compass
   url: https://github.com/api-evangelist/atlassian-compass
@@ -3488,7 +3488,7 @@ network:
   x-profiled: 2026-04
 - name: avro
   url: https://github.com/api-evangelist/avro
-  x-type: company
+  x-type: opensource
   x-profiled: 2026-04
 - name: aws-api-gateway
   url: https://github.com/api-evangelist/aws-api-gateway
@@ -3557,7 +3557,7 @@ network:
   x-profiled: 2026-04
 - name: axon-framework
   url: https://github.com/api-evangelist/axon-framework
-  x-type: company
+  x-type: opensource
   x-profiled: 2026-04
 - name: axonius
   url: https://github.com/api-evangelist/axonius
@@ -3736,7 +3736,7 @@ network:
   x-profiled: 2026-04
 - name: banking-regulation
   url: https://github.com/api-evangelist/banking-regulation
-  x-type: company
+  x-type: topic
   x-profiled: 2026-04
 - name: bankruptcywatch
   url: https://github.com/api-evangelist/bankruptcywatch
@@ -3784,7 +3784,7 @@ network:
   x-profiled: 2026-04
 - name: bash
   url: https://github.com/api-evangelist/bash
-  x-type: company
+  x-type: topic
   x-profiled: 2026-04
 - name: basiq
   url: https://github.com/api-evangelist/basiq
@@ -3819,7 +3819,7 @@ network:
   x-profiled: 2026-04
 - name: bdd
   url: https://github.com/api-evangelist/bdd
-  x-type: company
+  x-type: topic
   x-profiled: 2026-04
 - name: beacon-roofing-supply
   url: https://github.com/api-evangelist/beacon-roofing-supply
@@ -4094,6 +4094,7 @@ network:
 - name: bloomberg-enterprise
   url: https://github.com/api-evangelist/bloomberg-enterprise
   x-type: company
+  x-profiled: 2026-04
 - name: bloomberg-enterprise-data
   url: https://github.com/api-evangelist/bloomberg-enterprise-data
   x-profiled: 2026-04
@@ -4101,27 +4102,35 @@ network:
 - name: bloomberg-esg-products
   url: https://github.com/api-evangelist/bloomberg-esg-products
   x-type: company
+  x-profiled: 2026-04
 - name: bloomberg-excel-plug-ins
   url: https://github.com/api-evangelist/bloomberg-excel-plug-ins
   x-type: company
+  x-profiled: 2026-04
 - name: bloomberg-financial-solutions
   url: https://github.com/api-evangelist/bloomberg-financial-solutions
   x-type: company
+  x-profiled: 2026-04
 - name: bloomberg-government-bgov
   url: https://github.com/api-evangelist/bloomberg-government-bgov
   x-type: company
+  x-profiled: 2026-04
 - name: bloomberg-index-solutions-limited-bisl
   url: https://github.com/api-evangelist/bloomberg-index-solutions-limited-bisl
   x-type: company
+  x-profiled: 2026-04
 - name: bloomberg-indices
   url: https://github.com/api-evangelist/bloomberg-indices
   x-type: company
+  x-profiled: 2026-04
 - name: bloomberg-instant-messaging
   url: https://github.com/api-evangelist/bloomberg-instant-messaging
   x-type: company
+  x-profiled: 2026-04
 - name: bloomberg-intelligence
   url: https://github.com/api-evangelist/bloomberg-intelligence
   x-type: company
+  x-profiled: 2026-04
 - name: bloomberg-lp
   url: https://github.com/api-evangelist/bloomberg-lp
   x-profiled: 2026-04
@@ -4129,9 +4138,11 @@ network:
 - name: bloomberg-media-platforms
   url: https://github.com/api-evangelist/bloomberg-media-platforms
   x-type: company
+  x-profiled: 2026-04
 - name: bloomberg-message
   url: https://github.com/api-evangelist/bloomberg-message
   x-type: company
+  x-profiled: 2026-04
 - name: bloomberg-news
   url: https://github.com/api-evangelist/bloomberg-news
   x-profiled: 2026-04
@@ -4139,12 +4150,15 @@ network:
 - name: bloomberg-platform
   url: https://github.com/api-evangelist/bloomberg-platform
   x-type: company
+  x-profiled: 2026-04
 - name: bloomberg-product-suite
   url: https://github.com/api-evangelist/bloomberg-product-suite
   x-type: company
+  x-profiled: 2026-04
 - name: bloomberg-products-and-platforms
   url: https://github.com/api-evangelist/bloomberg-products-and-platforms
   x-type: company
+  x-profiled: 2026-04
 - name: bloomberg-professional-service
   url: https://github.com/api-evangelist/bloomberg-professional-service
   x-profiled: 2026-04
@@ -4152,36 +4166,47 @@ network:
 - name: bloomberg-proprietary-technologies
   url: https://github.com/api-evangelist/bloomberg-proprietary-technologies
   x-type: company
+  x-profiled: 2026-04
 - name: bloomberg-query-language-bql
   url: https://github.com/api-evangelist/bloomberg-query-language-bql
   x-type: company
+  x-profiled: 2026-04
 - name: bloomberg-sustainable-finance-products
   url: https://github.com/api-evangelist/bloomberg-sustainable-finance-products
   x-type: company
+  x-profiled: 2026-04
 - name: bloomberg-tax-btax
   url: https://github.com/api-evangelist/bloomberg-tax-btax
   x-type: company
+  x-profiled: 2026-04
 - name: bloomberg-tax-research
   url: https://github.com/api-evangelist/bloomberg-tax-research
   x-type: company
+  x-profiled: 2026-04
 - name: bloomberg-television-and-radio
   url: https://github.com/api-evangelist/bloomberg-television-and-radio
   x-type: company
+  x-profiled: 2026-04
 - name: bloomberg-terminals
   url: https://github.com/api-evangelist/bloomberg-terminals
   x-type: company
+  x-profiled: 2026-04
 - name: bloomberg-terminal
   url: https://github.com/api-evangelist/bloomberg-terminal
   x-type: company
+  x-profiled: 2026-04
 - name: bloomberg-tradebook
   url: https://github.com/api-evangelist/bloomberg-tradebook
   x-type: company
+  x-profiled: 2026-04
 - name: bloomberg-tv
   url: https://github.com/api-evangelist/bloomberg-tv
   x-type: company
+  x-profiled: 2026-04
 - name: bloomberg-valuation-service-bval
   url: https://github.com/api-evangelist/bloomberg-valuation-service-bval
   x-type: company
+  x-profiled: 2026-04
 - name: bloomberg
   url: https://github.com/api-evangelist/bloomberg
   x-profiled: 2026-04
@@ -4189,9 +4214,11 @@ network:
 - name: bloomin-brands
   url: https://github.com/api-evangelist/bloomin-brands
   x-type: company
+  x-profiled: 2026-04
 - name: blubrry-api-restful-api-for-podcast-publishing-statistics
   url: https://github.com/api-evangelist/blubrry-api-restful-api-for-podcast-publishing-statistics
   x-type: company
+  x-profiled: 2026-04
 - name: blue-owl-capital
   url: https://github.com/api-evangelist/blue-owl-capital
   x-profiled: 2026-04
@@ -4204,21 +4231,27 @@ network:
 - name: blue-yonder
   url: https://github.com/api-evangelist/blue-yonder
   x-type: company
+  x-profiled: 2026-04
 - name: bluebeam
   url: https://github.com/api-evangelist/bluebeam
   x-type: company
+  x-profiled: 2026-04
 - name: bluesky
   url: https://github.com/api-evangelist/bluesky
   x-type: company
+  x-profiled: 2026-04
 - name: bmw
   url: https://github.com/api-evangelist/bmw
   x-type: company
+  x-profiled: 2026-04
 - name: bnp-paribas
   url: https://github.com/api-evangelist/bnp-paribas
   x-type: company
+  x-profiled: 2026-04
 - name: bnsf
   url: https://github.com/api-evangelist/bnsf
   x-type: company
+  x-profiled: 2026-04
 - name: bny-bank-of-new-york-mellon
   url: https://github.com/api-evangelist/bny-bank-of-new-york-mellon
   x-profiled: 2026-04
@@ -4227,60 +4260,76 @@ network:
 - name: boardroom-governance
   url: https://github.com/api-evangelist/boardroom-governance
   x-type: company
+  x-profiled: 2026-04
 - name: boeing
   url: https://github.com/api-evangelist/boeing
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: boise-cascade
   url: https://github.com/api-evangelist/boise-cascade
   x-type: company
   x-fortune: Fortune 1000
+  x-profiled: 2026-04
 - name: boltic
   url: https://github.com/api-evangelist/boltic
   x-type: company
+  x-profiled: 2026-04
 - name: bon-ton-stores
   url: https://github.com/api-evangelist/bon-ton-stores
   x-type: company
+  x-profiled: 2026-04
 - name: bonneville-power-administration
   url: https://github.com/api-evangelist/bonneville-power-administration
   x-type: government
+  x-profiled: 2026-04
 - name: booking-com
   url: https://github.com/api-evangelist/booking-com
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: booking-holdings
   url: https://github.com/api-evangelist/booking-holdings
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: bookingcom
   url: https://github.com/api-evangelist/bookingcom
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: boomi
   url: https://github.com/api-evangelist/boomi
   x-type: company
+  x-profiled: 2026-04
 - name: bootc
   url: https://github.com/api-evangelist/bootc
   x-type: company
+  x-profiled: 2026-04
 - name: booz-allen-hamilton
   url: https://github.com/api-evangelist/booz-allen-hamilton
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: borgwarner
   url: https://github.com/api-evangelist/borgwarner
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: boston-properties
   url: https://github.com/api-evangelist/boston-properties
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: boston-scientific
   url: https://github.com/api-evangelist/boston-scientific
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: bot-butcher
   url: https://github.com/api-evangelist/bot-butcher
   x-type: company
+  x-profiled: 2026-04
 - name: box
   url: https://github.com/api-evangelist/box
   x-type: company
@@ -4288,15 +4337,19 @@ network:
 - name: boycott-israeli-consumer-goods-dataset
   url: https://github.com/api-evangelist/boycott-israeli-consumer-goods-dataset
   x-type: company
+  x-profiled: 2026-04
 - name: boyd-gaming
   url: https://github.com/api-evangelist/boyd-gaming
   x-type: company
+  x-profiled: 2026-04
 - name: bp
   url: https://github.com/api-evangelist/bp
   x-type: company
+  x-profiled: 2026-04
 - name: braiins-academy
   url: https://github.com/api-evangelist/braiins-academy
   x-type: company
+  x-profiled: 2026-04
 - name: braintree
   url: https://github.com/api-evangelist/braintree
   x-type: company
@@ -4304,9 +4357,11 @@ network:
 - name: brand-api
   url: https://github.com/api-evangelist/brand-api
   x-type: company
+  x-profiled: 2026-04
 - name: brandwatch
   url: https://github.com/api-evangelist/brandwatch
   x-type: company
+  x-profiled: 2026-04
 - name: brandywine-realty-trust
   url: https://github.com/api-evangelist/brandywine-realty-trust
   x-profiled: 2026-04
@@ -4315,12 +4370,15 @@ network:
 - name: brapi
   url: https://github.com/api-evangelist/brapi
   x-type: company
+  x-profiled: 2026-04
 - name: braze
   url: https://github.com/api-evangelist/braze
   x-type: company
+  x-profiled: 2026-04
 - name: bread
   url: https://github.com/api-evangelist/bread
   x-type: company
+  x-profiled: 2026-04
 - name: brevo
   url: https://github.com/api-evangelist/brevo
   x-type: company
@@ -4332,26 +4390,33 @@ network:
 - name: brick
   url: https://github.com/api-evangelist/brick
   x-type: company
+  x-profiled: 2026-04
 - name: bright-data
   url: https://github.com/api-evangelist/bright-data
   x-type: company
+  x-profiled: 2026-04
 - name: brightspring-health-services
   url: https://github.com/api-evangelist/brightspring-health-services
   x-type: company
+  x-profiled: 2026-04
 - name: brinker-international
   url: https://github.com/api-evangelist/brinker-international
   x-type: company
+  x-profiled: 2026-04
 - name: brinks
   url: https://github.com/api-evangelist/brinks
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: bristol-myers-squibb
   url: https://github.com/api-evangelist/bristol-myers-squibb
   x-type: company
   x-fortune: Fortune 100
+  x-profiled: 2026-04
 - name: british-columbia-data-catalogue
   url: https://github.com/api-evangelist/british-columbia-data-catalogue
   x-type: company
+  x-profiled: 2026-04
 - name: broadcom
   url: https://github.com/api-evangelist/broadcom
   x-type: company
@@ -4361,16 +4426,20 @@ network:
   url: https://github.com/api-evangelist/broadridge
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: brocade-communications-systems
   url: https://github.com/api-evangelist/brocade-communications-systems
   x-type: company
+  x-profiled: 2026-04
 - name: brocade
   url: https://github.com/api-evangelist/brocade
   x-type: company
+  x-profiled: 2026-04
 - name: brookdale-senior-living
   url: https://github.com/api-evangelist/brookdale-senior-living
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: brookfield-asset-management
   url: https://github.com/api-evangelist/brookfield-asset-management
   x-profiled: 2026-04
@@ -4388,6 +4457,7 @@ network:
   url: https://github.com/api-evangelist/brown-forman
   x-type: company
   x-fortune: Fortune 1000
+  x-profiled: 2026-04
 - name: browser-use
   url: https://github.com/api-evangelist/browser-use
   x-profiled: 2026-04
@@ -4395,25 +4465,32 @@ network:
 - name: browserstack
   url: https://github.com/api-evangelist/browserstack
   x-type: company
+  x-profiled: 2026-04
 - name: bruno
   url: https://github.com/api-evangelist/bruno
   x-type: company
+  x-profiled: 2026-04
 - name: brunswick
   url: https://github.com/api-evangelist/brunswick
   x-type: company
   x-fortune: Fortune 1000
+  x-profiled: 2026-04
 - name: bubbles
   url: https://github.com/api-evangelist/bubbles
   x-type: company
+  x-profiled: 2026-04
 - name: buckeye-partners
   url: https://github.com/api-evangelist/buckeye-partners
   x-type: company
+  x-profiled: 2026-04
 - name: budibase
   url: https://github.com/api-evangelist/budibase
   x-type: company
+  x-profiled: 2026-04
 - name: buf
   url: https://github.com/api-evangelist/buf
   x-type: company
+  x-profiled: 2026-04
 - name: bugsnag
   url: https://github.com/api-evangelist/bugsnag
   x-type: company
@@ -4421,13 +4498,16 @@ network:
 - name: buildah
   url: https://github.com/api-evangelist/buildah
   x-type: company
+  x-profiled: 2026-04
 - name: builders-firstsource
   url: https://github.com/api-evangelist/builders-firstsource
   x-type: company
   x-fortune: Fortune 1000
+  x-profiled: 2026-04
 - name: buildpacks
   url: https://github.com/api-evangelist/buildpacks
   x-type: company
+  x-profiled: 2026-04
 - name: bump-sh
   url: https://github.com/api-evangelist/bump-sh
   x-type: company
@@ -4494,7 +4574,7 @@ network:
   x-type: company
 - name: c-sharp
   url: https://github.com/api-evangelist/c-sharp
-  x-type: company
+  x-type: topic
 - name: cabelas
   url: https://github.com/api-evangelist/cabelas
   x-type: company
@@ -4534,7 +4614,7 @@ network:
   x-type: company
 - name: calico
   url: https://github.com/api-evangelist/calico
-  x-type: company
+  x-type: opensource
 - name: calorie-ninjas
   url: https://github.com/api-evangelist/calorie-ninjas
   x-type: company
@@ -4624,13 +4704,13 @@ network:
   x-fortune: Fortune 100
 - name: capital-requirements
   url: https://github.com/api-evangelist/capital-requirements
-  x-type: company
+  x-type: topic
 - name: capitalist
   url: https://github.com/api-evangelist/capitalist
   x-type: company
 - name: capn-proto
   url: https://github.com/api-evangelist/capn-proto
-  x-type: company
+  x-type: standard
 - name: capri-holdings
   url: https://github.com/api-evangelist/capri-holdings
   x-profiled: 2026-04
@@ -4711,7 +4791,7 @@ network:
   x-type: company
 - name: casdoor
   url: https://github.com/api-evangelist/casdoor
-  x-type: company
+  x-type: opensource
 - name: caseys-general-stores
   url: https://github.com/api-evangelist/caseys-general-stores
   x-type: company
@@ -4757,7 +4837,7 @@ network:
   x-fortune: Fortune 500
 - name: ccpa
   url: https://github.com/api-evangelist/ccpa
-  x-type: company
+  x-type: topic
 - name: cdata
   url: https://github.com/api-evangelist/cdata
   x-type: company
@@ -4848,7 +4928,7 @@ network:
   x-type: company
 - name: certificate-enrolment-protocols
   url: https://github.com/api-evangelist/certificate-enrolment-protocols
-  x-type: company
+  x-type: topic
 - name: cf-industries-holdings
   url: https://github.com/api-evangelist/cf-industries-holdings
   x-type: company
@@ -4880,7 +4960,7 @@ network:
   x-fortune: Fortune 1000
 - name: changelog-md
   url: https://github.com/api-evangelist/changelog-md
-  x-type: company
+  x-type: topic
 - name: changelog
   url: https://github.com/api-evangelist/changelog
   x-type: company
@@ -5024,7 +5104,7 @@ network:
   x-fortune: Fortune 100
 - name: cilium
   url: https://github.com/api-evangelist/cilium
-  x-type: company
+  x-type: opensource
 - name: cimarex-energy
   url: https://github.com/api-evangelist/cimarex-energy
   x-type: company
@@ -5061,7 +5141,7 @@ network:
   x-fortune: Fortune 1000
 - name: circuit-breaker
   url: https://github.com/api-evangelist/circuit-breaker
-  x-type: company
+  x-type: topic
 - name: cisco
   url: https://github.com/api-evangelist/cisco
   x-profiled: 2026-04
@@ -5429,7 +5509,7 @@ network:
   x-type: government
 - name: committee-on-foreign-investment-in-the-united-states
   url: https://github.com/api-evangelist/committee-on-foreign-investment-in-the-united-states
-  x-type: company
+  x-type: government
 - name: commodity-futures-trading-commission
   url: https://github.com/api-evangelist/commodity-futures-trading-commission
   x-type: government
@@ -5441,7 +5521,7 @@ network:
   x-type: company
 - name: communication-protocols
   url: https://github.com/api-evangelist/communication-protocols
-  x-type: company
+  x-type: topic
 - name: community-health-systems
   url: https://github.com/api-evangelist/community-health-systems
   x-type: company
@@ -5530,7 +5610,7 @@ network:
   x-profiled: 2026-04
 - name: congressional-budget-office
   url: https://github.com/api-evangelist/congressional-budget-office
-  x-type: company
+  x-type: government
 - name: connect-rpc
   url: https://github.com/api-evangelist/connect-rpc
   x-type: company
@@ -5767,7 +5847,7 @@ network:
   x-type: company
 - name: cqrs
   url: https://github.com/api-evangelist/cqrs
-  x-type: company
+  x-type: topic
 - name: cr-bard
   url: https://github.com/api-evangelist/cr-bard
   x-type: company
@@ -5811,7 +5891,7 @@ network:
   x-fortune: Fortune 1000
 - name: crossplane
   url: https://github.com/api-evangelist/crossplane
-  x-type: company
+  x-type: opensource
 - name: crossref
   url: https://github.com/api-evangelist/crossref
   x-type: company
@@ -5920,7 +6000,7 @@ network:
   x-type: company
 - name: customs-and-border-protection
   url: https://github.com/api-evangelist/customs-and-border-protection
-  x-type: company
+  x-type: government
 - name: customs-brokerage
   url: https://github.com/api-evangelist/customs-brokerage
   x-type: company
@@ -5966,7 +6046,7 @@ network:
   x-type: government
 - name: cybersecurity-standards
   url: https://github.com/api-evangelist/cybersecurity-standards
-  x-type: company
+  x-type: topic
 - name: cycloid
   url: https://github.com/api-evangelist/cycloid
   x-type: company
@@ -5975,7 +6055,7 @@ network:
   x-type: company
 - name: dagger
   url: https://github.com/api-evangelist/dagger
-  x-type: company
+  x-type: opensource
 - name: dagster
   url: https://github.com/api-evangelist/dagster
   x-type: opensource
@@ -5999,7 +6079,7 @@ network:
   x-type: company
 - name: dapr
   url: https://github.com/api-evangelist/dapr
-  x-type: company
+  x-type: opensource
 - name: darden-restaurants
   url: https://github.com/api-evangelist/darden-restaurants
   x-type: company
@@ -6016,31 +6096,31 @@ network:
   x-type: topic
 - name: data-flow-diagrams
   url: https://github.com/api-evangelist/data-flow-diagrams
-  x-type: company
+  x-type: topic
 - name: data-format
   url: https://github.com/api-evangelist/data-format
-  x-type: company
+  x-type: topic
 - name: data-modeling
   url: https://github.com/api-evangelist/data-modeling
-  x-type: company
+  x-type: topic
 - name: data-models
   url: https://github.com/api-evangelist/data-models
-  x-type: company
+  x-type: topic
 - name: data-privacy-standards
   url: https://github.com/api-evangelist/data-privacy-standards
-  x-type: company
+  x-type: topic
 - name: data-quality-standards
   url: https://github.com/api-evangelist/data-quality-standards
-  x-type: company
+  x-type: topic
 - name: data-warehouse-schemas
   url: https://github.com/api-evangelist/data-warehouse-schemas
-  x-type: company
+  x-type: topic
 - name: database-normalization
   url: https://github.com/api-evangelist/database-normalization
-  x-type: company
+  x-type: topic
 - name: database-schema-design
   url: https://github.com/api-evangelist/database-schema-design
-  x-type: company
+  x-type: topic
 - name: databolt
   url: https://github.com/api-evangelist/databolt
   x-type: company
@@ -6088,7 +6168,7 @@ network:
   x-type: company
 - name: dbt
   url: https://github.com/api-evangelist/dbt
-  x-type: company
+  x-type: opensource
 - name: dcp-midstream-partners
   url: https://github.com/api-evangelist/dcp-midstream-partners
   x-type: company
@@ -6103,10 +6183,10 @@ network:
   x-type: company
 - name: debezium
   url: https://github.com/api-evangelist/debezium
-  x-type: company
+  x-type: opensource
 - name: debian
   url: https://github.com/api-evangelist/debian
-  x-type: company
+  x-type: opensource
 - name: decentro
   url: https://github.com/api-evangelist/decentro
   x-type: company
@@ -6142,7 +6222,7 @@ network:
   x-type: government
 - name: defense-finance-accounting-service
   url: https://github.com/api-evangelist/defense-finance-accounting-service
-  x-type: company
+  x-type: government
 - name: defense-health-agency
   url: https://github.com/api-evangelist/defense-health-agency
   x-type: government
@@ -6151,7 +6231,7 @@ network:
   x-type: company
 - name: defense-information-system-for-security
   url: https://github.com/api-evangelist/defense-information-system-for-security
-  x-type: company
+  x-type: government
 - name: defense-intelligence-agency
   url: https://github.com/api-evangelist/defense-intelligence-agency
   x-type: government
@@ -6160,13 +6240,13 @@ network:
   x-type: government
 - name: defense-nuclear-facilities-safety-board
   url: https://github.com/api-evangelist/defense-nuclear-facilities-safety-board
-  x-type: company
+  x-type: government
 - name: defense-security-cooperation-agency
   url: https://github.com/api-evangelist/defense-security-cooperation-agency
   x-type: government
 - name: defense-technical-information-center
   url: https://github.com/api-evangelist/defense-technical-information-center
-  x-type: company
+  x-type: government
 - name: defense-threat-reduction-agency
   url: https://github.com/api-evangelist/defense-threat-reduction-agency
   x-type: government
@@ -6202,7 +6282,7 @@ network:
   x-fortune: Fortune 100
 - name: delta-lake
   url: https://github.com/api-evangelist/delta-lake
-  x-type: company
+  x-type: opensource
 - name: delta-regional-authority
   url: https://github.com/api-evangelist/delta-regional-authority
   x-type: government
@@ -6232,7 +6312,7 @@ network:
   x-type: company
 - name: deno
   url: https://github.com/api-evangelist/deno
-  x-type: company
+  x-type: opensource
 - name: densify
   url: https://github.com/api-evangelist/densify
   x-type: company
@@ -6275,22 +6355,22 @@ network:
   x-type: government
 - name: dependabot-yml
   url: https://github.com/api-evangelist/dependabot-yml
-  x-type: company
+  x-type: opensource
 - name: dependency-injection
   url: https://github.com/api-evangelist/dependency-injection
-  x-type: company
+  x-type: topic
 - name: deprecation
   url: https://github.com/api-evangelist/deprecation
-  x-type: company
+  x-type: topic
 - name: design-patterns
   url: https://github.com/api-evangelist/design-patterns
-  x-type: company
+  x-type: topic
 - name: design-standards
   url: https://github.com/api-evangelist/design-standards
-  x-type: company
+  x-type: topic
 - name: design
   url: https://github.com/api-evangelist/design
-  x-type: company
+  x-type: topic
 - name: detect-language
   url: https://github.com/api-evangelist/detect-language
   x-type: company
@@ -6314,7 +6394,7 @@ network:
   x-type: company
 - name: development-methodology
   url: https://github.com/api-evangelist/development-methodology
-  x-type: company
+  x-type: topic
 - name: devon-energy
   url: https://github.com/api-evangelist/devon-energy
   x-type: company
@@ -6424,22 +6504,22 @@ network:
   x-type: company
 - name: dns
   url: https://github.com/api-evangelist/dns
-  x-type: company
+  x-type: standard
 - name: dnv
   url: https://github.com/api-evangelist/dnv
   x-type: company
 - name: docker-hub
   url: https://github.com/api-evangelist/docker-hub
-  x-type: company
+  x-type: opensource
 - name: docker-swarm
   url: https://github.com/api-evangelist/docker-swarm
-  x-type: company
+  x-type: opensource
 - name: dockerfile
   url: https://github.com/api-evangelist/dockerfile
-  x-type: company
+  x-type: opensource
 - name: docker
   url: https://github.com/api-evangelist/docker
-  x-type: company
+  x-type: opensource
 - name: docontrol
   url: https://github.com/api-evangelist/docontrol
   x-type: company
@@ -6481,7 +6561,7 @@ network:
   x-fortune: Fortune 500
 - name: domain-driven-design
   url: https://github.com/api-evangelist/domain-driven-design
-  x-type: company
+  x-type: topic
 - name: dome9
   url: https://github.com/api-evangelist/dome9
   x-type: company
@@ -6690,7 +6770,7 @@ network:
   x-type: company
 - name: earthly
   url: https://github.com/api-evangelist/earthly
-  x-type: company
+  x-type: opensource
 - name: east-west-bancorp
   url: https://github.com/api-evangelist/east-west-bancorp
   x-profiled: 2026-04
@@ -6716,10 +6796,10 @@ network:
   x-type: company
 - name: ebpf-foundation
   url: https://github.com/api-evangelist/ebpf-foundation
-  x-type: company
+  x-type: opensource
 - name: ebpf
   url: https://github.com/api-evangelist/ebpf
-  x-type: company
+  x-type: standard
 - name: ec2
   url: https://github.com/api-evangelist/ec2
   x-profiled: 2026-04
@@ -6765,7 +6845,7 @@ network:
   x-type: company
 - name: editorconfig
   url: https://github.com/api-evangelist/editorconfig
-  x-type: company
+  x-type: standard
 - name: edmunds
   url: https://github.com/api-evangelist/edmunds
   x-type: company
@@ -6870,7 +6950,7 @@ network:
   x-type: company
 - name: ember
   url: https://github.com/api-evangelist/ember
-  x-type: company
+  x-type: opensource
 - name: emcor
   url: https://github.com/api-evangelist/emcor
   x-type: company
@@ -6885,10 +6965,10 @@ network:
   x-fortune: Fortune 500
 - name: emissary-ingress
   url: https://github.com/api-evangelist/emissary-ingress
-  x-type: company
+  x-type: opensource
 - name: empathy-maps
   url: https://github.com/api-evangelist/empathy-maps
-  x-type: company
+  x-type: topic
 - name: enable-midstream-partners
   url: https://github.com/api-evangelist/enable-midstream-partners
   x-type: company
@@ -6969,14 +7049,14 @@ network:
   x-fortune: Fortune 500
 - name: enterprise-integration-patterns
   url: https://github.com/api-evangelist/enterprise-integration-patterns
-  x-type: company
+  x-type: topic
 - name: enterprise-products-partners
   url: https://github.com/api-evangelist/enterprise-products-partners
   x-type: company
   x-fortune: Fortune 500
 - name: entity-relationship
   url: https://github.com/api-evangelist/entity-relationship
-  x-type: company
+  x-type: topic
 - name: env0
   url: https://github.com/api-evangelist/env0
   x-type: company
@@ -6991,13 +7071,13 @@ network:
   x-type: company
 - name: envoy-gateway
   url: https://github.com/api-evangelist/envoy-gateway
-  x-type: company
+  x-type: opensource
 - name: envoy-proxy
   url: https://github.com/api-evangelist/envoy-proxy
-  x-type: company
+  x-type: opensource
 - name: envoy
   url: https://github.com/api-evangelist/envoy
-  x-type: company
+  x-type: opensource
 - name: eodhd
   url: https://github.com/api-evangelist/eodhd
   x-type: company
@@ -7125,10 +7205,10 @@ network:
   x-type: company
 - name: event-driven-architecture
   url: https://github.com/api-evangelist/event-driven-architecture
-  x-type: company
+  x-type: topic
 - name: event-sourcing
   url: https://github.com/api-evangelist/event-sourcing
-  x-type: company
+  x-type: topic
 - name: eventuate
   url: https://github.com/api-evangelist/eventuate
   x-type: company
@@ -7237,13 +7317,13 @@ network:
   x-type: company
 - name: fair-housing-and-equal-opportunity
   url: https://github.com/api-evangelist/fair-housing-and-equal-opportunity
-  x-type: company
+  x-type: government
 - name: fake-store-api
   url: https://github.com/api-evangelist/fake-store-api
   x-type: company
 - name: falco
   url: https://github.com/api-evangelist/falco
-  x-type: company
+  x-type: opensource
 - name: family-dollar-stores
   url: https://github.com/api-evangelist/family-dollar-stores
   x-type: company
@@ -7278,13 +7358,13 @@ network:
   x-type: company
 - name: fastapi
   url: https://github.com/api-evangelist/fastapi
-  x-type: company
+  x-type: opensource
 - name: fastenal
   url: https://github.com/api-evangelist/fastenal
   x-type: company
 - name: fastify
   url: https://github.com/api-evangelist/fastify
-  x-type: company
+  x-type: opensource
 - name: fastly
   url: https://github.com/api-evangelist/fastly
   x-type: company
@@ -7366,7 +7446,7 @@ network:
   x-type: company
 - name: feign
   url: https://github.com/api-evangelist/feign
-  x-type: company
+  x-type: opensource
 - name: fenergo
   url: https://github.com/api-evangelist/fenergo
   x-type: company
@@ -7398,7 +7478,7 @@ network:
   x-type: standard
 - name: fiber
   url: https://github.com/api-evangelist/fiber
-  x-type: company
+  x-type: opensource
 - name: fiddler
   url: https://github.com/api-evangelist/fiddler
   x-type: company
@@ -7420,7 +7500,7 @@ network:
   x-type: company
 - name: file-format
   url: https://github.com/api-evangelist/file-format
-  x-type: company
+  x-type: topic
 - name: financesonline
   url: https://github.com/api-evangelist/financesonline
   x-type: company
@@ -7429,7 +7509,7 @@ network:
   x-type: company
 - name: financial-regulation
   url: https://github.com/api-evangelist/financial-regulation
-  x-type: company
+  x-type: topic
 - name: finch
   url: https://github.com/api-evangelist/finch
   x-type: company
@@ -7441,10 +7521,10 @@ network:
   x-type: company
 - name: finops
   url: https://github.com/api-evangelist/finops
-  x-type: company
+  x-type: topic
 - name: finos
   url: https://github.com/api-evangelist/finos
-  x-type: company
+  x-type: opensource
 - name: finout
   url: https://github.com/api-evangelist/finout
   x-type: company
@@ -7459,7 +7539,7 @@ network:
   x-type: company
 - name: firecracker
   url: https://github.com/api-evangelist/firecracker
-  x-type: company
+  x-type: opensource
 - name: firecrawl
   url: https://github.com/api-evangelist/firecrawl
   x-type: company
@@ -7497,7 +7577,7 @@ network:
   x-fortune: Fortune 500
 - name: fish-and-wildlife-service
   url: https://github.com/api-evangelist/fish-and-wildlife-service
-  x-type: company
+  x-type: government
 - name: fis
   url: https://github.com/api-evangelist/fis
   x-type: company
@@ -7512,10 +7592,10 @@ network:
   x-type: company
 - name: fiware
   url: https://github.com/api-evangelist/fiware
-  x-type: company
+  x-type: standard
 - name: fixed-format
   url: https://github.com/api-evangelist/fixed-format
-  x-type: company
+  x-type: topic
 - name: flagsmith
   url: https://github.com/api-evangelist/flagsmith
   x-type: company
@@ -7524,10 +7604,10 @@ network:
   x-type: company
 - name: flask
   url: https://github.com/api-evangelist/flask
-  x-type: company
+  x-type: opensource
 - name: flatcar-container-linux
   url: https://github.com/api-evangelist/flatcar-container-linux
-  x-type: company
+  x-type: opensource
 - name: flatfile
   url: https://github.com/api-evangelist/flatfile
   x-type: company
@@ -7573,7 +7653,7 @@ network:
   x-type: company
 - name: fluentd
   url: https://github.com/api-evangelist/fluentd
-  x-type: company
+  x-type: opensource
 - name: fluid
   url: https://github.com/api-evangelist/fluid
   x-type: company
@@ -7583,7 +7663,7 @@ network:
   x-fortune: Fortune 1000
 - name: fluxcd
   url: https://github.com/api-evangelist/fluxcd
-  x-type: company
+  x-type: opensource
 - name: flux
   url: https://github.com/api-evangelist/flux
   x-type: opensource
@@ -7638,7 +7718,7 @@ network:
   x-fortune: Fortune 100
 - name: foreign-agricultural-service
   url: https://github.com/api-evangelist/foreign-agricultural-service
-  x-type: company
+  x-type: government
 - name: foreign-claims-settlement-commission
   url: https://github.com/api-evangelist/foreign-claims-settlement-commission
   x-type: government
@@ -7771,7 +7851,7 @@ network:
   x-fortune: Fortune 1000
 - name: ftp
   url: https://github.com/api-evangelist/ftp
-  x-type: company
+  x-type: standard
 - name: fulcrum
   url: https://github.com/api-evangelist/fulcrum
   x-type: company
@@ -7834,7 +7914,7 @@ network:
   x-type: company
 - name: gantt-charts
   url: https://github.com/api-evangelist/gantt-charts
-  x-type: company
+  x-type: topic
 - name: gap
   url: https://github.com/api-evangelist/gap
   x-type: company
@@ -7847,7 +7927,7 @@ network:
   x-type: company
 - name: gatling
   url: https://github.com/api-evangelist/gatling
-  x-type: company
+  x-type: opensource
 - name: gcp-cloud-storage
   url: https://github.com/api-evangelist/gcp-cloud-storage
   x-profiled: 2026-04
@@ -7857,7 +7937,7 @@ network:
   x-type: company
 - name: gdpr
   url: https://github.com/api-evangelist/gdpr
-  x-type: company
+  x-type: topic
 - name: ge-healthcare-technologies
   url: https://github.com/api-evangelist/ge-healthcare-technologies
   x-type: company
@@ -7945,7 +8025,7 @@ network:
   x-type: company
 - name: gherkin
   url: https://github.com/api-evangelist/gherkin
-  x-type: company
+  x-type: topic
 - name: ghost
   url: https://github.com/api-evangelist/ghost
   x-type: company
@@ -7958,17 +8038,17 @@ network:
   x-type: company
 - name: gin
   url: https://github.com/api-evangelist/gin
-  x-type: company
+  x-type: opensource
 - name: gitattributes
   url: https://github.com/api-evangelist/gitattributes
-  x-type: company
+  x-type: topic
 - name: gitbook
   url: https://github.com/api-evangelist/gitbook
   x-type: company
 - name: github-actions
   url: https://github.com/api-evangelist/github-actions
   x-profiled: 2026-04
-  x-type: company
+  x-type: opensource
 - name: github-cli
   url: https://github.com/api-evangelist/github-cli
   x-type: company
@@ -7985,7 +8065,7 @@ network:
   x-type: company
 - name: gitignore
   url: https://github.com/api-evangelist/gitignore
-  x-type: company
+  x-type: topic
 - name: gitlab-container-registry
   url: https://github.com/api-evangelist/gitlab-container-registry
   x-type: company
@@ -7995,7 +8075,7 @@ network:
   x-type: opensource
 - name: gitops
   url: https://github.com/api-evangelist/gitops
-  x-type: company
+  x-type: topic
 - name: git
   url: https://github.com/api-evangelist/git
   x-type: company
@@ -8020,7 +8100,7 @@ network:
   x-type: company
 - name: global-system-for-mobile-communications
   url: https://github.com/api-evangelist/global-system-for-mobile-communications
-  x-type: company
+  x-type: standard
 - name: globant
   url: https://github.com/api-evangelist/globant
   x-profiled: 2026-04
@@ -8033,10 +8113,10 @@ network:
   x-fortune: Fortune 500
 - name: gloo-mesh
   url: https://github.com/api-evangelist/gloo-mesh
-  x-type: company
+  x-type: opensource
 - name: gloo
   url: https://github.com/api-evangelist/gloo
-  x-type: company
+  x-type: opensource
 - name: gluu
   url: https://github.com/api-evangelist/gluu
   x-type: company
@@ -8052,13 +8132,13 @@ network:
   x-type: company
 - name: go-kit
   url: https://github.com/api-evangelist/go-kit
-  x-type: company
+  x-type: opensource
 - name: go-micro
   url: https://github.com/api-evangelist/go-micro
-  x-type: company
+  x-type: opensource
 - name: goatcounter
   url: https://github.com/api-evangelist/goatcounter
-  x-type: company
+  x-type: opensource
 - name: godaddy
   url: https://github.com/api-evangelist/godaddy
   x-type: company
@@ -8067,7 +8147,7 @@ network:
   x-type: company
 - name: goharbor
   url: https://github.com/api-evangelist/goharbor
-  x-type: company
+  x-type: opensource
 - name: goldman-sachs
   url: https://github.com/api-evangelist/goldman-sachs
   x-type: company
@@ -8712,7 +8792,7 @@ network:
   x-type: company
 - name: grpcurl
   url: https://github.com/api-evangelist/grpcurl
-  x-type: company
+  x-type: opensource
 - name: grpc
   url: https://github.com/api-evangelist/grpc
   x-type: standard
@@ -8779,7 +8859,7 @@ network:
   x-type: company
 - name: hadoop
   url: https://github.com/api-evangelist/hadoop
-  x-type: company
+  x-type: opensource
 - name: hain-celestial-group
   url: https://github.com/api-evangelist/hain-celestial-group
   x-type: company
@@ -8822,16 +8902,16 @@ network:
   x-fortune: Fortune 1000
 - name: hapi
   url: https://github.com/api-evangelist/hapi
-  x-type: company
+  x-type: opensource
 - name: haproxy
   url: https://github.com/api-evangelist/haproxy
-  x-type: company
+  x-type: opensource
 - name: harbor-compliance
   url: https://github.com/api-evangelist/harbor-compliance
   x-type: company
 - name: harbor
   url: https://github.com/api-evangelist/harbor
-  x-type: company
+  x-type: opensource
 - name: harley-davidson
   url: https://github.com/api-evangelist/harley-davidson
   x-type: company
@@ -8928,7 +9008,7 @@ network:
   x-type: government
 - name: health-standards
   url: https://github.com/api-evangelist/health-standards
-  x-type: company
+  x-type: topic
 - name: healthequity
   url: https://github.com/api-evangelist/healthequity
   x-profiled: 2026-04
@@ -8969,7 +9049,7 @@ network:
   x-type: company
 - name: helidon
   url: https://github.com/api-evangelist/helidon
-  x-type: company
+  x-type: opensource
 - name: hello-retail
   url: https://github.com/api-evangelist/hello-retail
   x-type: company
@@ -9068,7 +9148,7 @@ network:
   x-fortune: Fortune 500
 - name: hipaa
   url: https://github.com/api-evangelist/hipaa
-  x-type: company
+  x-type: topic
 - name: hiphen-plant
   url: https://github.com/api-evangelist/hiphen-plant
   x-type: company
@@ -9207,7 +9287,7 @@ network:
   x-type: company
 - name: http
   url: https://github.com/api-evangelist/http
-  x-type: company
+  x-type: standard
 - name: hub-group
   url: https://github.com/api-evangelist/hub-group
   x-type: company
@@ -9291,13 +9371,13 @@ network:
   x-type: company
 - name: iam
   url: https://github.com/api-evangelist/iam
-  x-type: company
+  x-type: topic
 - name: iasis-healthcare
   url: https://github.com/api-evangelist/iasis-healthcare
   x-type: company
 - name: iata
   url: https://github.com/api-evangelist/iata
-  x-type: company
+  x-type: standard
 - name: ibisworld
   url: https://github.com/api-evangelist/ibisworld
   x-type: company
@@ -9325,7 +9405,7 @@ network:
   x-type: company
 - name: icao
   url: https://github.com/api-evangelist/icao
-  x-type: company
+  x-type: standard
 - name: ice
   url: https://github.com/api-evangelist/ice
   x-type: government
@@ -9345,7 +9425,7 @@ network:
   x-type: company
 - name: iec-cim
   url: https://github.com/api-evangelist/iec-cim
-  x-type: company
+  x-type: standard
 - name: ifs
   url: https://github.com/api-evangelist/ifs
   x-type: company
@@ -9374,7 +9454,7 @@ network:
   x-type: company
 - name: imap
   url: https://github.com/api-evangelist/imap
-  x-type: company
+  x-type: standard
 - name: imentiv-ai
   url: https://github.com/api-evangelist/imentiv-ai
   x-type: company
@@ -9438,10 +9518,10 @@ network:
   x-type: company
 - name: informatics
   url: https://github.com/api-evangelist/informatics
-  x-type: company
+  x-type: topic
 - name: information-technology-infrastructure
   url: https://github.com/api-evangelist/information-technology-infrastructure
-  x-type: company
+  x-type: topic
 - name: infor
   url: https://github.com/api-evangelist/infor
   x-type: company
@@ -9488,16 +9568,16 @@ network:
   x-type: company
 - name: institute-of-museum-and-library-services
   url: https://github.com/api-evangelist/institute-of-museum-and-library-services
-  x-type: company
+  x-type: government
 - name: instructions-md
   url: https://github.com/api-evangelist/instructions-md
-  x-type: company
+  x-type: topic
 - name: instrumental
   url: https://github.com/api-evangelist/instrumental
   x-type: company
 - name: integrated-development-environment
   url: https://github.com/api-evangelist/integrated-development-environment
-  x-type: company
+  x-type: topic
 - name: integrately
   url: https://github.com/api-evangelist/integrately
   x-type: company
@@ -9509,7 +9589,7 @@ network:
   x-type: company
 - name: integration-patterns
   url: https://github.com/api-evangelist/integration-patterns
-  x-type: company
+  x-type: topic
 - name: integrys-energy-group
   url: https://github.com/api-evangelist/integrys-energy-group
   x-type: company
@@ -9550,7 +9630,7 @@ network:
   x-type: company
 - name: interface-specifications
   url: https://github.com/api-evangelist/interface-specifications
-  x-type: company
+  x-type: topic
 - name: interlink
   url: https://github.com/api-evangelist/interlink
   x-type: company
@@ -9559,10 +9639,10 @@ network:
   x-type: company
 - name: internal-control-standards
   url: https://github.com/api-evangelist/internal-control-standards
-  x-type: company
+  x-type: topic
 - name: internal-revenue-service
   url: https://github.com/api-evangelist/internal-revenue-service
-  x-type: company
+  x-type: government
 - name: international-business-machines
   url: https://github.com/api-evangelist/international-business-machines
   x-type: company
@@ -9592,7 +9672,7 @@ network:
   x-type: government
 - name: internet-engineering-task-force
   url: https://github.com/api-evangelist/internet-engineering-task-force
-  x-type: company
+  x-type: standard
 - name: interpol
   url: https://github.com/api-evangelist/interpol
   x-type: company
@@ -9670,10 +9750,10 @@ network:
   x-type: company
 - name: istio
   url: https://github.com/api-evangelist/istio
-  x-type: company
+  x-type: opensource
 - name: it-standards
   url: https://github.com/api-evangelist/it-standards
-  x-type: company
+  x-type: topic
 - name: iterable
   url: https://github.com/api-evangelist/iterable
   x-type: company
@@ -9721,10 +9801,10 @@ network:
   x-fortune: Fortune 1000
 - name: jaeger
   url: https://github.com/api-evangelist/jaeger
-  x-type: company
+  x-type: opensource
 - name: jakarta-ee
   url: https://github.com/api-evangelist/jakarta-ee
-  x-type: company
+  x-type: standard
 - name: james-webb-space-telescope-api
   url: https://github.com/api-evangelist/james-webb-space-telescope-api
   x-type: company
@@ -9741,19 +9821,19 @@ network:
   x-type: company
 - name: jargon
   url: https://github.com/api-evangelist/jargon
-  x-type: company
+  x-type: topic
 - name: java-ee
   url: https://github.com/api-evangelist/java-ee
-  x-type: company
+  x-type: standard
 - name: javascript
   url: https://github.com/api-evangelist/javascript
-  x-type: company
+  x-type: topic
 - name: java
   url: https://github.com/api-evangelist/java
-  x-type: company
+  x-type: topic
 - name: jax-ws
   url: https://github.com/api-evangelist/jax-ws
-  x-type: company
+  x-type: standard
 - name: jazz-pharmaceuticals
   url: https://github.com/api-evangelist/jazz-pharmaceuticals
   x-profiled: 2026-04
@@ -9765,7 +9845,7 @@ network:
   x-fortune: Fortune 500
 - name: jboss
   url: https://github.com/api-evangelist/jboss
-  x-type: company
+  x-type: opensource
 - name: jc-penney
   url: https://github.com/api-evangelist/jc-penney
   x-type: company
@@ -9778,7 +9858,7 @@ network:
   x-type: company
 - name: jdbc
   url: https://github.com/api-evangelist/jdbc
-  x-type: company
+  x-type: standard
 - name: jefferies-financial-group
   url: https://github.com/api-evangelist/jefferies-financial-group
   x-type: company
@@ -9797,7 +9877,7 @@ network:
   x-type: company
 - name: jenkins-pipeline
   url: https://github.com/api-evangelist/jenkins-pipeline
-  x-type: company
+  x-type: opensource
 - name: jenkins
   url: https://github.com/api-evangelist/jenkins
   x-type: opensource
@@ -9806,7 +9886,7 @@ network:
   x-type: company
 - name: jest
   url: https://github.com/api-evangelist/jest
-  x-type: company
+  x-type: opensource
 - name: jetblue-airways
   url: https://github.com/api-evangelist/jetblue-airways
   x-type: company
@@ -9825,7 +9905,7 @@ network:
   x-type: company
 - name: jib
   url: https://github.com/api-evangelist/jib
-  x-type: company
+  x-type: opensource
 - name: jifiti
   url: https://github.com/api-evangelist/jifiti
   x-type: company
@@ -9844,16 +9924,16 @@ network:
   x-type: company
 - name: jmeter
   url: https://github.com/api-evangelist/jmeter
-  x-type: company
+  x-type: opensource
 - name: jmock
   url: https://github.com/api-evangelist/jmock
-  x-type: company
+  x-type: opensource
 - name: jms
   url: https://github.com/api-evangelist/jms
-  x-type: company
+  x-type: standard
 - name: job-corps
   url: https://github.com/api-evangelist/job-corps
-  x-type: company
+  x-type: government
 - name: joggr
   url: https://github.com/api-evangelist/joggr
   x-type: company
@@ -9871,7 +9951,7 @@ network:
   x-fortune: Fortune 500
 - name: joint-fire-science-program
   url: https://github.com/api-evangelist/joint-fire-science-program
-  x-type: company
+  x-type: government
 - name: jones-financial
   url: https://github.com/api-evangelist/jones-financial
   x-type: company
@@ -9892,7 +9972,7 @@ network:
   x-fortune: Fortune 100
 - name: jpa
   url: https://github.com/api-evangelist/jpa
-  x-type: company
+  x-type: standard
 - name: jpmorgan-chase
   url: https://github.com/api-evangelist/jpmorgan-chase
   x-type: company
@@ -9953,19 +10033,19 @@ network:
   x-type: company
 - name: k3s
   url: https://github.com/api-evangelist/k3s
-  x-type: company
+  x-type: opensource
 - name: k6
   url: https://github.com/api-evangelist/k6
-  x-type: company
+  x-type: opensource
 - name: kafka-connect
   url: https://github.com/api-evangelist/kafka-connect
-  x-type: company
+  x-type: opensource
 - name: kafka
   url: https://github.com/api-evangelist/kafka
   x-type: opensource
 - name: kagent
   url: https://github.com/api-evangelist/kagent
-  x-type: company
+  x-type: opensource
 - name: kaito
   url: https://github.com/api-evangelist/kaito
   x-type: company
@@ -9976,13 +10056,13 @@ network:
   x-fortune: Fortune 1000
 - name: kanban
   url: https://github.com/api-evangelist/kanban
-  x-type: company
+  x-type: topic
 - name: kaniko
   url: https://github.com/api-evangelist/kaniko
-  x-type: company
+  x-type: opensource
 - name: kansas-city-southern
   url: https://github.com/api-evangelist/kansas-city-southern
-  x-type: company
+  x-type: opensource
 - name: kapstone-paper-and-packaging
   url: https://github.com/api-evangelist/kapstone-paper-and-packaging
   x-type: company
@@ -9992,16 +10072,16 @@ network:
   x-type: company
 - name: karate
   url: https://github.com/api-evangelist/karate
-  x-type: company
+  x-type: opensource
 - name: karmada
   url: https://github.com/api-evangelist/karmada
-  x-type: company
+  x-type: opensource
 - name: karrio
   url: https://github.com/api-evangelist/karrio
   x-type: company
 - name: kata-containers
   url: https://github.com/api-evangelist/kata-containers
-  x-type: company
+  x-type: opensource
 - name: kb-home
   url: https://github.com/api-evangelist/kb-home
   x-type: company
@@ -10015,7 +10095,7 @@ network:
   x-type: company
 - name: keda
   url: https://github.com/api-evangelist/keda
-  x-type: company
+  x-type: opensource
 - name: keen
   url: https://github.com/api-evangelist/keen
   x-type: company
@@ -10050,7 +10130,7 @@ network:
   x-type: company
 - name: kerberos
   url: https://github.com/api-evangelist/kerberos
-  x-type: company
+  x-type: standard
 - name: kestra
   url: https://github.com/api-evangelist/kestra
   x-type: company
@@ -10137,7 +10217,7 @@ network:
   x-type: company
 - name: knative
   url: https://github.com/api-evangelist/knative
-  x-type: company
+  x-type: opensource
 - name: knight-swift-transportation
   url: https://github.com/api-evangelist/knight-swift-transportation
   x-profiled: 2026-04
@@ -10186,7 +10266,7 @@ network:
   x-type: company
 - name: kotlin
   url: https://github.com/api-evangelist/kotlin
-  x-type: company
+  x-type: topic
 - name: koyeb
   url: https://github.com/api-evangelist/koyeb
   x-type: company
@@ -10242,10 +10322,10 @@ network:
   x-type: company
 - name: kubeflow-pipelines
   url: https://github.com/api-evangelist/kubeflow-pipelines
-  x-type: company
+  x-type: opensource
 - name: kubeflow
   url: https://github.com/api-evangelist/kubeflow
-  x-type: company
+  x-type: opensource
 - name: kubernetes-operators
   url: https://github.com/api-evangelist/kubernetes-operators
   x-type: company
@@ -10266,7 +10346,7 @@ network:
   x-type: company
 - name: kustomize
   url: https://github.com/api-evangelist/kustomize
-  x-type: company
+  x-type: opensource
 - name: kvdb
   url: https://github.com/api-evangelist/kvdb
   x-type: company
@@ -10281,7 +10361,7 @@ network:
   x-fortune: Fortune 500
 - name: kyverno
   url: https://github.com/api-evangelist/kyverno
-  x-type: company
+  x-type: opensource
 - name: l-3-communications
   url: https://github.com/api-evangelist/l-3-communications
   x-type: company
@@ -10304,7 +10384,7 @@ network:
   x-fortune: Fortune 500
 - name: label-studio
   url: https://github.com/api-evangelist/label-studio
-  x-type: company
+  x-type: opensource
 - name: laboratory-corp-of-america
   url: https://github.com/api-evangelist/laboratory-corp-of-america
   x-type: company
@@ -10314,16 +10394,16 @@ network:
   x-type: company
 - name: lagom
   url: https://github.com/api-evangelist/lagom
-  x-type: company
+  x-type: opensource
 - name: lago
   url: https://github.com/api-evangelist/lago
   x-type: company
 - name: lakefs
   url: https://github.com/api-evangelist/lakefs
-  x-type: company
+  x-type: opensource
 - name: lakehouse-architecture
   url: https://github.com/api-evangelist/lakehouse-architecture
-  x-type: company
+  x-type: topic
 - name: lam-research
   url: https://github.com/api-evangelist/lam-research
   x-type: company
@@ -10344,13 +10424,13 @@ network:
   x-type: company
 - name: langchain
   url: https://github.com/api-evangelist/langchain
-  x-type: company
+  x-type: opensource
 - name: langgraph
   url: https://github.com/api-evangelist/langgraph
-  x-type: company
+  x-type: opensource
 - name: languagetool
   url: https://github.com/api-evangelist/languagetool
-  x-type: company
+  x-type: opensource
 - name: lansing-trade-group
   url: https://github.com/api-evangelist/lansing-trade-group
   x-type: company
@@ -10383,25 +10463,25 @@ network:
   x-type: company
 - name: lean-management
   url: https://github.com/api-evangelist/lean-management
-  x-type: company
+  x-type: topic
 - name: lean-manufacturing
   url: https://github.com/api-evangelist/lean-manufacturing
-  x-type: company
+  x-type: topic
 - name: lean-operations
   url: https://github.com/api-evangelist/lean-operations
-  x-type: company
+  x-type: topic
 - name: lean-six-sigma-black-belt
   url: https://github.com/api-evangelist/lean-six-sigma-black-belt
-  x-type: company
+  x-type: topic
 - name: lean-six-sigma
   url: https://github.com/api-evangelist/lean-six-sigma
-  x-type: company
+  x-type: topic
 - name: leanix
   url: https://github.com/api-evangelist/leanix
   x-type: company
 - name: lean
   url: https://github.com/api-evangelist/lean
-  x-type: company
+  x-type: topic
 - name: lear
   url: https://github.com/api-evangelist/lear
   x-type: company
@@ -10438,10 +10518,10 @@ network:
   x-type: company
 - name: lens
   url: https://github.com/api-evangelist/lens
-  x-type: company
+  x-type: opensource
 - name: lets-encrypt
   url: https://github.com/api-evangelist/lets-encrypt
-  x-type: company
+  x-type: opensource
 - name: leucadia-national
   url: https://github.com/api-evangelist/leucadia-national
   x-type: company
@@ -10463,28 +10543,28 @@ network:
   x-type: company
 - name: lf-ai-and-data
   url: https://github.com/api-evangelist/lf-ai-and-data
-  x-type: company
+  x-type: opensource
 - name: lf-broadband
   url: https://github.com/api-evangelist/lf-broadband
-  x-type: company
+  x-type: opensource
 - name: lf-connectivity
   url: https://github.com/api-evangelist/lf-connectivity
-  x-type: company
+  x-type: opensource
 - name: lf-decentralized-trust
   url: https://github.com/api-evangelist/lf-decentralized-trust
-  x-type: company
+  x-type: opensource
 - name: lf-edge
   url: https://github.com/api-evangelist/lf-edge
-  x-type: company
+  x-type: opensource
 - name: lf-energy
   url: https://github.com/api-evangelist/lf-energy
-  x-type: company
+  x-type: opensource
 - name: lf-networking
   url: https://github.com/api-evangelist/lf-networking
-  x-type: company
+  x-type: opensource
 - name: lf-research
   url: https://github.com/api-evangelist/lf-research
-  x-type: company
+  x-type: opensource
 - name: lhc-group
   url: https://github.com/api-evangelist/lhc-group
   x-profiled: 2026-04
@@ -10508,7 +10588,7 @@ network:
   x-type: government
 - name: license-md
   url: https://github.com/api-evangelist/license-md
-  x-type: company
+  x-type: topic
 - name: licenseplatedata
   url: https://github.com/api-evangelist/licenseplatedata
   x-type: company
@@ -10576,7 +10656,7 @@ network:
   x-type: company
 - name: linkerd
   url: https://github.com/api-evangelist/linkerd
-  x-type: company
+  x-type: opensource
 - name: linn-energy
   url: https://github.com/api-evangelist/linn-energy
   x-type: company
@@ -10595,7 +10675,7 @@ network:
   x-type: opensource
 - name: linuxboot
   url: https://github.com/api-evangelist/linuxboot
-  x-type: company
+  x-type: opensource
 - name: linuxunix
   url: https://github.com/api-evangelist/linuxunix
   x-type: company
@@ -10604,7 +10684,7 @@ network:
   x-type: opensource
 - name: litellm
   url: https://github.com/api-evangelist/litellm
-  x-type: company
+  x-type: opensource
 - name: lithia-motors
   url: https://github.com/api-evangelist/lithia-motors
   x-type: company
@@ -10650,7 +10730,7 @@ network:
   x-type: company
 - name: locust
   url: https://github.com/api-evangelist/locust
-  x-type: company
+  x-type: opensource
 - name: loews
   url: https://github.com/api-evangelist/loews
   x-type: company
@@ -10805,7 +10885,7 @@ network:
   x-type: company
 - name: mandatory-reserves-requirement
   url: https://github.com/api-evangelist/mandatory-reserves-requirement
-  x-type: company
+  x-type: topic
 - name: mandt-bank-corp
   url: https://github.com/api-evangelist/mandt-bank-corp
   x-type: company
@@ -10844,7 +10924,7 @@ network:
   x-type: company
 - name: mapreduce
   url: https://github.com/api-evangelist/mapreduce
-  x-type: company
+  x-type: topic
 - name: marathon-oil
   url: https://github.com/api-evangelist/marathon-oil
   x-type: company
@@ -10873,7 +10953,7 @@ network:
   x-type: company
 - name: markup-language
   url: https://github.com/api-evangelist/markup-language
-  x-type: company
+  x-type: topic
 - name: markwest-energy-partners
   url: https://github.com/api-evangelist/markwest-energy-partners
   x-type: company
@@ -10921,7 +11001,7 @@ network:
   x-type: company
 - name: masstransit
   url: https://github.com/api-evangelist/masstransit
-  x-type: company
+  x-type: opensource
 - name: mastec
   url: https://github.com/api-evangelist/mastec
   x-type: company
@@ -10939,10 +11019,10 @@ network:
   x-fortune: Fortune 500
 - name: mastodon-instances
   url: https://github.com/api-evangelist/mastodon-instances
-  x-type: company
+  x-type: opensource
 - name: mastodon
   url: https://github.com/api-evangelist/mastodon
-  x-type: company
+  x-type: opensource
 - name: mastra
   url: https://github.com/api-evangelist/mastra
   x-type: company
@@ -10961,7 +11041,7 @@ network:
   x-type: company
 - name: matplotlib
   url: https://github.com/api-evangelist/matplotlib
-  x-type: company
+  x-type: opensource
 - name: mattel
   url: https://github.com/api-evangelist/mattel
   x-type: company
@@ -10972,10 +11052,10 @@ network:
   x-fortune: Fortune 1000
 - name: maven-central
   url: https://github.com/api-evangelist/maven-central
-  x-type: company
+  x-type: opensource
 - name: maven
   url: https://github.com/api-evangelist/maven
-  x-type: company
+  x-type: opensource
 - name: maxim-integrated-products
   url: https://github.com/api-evangelist/maxim-integrated-products
   x-type: company
@@ -11016,7 +11096,7 @@ network:
   x-type: company
 - name: mcp-json
   url: https://github.com/api-evangelist/mcp-json
-  x-type: company
+  x-type: standard
 - name: mdu-resources-group
   url: https://github.com/api-evangelist/mdu-resources-group
   x-type: company
@@ -11119,7 +11199,7 @@ network:
   x-type: company
 - name: messaging-protocol
   url: https://github.com/api-evangelist/messaging-protocol
-  x-type: company
+  x-type: topic
 - name: meta-platforms
   url: https://github.com/api-evangelist/meta-platforms
   x-type: company
@@ -11159,7 +11239,7 @@ network:
   x-type: company
 - name: methodology
   url: https://github.com/api-evangelist/methodology
-  x-type: company
+  x-type: topic
 - name: metlife
   url: https://github.com/api-evangelist/metlife
   x-type: company
@@ -11194,7 +11274,7 @@ network:
   x-fortune: Fortune 1000
 - name: micro-service-architecture
   url: https://github.com/api-evangelist/micro-service-architecture
-  x-type: company
+  x-type: topic
 - name: microchip-technology
   url: https://github.com/api-evangelist/microchip-technology
   x-type: company
@@ -11207,22 +11287,22 @@ network:
   x-fortune: Fortune 500
 - name: micronaut
   url: https://github.com/api-evangelist/micronaut
-  x-type: company
+  x-type: opensource
 - name: microservice-architecture-patterns
   url: https://github.com/api-evangelist/microservice-architecture-patterns
-  x-type: company
+  x-type: topic
 - name: microservice-architecture
   url: https://github.com/api-evangelist/microservice-architecture
-  x-type: company
+  x-type: topic
 - name: microservice-design
   url: https://github.com/api-evangelist/microservice-design
   x-type: company
 - name: microservices-architecture
   url: https://github.com/api-evangelist/microservices-architecture
-  x-type: company
+  x-type: topic
 - name: microservices-design-patterns
   url: https://github.com/api-evangelist/microservices-design-patterns
-  x-type: company
+  x-type: topic
 - name: microservices
   url: https://github.com/api-evangelist/microservices
   x-type: company
@@ -11762,7 +11842,7 @@ network:
   x-type: company
 - name: modern-treasury
   url: https://github.com/api-evangelist/modern-treasury
-  x-type: government
+  x-type: company
 - name: modifi
   url: https://github.com/api-evangelist/modifi
   x-type: company
@@ -11827,7 +11907,7 @@ network:
   x-type: opensource
 - name: monolithic-architecture
   url: https://github.com/api-evangelist/monolithic-architecture
-  x-type: company
+  x-type: topic
 - name: monsanto
   url: https://github.com/api-evangelist/monsanto
   x-type: company
@@ -11940,7 +12020,7 @@ network:
   x-type: company
 - name: multi-tier-architecture
   url: https://github.com/api-evangelist/multi-tier-architecture
-  x-type: company
+  x-type: topic
 - name: multus-cni
   url: https://github.com/api-evangelist/multus-cni
   x-type: company
@@ -11995,10 +12075,10 @@ network:
   x-type: company
 - name: nacos
   url: https://github.com/api-evangelist/nacos
-  x-type: company
+  x-type: opensource
 - name: nameko
   url: https://github.com/api-evangelist/nameko
-  x-type: company
+  x-type: opensource
 - name: namesilo
   url: https://github.com/api-evangelist/namesilo
   x-type: company
@@ -12027,7 +12107,7 @@ network:
   x-type: government
 - name: national-agricultural-library
   url: https://github.com/api-evangelist/national-agricultural-library
-  x-type: company
+  x-type: government
 - name: national-archives-and-records-administration-nara-
   url: https://github.com/api-evangelist/national-archives-and-records-administration-nara-
   x-type: government
@@ -12036,7 +12116,7 @@ network:
   x-type: government
 - name: national-cancer-institute
   url: https://github.com/api-evangelist/national-cancer-institute
-  x-type: company
+  x-type: government
 - name: national-capital-planning-commission
   url: https://github.com/api-evangelist/national-capital-planning-commission
   x-type: government
@@ -12048,10 +12128,10 @@ network:
   x-type: government
 - name: national-endowment-for-the-arts
   url: https://github.com/api-evangelist/national-endowment-for-the-arts
-  x-type: company
+  x-type: government
 - name: national-endowment-for-the-humanities
   url: https://github.com/api-evangelist/national-endowment-for-the-humanities
-  x-type: company
+  x-type: government
 - name: national-energy-system-operator
   url: https://github.com/api-evangelist/national-energy-system-operator
   x-type: company
@@ -12061,13 +12141,13 @@ network:
   x-fortune: Fortune 500
 - name: national-gallery-of-art
   url: https://github.com/api-evangelist/national-gallery-of-art
-  x-type: company
+  x-type: government
 - name: national-geospatial-intelligence-agency
   url: https://github.com/api-evangelist/national-geospatial-intelligence-agency
   x-type: government
 - name: national-health-service
   url: https://github.com/api-evangelist/national-health-service
-  x-type: company
+  x-type: government
 - name: national-highway-traffic-safety-administration
   url: https://github.com/api-evangelist/national-highway-traffic-safety-administration
   x-type: government
@@ -12091,22 +12171,22 @@ network:
   x-type: government
 - name: national-institutes-of-health
   url: https://github.com/api-evangelist/national-institutes-of-health
-  x-type: company
+  x-type: government
 - name: national-interagency-fire-center
   url: https://github.com/api-evangelist/national-interagency-fire-center
-  x-type: company
+  x-type: government
 - name: national-invasive-species-information-center
   url: https://github.com/api-evangelist/national-invasive-species-information-center
-  x-type: company
+  x-type: government
 - name: national-labor-relations-board
   url: https://github.com/api-evangelist/national-labor-relations-board
-  x-type: company
+  x-type: government
 - name: national-laboratories
   url: https://github.com/api-evangelist/national-laboratories
-  x-type: company
+  x-type: government
 - name: national-library-of-medicine
   url: https://github.com/api-evangelist/national-library-of-medicine
-  x-type: company
+  x-type: government
 - name: national-oceanic-and-atmospheric-administration
   url: https://github.com/api-evangelist/national-oceanic-and-atmospheric-administration
   x-type: government
@@ -12119,28 +12199,28 @@ network:
   x-type: government
 - name: national-pesticide-information-center
   url: https://github.com/api-evangelist/national-pesticide-information-center
-  x-type: company
+  x-type: government
 - name: national-renewable-energy-laboratory
   url: https://github.com/api-evangelist/national-renewable-energy-laboratory
-  x-type: company
+  x-type: government
 - name: national-science-foundation
   url: https://github.com/api-evangelist/national-science-foundation
-  x-type: company
+  x-type: government
 - name: national-security-agency
   url: https://github.com/api-evangelist/national-security-agency
   x-type: government
 - name: national-technical-information-service
   url: https://github.com/api-evangelist/national-technical-information-service
-  x-type: company
+  x-type: government
 - name: national-telecommunications-and-information-administration
   url: https://github.com/api-evangelist/national-telecommunications-and-information-administration
   x-type: government
 - name: national-transportation-safety-board
   url: https://github.com/api-evangelist/national-transportation-safety-board
-  x-type: company
+  x-type: government
 - name: national-weather-service
   url: https://github.com/api-evangelist/national-weather-service
-  x-type: company
+  x-type: government
 - name: nationstar-mortgage-holdings
   url: https://github.com/api-evangelist/nationstar-mortgage-holdings
   x-type: company
@@ -12150,10 +12230,10 @@ network:
   x-fortune: Fortune 100
 - name: nats
   url: https://github.com/api-evangelist/nats
-  x-type: company
+  x-type: opensource
 - name: natural-resources-conservation-service
   url: https://github.com/api-evangelist/natural-resources-conservation-service
-  x-type: company
+  x-type: government
 - name: navient
   url: https://github.com/api-evangelist/navient
   x-type: company
@@ -12212,17 +12292,17 @@ network:
   x-type: company
 - name: nestjs
   url: https://github.com/api-evangelist/nestjs
-  x-type: company
+  x-type: opensource
 - name: netapp
   url: https://github.com/api-evangelist/netapp
   x-profiled: 2026-04
   x-type: company
 - name: netbird
   url: https://github.com/api-evangelist/netbird
-  x-type: company
+  x-type: opensource
 - name: netbox
   url: https://github.com/api-evangelist/netbox
-  x-type: company
+  x-type: opensource
 - name: netflix-conductor
   url: https://github.com/api-evangelist/netflix-conductor
   x-type: company
@@ -12241,10 +12321,10 @@ network:
   x-fortune: Fortune 500
 - name: netflow
   url: https://github.com/api-evangelist/netflow
-  x-type: company
+  x-type: opensource
 - name: netlify
   url: https://github.com/api-evangelist/netlify
-  x-type: company
+  x-type: standard
 - name: netreo
   url: https://github.com/api-evangelist/netreo
   x-type: company
@@ -12259,7 +12339,7 @@ network:
   x-type: company
 - name: network-protocols
   url: https://github.com/api-evangelist/network-protocols
-  x-type: company
+  x-type: topic
 - name: networkcalc
   url: https://github.com/api-evangelist/networkcalc
   x-type: company
@@ -12359,7 +12439,7 @@ network:
   x-type: company
 - name: nginx-service-mesh
   url: https://github.com/api-evangelist/nginx-service-mesh
-  x-type: company
+  x-type: opensource
 - name: nginx
   url: https://github.com/api-evangelist/nginx
   x-type: opensource
@@ -12572,32 +12652,32 @@ network:
   x-type: company
 - name: o-ran
   url: https://github.com/api-evangelist/o-ran
-  x-type: company
+  x-type: standard
 - name: oak-ridge-national-laboratory
   url: https://github.com/api-evangelist/oak-ridge-national-laboratory
-  x-type: company
+  x-type: government
 - name: oaktree-capital-group
   url: https://github.com/api-evangelist/oaktree-capital-group
   x-type: company
   x-fortune: Fortune 1000
 - name: oapi-codegen
   url: https://github.com/api-evangelist/oapi-codegen
-  x-type: company
+  x-type: opensource
 - name: oasdiff
   url: https://github.com/api-evangelist/oasdiff
-  x-type: company
+  x-type: opensource
 - name: oauth2-proxy
   url: https://github.com/api-evangelist/oauth2-proxy
-  x-type: company
+  x-type: opensource
 - name: oauth
   url: https://github.com/api-evangelist/oauth
   x-type: standard
 - name: object-oriented-programming
   url: https://github.com/api-evangelist/object-oriented-programming
-  x-type: company
+  x-type: topic
 - name: observability
   url: https://github.com/api-evangelist/observability
-  x-type: company
+  x-type: topic
 - name: obsidian-security
   url: https://github.com/api-evangelist/obsidian-security
   x-type: company
@@ -12613,7 +12693,7 @@ network:
   x-type: company
 - name: ocelot
   url: https://github.com/api-evangelist/ocelot
-  x-type: company
+  x-type: opensource
 - name: oci
   url: https://github.com/api-evangelist/oci
   x-type: company
@@ -12771,43 +12851,43 @@ network:
   x-type: company
 - name: open-3d-foundation
   url: https://github.com/api-evangelist/open-3d-foundation
-  x-type: company
+  x-type: opensource
 - name: open-brewery-db
   url: https://github.com/api-evangelist/open-brewery-db
-  x-type: company
+  x-type: opensource
 - name: open-container-initiative
   url: https://github.com/api-evangelist/open-container-initiative
-  x-type: company
+  x-type: opensource
 - name: open-fec
   url: https://github.com/api-evangelist/open-fec
-  x-type: company
+  x-type: government
 - name: open-food-facts
   url: https://github.com/api-evangelist/open-food-facts
-  x-type: company
+  x-type: opensource
 - name: open-liberty
   url: https://github.com/api-evangelist/open-liberty
-  x-type: company
+  x-type: opensource
 - name: open-library
   url: https://github.com/api-evangelist/open-library
-  x-type: company
+  x-type: opensource
 - name: open-mainframe-project
   url: https://github.com/api-evangelist/open-mainframe-project
-  x-type: company
+  x-type: opensource
 - name: open-podcast-api-open-podcast-api
   url: https://github.com/api-evangelist/open-podcast-api-open-podcast-api
-  x-type: company
+  x-type: standard
 - name: open-policy-agent
   url: https://github.com/api-evangelist/open-policy-agent
-  x-type: company
+  x-type: opensource
 - name: open-service-mesh
   url: https://github.com/api-evangelist/open-service-mesh
-  x-type: company
+  x-type: opensource
 - name: open-trivia-db
   url: https://github.com/api-evangelist/open-trivia-db
   x-type: company
 - name: open-voice-network
   url: https://github.com/api-evangelist/open-voice-network
-  x-type: company
+  x-type: standard
 - name: openai-apis
   url: https://github.com/api-evangelist/openai-apis
   x-type: company
@@ -12832,67 +12912,67 @@ network:
   x-type: company
 - name: openbmc
   url: https://github.com/api-evangelist/openbmc
-  x-type: company
+  x-type: opensource
 - name: openchain
   url: https://github.com/api-evangelist/openchain
-  x-type: company
+  x-type: opensource
 - name: opencost
   url: https://github.com/api-evangelist/opencost
-  x-type: company
+  x-type: opensource
 - name: opencypher
   url: https://github.com/api-evangelist/opencypher
-  x-type: company
+  x-type: standard
 - name: openebs
   url: https://github.com/api-evangelist/openebs
-  x-type: company
+  x-type: opensource
 - name: openf1
   url: https://github.com/api-evangelist/openf1
-  x-type: company
+  x-type: opensource
 - name: openfeature
   url: https://github.com/api-evangelist/openfeature
-  x-type: company
+  x-type: opensource
 - name: openfga
   url: https://github.com/api-evangelist/openfga
-  x-type: company
+  x-type: opensource
 - name: openfigi
   url: https://github.com/api-evangelist/openfigi
-  x-type: company
+  x-type: standard
 - name: openid-connect
   url: https://github.com/api-evangelist/openid-connect
-  x-type: company
+  x-type: standard
 - name: openidl
   url: https://github.com/api-evangelist/openidl
-  x-type: company
+  x-type: standard
 - name: openinfra-foundation
   url: https://github.com/api-evangelist/openinfra-foundation
-  x-type: company
+  x-type: opensource
 - name: openjs-foundation
   url: https://github.com/api-evangelist/openjs-foundation
-  x-type: company
+  x-type: opensource
 - name: openkruise
   url: https://github.com/api-evangelist/openkruise
-  x-type: company
+  x-type: opensource
 - name: openlaws
   url: https://github.com/api-evangelist/openlaws
   x-type: company
 - name: openobserve
   url: https://github.com/api-evangelist/openobserve
-  x-type: company
+  x-type: opensource
 - name: openpanel
   url: https://github.com/api-evangelist/openpanel
-  x-type: company
+  x-type: opensource
 - name: openprise
   url: https://github.com/api-evangelist/openprise
   x-type: company
 - name: openproject
   url: https://github.com/api-evangelist/openproject
-  x-type: company
+  x-type: opensource
 - name: openprovider
   url: https://github.com/api-evangelist/openprovider
   x-type: company
 - name: openreplay
   url: https://github.com/api-evangelist/openreplay
-  x-type: company
+  x-type: opensource
 - name: openrouter
   url: https://github.com/api-evangelist/openrouter
   x-type: company
@@ -12905,37 +12985,37 @@ network:
   x-type: company
 - name: openssf
   url: https://github.com/api-evangelist/openssf
-  x-type: company
+  x-type: opensource
 - name: openstack
   url: https://github.com/api-evangelist/openstack
   x-type: opensource
 - name: openstreetmap
   url: https://github.com/api-evangelist/openstreetmap
-  x-type: company
+  x-type: opensource
 - name: opentelemetry
   url: https://github.com/api-evangelist/opentelemetry
   x-type: opensource
 - name: opentofu
   url: https://github.com/api-evangelist/opentofu
-  x-type: company
+  x-type: opensource
 - name: opentopography-api
   url: https://github.com/api-evangelist/opentopography-api
   x-type: company
 - name: openwallet-foundation
   url: https://github.com/api-evangelist/openwallet-foundation
-  x-type: company
+  x-type: opensource
 - name: openweather
   url: https://github.com/api-evangelist/openweather
   x-type: company
 - name: openyurt
   url: https://github.com/api-evangelist/openyurt
-  x-type: company
+  x-type: opensource
 - name: operation-support-equipment
   url: https://github.com/api-evangelist/operation-support-equipment
   x-type: company
 - name: operator-framework
   url: https://github.com/api-evangelist/operator-framework
-  x-type: company
+  x-type: opensource
 - name: opi
   url: https://github.com/api-evangelist/opi
   x-type: company
@@ -13215,7 +13295,7 @@ network:
   x-fortune: Fortune 500
 - name: pacer-case-locator-pcl-
   url: https://github.com/api-evangelist/pacer-case-locator-pcl-
-  x-type: company
+  x-type: government
 - name: pacific-life
   url: https://github.com/api-evangelist/pacific-life
   x-type: company
@@ -13230,13 +13310,13 @@ network:
   x-fortune: Fortune 500
 - name: packer
   url: https://github.com/api-evangelist/packer
-  x-type: company
+  x-type: opensource
 - name: packmind
   url: https://github.com/api-evangelist/packmind
   x-type: company
 - name: pact
   url: https://github.com/api-evangelist/pact
-  x-type: company
+  x-type: opensource
 - name: pafa
   url: https://github.com/api-evangelist/pafa
   x-profiled: 2026-04
@@ -13260,7 +13340,7 @@ network:
   x-type: company
 - name: pandas
   url: https://github.com/api-evangelist/pandas
-  x-type: company
+  x-type: opensource
 - name: pandium
   url: https://github.com/api-evangelist/pandium
   x-type: company
@@ -13332,7 +13412,7 @@ network:
   x-fortune: Fortune 500
 - name: partitioning
   url: https://github.com/api-evangelist/partitioning
-  x-type: company
+  x-type: topic
 - name: partnerstack
   url: https://github.com/api-evangelist/partnerstack
   x-type: company
@@ -13386,17 +13466,17 @@ network:
   x-type: company
 - name: pci-compliance
   url: https://github.com/api-evangelist/pci-compliance
-  x-type: company
+  x-type: topic
 - name: pdf
   url: https://github.com/api-evangelist/pdf
-  x-type: company
+  x-type: standard
 - name: peabody-energy
   url: https://github.com/api-evangelist/peabody-energy
   x-type: company
   x-fortune: Fortune 500
 - name: peace-corps
   url: https://github.com/api-evangelist/peace-corps
-  x-type: company
+  x-type: government
 - name: pebblely-ai
   url: https://github.com/api-evangelist/pebblely-ai
   x-type: company
@@ -13490,7 +13570,7 @@ network:
   x-fortune: Fortune 1000
 - name: perl
   url: https://github.com/api-evangelist/perl
-  x-type: company
+  x-type: topic
 - name: permit-io
   url: https://github.com/api-evangelist/permit-io
   x-type: company
@@ -13559,7 +13639,7 @@ network:
   x-type: company
 - name: php
   url: https://github.com/api-evangelist/php
-  x-type: company
+  x-type: topic
 - name: phrase
   url: https://github.com/api-evangelist/phrase
   x-type: company
@@ -13905,10 +13985,10 @@ network:
   x-type: company
 - name: privacy-by-design
   url: https://github.com/api-evangelist/privacy-by-design
-  x-type: company
+  x-type: topic
 - name: privoxy
   url: https://github.com/api-evangelist/privoxy
-  x-type: company
+  x-type: opensource
 - name: pro-code-api-composition
   url: https://github.com/api-evangelist/pro-code-api-composition
   x-type: company
@@ -13917,7 +13997,7 @@ network:
   x-type: company
 - name: process-flow-diagrams
   url: https://github.com/api-evangelist/process-flow-diagrams
-  x-type: company
+  x-type: topic
 - name: procore
   url: https://github.com/api-evangelist/procore
   x-type: company
@@ -13927,16 +14007,16 @@ network:
   x-fortune: Fortune 500
 - name: product-backlog-items
   url: https://github.com/api-evangelist/product-backlog-items
-  x-type: company
+  x-type: topic
 - name: product-backlog
   url: https://github.com/api-evangelist/product-backlog
-  x-type: company
+  x-type: topic
 - name: product-hunt
   url: https://github.com/api-evangelist/product-hunt
   x-type: company
 - name: product-specifications
   url: https://github.com/api-evangelist/product-specifications
-  x-type: company
+  x-type: topic
 - name: productiv
   url: https://github.com/api-evangelist/productiv
   x-profiled: 2026-04
@@ -13949,14 +14029,14 @@ network:
   x-type: company
 - name: programming-paradigm
   url: https://github.com/api-evangelist/programming-paradigm
-  x-type: company
+  x-type: topic
 - name: progressive
   url: https://github.com/api-evangelist/progressive
   x-type: company
   x-fortune: Fortune 100
 - name: project-management-methodology
   url: https://github.com/api-evangelist/project-management-methodology
-  x-type: company
+  x-type: topic
 - name: project44
   url: https://github.com/api-evangelist/project44
   x-type: company
@@ -13969,7 +14049,7 @@ network:
   x-type: opensource
 - name: prompt-md
   url: https://github.com/api-evangelist/prompt-md
-  x-type: company
+  x-type: topic
 - name: pronovix
   url: https://github.com/api-evangelist/pronovix
   x-type: company
@@ -13994,10 +14074,10 @@ network:
   x-type: standard
 - name: protocol-buffers
   url: https://github.com/api-evangelist/protocol-buffers
-  x-type: company
+  x-type: standard
 - name: prototypes
   url: https://github.com/api-evangelist/prototypes
-  x-type: company
+  x-type: topic
 - name: proxyman
   url: https://github.com/api-evangelist/proxyman
   x-type: company
@@ -14016,7 +14096,7 @@ network:
   x-type: company
 - name: pub-sub
   url: https://github.com/api-evangelist/pub-sub
-  x-type: company
+  x-type: topic
 - name: public-apis
   url: https://github.com/api-evangelist/public-apis
   x-type: company
@@ -14035,7 +14115,7 @@ network:
   x-fortune: Fortune 1000
 - name: pull-request-template-md
   url: https://github.com/api-evangelist/pull-request-template-md
-  x-type: company
+  x-type: topic
 - name: pulse-api
   url: https://github.com/api-evangelist/pulse-api
   x-type: company
@@ -14065,7 +14145,7 @@ network:
   x-fortune: Fortune 500
 - name: pulumi
   url: https://github.com/api-evangelist/pulumi
-  x-type: company
+  x-type: opensource
 - name: puppet
   url: https://github.com/api-evangelist/puppet
   x-type: opensource
@@ -14074,7 +14154,7 @@ network:
   x-type: opensource
 - name: putty
   url: https://github.com/api-evangelist/putty
-  x-type: company
+  x-type: opensource
 - name: pvh
   url: https://github.com/api-evangelist/pvh
   x-type: company
@@ -14089,16 +14169,16 @@ network:
   x-type: company
 - name: pypi
   url: https://github.com/api-evangelist/pypi
-  x-type: company
+  x-type: opensource
 - name: pyspark
   url: https://github.com/api-evangelist/pyspark
-  x-type: company
+  x-type: opensource
 - name: python
   url: https://github.com/api-evangelist/python
-  x-type: company
+  x-type: opensource
 - name: pytorch
   url: https://github.com/api-evangelist/pytorch
-  x-type: company
+  x-type: opensource
 - name: qdrant
   url: https://github.com/api-evangelist/qdrant
   x-type: company
@@ -14135,7 +14215,7 @@ network:
   x-type: company
 - name: qos
   url: https://github.com/api-evangelist/qos
-  x-type: company
+  x-type: topic
 - name: qovery
   url: https://github.com/api-evangelist/qovery
   x-type: company
@@ -14163,10 +14243,10 @@ network:
   x-type: company
 - name: quality-of-service
   url: https://github.com/api-evangelist/quality-of-service
-  x-type: company
+  x-type: topic
 - name: quality-standards
   url: https://github.com/api-evangelist/quality-standards
-  x-type: company
+  x-type: topic
 - name: quandl
   url: https://github.com/api-evangelist/quandl
   x-type: company
@@ -14185,7 +14265,7 @@ network:
   x-type: company
 - name: quarkus
   url: https://github.com/api-evangelist/quarkus
-  x-type: company
+  x-type: opensource
 - name: quay
   url: https://github.com/api-evangelist/quay
   x-type: company
@@ -14247,7 +14327,7 @@ network:
   x-type: company
 - name: race-protocol
   url: https://github.com/api-evangelist/race-protocol
-  x-type: company
+  x-type: topic
 - name: race-result
   url: https://github.com/api-evangelist/race-result
   x-type: company
@@ -14256,7 +14336,7 @@ network:
   x-type: company
 - name: raci
   url: https://github.com/api-evangelist/raci
-  x-type: company
+  x-type: topic
 - name: radar
   url: https://github.com/api-evangelist/radar
   x-type: company
@@ -14279,7 +14359,7 @@ network:
   x-type: company
 - name: radius
   url: https://github.com/api-evangelist/radius
-  x-type: company
+  x-type: standard
 - name: rafay-product-documentation
   url: https://github.com/api-evangelist/rafay-product-documentation
   x-type: company
@@ -14317,7 +14397,7 @@ network:
   x-type: company
 - name: rancher
   url: https://github.com/api-evangelist/rancher
-  x-type: company
+  x-type: opensource
 - name: range-resources
   url: https://github.com/api-evangelist/range-resources
   x-type: company
@@ -14352,31 +14432,31 @@ network:
   x-fortune: Fortune 500
 - name: rbac
   url: https://github.com/api-evangelist/rbac
-  x-type: company
+  x-type: topic
 - name: rcs-capital
   url: https://github.com/api-evangelist/rcs-capital
   x-type: company
 - name: rdf
   url: https://github.com/api-evangelist/rdf
-  x-type: company
+  x-type: standard
 - name: rdp
   url: https://github.com/api-evangelist/rdp
-  x-type: company
+  x-type: standard
 - name: react-foundation
   url: https://github.com/api-evangelist/react-foundation
   x-type: company
 - name: react-native
   url: https://github.com/api-evangelist/react-native
-  x-type: company
+  x-type: opensource
 - name: reactive-programming
   url: https://github.com/api-evangelist/reactive-programming
-  x-type: company
+  x-type: topic
 - name: react
   url: https://github.com/api-evangelist/react
-  x-type: company
+  x-type: opensource
 - name: readme-md
   url: https://github.com/api-evangelist/readme-md
-  x-type: company
+  x-type: topic
 - name: readme-metrics
   url: https://github.com/api-evangelist/readme-metrics
   x-type: company
@@ -14422,7 +14502,7 @@ network:
 - name: red-hat-ansible-automation-platform
   url: https://github.com/api-evangelist/red-hat-ansible-automation-platform
   x-profiled: 2026-04
-  x-type: company
+  x-type: opensource
 - name: red-hat-enterprise-linux
   url: https://github.com/api-evangelist/red-hat-enterprise-linux
   x-profiled: 2026-04
@@ -14464,7 +14544,7 @@ network:
   x-type: company
 - name: redux
   url: https://github.com/api-evangelist/redux
-  x-type: company
+  x-type: opensource
 - name: refinitiv-eikon
   url: https://github.com/api-evangelist/refinitiv-eikon
   x-type: company
@@ -14503,10 +14583,10 @@ network:
   x-fortune: Fortune 500
 - name: regular-expressions
   url: https://github.com/api-evangelist/regular-expressions
-  x-type: company
+  x-type: topic
 - name: regulation
   url: https://github.com/api-evangelist/regulation
-  x-type: company
+  x-type: topic
 - name: regulatory-templates
   url: https://github.com/api-evangelist/regulatory-templates
   x-type: company
@@ -14561,7 +14641,7 @@ network:
   x-type: company
 - name: renovate-json
   url: https://github.com/api-evangelist/renovate-json
-  x-type: company
+  x-type: opensource
 - name: rent-a-center
   url: https://github.com/api-evangelist/rent-a-center
   x-type: company
@@ -14858,7 +14938,7 @@ network:
   x-type: company
 - name: r
   url: https://github.com/api-evangelist/r
-  x-type: company
+  x-type: opensource
 - name: s-and-p-global
   url: https://github.com/api-evangelist/s-and-p-global
   x-type: company
@@ -14868,7 +14948,7 @@ network:
   x-type: company
 - name: saas-management
   url: https://github.com/api-evangelist/saas-management
-  x-type: company
+  x-type: topic
 - name: saashub
   url: https://github.com/api-evangelist/saashub
   x-type: company
@@ -14880,7 +14960,7 @@ network:
   x-type: company
 - name: safe-agile
   url: https://github.com/api-evangelist/safe-agile
-  x-type: company
+  x-type: topic
 - name: safeline
   url: https://github.com/api-evangelist/safeline
   x-type: company
@@ -15060,43 +15140,43 @@ network:
 
 - name: scada
   url: https://github.com/api-evangelist/scada
-  x-type: company
+  x-type: topic
 - name: scalability-testing
   url: https://github.com/api-evangelist/scalability-testing
-  x-type: company
+  x-type: topic
 - name: scalability
   url: https://github.com/api-evangelist/scalability
-  x-type: company
+  x-type: topic
 - name: scalable-architecture
   url: https://github.com/api-evangelist/scalable-architecture
-  x-type: company
+  x-type: topic
 - name: scalable-inference-serving
   url: https://github.com/api-evangelist/scalable-inference-serving
   x-type: company
 - name: scalable-infrastructure
   url: https://github.com/api-evangelist/scalable-infrastructure
-  x-type: company
+  x-type: topic
 - name: scalable-platforms
   url: https://github.com/api-evangelist/scalable-platforms
-  x-type: company
+  x-type: topic
 - name: scalable-services
   url: https://github.com/api-evangelist/scalable-services
-  x-type: company
+  x-type: topic
 - name: scalable-software-and-systems
   url: https://github.com/api-evangelist/scalable-software-and-systems
-  x-type: company
+  x-type: topic
 - name: scalable-systems
   url: https://github.com/api-evangelist/scalable-systems
-  x-type: company
+  x-type: topic
 - name: scalar
   url: https://github.com/api-evangelist/scalar
   x-type: company
 - name: scala
   url: https://github.com/api-evangelist/scala
-  x-type: company
+  x-type: topic
 - name: scaled-agile
   url: https://github.com/api-evangelist/scaled-agile
-  x-type: company
+  x-type: topic
 - name: scaleops
   url: https://github.com/api-evangelist/scaleops
   x-type: company
@@ -15115,19 +15195,19 @@ network:
   x-type: company
 - name: schema-design
   url: https://github.com/api-evangelist/schema-design
-  x-type: company
+  x-type: topic
 - name: schema-evolution
   url: https://github.com/api-evangelist/schema-evolution
-  x-type: company
+  x-type: topic
 - name: schema-free
   url: https://github.com/api-evangelist/schema-free
-  x-type: company
+  x-type: topic
 - name: schema-org
   url: https://github.com/api-evangelist/schema-org
-  x-type: company
+  x-type: standard
 - name: schema-stitching
   url: https://github.com/api-evangelist/schema-stitching
-  x-type: company
+  x-type: topic
 - name: schema-validation
   url: https://github.com/api-evangelist/schema-validation
   x-type: company
@@ -15235,7 +15315,7 @@ network:
   x-type: company
 - name: secure-tunneling-protocols
   url: https://github.com/api-evangelist/secure-tunneling-protocols
-  x-type: company
+  x-type: topic
 - name: securian-financial-group
   url: https://github.com/api-evangelist/securian-financial-group
   x-type: company
@@ -15252,10 +15332,10 @@ network:
   x-type: company
 - name: security-protocols
   url: https://github.com/api-evangelist/security-protocols
-  x-type: company
+  x-type: topic
 - name: security-standards-and-procedures
   url: https://github.com/api-evangelist/security-standards-and-procedures
-  x-type: company
+  x-type: topic
 - name: security-standards
   url: https://github.com/api-evangelist/security-standards
   x-type: company
@@ -15363,10 +15443,10 @@ network:
   x-fortune: Fortune 500
 - name: service-mesh-interface
   url: https://github.com/api-evangelist/service-mesh-interface
-  x-type: company
+  x-type: topic
 - name: service-mesh
   url: https://github.com/api-evangelist/service-mesh
-  x-type: company
+  x-type: topic
 - name: service-oriented-architecture
   url: https://github.com/api-evangelist/service-oriented-architecture
   x-type: company
@@ -15398,7 +15478,7 @@ network:
   x-type: company
 - name: sharding
   url: https://github.com/api-evangelist/sharding
-  x-type: company
+  x-type: topic
 - name: sharepoint
   url: https://github.com/api-evangelist/sharepoint
   x-profiled: 2026-04
@@ -15570,7 +15650,7 @@ network:
   x-type: company
 - name: smtp
   url: https://github.com/api-evangelist/smtp
-  x-type: company
+  x-type: standard
 - name: snap-on
   url: https://github.com/api-evangelist/snap-on
   x-type: company
@@ -15593,10 +15673,10 @@ network:
   x-type: company
 - name: snyk-container
   url: https://github.com/api-evangelist/snyk-container
-  x-type: company
+  x-type: opensource
 - name: soap
   url: https://github.com/api-evangelist/soap
-  x-type: company
+  x-type: standard
 - name: soax
   url: https://github.com/api-evangelist/soax
   x-type: company
@@ -15667,7 +15747,7 @@ network:
   x-type: company
 - name: sonarqube
   url: https://github.com/api-evangelist/sonarqube
-  x-type: company
+  x-type: opensource
 - name: sonar
   url: https://github.com/api-evangelist/sonar
   x-type: company
@@ -15822,7 +15902,7 @@ network:
   x-type: company
 - name: spiffe
   url: https://github.com/api-evangelist/spiffe
-  x-type: company
+  x-type: opensource
 - name: spin-ai
   url: https://github.com/api-evangelist/spin-ai
   x-type: company
@@ -15834,7 +15914,7 @@ network:
   x-type: company
 - name: spire
   url: https://github.com/api-evangelist/spire
-  x-type: company
+  x-type: opensource
 - name: spirit-aerosystems-holdings
   url: https://github.com/api-evangelist/spirit-aerosystems-holdings
   x-type: company
@@ -16081,7 +16161,7 @@ network:
   x-type: company
 - name: step-ci
   url: https://github.com/api-evangelist/step-ci
-  x-type: company
+  x-type: opensource
 - name: step-functions
   url: https://github.com/api-evangelist/step-functions
   x-type: company
@@ -16138,22 +16218,22 @@ network:
   x-type: company
 - name: storybook
   url: https://github.com/api-evangelist/storybook
-  x-type: company
+  x-type: opensource
 - name: strapi
   url: https://github.com/api-evangelist/strapi
-  x-type: company
+  x-type: opensource
 - name: strava
   url: https://github.com/api-evangelist/strava
   x-type: company
 - name: streamlit
   url: https://github.com/api-evangelist/streamlit
-  x-type: company
+  x-type: opensource
 - name: streamyard
   url: https://github.com/api-evangelist/streamyard
   x-type: company
 - name: strimzi
   url: https://github.com/api-evangelist/strimzi
-  x-type: company
+  x-type: opensource
 - name: stripe
   url: https://github.com/api-evangelist/stripe
   x-type: company
@@ -16209,7 +16289,7 @@ network:
   x-fortune: Fortune 1000
 - name: sunset-header
   url: https://github.com/api-evangelist/sunset-header
-  x-type: company
+  x-type: topic
 - name: supabase
   url: https://github.com/api-evangelist/supabase
   x-type: company
@@ -16228,16 +16308,16 @@ network:
   x-type: company
 - name: supertest
   url: https://github.com/api-evangelist/supertest
-  x-type: company
+  x-type: opensource
 - name: supertokens
   url: https://github.com/api-evangelist/supertokens
-  x-type: company
+  x-type: opensource
 - name: supervalu
   url: https://github.com/api-evangelist/supervalu
   x-type: company
 - name: support-md
   url: https://github.com/api-evangelist/support-md
-  x-type: company
+  x-type: topic
 - name: susquehanna-international-group
   url: https://github.com/api-evangelist/susquehanna-international-group
   x-profiled: 2026-04
@@ -16245,16 +16325,16 @@ network:
 
 - name: svn
   url: https://github.com/api-evangelist/svn
-  x-type: company
+  x-type: opensource
 - name: swagger-codegen
   url: https://github.com/api-evangelist/swagger-codegen
-  x-type: company
+  x-type: opensource
 - name: swaggerhub
   url: https://github.com/api-evangelist/swaggerhub
   x-type: company
 - name: swagger
   url: https://github.com/api-evangelist/swagger
-  x-type: company
+  x-type: standard
 - name: swetrix
   url: https://github.com/api-evangelist/swetrix
   x-type: company
@@ -16331,7 +16411,7 @@ network:
   x-fortune: Fortune 500
 - name: table-format
   url: https://github.com/api-evangelist/table-format
-  x-type: company
+  x-type: topic
 - name: tableau-desktop
   url: https://github.com/api-evangelist/tableau-desktop
   x-profiled: 2026-04
@@ -16396,10 +16476,10 @@ network:
 
 - name: tax-reporting-templates
   url: https://github.com/api-evangelist/tax-reporting-templates
-  x-type: company
+  x-type: topic
 - name: tax-templates
   url: https://github.com/api-evangelist/tax-templates
-  x-type: company
+  x-type: topic
 - name: taxi
   url: https://github.com/api-evangelist/taxi
   x-type: company
@@ -16412,7 +16492,7 @@ network:
   x-type: company
 - name: tcp-ip
   url: https://github.com/api-evangelist/tcp-ip
-  x-type: company
+  x-type: standard
 - name: td-ameritrade-holding
   url: https://github.com/api-evangelist/td-ameritrade-holding
   x-type: company
@@ -16443,10 +16523,10 @@ network:
   x-type: company
 - name: technical-specifications
   url: https://github.com/api-evangelist/technical-specifications
-  x-type: company
+  x-type: topic
 - name: technology-standards
   url: https://github.com/api-evangelist/technology-standards
-  x-type: company
+  x-type: topic
 - name: techrepublic
   url: https://github.com/api-evangelist/techrepublic
   x-type: company
@@ -16515,7 +16595,7 @@ network:
   x-type: company
 - name: templates
   url: https://github.com/api-evangelist/templates
-  x-type: company
+  x-type: topic
 - name: temple-health
   url: https://github.com/api-evangelist/temple-health
   x-profiled: 2026-04
@@ -16524,7 +16604,7 @@ network:
 - name: temporal
   url: https://github.com/api-evangelist/temporal
   x-profiled: 2026-04
-  x-type: company
+  x-type: opensource
 - name: tempo
   url: https://github.com/api-evangelist/tempo
   x-type: company
@@ -16540,7 +16620,7 @@ network:
   x-type: company
 - name: tensorflow
   url: https://github.com/api-evangelist/tensorflow
-  x-type: company
+  x-type: opensource
 - name: teradata
   url: https://github.com/api-evangelist/teradata
   x-profiled: 2026-04
@@ -16571,31 +16651,31 @@ network:
   x-type: company
 - name: test-cases
   url: https://github.com/api-evangelist/test-cases
-  x-type: company
+  x-type: topic
 - name: test-driven-development
   url: https://github.com/api-evangelist/test-driven-development
-  x-type: company
+  x-type: topic
 - name: test-first
   url: https://github.com/api-evangelist/test-first
-  x-type: company
+  x-type: topic
 - name: test-plans
   url: https://github.com/api-evangelist/test-plans
-  x-type: company
+  x-type: topic
 - name: test-rate-limit-check
   url: https://github.com/api-evangelist/test-rate-limit-check
-  x-type: company
+  x-type: topic
 - name: test-scripts
   url: https://github.com/api-evangelist/test-scripts
-  x-type: company
+  x-type: topic
 - name: test-specifications
   url: https://github.com/api-evangelist/test-specifications
-  x-type: company
+  x-type: topic
 - name: test-suites
   url: https://github.com/api-evangelist/test-suites
-  x-type: company
+  x-type: topic
 - name: testing
   url: https://github.com/api-evangelist/testing
-  x-type: company
+  x-type: topic
 - name: tetra-tech
   url: https://github.com/api-evangelist/tetra-tech
   x-type: company
@@ -16694,7 +16774,7 @@ network:
   x-type: company
 - name: thrift
   url: https://github.com/api-evangelist/thrift
-  x-type: company
+  x-type: opensource
 - name: thrivent-financial-for-lutherans
   url: https://github.com/api-evangelist/thrivent-financial-for-lutherans
   x-type: company
@@ -16976,7 +17056,7 @@ network:
   x-fortune: Fortune 1000
 - name: trivy
   url: https://github.com/api-evangelist/trivy
-  x-type: company
+  x-type: opensource
 - name: tronox-holdings
   url: https://github.com/api-evangelist/tronox-holdings
   x-profiled: 2026-04
@@ -17070,16 +17150,16 @@ network:
   x-fortune: Fortune 100
 - name: u-s-access-board
   url: https://github.com/api-evangelist/u-s-access-board
-  x-type: company
+  x-type: government
 - name: u-s-agency-for-global-media
   url: https://github.com/api-evangelist/u-s-agency-for-global-media
-  x-type: company
+  x-type: government
 - name: u-s-bureau-of-labor-statistics
   url: https://github.com/api-evangelist/u-s-bureau-of-labor-statistics
   x-type: government
 - name: u-s-geological-survey
   url: https://github.com/api-evangelist/u-s-geological-survey
-  x-type: company
+  x-type: government
 - name: u-s-treasury-fiscal-data
   url: https://github.com/api-evangelist/u-s-treasury-fiscal-data
   x-type: government
@@ -17091,7 +17171,7 @@ network:
   x-type: company
 - name: ubuntu
   url: https://github.com/api-evangelist/ubuntu
-  x-type: company
+  x-type: opensource
 - name: ucsc-genomic-data
   url: https://github.com/api-evangelist/ucsc-genomic-data
   x-type: company
@@ -17122,7 +17202,7 @@ network:
   x-type: company
 - name: uml
   url: https://github.com/api-evangelist/uml
-  x-type: company
+  x-type: topic
 - name: umpqua-holdings
   url: https://github.com/api-evangelist/umpqua-holdings
   x-profiled: 2026-04
@@ -17134,7 +17214,7 @@ network:
   x-fortune: Fortune 1000
 - name: underwriting-standards
   url: https://github.com/api-evangelist/underwriting-standards
-  x-type: company
+  x-type: topic
 - name: uniblock
   url: https://github.com/api-evangelist/uniblock
   x-type: company
@@ -17178,37 +17258,37 @@ network:
   x-type: company
 - name: united-states-africa-command
   url: https://github.com/api-evangelist/united-states-africa-command
-  x-type: company
+  x-type: government
 - name: united-states-army-corps-of-engineers
   url: https://github.com/api-evangelist/united-states-army-corps-of-engineers
-  x-type: company
+  x-type: government
 - name: united-states-botanic-garden
   url: https://github.com/api-evangelist/united-states-botanic-garden
-  x-type: company
+  x-type: government
 - name: united-states-capitol-police
   url: https://github.com/api-evangelist/united-states-capitol-police
-  x-type: company
+  x-type: government
 - name: united-states-census-bureau
   url: https://github.com/api-evangelist/united-states-census-bureau
   x-type: government
 - name: united-states-coast-guard
   url: https://github.com/api-evangelist/united-states-coast-guard
-  x-type: company
+  x-type: government
 - name: united-states-department-of-agriculture
   url: https://github.com/api-evangelist/united-states-department-of-agriculture
   x-type: government
 - name: united-states-european-command
   url: https://github.com/api-evangelist/united-states-european-command
-  x-type: company
+  x-type: government
 - name: united-states-fire-administration
   url: https://github.com/api-evangelist/united-states-fire-administration
   x-type: government
 - name: united-states-national-library-of-medicine
   url: https://github.com/api-evangelist/united-states-national-library-of-medicine
-  x-type: company
+  x-type: government
 - name: united-states-postal-service
   url: https://github.com/api-evangelist/united-states-postal-service
-  x-type: company
+  x-type: government
 - name: united-states-steel
   url: https://github.com/api-evangelist/united-states-steel
   x-type: company
@@ -17248,7 +17328,7 @@ network:
 - name: unix
   url: https://github.com/api-evangelist/unix
   x-profiled: 2026-04
-  x-type: company
+  x-type: topic
 - name: unkey
   url: https://github.com/api-evangelist/unkey
   x-type: company
@@ -17307,7 +17387,7 @@ network:
   x-type: government
 - name: us-bancorp
   url: https://github.com/api-evangelist/us-bancorp
-  x-type: government
+  x-type: company
   x-fortune: Fortune 500
 - name: us-bureau-of-labor-statistics
   url: https://github.com/api-evangelist/us-bureau-of-labor-statistics
@@ -17347,7 +17427,7 @@ network:
   x-type: government
 - name: us-foods
   url: https://github.com/api-evangelist/us-foods
-  x-type: government
+  x-type: company
   x-fortune: Fortune 500
 - name: us-geological-survey
   url: https://github.com/api-evangelist/us-geological-survey
@@ -17394,7 +17474,7 @@ network:
   x-type: company
 - name: vagrant
   url: https://github.com/api-evangelist/vagrant
-  x-type: company
+  x-type: opensource
 - name: valence-security
   url: https://github.com/api-evangelist/valence-security
   x-type: company
@@ -17430,7 +17510,7 @@ network:
   x-fortune: Fortune 1000
 - name: varnish
   url: https://github.com/api-evangelist/varnish
-  x-type: company
+  x-type: opensource
 - name: varonis
   url: https://github.com/api-evangelist/varonis
   x-type: company
@@ -17443,7 +17523,7 @@ network:
   x-type: company
 - name: vector
   url: https://github.com/api-evangelist/vector
-  x-type: company
+  x-type: opensource
 - name: vectren
   url: https://github.com/api-evangelist/vectren
   x-type: company
@@ -17458,7 +17538,7 @@ network:
   x-fortune: Fortune 500
 - name: vegeta
   url: https://github.com/api-evangelist/vegeta
-  x-type: company
+  x-type: opensource
 - name: vehicle-api
   url: https://github.com/api-evangelist/vehicle-api
   x-type: company
@@ -17529,10 +17609,10 @@ network:
   x-fortune: Fortune 100
 - name: versioning-protocols
   url: https://github.com/api-evangelist/versioning-protocols
-  x-type: company
+  x-type: topic
 - name: vert-x
   url: https://github.com/api-evangelist/vert-x
-  x-type: company
+  x-type: opensource
 - name: vertex-pharmaceuticals
   url: https://github.com/api-evangelist/vertex-pharmaceuticals
   x-type: company
@@ -17711,10 +17791,10 @@ network:
   x-fortune: Fortune 1000
 - name: wasmcloud
   url: https://github.com/api-evangelist/wasmcloud
-  x-type: company
+  x-type: opensource
 - name: wasmedge
   url: https://github.com/api-evangelist/wasmedge
-  x-type: company
+  x-type: opensource
 - name: waste-connections
   url: https://github.com/api-evangelist/waste-connections
   x-type: company
@@ -17728,7 +17808,7 @@ network:
   x-type: company
 - name: waterfall
   url: https://github.com/api-evangelist/waterfall
-  x-type: company
+  x-type: topic
 - name: waters
   url: https://github.com/api-evangelist/waters
   x-profiled: 2026-04
@@ -17755,7 +17835,7 @@ network:
   x-type: company
 - name: wcag
   url: https://github.com/api-evangelist/wcag
-  x-type: company
+  x-type: standard
 - name: weather-gov
   url: https://github.com/api-evangelist/weather-gov
   x-type: government
@@ -17764,7 +17844,7 @@ network:
   x-type: company
 - name: weave-net
   url: https://github.com/api-evangelist/weave-net
-  x-type: company
+  x-type: opensource
 - name: weaviate
   url: https://github.com/api-evangelist/weaviate
   x-type: company
@@ -17773,7 +17853,7 @@ network:
   x-type: company
 - name: web-standards
   url: https://github.com/api-evangelist/web-standards
-  x-type: company
+  x-type: topic
 - name: web-summit
   url: https://github.com/api-evangelist/web-summit
   x-type: company
@@ -17788,13 +17868,13 @@ network:
   x-type: company
 - name: webflux
   url: https://github.com/api-evangelist/webflux
-  x-type: company
+  x-type: opensource
 - name: weblogic
   url: https://github.com/api-evangelist/weblogic
   x-type: company
 - name: websockets
   url: https://github.com/api-evangelist/websockets
-  x-type: company
+  x-type: topic
 - name: websphere
   url: https://github.com/api-evangelist/websphere
   x-profiled: 2026-04
@@ -17825,7 +17905,7 @@ network:
   x-type: company
 - name: werf
   url: https://github.com/api-evangelist/werf
-  x-type: company
+  x-type: opensource
 - name: werner-enterprises
   url: https://github.com/api-evangelist/werner-enterprises
   x-type: company
@@ -17891,7 +17971,7 @@ network:
   x-type: company
 - name: wget
   url: https://github.com/api-evangelist/wget
-  x-type: company
+  x-type: opensource
 - name: wgl-holdings
   url: https://github.com/api-evangelist/wgl-holdings
   x-type: company
@@ -17930,10 +18010,10 @@ network:
   x-type: company
 - name: wikidata
   url: https://github.com/api-evangelist/wikidata
-  x-type: company
+  x-type: opensource
 - name: wildapricot
   url: https://github.com/api-evangelist/wildapricot
-  x-type: company
+  x-type: opensource
 - name: willbros-group
   url: https://github.com/api-evangelist/willbros-group
   x-type: company
@@ -17985,7 +18065,7 @@ network:
   x-type: company
 - name: wiremock
   url: https://github.com/api-evangelist/wiremock
-  x-type: company
+  x-type: opensource
 - name: wireshark
   url: https://github.com/api-evangelist/wireshark
   x-type: company
@@ -18099,7 +18179,7 @@ network:
   x-type: company
 - name: wsdl
   url: https://github.com/api-evangelist/wsdl
-  x-type: company
+  x-type: standard
 - name: wsfs-financial
   url: https://github.com/api-evangelist/wsfs-financial
   x-profiled: 2026-04
@@ -18154,7 +18234,7 @@ network:
   x-type: company
 - name: xml
   url: https://github.com/api-evangelist/xml
-  x-type: company
+  x-type: standard
 - name: xpo-logistics
   url: https://github.com/api-evangelist/xpo-logistics
   x-type: company
@@ -18165,7 +18245,7 @@ network:
   x-fortune: Fortune 500
 - name: xslt
   url: https://github.com/api-evangelist/xslt
-  x-type: company
+  x-type: standard
 - name: xweather
   url: https://github.com/api-evangelist/xweather
   x-type: company
@@ -18195,7 +18275,7 @@ network:
 
 - name: yarn
   url: https://github.com/api-evangelist/yarn
-  x-type: company
+  x-type: opensource
 - name: yeeld
   url: https://github.com/api-evangelist/yeeld
   x-type: company
@@ -18210,7 +18290,7 @@ network:
   x-type: company
 - name: youki
   url: https://github.com/api-evangelist/youki
-  x-type: company
+  x-type: opensource
 - name: youtube
   url: https://github.com/api-evangelist/youtube
   x-profiled: 2026-04
@@ -18247,7 +18327,7 @@ network:
   x-type: company
 - name: zeebe
   url: https://github.com/api-evangelist/zeebe
-  x-type: company
+  x-type: opensource
 - name: zendesk
   url: https://github.com/api-evangelist/zendesk
   x-profiled: 2026-04
@@ -18257,7 +18337,7 @@ network:
   x-type: company
 - name: zenml
   url: https://github.com/api-evangelist/zenml
-  x-type: company
+  x-type: opensource
 - name: zenoss
   url: https://github.com/api-evangelist/zenoss
   x-profiled: 2026-04
@@ -18267,16 +18347,16 @@ network:
   x-type: company
 - name: zero-trust-architecture
   url: https://github.com/api-evangelist/zero-trust-architecture
-  x-type: company
+  x-type: topic
 - name: zero-trust-network-access
   url: https://github.com/api-evangelist/zero-trust-network-access
-  x-type: company
+  x-type: topic
 - name: zero-trust-security-model
   url: https://github.com/api-evangelist/zero-trust-security-model
-  x-type: company
+  x-type: topic
 - name: zero-trust
   url: https://github.com/api-evangelist/zero-trust
-  x-type: company
+  x-type: topic
 - name: zeroheight
   url: https://github.com/api-evangelist/zeroheight
   x-type: company
@@ -18301,7 +18381,7 @@ network:
   x-type: company
 - name: zipkin
   url: https://github.com/api-evangelist/zipkin
-  x-type: company
+  x-type: opensource
 - name: zitadel
   url: https://github.com/api-evangelist/zitadel
   x-type: company
