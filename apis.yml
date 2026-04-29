@@ -6061,6 +6061,7 @@ network:
 - name: copper
   url: https://github.com/api-evangelist/copper
   x-type: company
+  x-profiled: 2026-04
 - name: coralogix
   url: https://github.com/api-evangelist/coralogix
   x-profiled: 2026-04
@@ -6069,15 +6070,19 @@ network:
   url: https://github.com/api-evangelist/core-and-main
   x-type: company
   x-fortune: Fortune 1000
+  x-profiled: 2026-04
 - name: core-mark-holding
   url: https://github.com/api-evangelist/core-mark-holding
   x-type: company
+  x-profiled: 2026-04
 - name: corebridge-financial
   url: https://github.com/api-evangelist/corebridge-financial
   x-type: company
+  x-profiled: 2026-04
 - name: coredns
   url: https://github.com/api-evangelist/coredns
   x-type: company
+  x-profiled: 2026-04
 - name: corelogic
   url: https://github.com/api-evangelist/corelogic
   x-profiled: 2026-04
@@ -6086,9 +6091,11 @@ network:
 - name: coresignal
   url: https://github.com/api-evangelist/coresignal
   x-type: company
+  x-profiled: 2026-04
 - name: corma
   url: https://github.com/api-evangelist/corma
   x-type: company
+  x-profiled: 2026-04
 - name: cornerstone-building-brands
   url: https://github.com/api-evangelist/cornerstone-building-brands
   x-profiled: 2026-04
@@ -6098,25 +6105,32 @@ network:
   url: https://github.com/api-evangelist/corning
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: corporate-bullshit-generator-api
   url: https://github.com/api-evangelist/corporate-bullshit-generator-api
   x-type: company
+  x-profiled: 2026-04
 - name: corteva
   url: https://github.com/api-evangelist/corteva
   x-type: company
+  x-profiled: 2026-04
 - name: cortex
   url: https://github.com/api-evangelist/cortex
   x-type: company
+  x-profiled: 2026-04
 - name: corva-ai
   url: https://github.com/api-evangelist/corva-ai
   x-type: company
+  x-profiled: 2026-04
 - name: cosign
   url: https://github.com/api-evangelist/cosign
   x-type: company
+  x-profiled: 2026-04
 - name: costco
   url: https://github.com/api-evangelist/costco
   x-type: company
   x-fortune: Fortune 100
+  x-profiled: 2026-04
 - name: coterra-energy
   url: https://github.com/api-evangelist/coterra-energy
   x-profiled: 2026-04
@@ -6126,34 +6140,44 @@ network:
   url: https://github.com/api-evangelist/coty
   x-type: company
   x-fortune: Fortune 1000
+  x-profiled: 2026-04
 - name: couchbase
   url: https://github.com/api-evangelist/couchbase
   x-type: company
+  x-profiled: 2026-04
 - name: council-on-environmental-quality
   url: https://github.com/api-evangelist/council-on-environmental-quality
   x-type: company
+  x-profiled: 2026-04
 - name: country-financial
   url: https://github.com/api-evangelist/country-financial
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: country-io
   url: https://github.com/api-evangelist/country-io
   x-type: company
+  x-profiled: 2026-04
 - name: country-state-city-api
   url: https://github.com/api-evangelist/country-state-city-api
   x-type: company
+  x-profiled: 2026-04
 - name: coupang
   url: https://github.com/api-evangelist/coupang
   x-type: company
+  x-profiled: 2026-04
 - name: coupa
   url: https://github.com/api-evangelist/coupa
   x-type: company
+  x-profiled: 2026-04
 - name: covance
   url: https://github.com/api-evangelist/covance
   x-type: company
+  x-profiled: 2026-04
 - name: coveo
   url: https://github.com/api-evangelist/coveo
   x-type: company
+  x-profiled: 2026-04
 - name: cozen-oconnor
   url: https://github.com/api-evangelist/cozen-oconnor
   x-profiled: 2026-04
@@ -6162,24 +6186,31 @@ network:
 - name: cpanel
   url: https://github.com/api-evangelist/cpanel
   x-type: company
+  x-profiled: 2026-04
 - name: cplusplus
   url: https://github.com/api-evangelist/cplusplus
   x-type: company
+  x-profiled: 2026-04
 - name: cqrs
   url: https://github.com/api-evangelist/cqrs
   x-type: topic
+  x-profiled: 2026-04
 - name: cr-bard
   url: https://github.com/api-evangelist/cr-bard
   x-type: company
+  x-profiled: 2026-04
 - name: cracker-barrel-old-country-store
   url: https://github.com/api-evangelist/cracker-barrel-old-country-store
   x-type: company
+  x-profiled: 2026-04
 - name: crane-worldwide
   url: https://github.com/api-evangelist/crane-worldwide
   x-type: company
+  x-profiled: 2026-04
 - name: crane
   url: https://github.com/api-evangelist/crane
   x-type: company
+  x-profiled: 2026-04
 - name: crawl4ai
   url: https://github.com/api-evangelist/crawl4ai
   x-profiled: 2026-04
@@ -6187,10 +6218,12 @@ network:
 - name: crawlee
   url: https://github.com/api-evangelist/crawlee
   x-type: company
+  x-profiled: 2026-04
 - name: crestwood-equity-partners
   url: https://github.com/api-evangelist/crestwood-equity-partners
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: crewai
   url: https://github.com/api-evangelist/crewai
   x-profiled: 2026-04
@@ -6198,12 +6231,15 @@ network:
 - name: cri-o
   url: https://github.com/api-evangelist/cri-o
   x-type: company
+  x-profiled: 2026-04
 - name: cribl
   url: https://github.com/api-evangelist/cribl
   x-type: company
+  x-profiled: 2026-04
 - name: criteo
   url: https://github.com/api-evangelist/criteo
   x-type: company
+  x-profiled: 2026-04
 - name: crossamerica-partners
   url: https://github.com/api-evangelist/crossamerica-partners
   x-profiled: 2026-04
@@ -6212,9 +6248,11 @@ network:
 - name: crossplane
   url: https://github.com/api-evangelist/crossplane
   x-type: opensource
+  x-profiled: 2026-04
 - name: crossref
   url: https://github.com/api-evangelist/crossref
   x-type: company
+  x-profiled: 2026-04
 - name: crowdstrike
   url: https://github.com/api-evangelist/crowdstrike
   x-profiled: 2026-04
@@ -6224,9 +6262,11 @@ network:
   url: https://github.com/api-evangelist/crown-castle-international
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: crown
   url: https://github.com/api-evangelist/crown
   x-type: company
+  x-profiled: 2026-04
 - name: crown-holdings
   url: https://github.com/api-evangelist/crown-holdings
   x-profiled: 2026-04
@@ -6236,15 +6276,19 @@ network:
 - name: crozdesk
   url: https://github.com/api-evangelist/crozdesk
   x-type: company
+  x-profiled: 2026-04
 - name: crs-credit-api
   url: https://github.com/api-evangelist/crs-credit-api
   x-type: company
+  x-profiled: 2026-04
 - name: crunchbase
   url: https://github.com/api-evangelist/crunchbase
   x-type: company
+  x-profiled: 2026-04
 - name: cryptoquant
   url: https://github.com/api-evangelist/cryptoquant
   x-type: company
+  x-profiled: 2026-04
 - name: crystal-reports
   url: https://github.com/api-evangelist/crystal-reports
   x-profiled: 2026-04
@@ -6252,19 +6296,24 @@ network:
 - name: csg
   url: https://github.com/api-evangelist/csg
   x-type: company
+  x-profiled: 2026-04
 - name: css
   url: https://github.com/api-evangelist/css
   x-type: company
+  x-profiled: 2026-04
 - name: cst-brands
   url: https://github.com/api-evangelist/cst-brands
   x-type: company
+  x-profiled: 2026-04
 - name: csx
   url: https://github.com/api-evangelist/csx
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: cubefs
   url: https://github.com/api-evangelist/cubefs
   x-type: company
+  x-profiled: 2026-04
 - name: cubesmart
   url: https://github.com/api-evangelist/cubesmart
   x-profiled: 2026-04
@@ -6278,6 +6327,7 @@ network:
 - name: cucumber
   url: https://github.com/api-evangelist/cucumber
   x-type: company
+  x-profiled: 2026-04
 - name: cullen-frost-bankers
   url: https://github.com/api-evangelist/cullen-frost-bankers
   x-profiled: 2026-04
@@ -6287,95 +6337,125 @@ network:
   url: https://github.com/api-evangelist/cummins
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: cuna-mutual-group
   url: https://github.com/api-evangelist/cuna-mutual-group
   x-type: company
+  x-profiled: 2026-04
 - name: curlie
   url: https://github.com/api-evangelist/curlie
   x-type: company
+  x-profiled: 2026-04
 - name: curl
   url: https://github.com/api-evangelist/curl
   x-type: company
+  x-profiled: 2026-04
 - name: cursorrules
   url: https://github.com/api-evangelist/cursorrules
   x-type: company
+  x-profiled: 2026-04
 - name: cursor
   url: https://github.com/api-evangelist/cursor
   x-type: company
+  x-profiled: 2026-04
 - name: curtiss-wright
   url: https://github.com/api-evangelist/curtiss-wright
   x-type: company
   x-fortune: Fortune 1000
+  x-profiled: 2026-04
 - name: customer-database
   url: https://github.com/api-evangelist/customer-database
   x-type: company
+  x-profiled: 2026-04
 - name: customer-io
   url: https://github.com/api-evangelist/customer-io
   x-type: company
+  x-profiled: 2026-04
 - name: customer-portals
   url: https://github.com/api-evangelist/customer-portals
   x-type: company
+  x-profiled: 2026-04
 - name: customs-advisory-services
   url: https://github.com/api-evangelist/customs-advisory-services
   x-type: company
+  x-profiled: 2026-04
 - name: customs-and-border-protection
   url: https://github.com/api-evangelist/customs-and-border-protection
   x-type: government
+  x-profiled: 2026-04
 - name: customs-brokerage
   url: https://github.com/api-evangelist/customs-brokerage
   x-type: company
+  x-profiled: 2026-04
 - name: customs-computer-system
   url: https://github.com/api-evangelist/customs-computer-system
   x-type: company
+  x-profiled: 2026-04
 - name: customs-forms
   url: https://github.com/api-evangelist/customs-forms
   x-type: company
+  x-profiled: 2026-04
 - name: customs-procedures
   url: https://github.com/api-evangelist/customs-procedures
   x-type: company
+  x-profiled: 2026-04
 - name: cvent-community
   url: https://github.com/api-evangelist/cvent-community
   x-type: company
+  x-profiled: 2026-04
 - name: cvent-event-cloud
   url: https://github.com/api-evangelist/cvent-event-cloud
   x-type: company
+  x-profiled: 2026-04
 - name: cvent-hospitality-cloud
   url: https://github.com/api-evangelist/cvent-hospitality-cloud
   x-type: company
+  x-profiled: 2026-04
 - name: cvent-platform
   url: https://github.com/api-evangelist/cvent-platform
   x-type: company
+  x-profiled: 2026-04
 - name: cvent-registration
   url: https://github.com/api-evangelist/cvent-registration
   x-type: company
+  x-profiled: 2026-04
 - name: cvent-social-tables
   url: https://github.com/api-evangelist/cvent-social-tables
   x-type: company
+  x-profiled: 2026-04
 - name: cvent
   url: https://github.com/api-evangelist/cvent
   x-type: company
+  x-profiled: 2026-04
 - name: cvs-health
   url: https://github.com/api-evangelist/cvs-health
   x-type: company
   x-fortune: Fortune 100
+  x-profiled: 2026-04
 - name: cyberark
   url: https://github.com/api-evangelist/cyberark
   x-type: company
+  x-profiled: 2026-04
 - name: cybersecurity-and-infrastructure-security-agency
   url: https://github.com/api-evangelist/cybersecurity-and-infrastructure-security-agency
   x-type: government
+  x-profiled: 2026-04
 - name: cybersecurity-standards
   url: https://github.com/api-evangelist/cybersecurity-standards
   x-type: topic
+  x-profiled: 2026-04
 - name: cycloid
   url: https://github.com/api-evangelist/cycloid
   x-type: company
+  x-profiled: 2026-04
 - name: cyclr
   url: https://github.com/api-evangelist/cyclr
   x-type: company
+  x-profiled: 2026-04
 - name: dagger
   url: https://github.com/api-evangelist/dagger
   x-type: opensource
+  x-profiled: 2026-04
 - name: dagster
   url: https://github.com/api-evangelist/dagster
   x-type: opensource
