@@ -6459,74 +6459,96 @@ network:
 - name: dagster
   url: https://github.com/api-evangelist/dagster
   x-type: opensource
+  x-profiled: 2026-04
 - name: dana-incorporated
   url: https://github.com/api-evangelist/dana-incorporated
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: danaher
   url: https://github.com/api-evangelist/danaher
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: dana
   url: https://github.com/api-evangelist/dana
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: danish-meteorological-institutes
   url: https://github.com/api-evangelist/danish-meteorological-institutes
   x-type: company
+  x-profiled: 2026-04
 - name: dapperdox
   url: https://github.com/api-evangelist/dapperdox
   x-type: company
+  x-profiled: 2026-04
 - name: dapr
   url: https://github.com/api-evangelist/dapr
   x-type: opensource
+  x-profiled: 2026-04
 - name: darden-restaurants
   url: https://github.com/api-evangelist/darden-restaurants
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: darling-ingredients
   url: https://github.com/api-evangelist/darling-ingredients
   x-type: company
   x-fortune: Fortune 1000
+  x-profiled: 2026-04
 - name: data-analysis-tools-bureau-of-justice-statistics
   url: https://github.com/api-evangelist/data-analysis-tools-bureau-of-justice-statistics
   x-type: government
+  x-profiled: 2026-04
 - name: data-commons
   url: https://github.com/api-evangelist/data-commons
   x-type: topic
+  x-profiled: 2026-04
 - name: data-flow-diagrams
   url: https://github.com/api-evangelist/data-flow-diagrams
   x-type: topic
+  x-profiled: 2026-04
 - name: data-format
   url: https://github.com/api-evangelist/data-format
   x-type: topic
+  x-profiled: 2026-04
 - name: data-modeling
   url: https://github.com/api-evangelist/data-modeling
   x-type: topic
+  x-profiled: 2026-04
 - name: data-models
   url: https://github.com/api-evangelist/data-models
   x-type: topic
+  x-profiled: 2026-04
 - name: data-privacy-standards
   url: https://github.com/api-evangelist/data-privacy-standards
   x-type: topic
+  x-profiled: 2026-04
 - name: data-quality-standards
   url: https://github.com/api-evangelist/data-quality-standards
   x-type: topic
+  x-profiled: 2026-04
 - name: data-warehouse-schemas
   url: https://github.com/api-evangelist/data-warehouse-schemas
   x-type: topic
+  x-profiled: 2026-04
 - name: database-normalization
   url: https://github.com/api-evangelist/database-normalization
   x-type: topic
+  x-profiled: 2026-04
 - name: database-schema-design
   url: https://github.com/api-evangelist/database-schema-design
   x-type: topic
+  x-profiled: 2026-04
 - name: databolt
   url: https://github.com/api-evangelist/databolt
   x-type: company
+  x-profiled: 2026-04
 - name: databricks-asset-bundles
   url: https://github.com/api-evangelist/databricks-asset-bundles
   x-type: company
+  x-profiled: 2026-04
 - name: databricks
   url: https://github.com/api-evangelist/databricks
   x-profiled: 2026-04
@@ -6534,6 +6556,7 @@ network:
 - name: datadog-apm
   url: https://github.com/api-evangelist/datadog-apm
   x-type: company
+  x-profiled: 2026-04
 - name: datadog
   url: https://github.com/api-evangelist/datadog
   x-profiled: 2026-04
@@ -6541,23 +6564,29 @@ network:
 - name: datafiniti
   url: https://github.com/api-evangelist/datafiniti
   x-type: company
+  x-profiled: 2026-04
 - name: datahub
   url: https://github.com/api-evangelist/datahub
   x-type: company
+  x-profiled: 2026-04
 - name: dataiku
   url: https://github.com/api-evangelist/dataiku
   x-type: company
+  x-profiled: 2026-04
 - name: datocms
   url: https://github.com/api-evangelist/datocms
   x-type: company
+  x-profiled: 2026-04
 - name: davita-healthcare-partners
   url: https://github.com/api-evangelist/davita-healthcare-partners
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: davita
   url: https://github.com/api-evangelist/davita
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: day-zimmermann
   url: https://github.com/api-evangelist/day-zimmermann
   x-profiled: 2026-04
@@ -6566,30 +6595,39 @@ network:
 - name: dbos
   url: https://github.com/api-evangelist/dbos
   x-type: company
+  x-profiled: 2026-04
 - name: dbt
   url: https://github.com/api-evangelist/dbt
   x-type: opensource
+  x-profiled: 2026-04
 - name: dcp-midstream-partners
   url: https://github.com/api-evangelist/dcp-midstream-partners
   x-type: company
+  x-profiled: 2026-04
 - name: dealogic
   url: https://github.com/api-evangelist/dealogic
   x-type: company
+  x-profiled: 2026-04
 - name: dean-foods
   url: https://github.com/api-evangelist/dean-foods
   x-type: company
+  x-profiled: 2026-04
 - name: debbie-collect
   url: https://github.com/api-evangelist/debbie-collect
   x-type: company
+  x-profiled: 2026-04
 - name: debezium
   url: https://github.com/api-evangelist/debezium
   x-type: opensource
+  x-profiled: 2026-04
 - name: debian
   url: https://github.com/api-evangelist/debian
   x-type: opensource
+  x-profiled: 2026-04
 - name: decentro
   url: https://github.com/api-evangelist/decentro
   x-type: company
+  x-profiled: 2026-04
 - name: dechert
   url: https://github.com/api-evangelist/dechert
   x-profiled: 2026-04
@@ -6598,76 +6636,99 @@ network:
 - name: deepgram
   url: https://github.com/api-evangelist/deepgram
   x-type: company
+  x-profiled: 2026-04
 - name: deepl
   url: https://github.com/api-evangelist/deepl
   x-type: company
+  x-profiled: 2026-04
 - name: deepseek
   url: https://github.com/api-evangelist/deepseek
   x-type: company
+  x-profiled: 2026-04
 - name: deere
   url: https://github.com/api-evangelist/deere
   x-type: company
   x-fortune: Fortune 100
+  x-profiled: 2026-04
 - name: defense-advanced-research-projects-agency
   url: https://github.com/api-evangelist/defense-advanced-research-projects-agency
   x-type: government
+  x-profiled: 2026-04
 - name: defense-contract-audit-agency
   url: https://github.com/api-evangelist/defense-contract-audit-agency
   x-type: government
+  x-profiled: 2026-04
 - name: defense-contract-management-agency
   url: https://github.com/api-evangelist/defense-contract-management-agency
   x-type: government
+  x-profiled: 2026-04
 - name: defense-counterintelligence-and-security-agency
   url: https://github.com/api-evangelist/defense-counterintelligence-and-security-agency
   x-type: government
+  x-profiled: 2026-04
 - name: defense-finance-accounting-service
   url: https://github.com/api-evangelist/defense-finance-accounting-service
   x-type: government
+  x-profiled: 2026-04
 - name: defense-health-agency
   url: https://github.com/api-evangelist/defense-health-agency
   x-type: government
+  x-profiled: 2026-04
 - name: defense-in-depth
   url: https://github.com/api-evangelist/defense-in-depth
   x-type: company
+  x-profiled: 2026-04
 - name: defense-information-system-for-security
   url: https://github.com/api-evangelist/defense-information-system-for-security
   x-type: government
+  x-profiled: 2026-04
 - name: defense-intelligence-agency
   url: https://github.com/api-evangelist/defense-intelligence-agency
   x-type: government
+  x-profiled: 2026-04
 - name: defense-logistics-agency
   url: https://github.com/api-evangelist/defense-logistics-agency
   x-type: government
+  x-profiled: 2026-04
 - name: defense-nuclear-facilities-safety-board
   url: https://github.com/api-evangelist/defense-nuclear-facilities-safety-board
   x-type: government
+  x-profiled: 2026-04
 - name: defense-security-cooperation-agency
   url: https://github.com/api-evangelist/defense-security-cooperation-agency
   x-type: government
+  x-profiled: 2026-04
 - name: defense-technical-information-center
   url: https://github.com/api-evangelist/defense-technical-information-center
   x-type: government
+  x-profiled: 2026-04
 - name: defense-threat-reduction-agency
   url: https://github.com/api-evangelist/defense-threat-reduction-agency
   x-type: government
+  x-profiled: 2026-04
 - name: defer
   url: https://github.com/api-evangelist/defer
   x-type: company
+  x-profiled: 2026-04
 - name: delek-us-holdings
   url: https://github.com/api-evangelist/delek-us-holdings
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: delek-us
   url: https://github.com/api-evangelist/delek-us
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: dell-servers
   url: https://github.com/api-evangelist/dell-servers
   x-type: company
+  x-profiled: 2026-04
 - name: dell-technologies
   url: https://github.com/api-evangelist/dell-technologies
   x-type: company
   x-fortune: Fortune 100
+  x-profiled: 2026-04
 - name: deloitte
   url: https://github.com/api-evangelist/deloitte
   x-profiled: 2026-04
@@ -6676,19 +6737,24 @@ network:
   url: https://github.com/api-evangelist/delta-air-lines
   x-type: company
   x-fortune: Fortune 100
+  x-profiled: 2026-04
 - name: delta-airlines
   url: https://github.com/api-evangelist/delta-airlines
   x-type: company
   x-fortune: Fortune 100
+  x-profiled: 2026-04
 - name: delta-lake
   url: https://github.com/api-evangelist/delta-lake
   x-type: opensource
+  x-profiled: 2026-04
 - name: delta-regional-authority
   url: https://github.com/api-evangelist/delta-regional-authority
   x-type: government
+  x-profiled: 2026-04
 - name: delta-tucker-holdings
   url: https://github.com/api-evangelist/delta-tucker-holdings
   x-type: company
+  x-profiled: 2026-04
 - name: deluxe
   url: https://github.com/api-evangelist/deluxe
   x-profiled: 2026-04
@@ -6697,47 +6763,61 @@ network:
 - name: demandbase
   url: https://github.com/api-evangelist/demandbase
   x-type: company
+  x-profiled: 2026-04
 - name: demo-openapi
   url: https://github.com/api-evangelist/demo-openapi
   x-type: standard
+  x-profiled: 2026-04
 - name: democracy-works
   url: https://github.com/api-evangelist/democracy-works
   x-type: company
+  x-profiled: 2026-04
 - name: denbury-resources
   url: https://github.com/api-evangelist/denbury-resources
   x-type: company
   x-fortune: Fortune 1000
+  x-profiled: 2026-04
 - name: denodo
   url: https://github.com/api-evangelist/denodo
   x-type: company
+  x-profiled: 2026-04
 - name: deno
   url: https://github.com/api-evangelist/deno
   x-type: opensource
+  x-profiled: 2026-04
 - name: densify
   url: https://github.com/api-evangelist/densify
   x-type: company
+  x-profiled: 2026-04
 - name: dentsply-sirona
   url: https://github.com/api-evangelist/dentsply-sirona
   x-type: company
   x-fortune: Fortune 1000
+  x-profiled: 2026-04
 - name: department-of-education
   url: https://github.com/api-evangelist/department-of-education
   x-type: government
+  x-profiled: 2026-04
 - name: department-of-energy
   url: https://github.com/api-evangelist/department-of-energy
   x-type: government
+  x-profiled: 2026-04
 - name: department-of-homeland-security
   url: https://github.com/api-evangelist/department-of-homeland-security
   x-type: government
+  x-profiled: 2026-04
 - name: department-of-housing-and-urban-development
   url: https://github.com/api-evangelist/department-of-housing-and-urban-development
   x-type: government
+  x-profiled: 2026-04
 - name: department-of-justice
   url: https://github.com/api-evangelist/department-of-justice
   x-type: government
+  x-profiled: 2026-04
 - name: department-of-labor
   url: https://github.com/api-evangelist/department-of-labor
   x-type: government
+  x-profiled: 2026-04
 - name: department-of-state
   url: https://github.com/api-evangelist/department-of-state
   x-type: government
