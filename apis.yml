@@ -7166,46 +7166,59 @@ network:
 - name: dover
   url: https://github.com/api-evangelist/dover
   x-type: company
+  x-profiled: 2026-04
 - name: dow-chemical
   url: https://github.com/api-evangelist/dow-chemical
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: dow-jones-developer-platform
   url: https://github.com/api-evangelist/dow-jones-developer-platform
   x-type: company
+  x-profiled: 2026-04
 - name: dow
   url: https://github.com/api-evangelist/dow
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: dp-world
   url: https://github.com/api-evangelist/dp-world
   x-type: company
+  x-profiled: 2026-04
 - name: dr-horton
   url: https://github.com/api-evangelist/dr-horton
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: dr-pepper-snapple-group
   url: https://github.com/api-evangelist/dr-pepper-snapple-group
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: dragoneye
   url: https://github.com/api-evangelist/dragoneye
   x-type: company
+  x-profiled: 2026-04
 - name: dragonfly
   url: https://github.com/api-evangelist/dragonfly
   x-type: company
+  x-profiled: 2026-04
 - name: dreamfactory
   url: https://github.com/api-evangelist/dreamfactory
   x-type: company
+  x-profiled: 2026-04
 - name: dredd
   url: https://github.com/api-evangelist/dredd
   x-type: company
+  x-profiled: 2026-04
 - name: dremio-intelligent-lakehouse-platform
   url: https://github.com/api-evangelist/dremio-intelligent-lakehouse-platform
   x-type: company
+  x-profiled: 2026-04
 - name: dresser-rand-group
   url: https://github.com/api-evangelist/dresser-rand-group
   x-type: company
+  x-profiled: 2026-04
 - name: drexel-university
   url: https://github.com/api-evangelist/drexel-university
   x-profiled: 2026-04
@@ -7214,50 +7227,65 @@ network:
 - name: drift
   url: https://github.com/api-evangelist/drift
   x-type: company
+  x-profiled: 2026-04
 - name: drillster
   url: https://github.com/api-evangelist/drillster
   x-type: company
+  x-profiled: 2026-04
 - name: drinkotec
   url: https://github.com/api-evangelist/drinkotec
   x-type: company
+  x-profiled: 2026-04
 - name: dronecode
   url: https://github.com/api-evangelist/dronecode
   x-type: company
+  x-profiled: 2026-04
 - name: dropbox
   url: https://github.com/api-evangelist/dropbox
   x-type: company
+  x-profiled: 2026-04
 - name: dropwizard
   url: https://github.com/api-evangelist/dropwizard
   x-type: company
+  x-profiled: 2026-04
 - name: drug-enforcement-administration
   url: https://github.com/api-evangelist/drug-enforcement-administration
   x-type: government
+  x-profiled: 2026-04
 - name: drupal
   url: https://github.com/api-evangelist/drupal
   x-type: opensource
+  x-profiled: 2026-04
 - name: druva
   url: https://github.com/api-evangelist/druva
   x-type: company
+  x-profiled: 2026-04
 - name: dsg-sports-analytics
   url: https://github.com/api-evangelist/dsg-sports-analytics
   x-type: company
+  x-profiled: 2026-04
 - name: dsl
   url: https://github.com/api-evangelist/dsl
   x-type: company
+  x-profiled: 2026-04
 - name: dst-systems
   url: https://github.com/api-evangelist/dst-systems
   x-type: company
   x-fortune: Fortune 1000
+  x-profiled: 2026-04
 - name: dsw
   url: https://github.com/api-evangelist/dsw
   x-type: company
+  x-profiled: 2026-04
 - name: dte-energy
   url: https://github.com/api-evangelist/dte-energy
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: dtn
   url: https://github.com/api-evangelist/dtn
   x-type: company
+  x-profiled: 2026-04
 - name: duane-morris
   url: https://github.com/api-evangelist/duane-morris
   x-profiled: 2026-04
@@ -7266,6 +7294,7 @@ network:
 - name: duck-creek
   url: https://github.com/api-evangelist/duck-creek
   x-type: company
+  x-profiled: 2026-04
 - name: duckduckgo
   url: https://github.com/api-evangelist/duckduckgo
   x-profiled: 2026-04
@@ -7280,6 +7309,7 @@ network:
   url: https://github.com/api-evangelist/duke-energy
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: dun-and-bradstreet
   url: https://github.com/api-evangelist/dun-and-bradstreet
   x-profiled: 2026-04
@@ -7288,16 +7318,20 @@ network:
 - name: duo-security
   url: https://github.com/api-evangelist/duo-security
   x-type: company
+  x-profiled: 2026-04
 - name: dupont
   url: https://github.com/api-evangelist/dupont
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: durable-functions
   url: https://github.com/api-evangelist/durable-functions
   x-type: company
+  x-profiled: 2026-04
 - name: dvids-api
   url: https://github.com/api-evangelist/dvids-api
   x-type: company
+  x-profiled: 2026-04
 - name: dwight-capital
   url: https://github.com/api-evangelist/dwight-capital
   x-profiled: 2026-04
@@ -7306,6 +7340,7 @@ network:
   url: https://github.com/api-evangelist/dxc-technology
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: dycom-industries
   url: https://github.com/api-evangelist/dycom-industries
   x-profiled: 2026-04
@@ -7322,15 +7357,19 @@ network:
 - name: dynegy
   url: https://github.com/api-evangelist/dynegy
   x-type: company
+  x-profiled: 2026-04
 - name: dzone
   url: https://github.com/api-evangelist/dzone
   x-type: company
+  x-profiled: 2026-04
 - name: e2open
   url: https://github.com/api-evangelist/e2open
   x-type: company
+  x-profiled: 2026-04
 - name: earthly
   url: https://github.com/api-evangelist/earthly
   x-type: opensource
+  x-profiled: 2026-04
 - name: east-west-bancorp
   url: https://github.com/api-evangelist/east-west-bancorp
   x-profiled: 2026-04
@@ -7340,12 +7379,15 @@ network:
   url: https://github.com/api-evangelist/eastman-chemical
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: eastman-kodak
   url: https://github.com/api-evangelist/eastman-kodak
   x-type: company
+  x-profiled: 2026-04
 - name: easyship
   url: https://github.com/api-evangelist/easyship
   x-type: company
+  x-profiled: 2026-04
 - name: eaton
   url: https://github.com/api-evangelist/eaton
   x-profiled: 2026-04
@@ -7354,12 +7396,15 @@ network:
 - name: ebay
   url: https://github.com/api-evangelist/ebay
   x-type: company
+  x-profiled: 2026-04
 - name: ebpf-foundation
   url: https://github.com/api-evangelist/ebpf-foundation
   x-type: opensource
+  x-profiled: 2026-04
 - name: ebpf
   url: https://github.com/api-evangelist/ebpf
   x-type: standard
+  x-profiled: 2026-04
 - name: ec2
   url: https://github.com/api-evangelist/ec2
   x-profiled: 2026-04
@@ -7367,70 +7412,92 @@ network:
 - name: echostar
   url: https://github.com/api-evangelist/echostar
   x-type: company
+  x-profiled: 2026-04
 - name: eci-solutions
   url: https://github.com/api-evangelist/eci-solutions
   x-type: company
+  x-profiled: 2026-04
 - name: eclipse-rdf4j
   url: https://github.com/api-evangelist/eclipse-rdf4j
   x-type: opensource
+  x-profiled: 2026-04
 - name: eclipse
   url: https://github.com/api-evangelist/eclipse
   x-type: opensource
+  x-profiled: 2026-04
 - name: ecolab
   url: https://github.com/api-evangelist/ecolab
   x-type: company
+  x-profiled: 2026-04
 - name: economic-development-administration
   url: https://github.com/api-evangelist/economic-development-administration
   x-type: government
+  x-profiled: 2026-04
 - name: economic-research-service
   url: https://github.com/api-evangelist/economic-research-service
   x-type: company
+  x-profiled: 2026-04
 - name: edamam
   url: https://github.com/api-evangelist/edamam
   x-type: company
+  x-profiled: 2026-04
 - name: eden-ai
   url: https://github.com/api-evangelist/eden-ai
   x-type: company
+  x-profiled: 2026-04
 - name: edge-impulse
   url: https://github.com/api-evangelist/edge-impulse
   x-type: company
+  x-profiled: 2026-04
 - name: edgewell-personal-care
   url: https://github.com/api-evangelist/edgewell-personal-care
   x-type: company
+  x-profiled: 2026-04
 - name: edi-214
   url: https://github.com/api-evangelist/edi-214
   x-type: company
+  x-profiled: 2026-04
 - name: edison-international
   url: https://github.com/api-evangelist/edison-international
   x-type: company
+  x-profiled: 2026-04
 - name: editorconfig
   url: https://github.com/api-evangelist/editorconfig
   x-type: standard
+  x-profiled: 2026-04
 - name: edmunds
   url: https://github.com/api-evangelist/edmunds
   x-type: company
+  x-profiled: 2026-04
 - name: education-management
   url: https://github.com/api-evangelist/education-management
   x-type: company
+  x-profiled: 2026-04
 - name: educative
   url: https://github.com/api-evangelist/educative
   x-type: company
+  x-profiled: 2026-04
 - name: edward-jones
   url: https://github.com/api-evangelist/edward-jones
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: edwards-lifesciences
   url: https://github.com/api-evangelist/edwards-lifesciences
   x-type: company
+  x-profiled: 2026-04
 - name: egifter
   url: https://github.com/api-evangelist/egifter
   x-type: company
+  x-profiled: 2026-04
 - name: ein-newswire
   url: https://github.com/api-evangelist/ein-newswire
   x-type: company
+  x-profiled: 2026-04
 - name: elastic-io
   url: https://github.com/api-evangelist/elastic-io
   x-type: company
+  x-profiled: 2026-04
 - name: elastic-observability
   url: https://github.com/api-evangelist/elastic-observability
   x-profiled: 2026-04
@@ -7438,45 +7505,58 @@ network:
 - name: elastic-search
   url: https://github.com/api-evangelist/elastic-search
   x-type: company
+  x-profiled: 2026-04
 - name: elastic-stack
   url: https://github.com/api-evangelist/elastic-stack
   x-type: company
+  x-profiled: 2026-04
 - name: elasticsearch
   url: https://github.com/api-evangelist/elasticsearch
   x-type: opensource
+  x-profiled: 2026-04
 - name: elastic
   url: https://github.com/api-evangelist/elastic
   x-type: company
+  x-profiled: 2026-04
 - name: election-assistance-commission
   url: https://github.com/api-evangelist/election-assistance-commission
   x-type: government
+  x-profiled: 2026-04
 - name: electricity-maps
   url: https://github.com/api-evangelist/electricity-maps
   x-type: company
+  x-profiled: 2026-04
 - name: electronic-arts
   url: https://github.com/api-evangelist/electronic-arts
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: elements
   url: https://github.com/api-evangelist/elements
   x-type: company
+  x-profiled: 2026-04
 - name: elevance-health
   url: https://github.com/api-evangelist/elevance-health
   x-type: company
   x-fortune: Fortune 100
+  x-profiled: 2026-04
 - name: elevenlabs
   url: https://github.com/api-evangelist/elevenlabs
   x-type: company
+  x-profiled: 2026-04
 - name: eli-lilly
   url: https://github.com/api-evangelist/eli-lilly
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: eligible
   url: https://github.com/api-evangelist/eligible
   x-type: company
+  x-profiled: 2026-04
 - name: eliq
   url: https://github.com/api-evangelist/eliq
   x-type: company
+  x-profiled: 2026-04
 - name: elisa
   url: https://github.com/api-evangelist/elisa
   x-type: company
