@@ -13036,6 +13036,9 @@ network:
 - name: nacos
   url: https://github.com/api-evangelist/nacos
   x-type: opensource
+- name: naftiko
+  url: https://github.com/api-evangelist/naftiko
+  x-type: company
 - name: nameko
   url: https://github.com/api-evangelist/nameko
   x-type: opensource
