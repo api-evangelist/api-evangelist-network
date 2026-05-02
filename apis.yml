@@ -11784,15 +11784,19 @@ network:
 - name: koordinator
   url: https://github.com/api-evangelist/koordinator
   x-type: company
+  x-profiled: 2026-04
 - name: kotlin
   url: https://github.com/api-evangelist/kotlin
   x-type: topic
+  x-profiled: 2026-04
 - name: koyeb
   url: https://github.com/api-evangelist/koyeb
   x-type: company
+  x-profiled: 2026-04
 - name: ko
   url: https://github.com/api-evangelist/ko
   x-type: company
+  x-profiled: 2026-04
 - name: kpmg
   url: https://github.com/api-evangelist/kpmg
   x-profiled: 2026-04
@@ -11800,22 +11804,28 @@ network:
 - name: kpt
   url: https://github.com/api-evangelist/kpt
   x-type: company
+  x-profiled: 2026-04
 - name: kraft-foods-group
   url: https://github.com/api-evangelist/kraft-foods-group
   x-type: company
+  x-profiled: 2026-04
 - name: kraft-heinz
   url: https://github.com/api-evangelist/kraft-heinz
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: krakend
   url: https://github.com/api-evangelist/krakend
   x-type: company
+  x-profiled: 2026-04
 - name: kratix
   url: https://github.com/api-evangelist/kratix
   x-type: company
+  x-profiled: 2026-04
 - name: kratos
   url: https://github.com/api-evangelist/kratos
   x-type: company
+  x-profiled: 2026-04
 - name: kratos-defense-and-security-solutions
   url: https://github.com/api-evangelist/kratos-defense-and-security-solutions
   x-profiled: 2026-04
@@ -11824,56 +11834,73 @@ network:
 - name: kreya
   url: https://github.com/api-evangelist/kreya
   x-type: company
+  x-profiled: 2026-04
 - name: kroger
   url: https://github.com/api-evangelist/kroger
   x-type: company
   x-fortune: Fortune 100
+  x-profiled: 2026-04
 - name: kserve
   url: https://github.com/api-evangelist/kserve
   x-type: company
+  x-profiled: 2026-04
 - name: kubecost
   url: https://github.com/api-evangelist/kubecost
   x-type: company
+  x-profiled: 2026-04
 - name: kubectl
   url: https://github.com/api-evangelist/kubectl
   x-type: company
+  x-profiled: 2026-04
 - name: kubeedge
   url: https://github.com/api-evangelist/kubeedge
   x-type: company
+  x-profiled: 2026-04
 - name: kubeflow-pipelines
   url: https://github.com/api-evangelist/kubeflow-pipelines
   x-type: opensource
+  x-profiled: 2026-04
 - name: kubeflow
   url: https://github.com/api-evangelist/kubeflow
   x-type: opensource
+  x-profiled: 2026-04
 - name: kubernetes-operators
   url: https://github.com/api-evangelist/kubernetes-operators
   x-type: company
+  x-profiled: 2026-04
 - name: kubernetes-services
   url: https://github.com/api-evangelist/kubernetes-services
   x-type: company
+  x-profiled: 2026-04
 - name: kubernetes
   url: https://github.com/api-evangelist/kubernetes
   x-type: opensource
+  x-profiled: 2026-04
 - name: kubevela
   url: https://github.com/api-evangelist/kubevela
   x-type: company
+  x-profiled: 2026-04
 - name: kubevirt
   url: https://github.com/api-evangelist/kubevirt
   x-type: company
+  x-profiled: 2026-04
 - name: kuma
   url: https://github.com/api-evangelist/kuma
   x-type: company
+  x-profiled: 2026-04
 - name: kustomize
   url: https://github.com/api-evangelist/kustomize
   x-type: opensource
+  x-profiled: 2026-04
 - name: kvdb
   url: https://github.com/api-evangelist/kvdb
   x-type: company
+  x-profiled: 2026-04
 - name: kyndryl
   url: https://github.com/api-evangelist/kyndryl
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: kyndryl-holdings
   url: https://github.com/api-evangelist/kyndryl-holdings
   x-profiled: 2026-04
@@ -11882,17 +11909,21 @@ network:
 - name: kyverno
   url: https://github.com/api-evangelist/kyverno
   x-type: opensource
+  x-profiled: 2026-04
 - name: l-3-communications
   url: https://github.com/api-evangelist/l-3-communications
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: l-brands
   url: https://github.com/api-evangelist/l-brands
   x-type: company
+  x-profiled: 2026-04
 - name: l3harris-technologies
   url: https://github.com/api-evangelist/l3harris-technologies
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: la-z-boy
   url: https://github.com/api-evangelist/la-z-boy
   x-profiled: 2026-04
@@ -11902,31 +11933,40 @@ network:
   url: https://github.com/api-evangelist/labcorp
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: label-studio
   url: https://github.com/api-evangelist/label-studio
   x-type: opensource
+  x-profiled: 2026-04
 - name: laboratory-corp-of-america
   url: https://github.com/api-evangelist/laboratory-corp-of-america
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: labvantage
   url: https://github.com/api-evangelist/labvantage
   x-type: company
+  x-profiled: 2026-04
 - name: lagom
   url: https://github.com/api-evangelist/lagom
   x-type: opensource
+  x-profiled: 2026-04
 - name: lago
   url: https://github.com/api-evangelist/lago
   x-type: company
+  x-profiled: 2026-04
 - name: lakefs
   url: https://github.com/api-evangelist/lakefs
   x-type: opensource
+  x-profiled: 2026-04
 - name: lakehouse-architecture
   url: https://github.com/api-evangelist/lakehouse-architecture
   x-type: topic
+  x-profiled: 2026-04
 - name: lam-research
   url: https://github.com/api-evangelist/lam-research
   x-type: company
+  x-profiled: 2026-04
 - name: lambda
   url: https://github.com/api-evangelist/lambda
   x-profiled: 2026-04
@@ -11935,41 +11975,53 @@ network:
   url: https://github.com/api-evangelist/land-olakes
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: landstar-system
   url: https://github.com/api-evangelist/landstar-system
   x-type: company
   x-fortune: Fortune 1000
+  x-profiled: 2026-04
 - name: lane-api
   url: https://github.com/api-evangelist/lane-api
   x-type: company
+  x-profiled: 2026-04
 - name: langchain
   url: https://github.com/api-evangelist/langchain
   x-type: opensource
+  x-profiled: 2026-04
 - name: langgraph
   url: https://github.com/api-evangelist/langgraph
   x-type: opensource
+  x-profiled: 2026-04
 - name: languagetool
   url: https://github.com/api-evangelist/languagetool
   x-type: opensource
+  x-profiled: 2026-04
 - name: lansing-trade-group
   url: https://github.com/api-evangelist/lansing-trade-group
   x-type: company
+  x-profiled: 2026-04
 - name: las-vegas-sands
   url: https://github.com/api-evangelist/las-vegas-sands
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: latenode
   url: https://github.com/api-evangelist/latenode
   x-type: company
+  x-profiled: 2026-04
 - name: launchdarkly
   url: https://github.com/api-evangelist/launchdarkly
   x-type: company
+  x-profiled: 2026-04
 - name: launching-next
   url: https://github.com/api-evangelist/launching-next
   x-type: company
+  x-profiled: 2026-04
 - name: launchnotes
   url: https://github.com/api-evangelist/launchnotes
   x-type: company
+  x-profiled: 2026-04
 - name: lazard
   url: https://github.com/api-evangelist/lazard
   x-profiled: 2026-04
@@ -11978,52 +12030,67 @@ network:
 - name: ldap
   url: https://github.com/api-evangelist/ldap
   x-type: standard
+  x-profiled: 2026-04
 - name: leaf-agriculture
   url: https://github.com/api-evangelist/leaf-agriculture
   x-type: company
+  x-profiled: 2026-04
 - name: lean-management
   url: https://github.com/api-evangelist/lean-management
   x-type: topic
+  x-profiled: 2026-04
 - name: lean-manufacturing
   url: https://github.com/api-evangelist/lean-manufacturing
   x-type: topic
+  x-profiled: 2026-04
 - name: lean-operations
   url: https://github.com/api-evangelist/lean-operations
   x-type: topic
+  x-profiled: 2026-04
 - name: lean-six-sigma-black-belt
   url: https://github.com/api-evangelist/lean-six-sigma-black-belt
   x-type: topic
+  x-profiled: 2026-04
 - name: lean-six-sigma
   url: https://github.com/api-evangelist/lean-six-sigma
   x-type: topic
+  x-profiled: 2026-04
 - name: leanix
   url: https://github.com/api-evangelist/leanix
   x-type: company
+  x-profiled: 2026-04
 - name: lean
   url: https://github.com/api-evangelist/lean
   x-type: topic
+  x-profiled: 2026-04
 - name: lear
   url: https://github.com/api-evangelist/lear
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: legg-mason
   url: https://github.com/api-evangelist/legg-mason
   x-type: company
   x-fortune: Fortune 1000
+  x-profiled: 2026-04
 - name: leggett-and-platt
   url: https://github.com/api-evangelist/leggett-and-platt
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: leidos
   url: https://github.com/api-evangelist/leidos
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: lemon-squeezy
   url: https://github.com/api-evangelist/lemon-squeezy
   x-type: company
+  x-profiled: 2026-04
 - name: lemonade
   url: https://github.com/api-evangelist/lemonade
   x-type: company
+  x-profiled: 2026-04
 - name: lendingclub
   url: https://github.com/api-evangelist/lendingclub
   x-profiled: 2026-04
@@ -12033,43 +12100,56 @@ network:
   url: https://github.com/api-evangelist/lennar
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-04
 - name: lennox-international
   url: https://github.com/api-evangelist/lennox-international
   x-type: company
+  x-profiled: 2026-04
 - name: lens
   url: https://github.com/api-evangelist/lens
   x-type: opensource
+  x-profiled: 2026-04
 - name: lets-encrypt
   url: https://github.com/api-evangelist/lets-encrypt
   x-type: opensource
+  x-profiled: 2026-04
 - name: leucadia-national
   url: https://github.com/api-evangelist/leucadia-national
   x-type: company
+  x-profiled: 2026-04
 - name: level-3-communications
   url: https://github.com/api-evangelist/level-3-communications
   x-type: company
+  x-profiled: 2026-04
 - name: level2
   url: https://github.com/api-evangelist/level2
   x-type: company
+  x-profiled: 2026-04
 - name: levi-strauss
   url: https://github.com/api-evangelist/levi-strauss
   x-type: company
   x-fortune: Fortune 1000
+  x-profiled: 2026-04
 - name: lexisnexis
   url: https://github.com/api-evangelist/lexisnexis
   x-type: company
+  x-profiled: 2026-04
 - name: lexmark-international
   url: https://github.com/api-evangelist/lexmark-international
   x-type: company
+  x-profiled: 2026-04
 - name: lf-ai-and-data
   url: https://github.com/api-evangelist/lf-ai-and-data
   x-type: opensource
+  x-profiled: 2026-04
 - name: lf-broadband
   url: https://github.com/api-evangelist/lf-broadband
   x-type: opensource
+  x-profiled: 2026-04
 - name: lf-connectivity
   url: https://github.com/api-evangelist/lf-connectivity
   x-type: opensource
+  x-profiled: 2026-04
 - name: lf-decentralized-trust
   url: https://github.com/api-evangelist/lf-decentralized-trust
   x-type: opensource
