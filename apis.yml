@@ -13262,90 +13262,119 @@ network:
 - name: microsoft-azure-key-vault
   url: https://github.com/api-evangelist/microsoft-azure-key-vault
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-azure-kubernetes-service
   url: https://github.com/api-evangelist/microsoft-azure-kubernetes-service
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-azure-load-balancer
   url: https://github.com/api-evangelist/microsoft-azure-load-balancer
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-azure-logic-apps
   url: https://github.com/api-evangelist/microsoft-azure-logic-apps
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-azure-machine-learning
   url: https://github.com/api-evangelist/microsoft-azure-machine-learning
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-azure-maps
   url: https://github.com/api-evangelist/microsoft-azure-maps
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-azure-migrate
   url: https://github.com/api-evangelist/microsoft-azure-migrate
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-azure-monitor
   url: https://github.com/api-evangelist/microsoft-azure-monitor
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-azure-mysql
   url: https://github.com/api-evangelist/microsoft-azure-mysql
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-azure-networking
   url: https://github.com/api-evangelist/microsoft-azure-networking
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-azure-notification-hubs
   url: https://github.com/api-evangelist/microsoft-azure-notification-hubs
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-azure-openai
   url: https://github.com/api-evangelist/microsoft-azure-openai
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-azure-pipelines
   url: https://github.com/api-evangelist/microsoft-azure-pipelines
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-azure-policy
   url: https://github.com/api-evangelist/microsoft-azure-policy
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-azure-postgresql
   url: https://github.com/api-evangelist/microsoft-azure-postgresql
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-azure-private-link
   url: https://github.com/api-evangelist/microsoft-azure-private-link
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-azure-queue-storage
   url: https://github.com/api-evangelist/microsoft-azure-queue-storage
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-azure-repo
   url: https://github.com/api-evangelist/microsoft-azure-repo
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-azure-search
   url: https://github.com/api-evangelist/microsoft-azure-search
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-azure-service-bus
   url: https://github.com/api-evangelist/microsoft-azure-service-bus
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-azure-service-fabric
   url: https://github.com/api-evangelist/microsoft-azure-service-fabric
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-azure-signalr
   url: https://github.com/api-evangelist/microsoft-azure-signalr
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-azure-site-recovery
   url: https://github.com/api-evangelist/microsoft-azure-site-recovery
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-azure-sql-database
   url: https://github.com/api-evangelist/microsoft-azure-sql-database
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-azure-stream-analytics
   url: https://github.com/api-evangelist/microsoft-azure-stream-analytics
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-azure-synapse-analytics
   url: https://github.com/api-evangelist/microsoft-azure-synapse-analytics
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-azure-traffic-manager
   url: https://github.com/api-evangelist/microsoft-azure-traffic-manager
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-azure-virtual-machines
   url: https://github.com/api-evangelist/microsoft-azure-virtual-machines
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-azure-web-pubsub
   url: https://github.com/api-evangelist/microsoft-azure-web-pubsub
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-azure
   url: https://github.com/api-evangelist/microsoft-azure
   x-profiled: 2026-04
@@ -13353,21 +13382,27 @@ network:
 - name: microsoft-bicep
   url: https://github.com/api-evangelist/microsoft-bicep
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-bing
   url: https://github.com/api-evangelist/microsoft-bing
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-bookings
   url: https://github.com/api-evangelist/microsoft-bookings
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-bot-framework
   url: https://github.com/api-evangelist/microsoft-bot-framework
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-clarity
   url: https://github.com/api-evangelist/microsoft-clarity
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-cognitive-services
   url: https://github.com/api-evangelist/microsoft-cognitive-services
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-copilot
   url: https://github.com/api-evangelist/microsoft-copilot
   x-profiled: 2026-04
@@ -13375,15 +13410,19 @@ network:
 - name: microsoft-defender
   url: https://github.com/api-evangelist/microsoft-defender
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-dotnet
   url: https://github.com/api-evangelist/microsoft-dotnet
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-dynamics-365
   url: https://github.com/api-evangelist/microsoft-dynamics-365
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-dynamics
   url: https://github.com/api-evangelist/microsoft-dynamics
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-edge
   url: https://github.com/api-evangelist/microsoft-edge
   x-profiled: 2026-04
@@ -13391,6 +13430,7 @@ network:
 - name: microsoft-endpoint-configuration-management
   url: https://github.com/api-evangelist/microsoft-endpoint-configuration-management
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-endpoint-manager
   url: https://github.com/api-evangelist/microsoft-endpoint-manager
   x-profiled: 2026-04
@@ -13398,9 +13438,11 @@ network:
 - name: microsoft-entity-framework
   url: https://github.com/api-evangelist/microsoft-entity-framework
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-entra-id
   url: https://github.com/api-evangelist/microsoft-entra-id
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-entra
   url: https://github.com/api-evangelist/microsoft-entra
   x-profiled: 2026-04
@@ -13408,9 +13450,11 @@ network:
 - name: microsoft-excel-advanced
   url: https://github.com/api-evangelist/microsoft-excel-advanced
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-excel-macros
   url: https://github.com/api-evangelist/microsoft-excel-macros
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-excel
   url: https://github.com/api-evangelist/microsoft-excel
   x-profiled: 2026-04
@@ -13418,15 +13462,19 @@ network:
 - name: microsoft-exchange
   url: https://github.com/api-evangelist/microsoft-exchange
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-fabric
   url: https://github.com/api-evangelist/microsoft-fabric
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-forms
   url: https://github.com/api-evangelist/microsoft-forms
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-graph
   url: https://github.com/api-evangelist/microsoft-graph
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-identity-manager
   url: https://github.com/api-evangelist/microsoft-identity-manager
   x-profiled: 2026-04
@@ -13434,12 +13482,15 @@ network:
 - name: microsoft-intune
   url: https://github.com/api-evangelist/microsoft-intune
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-linkedin
   url: https://github.com/api-evangelist/microsoft-linkedin
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-loop
   url: https://github.com/api-evangelist/microsoft-loop
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-net
   url: https://github.com/api-evangelist/microsoft-net
   x-profiled: 2026-04
@@ -13447,6 +13498,7 @@ network:
 - name: microsoft-nuget
   url: https://github.com/api-evangelist/microsoft-nuget
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-office-365
   url: https://github.com/api-evangelist/microsoft-office-365
   x-profiled: 2026-04
@@ -13454,27 +13506,35 @@ network:
 - name: microsoft-office-applications
   url: https://github.com/api-evangelist/microsoft-office-applications
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-office-integration
   url: https://github.com/api-evangelist/microsoft-office-integration
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-office-pack
   url: https://github.com/api-evangelist/microsoft-office-pack
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-office-products
   url: https://github.com/api-evangelist/microsoft-office-products
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-office-suite
   url: https://github.com/api-evangelist/microsoft-office-suite
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-office
   url: https://github.com/api-evangelist/microsoft-office
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-onedrive
   url: https://github.com/api-evangelist/microsoft-onedrive
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-onenote
   url: https://github.com/api-evangelist/microsoft-onenote
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-outlook
   url: https://github.com/api-evangelist/microsoft-outlook
   x-profiled: 2026-04
@@ -13482,6 +13542,7 @@ network:
 - name: microsoft-package
   url: https://github.com/api-evangelist/microsoft-package
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-planner
   url: https://github.com/api-evangelist/microsoft-planner
   x-profiled: 2026-04
@@ -13489,6 +13550,7 @@ network:
 - name: microsoft-playwright
   url: https://github.com/api-evangelist/microsoft-playwright
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-power-apps
   url: https://github.com/api-evangelist/microsoft-power-apps
   x-profiled: 2026-04
@@ -13500,9 +13562,11 @@ network:
 - name: microsoft-power-bi
   url: https://github.com/api-evangelist/microsoft-power-bi
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-power-pages
   url: https://github.com/api-evangelist/microsoft-power-pages
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-power-platform
   url: https://github.com/api-evangelist/microsoft-power-platform
   x-profiled: 2026-04
@@ -13510,6 +13574,7 @@ network:
 - name: microsoft-power-virtual-agents
   url: https://github.com/api-evangelist/microsoft-power-virtual-agents
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-powerpoint
   url: https://github.com/api-evangelist/microsoft-powerpoint
   x-profiled: 2026-04
@@ -13517,9 +13582,11 @@ network:
 - name: microsoft-products
   url: https://github.com/api-evangelist/microsoft-products
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-projects
   url: https://github.com/api-evangelist/microsoft-projects
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-project
   url: https://github.com/api-evangelist/microsoft-project
   x-profiled: 2026-04
@@ -13527,30 +13594,39 @@ network:
 - name: microsoft-purview
   url: https://github.com/api-evangelist/microsoft-purview
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-sentinel
   url: https://github.com/api-evangelist/microsoft-sentinel
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-sharepoint
   url: https://github.com/api-evangelist/microsoft-sharepoint
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-skype
   url: https://github.com/api-evangelist/microsoft-skype
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-sql-server
   url: https://github.com/api-evangelist/microsoft-sql-server
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-stream
   url: https://github.com/api-evangelist/microsoft-stream
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-suite
   url: https://github.com/api-evangelist/microsoft-suite
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-surface
   url: https://github.com/api-evangelist/microsoft-surface
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-sway
   url: https://github.com/api-evangelist/microsoft-sway
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-teams
   url: https://github.com/api-evangelist/microsoft-teams
   x-profiled: 2026-04
@@ -13558,9 +13634,11 @@ network:
 - name: microsoft-to-do
   url: https://github.com/api-evangelist/microsoft-to-do
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-typescript
   url: https://github.com/api-evangelist/microsoft-typescript
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-visio
   url: https://github.com/api-evangelist/microsoft-visio
   x-profiled: 2026-04
@@ -13568,9 +13646,11 @@ network:
 - name: microsoft-visual-studio
   url: https://github.com/api-evangelist/microsoft-visual-studio
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-viva
   url: https://github.com/api-evangelist/microsoft-viva
   x-type: company
+  x-profiled: 2026-04
 - name: microsoft-whiteboard
   url: https://github.com/api-evangelist/microsoft-whiteboard
   x-type: company
