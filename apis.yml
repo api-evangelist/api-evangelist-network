@@ -17767,6 +17767,7 @@ network:
   x-fortune: Fortune 500
 - name: sailpoint
   url: https://github.com/api-evangelist/sailpoint
+  x-profiled: 2026-05
   x-type: company
 - name: saint-gobain
   url: https://github.com/api-evangelist/saint-gobain
@@ -17775,9 +17776,11 @@ network:
 
 - name: salad-transcription-api
   url: https://github.com/api-evangelist/salad-transcription-api
+  x-profiled: 2026-05
   x-type: company
 - name: salesforce-automation-system
   url: https://github.com/api-evangelist/salesforce-automation-system
+  x-profiled: 2026-05
   x-type: company
 - name: salesforce-automation
   url: https://github.com/api-evangelist/salesforce-automation
@@ -17785,9 +17788,11 @@ network:
   x-type: company
 - name: salesforce-einstein
   url: https://github.com/api-evangelist/salesforce-einstein
+  x-profiled: 2026-05
   x-type: company
 - name: salesforce-experience-cloud
   url: https://github.com/api-evangelist/salesforce-experience-cloud
+  x-profiled: 2026-05
   x-type: company
 - name: salesforce-flow
   url: https://github.com/api-evangelist/salesforce-flow
