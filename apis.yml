@@ -18597,12 +18597,20 @@ network:
 - name: skyworks-solutions
   url: https://github.com/api-evangelist/skyworks-solutions
   x-type: company
+- name: skyvera
+  url: https://github.com/api-evangelist/skyvera
+  x-profiled: 2026-05
+  x-type: company
 - name: sl-green-realty
   url: https://github.com/api-evangelist/sl-green-realty
   x-profiled: 2026-05
   x-type: company
 - name: slack
   url: https://github.com/api-evangelist/slack
+  x-profiled: 2026-05
+  x-type: company
+- name: slalom
+  url: https://github.com/api-evangelist/slalom
   x-profiled: 2026-05
   x-type: company
 - name: slashdot
