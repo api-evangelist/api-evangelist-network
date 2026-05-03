@@ -17711,35 +17711,45 @@ network:
 - name: rush-enterprises
   url: https://github.com/api-evangelist/rush-enterprises
   x-type: company
+  x-profiled: 2026-05
 - name: rutter
   url: https://github.com/api-evangelist/rutter
   x-type: company
+  x-profiled: 2026-05
 - name: ryder-system
   url: https://github.com/api-evangelist/ryder-system
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-05
 - name: ryerson-holding
   url: https://github.com/api-evangelist/ryerson-holding
   x-type: company
+  x-profiled: 2026-05
 - name: ryland-group
   url: https://github.com/api-evangelist/ryland-group
   x-type: company
+  x-profiled: 2026-05
 - name: r
   url: https://github.com/api-evangelist/r
   x-type: opensource
+  x-profiled: 2026-05
 - name: s-and-p-global
   url: https://github.com/api-evangelist/s-and-p-global
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-05
 - name: saas-alerts
   url: https://github.com/api-evangelist/saas-alerts
   x-type: company
+  x-profiled: 2026-05
 - name: saas-management
   url: https://github.com/api-evangelist/saas-management
   x-type: topic
+  x-profiled: 2026-05
 - name: saashub
   url: https://github.com/api-evangelist/saashub
   x-type: company
+  x-profiled: 2026-05
 - name: saasment
   url: https://github.com/api-evangelist/saasment
   x-type: company
@@ -17802,9 +17812,11 @@ network:
 - name: salesforce-flow
   url: https://github.com/api-evangelist/salesforce-flow
   x-type: company
+  x-profiled: 2026-05
 - name: salesforce-knowledge-management
   url: https://github.com/api-evangelist/salesforce-knowledge-management
   x-type: company
+  x-profiled: 2026-05
 - name: salesforce-lightning
   url: https://github.com/api-evangelist/salesforce-lightning
   x-profiled: 2026-05
@@ -17816,15 +17828,19 @@ network:
 - name: salesforce-net-zero-cloud
   url: https://github.com/api-evangelist/salesforce-net-zero-cloud
   x-type: company
+  x-profiled: 2026-05
 - name: salesforce-sales-cloud
   url: https://github.com/api-evangelist/salesforce-sales-cloud
   x-type: company
+  x-profiled: 2026-05
 - name: salesforce-service-cloud
   url: https://github.com/api-evangelist/salesforce-service-cloud
   x-type: company
+  x-profiled: 2026-05
 - name: salesforcecom
   url: https://github.com/api-evangelist/salesforcecom
   x-type: company
+  x-profiled: 2026-05
 - name: salesforce
   url: https://github.com/api-evangelist/salesforce
   x-profiled: 2026-05
@@ -17832,31 +17848,40 @@ network:
 - name: salesloft
   url: https://github.com/api-evangelist/salesloft
   x-type: company
+  x-profiled: 2026-05
 - name: sally-beauty-holdings
   url: https://github.com/api-evangelist/sally-beauty-holdings
   x-type: company
+  x-profiled: 2026-05
 - name: salt-security
   url: https://github.com/api-evangelist/salt-security
   x-type: company
+  x-profiled: 2026-05
 - name: sam.gov
   url: https://github.com/api-evangelist/sam.gov
   x-type: company
+  x-profiled: 2026-05
 - name: saml
   url: https://github.com/api-evangelist/saml
   x-type: standard
+  x-profiled: 2026-05
 - name: samsara
   url: https://github.com/api-evangelist/samsara
   x-type: company
+  x-profiled: 2026-05
 - name: samsung
   url: https://github.com/api-evangelist/samsung
   x-type: company
+  x-profiled: 2026-05
 - name: sandbox-banking
   url: https://github.com/api-evangelist/sandbox-banking
   x-type: company
+  x-profiled: 2026-05
 - name: sanderson-farms
   url: https://github.com/api-evangelist/sanderson-farms
   x-type: company
   x-fortune: Fortune 1000
+  x-profiled: 2026-05
 - name: sandisk
   url: https://github.com/api-evangelist/sandisk
   x-profiled: 2026-05
@@ -17890,12 +17915,15 @@ network:
 - name: sap-bi-tools
   url: https://github.com/api-evangelist/sap-bi-tools
   x-type: company
+  x-profiled: 2026-05
 - name: sap-bi
   url: https://github.com/api-evangelist/sap-bi
   x-type: company
+  x-profiled: 2026-05
 - name: sap-brim-billing-and-revenue-innovation-management
   url: https://github.com/api-evangelist/sap-brim-billing-and-revenue-innovation-management
   x-type: company
+  x-profiled: 2026-05
 - name: sap-bw
   url: https://github.com/api-evangelist/sap-bw
   x-profiled: 2026-05
@@ -17903,9 +17931,11 @@ network:
 - name: sap-commerce-cloud
   url: https://github.com/api-evangelist/sap-commerce-cloud
   x-type: company
+  x-profiled: 2026-05
 - name: sap-concur-expense
   url: https://github.com/api-evangelist/sap-concur-expense
   x-type: company
+  x-profiled: 2026-05
 - name: sap-concur
   url: https://github.com/api-evangelist/sap-concur
   x-profiled: 2026-05
@@ -17917,6 +17947,7 @@ network:
 - name: sap-integration-suite
   url: https://github.com/api-evangelist/sap-integration-suite
   x-type: company
+  x-profiled: 2026-05
 - name: sap-s4hana
   url: https://github.com/api-evangelist/sap-s4hana
   x-profiled: 2026-05
@@ -17924,6 +17955,7 @@ network:
 - name: sap-sales-and-distribution-sd
   url: https://github.com/api-evangelist/sap-sales-and-distribution-sd
   x-type: company
+  x-profiled: 2026-05
 - name: sap
   url: https://github.com/api-evangelist/sap
   x-profiled: 2026-05
@@ -17931,6 +17963,7 @@ network:
 - name: sastrify
   url: https://github.com/api-evangelist/sastrify
   x-type: company
+  x-profiled: 2026-05
 - name: saul-ewing
   url: https://github.com/api-evangelist/saul-ewing
   x-profiled: 2026-05
@@ -17944,55 +17977,72 @@ network:
 - name: scada
   url: https://github.com/api-evangelist/scada
   x-type: topic
+  x-profiled: 2026-05
 - name: scalability-testing
   url: https://github.com/api-evangelist/scalability-testing
   x-type: topic
+  x-profiled: 2026-05
 - name: scalability
   url: https://github.com/api-evangelist/scalability
   x-type: topic
+  x-profiled: 2026-05
 - name: scalable-architecture
   url: https://github.com/api-evangelist/scalable-architecture
   x-type: topic
+  x-profiled: 2026-05
 - name: scalable-inference-serving
   url: https://github.com/api-evangelist/scalable-inference-serving
   x-type: company
+  x-profiled: 2026-05
 - name: scalable-infrastructure
   url: https://github.com/api-evangelist/scalable-infrastructure
   x-type: topic
+  x-profiled: 2026-05
 - name: scalable-platforms
   url: https://github.com/api-evangelist/scalable-platforms
   x-type: topic
+  x-profiled: 2026-05
 - name: scalable-services
   url: https://github.com/api-evangelist/scalable-services
   x-type: topic
+  x-profiled: 2026-05
 - name: scalable-software-and-systems
   url: https://github.com/api-evangelist/scalable-software-and-systems
   x-type: topic
+  x-profiled: 2026-05
 - name: scalable-systems
   url: https://github.com/api-evangelist/scalable-systems
   x-type: topic
+  x-profiled: 2026-05
 - name: scalar
   url: https://github.com/api-evangelist/scalar
   x-type: company
+  x-profiled: 2026-05
 - name: scala
   url: https://github.com/api-evangelist/scala
   x-type: topic
+  x-profiled: 2026-05
 - name: scaled-agile
   url: https://github.com/api-evangelist/scaled-agile
   x-type: topic
+  x-profiled: 2026-05
 - name: scaleops
   url: https://github.com/api-evangelist/scaleops
   x-type: company
+  x-profiled: 2026-05
 - name: scaleway
   url: https://github.com/api-evangelist/scaleway
   x-type: company
+  x-profiled: 2026-05
 - name: scalr
   url: https://github.com/api-evangelist/scalr
   x-type: company
+  x-profiled: 2026-05
 - name: scana
   url: https://github.com/api-evangelist/scana
   x-type: company
   x-fortune: Fortune 1000
+  x-profiled: 2026-05
 - name: scansource
   url: https://github.com/api-evangelist/scansource
   x-profiled: 2026-05
