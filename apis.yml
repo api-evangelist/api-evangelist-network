@@ -19695,10 +19695,12 @@ network:
   x-type: company
 - name: synchrony-financial
   url: https://github.com/api-evangelist/synchrony-financial
+  x-profiled: 2026-05
   x-type: company
   x-fortune: Fortune 500
 - name: syncloop
   url: https://github.com/api-evangelist/syncloop
+  x-profiled: 2026-05
   x-type: company
 - name: syneos-health
   url: https://github.com/api-evangelist/syneos-health
@@ -19707,10 +19709,12 @@ network:
   x-fortune: Fortune 1000
 - name: synnex
   url: https://github.com/api-evangelist/synnex
+  x-profiled: 2026-05
   x-type: company
   x-fortune: Fortune 100
 - name: synopsys
   url: https://github.com/api-evangelist/synopsys
+  x-profiled: 2026-05
   x-type: company
 - name: synovus-financial
   url: https://github.com/api-evangelist/synovus-financial
@@ -19719,6 +19723,7 @@ network:
   x-fortune: Fortune 1000
 - name: sysco
   url: https://github.com/api-evangelist/sysco
+  x-profiled: 2026-05
   x-type: company
   x-fortune: Fortune 100
 - name: sysdig
