@@ -19889,13 +19889,16 @@ network:
   x-type: company
 - name: telephone-and-data-systems
   url: https://github.com/api-evangelist/telephone-and-data-systems
+  x-profiled: 2026-05
   x-type: company
   x-fortune: Fortune 500
 - name: telepresence
   url: https://github.com/api-evangelist/telepresence
+  x-profiled: 2026-05
   x-type: company
 - name: telesign
   url: https://github.com/api-evangelist/telesign
+  x-profiled: 2026-05
   x-type: company
 - name: teletech
   url: https://github.com/api-evangelist/teletech
@@ -19904,9 +19907,11 @@ network:
   x-fortune: Fortune 1000
 - name: telewerken
   url: https://github.com/api-evangelist/telewerken
+  x-profiled: 2026-05
   x-type: company
 - name: teller
   url: https://github.com/api-evangelist/teller
+  x-profiled: 2026-05
   x-type: company
 - name: temenos-transact
   url: https://github.com/api-evangelist/temenos-transact
