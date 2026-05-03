@@ -18679,9 +18679,11 @@ network:
 - name: skywest
   url: https://github.com/api-evangelist/skywest
   x-type: company
+  x-profiled: 2026-05
 - name: skyworks-solutions
   url: https://github.com/api-evangelist/skyworks-solutions
   x-type: company
+  x-profiled: 2026-05
 - name: skyvera
   url: https://github.com/api-evangelist/skyvera
   x-profiled: 2026-05
@@ -18701,12 +18703,15 @@ network:
 - name: slashdot
   url: https://github.com/api-evangelist/slashdot
   x-type: company
+  x-profiled: 2026-05
 - name: slate
   url: https://github.com/api-evangelist/slate
   x-type: company
+  x-profiled: 2026-05
 - name: sm-energy
   url: https://github.com/api-evangelist/sm-energy
   x-type: company
+  x-profiled: 2026-05
   x-fortune: Fortune 1000
 - name: smart-and-final-stores
   url: https://github.com/api-evangelist/smart-and-final-stores
