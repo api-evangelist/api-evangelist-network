@@ -18174,6 +18174,10 @@ network:
 - name: seagen
   url: https://github.com/api-evangelist/seagen
   x-type: company
+- name: seamless-ai
+  url: https://github.com/api-evangelist/seamless-ai
+  x-profiled: 2026-05
+  x-type: company
 - name: sealed-air
   url: https://github.com/api-evangelist/sealed-air
   x-type: company
@@ -18184,6 +18188,14 @@ network:
   x-fortune: Fortune 1000
 - name: sears-hometown-and-outlet-stores
   url: https://github.com/api-evangelist/sears-hometown-and-outlet-stores
+  x-type: company
+- name: searchstax
+  url: https://github.com/api-evangelist/searchstax
+  x-profiled: 2026-05
+  x-type: company
+- name: seatgeek
+  url: https://github.com/api-evangelist/seatgeek
+  x-profiled: 2026-05
   x-type: company
 - name: sec-edgar
   url: https://github.com/api-evangelist/sec-edgar
@@ -18197,6 +18209,10 @@ network:
 - name: secure-by-design
   url: https://github.com/api-evangelist/secure-by-design
   x-type: company
+- name: secure-code-warrior
+  url: https://github.com/api-evangelist/secure-code-warrior
+  x-profiled: 2026-05
+  x-type: company
 - name: secure-software-development-life-cycle
   url: https://github.com/api-evangelist/secure-software-development-life-cycle
   x-type: company
@@ -18206,6 +18222,10 @@ network:
 - name: secure-tunneling-protocols
   url: https://github.com/api-evangelist/secure-tunneling-protocols
   x-type: topic
+- name: secureworks
+  url: https://github.com/api-evangelist/secureworks
+  x-profiled: 2026-05
+  x-type: company
 - name: securian-financial-group
   url: https://github.com/api-evangelist/securian-financial-group
   x-type: company
@@ -18479,12 +18499,24 @@ network:
 - name: sigstore
   url: https://github.com/api-evangelist/sigstore
   x-type: company
+- name: signnow
+  url: https://github.com/api-evangelist/signnow
+  x-profiled: 2026-05
+  x-type: company
 - name: silgan-holdings
   url: https://github.com/api-evangelist/silgan-holdings
   x-type: company
   x-fortune: Fortune 1000
+- name: silverpop
+  url: https://github.com/api-evangelist/silverpop
+  x-profiled: 2026-05
+  x-type: company
 - name: simcorp-dimension
   url: https://github.com/api-evangelist/simcorp-dimension
+  x-profiled: 2026-05
+  x-type: company
+- name: simscale
+  url: https://github.com/api-evangelist/simscale
   x-profiled: 2026-05
   x-type: company
 - name: simon-property-group
@@ -18500,6 +18532,10 @@ network:
 - name: sinch
   url: https://github.com/api-evangelist/sinch
   x-type: company
+- name: singularity-net
+  url: https://github.com/api-evangelist/singularity-net
+  x-profiled: 2026-05
+  x-type: company
 - name: singlestore
   url: https://github.com/api-evangelist/singlestore
   x-type: company
@@ -18509,6 +18545,10 @@ network:
   x-fortune: Fortune 500
 - name: sirius-xm-holdings
   url: https://github.com/api-evangelist/sirius-xm-holdings
+  x-profiled: 2026-05
+  x-type: company
+- name: siriusxm
+  url: https://github.com/api-evangelist/siriusxm
   x-profiled: 2026-05
   x-type: company
 - name: sisense
