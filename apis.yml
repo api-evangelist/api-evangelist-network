@@ -18109,10 +18109,22 @@ network:
 - name: score
   url: https://github.com/api-evangelist/score
   x-type: company
+- name: scorm
+  url: https://github.com/api-evangelist/scorm
+  x-type: standard
+- name: scotiabank
+  url: https://github.com/api-evangelist/scotiabank
+  x-type: company
+- name: scott-foresman
+  url: https://github.com/api-evangelist/scott-foresman
+  x-type: company
 - name: scotts-miracle-gro
   url: https://github.com/api-evangelist/scotts-miracle-gro
   x-type: company
   x-fortune: Fortune 1000
+- name: scout-rfp
+  url: https://github.com/api-evangelist/scout-rfp
+  x-type: company
 - name: scraper-api
   url: https://github.com/api-evangelist/scraper-api
   x-type: company
@@ -18128,8 +18140,14 @@ network:
 - name: scrapy
   url: https://github.com/api-evangelist/scrapy
   x-type: company
+- name: screaming-frog
+  url: https://github.com/api-evangelist/screaming-frog
+  x-type: company
 - name: screenshotone
   url: https://github.com/api-evangelist/screenshotone
+  x-type: company
+- name: scribd
+  url: https://github.com/api-evangelist/scribd
   x-type: company
 - name: scripps-networks-interactive
   url: https://github.com/api-evangelist/scripps-networks-interactive
@@ -18137,6 +18155,9 @@ network:
 - name: scrum
   url: https://github.com/api-evangelist/scrum
   x-type: company
+- name: scte
+  url: https://github.com/api-evangelist/scte
+  x-type: standard
 - name: sdk
   url: https://github.com/api-evangelist/sdk
   x-type: company
@@ -18147,6 +18168,12 @@ network:
   url: https://github.com/api-evangelist/seaboard
   x-type: company
   x-fortune: Fortune 1000
+- name: seagate-technology
+  url: https://github.com/api-evangelist/seagate-technology
+  x-type: company
+- name: seagen
+  url: https://github.com/api-evangelist/seagen
+  x-type: company
 - name: sealed-air
   url: https://github.com/api-evangelist/sealed-air
   x-type: company
@@ -18336,8 +18363,17 @@ network:
 - name: sex-offenders-api
   url: https://github.com/api-evangelist/sex-offenders-api
   x-type: company
+- name: sforce
+  url: https://github.com/api-evangelist/sforce
+  x-type: company
+- name: sf-symbols
+  url: https://github.com/api-evangelist/sf-symbols
+  x-type: company
 - name: sftp
   url: https://github.com/api-evangelist/sftp
+  x-type: company
+- name: sg-analytics
+  url: https://github.com/api-evangelist/sg-analytics
   x-type: company
 - name: sharding
   url: https://github.com/api-evangelist/sharding
@@ -18345,6 +18381,9 @@ network:
 - name: sharepoint
   url: https://github.com/api-evangelist/sharepoint
   x-profiled: 2026-05
+  x-type: company
+- name: shazam
+  url: https://github.com/api-evangelist/shazam
   x-type: company
 - name: shell-scripting
   url: https://github.com/api-evangelist/shell-scripting
@@ -18356,14 +18395,49 @@ network:
   url: https://github.com/api-evangelist/sherwin-williams
   x-type: company
   x-fortune: Fortune 500
+- name: sheetz
+  url: https://github.com/api-evangelist/sheetz
+  x-type: company
+  x-profiled: 2026-05
+- name: shelby-williams-industries
+  url: https://github.com/api-evangelist/shelby-williams-industries
+  x-type: company
+  x-profiled: 2026-05
+- name: shelf
+  url: https://github.com/api-evangelist/shelf
+  x-type: company
+  x-profiled: 2026-05
+- name: shelterlogic-group
+  url: https://github.com/api-evangelist/shelterlogic-group
+  x-type: company
+  x-profiled: 2026-05
+- name: shenandoah-telecommunications
+  url: https://github.com/api-evangelist/shenandoah-telecommunications
+  x-type: company
+  x-profiled: 2026-05
 - name: shippo
   url: https://github.com/api-evangelist/shippo
+  x-type: company
+- name: shippers-group
+  url: https://github.com/api-evangelist/shippers-group
+  x-type: company
+- name: shipping
+  url: https://github.com/api-evangelist/shipping
   x-type: company
 - name: shipstation
   url: https://github.com/api-evangelist/shipstation
   x-type: company
 - name: shopify
   url: https://github.com/api-evangelist/shopify
+  x-type: company
+- name: shopify-admin
+  url: https://github.com/api-evangelist/shopify-admin
+  x-type: company
+- name: shopify-storefront
+  url: https://github.com/api-evangelist/shopify-storefront
+  x-type: company
+- name: shopper-approved
+  url: https://github.com/api-evangelist/shopper-approved
   x-type: company
 - name: shoreline
   url: https://github.com/api-evangelist/shoreline
