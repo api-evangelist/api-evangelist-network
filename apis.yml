@@ -18579,6 +18579,10 @@ network:
 - name: skechers-usa
   url: https://github.com/api-evangelist/skechers-usa
   x-type: company
+- name: skillsoft
+  url: https://github.com/api-evangelist/skillsoft
+  x-profiled: 2026-05
+  x-type: company
 - name: sketches
   url: https://github.com/api-evangelist/sketches
   x-type: company
