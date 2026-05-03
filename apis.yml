@@ -18117,12 +18117,15 @@ network:
 - name: scorm
   url: https://github.com/api-evangelist/scorm
   x-type: standard
+  x-profiled: 2026-05
 - name: scotiabank
   url: https://github.com/api-evangelist/scotiabank
   x-type: company
+  x-profiled: 2026-05
 - name: scott-foresman
   url: https://github.com/api-evangelist/scott-foresman
   x-type: company
+  x-profiled: 2026-05
 - name: scotts-miracle-gro
   url: https://github.com/api-evangelist/scotts-miracle-gro
   x-type: company
@@ -18131,6 +18134,7 @@ network:
 - name: scout-rfp
   url: https://github.com/api-evangelist/scout-rfp
   x-type: company
+  x-profiled: 2026-05
 - name: scraper-api
   url: https://github.com/api-evangelist/scraper-api
   x-type: company
@@ -18154,6 +18158,7 @@ network:
 - name: screaming-frog
   url: https://github.com/api-evangelist/screaming-frog
   x-type: company
+  x-profiled: 2026-05
 - name: screenshotone
   url: https://github.com/api-evangelist/screenshotone
   x-type: company
@@ -18161,6 +18166,7 @@ network:
 - name: scribd
   url: https://github.com/api-evangelist/scribd
   x-type: company
+  x-profiled: 2026-05
 - name: scripps-networks-interactive
   url: https://github.com/api-evangelist/scripps-networks-interactive
   x-type: company
@@ -18172,6 +18178,7 @@ network:
 - name: scte
   url: https://github.com/api-evangelist/scte
   x-type: standard
+  x-profiled: 2026-05
 - name: sdk
   url: https://github.com/api-evangelist/sdk
   x-type: company
@@ -18188,9 +18195,11 @@ network:
 - name: seagate-technology
   url: https://github.com/api-evangelist/seagate-technology
   x-type: company
+  x-profiled: 2026-05
 - name: seagen
   url: https://github.com/api-evangelist/seagen
   x-type: company
+  x-profiled: 2026-05
 - name: seamless-ai
   url: https://github.com/api-evangelist/seamless-ai
   x-profiled: 2026-05
@@ -18355,6 +18364,7 @@ network:
 - name: sendoso
   url: https://github.com/api-evangelist/sendoso
   x-type: company
+  x-profiled: 2026-05
 - name: seneca
   url: https://github.com/api-evangelist/seneca
   x-type: company
@@ -18469,9 +18479,11 @@ network:
 - name: sforce
   url: https://github.com/api-evangelist/sforce
   x-type: company
+  x-profiled: 2026-05
 - name: sf-symbols
   url: https://github.com/api-evangelist/sf-symbols
   x-type: company
+  x-profiled: 2026-05
 - name: sftp
   url: https://github.com/api-evangelist/sftp
   x-type: company
@@ -18479,6 +18491,7 @@ network:
 - name: sg-analytics
   url: https://github.com/api-evangelist/sg-analytics
   x-type: company
+  x-profiled: 2026-05
 - name: sharding
   url: https://github.com/api-evangelist/sharding
   x-type: topic
@@ -18490,6 +18503,7 @@ network:
 - name: shazam
   url: https://github.com/api-evangelist/shazam
   x-type: company
+  x-profiled: 2026-05
 - name: shell-scripting
   url: https://github.com/api-evangelist/shell-scripting
   x-type: company
@@ -18549,9 +18563,11 @@ network:
   x-profiled: 2026-05
 - name: shopify-storefront
   url: https://github.com/api-evangelist/shopify-storefront
+  x-profiled: 2026-05
   x-type: company
 - name: shopper-approved
   url: https://github.com/api-evangelist/shopper-approved
+  x-profiled: 2026-05
   x-type: company
 - name: shoreline
   url: https://github.com/api-evangelist/shoreline
@@ -18559,16 +18575,20 @@ network:
   x-type: company
 - name: shovels
   url: https://github.com/api-evangelist/shovels
+  x-profiled: 2026-05
   x-type: company
 - name: shuffle
   url: https://github.com/api-evangelist/shuffle
+  x-profiled: 2026-05
   x-type: company
 - name: shutterstock
   url: https://github.com/api-evangelist/shutterstock
+  x-profiled: 2026-05
   x-type: company
 - name: sideko
   url: https://github.com/api-evangelist/sideko
   x-type: company
+  x-profiled: 2026-05
 - name: siemens-healthineers
   url: https://github.com/api-evangelist/siemens-healthineers
   x-profiled: 2026-05
@@ -18577,22 +18597,28 @@ network:
 - name: siemens-mindsphere
   url: https://github.com/api-evangelist/siemens-mindsphere
   x-type: company
+  x-profiled: 2026-05
 - name: siemens
   url: https://github.com/api-evangelist/siemens
   x-type: company
+  x-profiled: 2026-05
 - name: sigma-aldrich
   url: https://github.com/api-evangelist/sigma-aldrich
   x-type: company
   x-fortune: Fortune 1000
+  x-profiled: 2026-05
 - name: signal
   url: https://github.com/api-evangelist/signal
   x-type: company
+  x-profiled: 2026-05
 - name: signoz
   url: https://github.com/api-evangelist/signoz
   x-type: company
+  x-profiled: 2026-05
 - name: sigstore
   url: https://github.com/api-evangelist/sigstore
   x-type: company
+  x-profiled: 2026-05
 - name: signnow
   url: https://github.com/api-evangelist/signnow
   x-profiled: 2026-05
@@ -18601,6 +18627,7 @@ network:
   url: https://github.com/api-evangelist/silgan-holdings
   x-type: company
   x-fortune: Fortune 1000
+  x-profiled: 2026-05
 - name: silverpop
   url: https://github.com/api-evangelist/silverpop
   x-profiled: 2026-05
@@ -18617,15 +18644,19 @@ network:
   url: https://github.com/api-evangelist/simon-property-group
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-05
 - name: simplelegal
   url: https://github.com/api-evangelist/simplelegal
   x-type: company
+  x-profiled: 2026-05
 - name: simplelocalize
   url: https://github.com/api-evangelist/simplelocalize
   x-type: company
+  x-profiled: 2026-05
 - name: sinch
   url: https://github.com/api-evangelist/sinch
   x-type: company
+  x-profiled: 2026-05
 - name: singularity-net
   url: https://github.com/api-evangelist/singularity-net
   x-profiled: 2026-05
@@ -18633,10 +18664,12 @@ network:
 - name: singlestore
   url: https://github.com/api-evangelist/singlestore
   x-type: company
+  x-profiled: 2026-05
 - name: sirius-xm
   url: https://github.com/api-evangelist/sirius-xm
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-05
 - name: sirius-xm-holdings
   url: https://github.com/api-evangelist/sirius-xm-holdings
   x-profiled: 2026-05
@@ -18648,12 +18681,15 @@ network:
 - name: sisense
   url: https://github.com/api-evangelist/sisense
   x-type: company
+  x-profiled: 2026-05
 - name: sitecore
   url: https://github.com/api-evangelist/sitecore
   x-type: company
+  x-profiled: 2026-05
 - name: sitefinity-cms
   url: https://github.com/api-evangelist/sitefinity-cms
   x-type: company
+  x-profiled: 2026-05
 - name: six-flags
   url: https://github.com/api-evangelist/six-flags
   x-profiled: 2026-05
@@ -18661,9 +18697,11 @@ network:
 - name: six-sigma
   url: https://github.com/api-evangelist/six-sigma
   x-type: company
+  x-profiled: 2026-05
 - name: skechers-usa
   url: https://github.com/api-evangelist/skechers-usa
   x-type: company
+  x-profiled: 2026-05
 - name: skillsoft
   url: https://github.com/api-evangelist/skillsoft
   x-profiled: 2026-05
@@ -18671,6 +18709,7 @@ network:
 - name: sketches
   url: https://github.com/api-evangelist/sketches
   x-type: company
+  x-profiled: 2026-05
 - name: skyline-champion
   url: https://github.com/api-evangelist/skyline-champion
   x-profiled: 2026-05
@@ -18716,46 +18755,60 @@ network:
 - name: smart-and-final-stores
   url: https://github.com/api-evangelist/smart-and-final-stores
   x-type: company
+  x-profiled: 2026-05
 - name: smart-data
   url: https://github.com/api-evangelist/smart-data
   x-type: company
+  x-profiled: 2026-05
 - name: smartbear
   url: https://github.com/api-evangelist/smartbear
   x-type: company
+  x-profiled: 2026-05
 - name: smartcar
   url: https://github.com/api-evangelist/smartcar
   x-type: company
+  x-profiled: 2026-05
 - name: smartproxy
   url: https://github.com/api-evangelist/smartproxy
   x-type: company
+  x-profiled: 2026-05
 - name: smartrecruiters
   url: https://github.com/api-evangelist/smartrecruiters
   x-type: company
+  x-profiled: 2026-05
 - name: smithery
   url: https://github.com/api-evangelist/smithery
   x-type: company
+  x-profiled: 2026-05
 - name: smithsonian-institution
   url: https://github.com/api-evangelist/smithsonian-institution
   x-type: company
+  x-profiled: 2026-05
 - name: smithy
   url: https://github.com/api-evangelist/smithy
   x-type: company
+  x-profiled: 2026-05
 - name: smtp
   url: https://github.com/api-evangelist/smtp
   x-type: standard
+  x-profiled: 2026-05
 - name: snap-on
   url: https://github.com/api-evangelist/snap-on
   x-type: company
   x-fortune: Fortune 500
+  x-profiled: 2026-05
 - name: snapchat
   url: https://github.com/api-evangelist/snapchat
   x-type: company
+  x-profiled: 2026-05
 - name: snaplogic
   url: https://github.com/api-evangelist/snaplogic
   x-type: company
+  x-profiled: 2026-05
 - name: snow-software
   url: https://github.com/api-evangelist/snow-software
   x-type: company
+  x-profiled: 2026-05
 - name: snowflake
   url: https://github.com/api-evangelist/snowflake
   x-profiled: 2026-05
@@ -18763,21 +18816,27 @@ network:
 - name: snowplow
   url: https://github.com/api-evangelist/snowplow
   x-type: company
+  x-profiled: 2026-05
 - name: snyk-container
   url: https://github.com/api-evangelist/snyk-container
   x-type: opensource
+  x-profiled: 2026-05
 - name: soap
   url: https://github.com/api-evangelist/soap
   x-type: standard
+  x-profiled: 2026-05
 - name: soax
   url: https://github.com/api-evangelist/soax
   x-type: company
+  x-profiled: 2026-05
 - name: soa
   url: https://github.com/api-evangelist/soa
   x-type: company
+  x-profiled: 2026-05
 - name: social-security-administration
   url: https://github.com/api-evangelist/social-security-administration
   x-type: government
+  x-profiled: 2026-05
 - name: soda-data
   url: https://github.com/api-evangelist/soda-data
   x-profiled: 2026-05
@@ -18790,33 +18849,43 @@ network:
 - name: software-advice
   url: https://github.com/api-evangelist/software-advice
   x-type: company
+  x-profiled: 2026-05
 - name: software-ag
   url: https://github.com/api-evangelist/software-ag
   x-type: company
+  x-profiled: 2026-05
 - name: software-defined-networking
   url: https://github.com/api-evangelist/software-defined-networking
   x-type: company
+  x-profiled: 2026-05
 - name: software-design-architectural-patterns
   url: https://github.com/api-evangelist/software-design-architectural-patterns
   x-type: company
+  x-profiled: 2026-05
 - name: software-design-patterns
   url: https://github.com/api-evangelist/software-design-patterns
   x-type: company
+  x-profiled: 2026-05
 - name: software-development-life-cycle
   url: https://github.com/api-evangelist/software-development-life-cycle
   x-type: company
+  x-profiled: 2026-05
 - name: software-development-lifecycle
   url: https://github.com/api-evangelist/software-development-lifecycle
   x-type: company
+  x-profiled: 2026-05
 - name: software-engineering-daily
   url: https://github.com/api-evangelist/software-engineering-daily
   x-type: company
+  x-profiled: 2026-05
 - name: softwareone
   url: https://github.com/api-evangelist/softwareone
   x-type: company
+  x-profiled: 2026-05
 - name: softwaresuggest
   url: https://github.com/api-evangelist/softwaresuggest
   x-type: company
+  x-profiled: 2026-05
 - name: solaris-zones
   url: https://github.com/api-evangelist/solaris-zones
   x-profiled: 2026-05
@@ -18828,6 +18897,7 @@ network:
 - name: solcast
   url: https://github.com/api-evangelist/solcast
   x-type: company
+  x-profiled: 2026-05
 - name: solo-io
   url: https://github.com/api-evangelist/solo-io
   x-type: company
