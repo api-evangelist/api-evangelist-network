@@ -18387,6 +18387,7 @@ network:
 - name: sequoia-capital
   url: https://github.com/api-evangelist/sequoia-capital
   x-type: company
+  x-profiled: 2026-05
 - name: serchen
   url: https://github.com/api-evangelist/serchen
   x-type: company
@@ -18423,6 +18424,7 @@ network:
 - name: service-fabric
   url: https://github.com/api-evangelist/service-fabric
   x-type: opensource
+  x-profiled: 2026-05
 - name: service-mesh-interface
   url: https://github.com/api-evangelist/service-mesh-interface
   x-type: topic
@@ -18528,9 +18530,11 @@ network:
 - name: shippers-group
   url: https://github.com/api-evangelist/shippers-group
   x-type: company
+  x-profiled: 2026-05
 - name: shipping
   url: https://github.com/api-evangelist/shipping
   x-type: company
+  x-profiled: 2026-05
 - name: shipstation
   url: https://github.com/api-evangelist/shipstation
   x-type: company
@@ -18542,6 +18546,7 @@ network:
 - name: shopify-admin
   url: https://github.com/api-evangelist/shopify-admin
   x-type: company
+  x-profiled: 2026-05
 - name: shopify-storefront
   url: https://github.com/api-evangelist/shopify-storefront
   x-type: company
