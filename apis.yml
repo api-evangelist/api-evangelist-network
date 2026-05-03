@@ -18303,6 +18303,9 @@ network:
 - name: sendgrid
   url: https://github.com/api-evangelist/sendgrid
   x-type: company
+- name: sendoso
+  url: https://github.com/api-evangelist/sendoso
+  x-type: company
 - name: seneca
   url: https://github.com/api-evangelist/seneca
   x-type: company
@@ -18325,6 +18328,9 @@ network:
   x-type: company
 - name: sepasoft
   url: https://github.com/api-evangelist/sepasoft
+  x-type: company
+- name: sequoia-capital
+  url: https://github.com/api-evangelist/sequoia-capital
   x-type: company
 - name: serchen
   url: https://github.com/api-evangelist/serchen
@@ -18351,6 +18357,9 @@ network:
   url: https://github.com/api-evangelist/service-corp-international
   x-type: company
   x-fortune: Fortune 500
+- name: service-fabric
+  url: https://github.com/api-evangelist/service-fabric
+  x-type: opensource
 - name: service-mesh-interface
   url: https://github.com/api-evangelist/service-mesh-interface
   x-type: topic
@@ -18559,6 +18568,10 @@ network:
   x-type: company
 - name: sitefinity-cms
   url: https://github.com/api-evangelist/sitefinity-cms
+  x-type: company
+- name: six-flags
+  url: https://github.com/api-evangelist/six-flags
+  x-profiled: 2026-05
   x-type: company
 - name: six-sigma
   url: https://github.com/api-evangelist/six-sigma
