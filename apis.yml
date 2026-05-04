@@ -716,7 +716,6 @@ network:
     url: https://github.com/api-evangelist/aig
     x-type: company
     x-fortune:
-      - Fortune 100
       - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
@@ -3121,7 +3120,6 @@ network:
     url: https://github.com/api-evangelist/american-international
     x-type: company
     x-fortune:
-      - Fortune 100
       - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
@@ -5820,7 +5818,6 @@ network:
     url: https://github.com/api-evangelist/best-buy
     x-type: company
     x-fortune:
-      - Fortune 100
       - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
@@ -7902,7 +7899,6 @@ network:
     url: https://github.com/api-evangelist/chs
     x-type: company
     x-fortune:
-      - Fortune 100
       - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
@@ -15925,7 +15921,6 @@ network:
     url: https://github.com/api-evangelist/honeywell
     x-type: company
     x-fortune:
-      - Fortune 100
       - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
@@ -19477,7 +19472,6 @@ network:
     url: https://github.com/api-evangelist/mass-mutual
     x-type: company
     x-fortune:
-      - Fortune 100
       - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
@@ -19487,7 +19481,6 @@ network:
     url: https://github.com/api-evangelist/massachusetts-mutual-life-insurance
     x-type: company
     x-fortune:
-      - Fortune 100
       - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
@@ -32951,7 +32944,6 @@ network:
     url: https://github.com/api-evangelist/warner-bros-discovery
     x-type: company
     x-fortune:
-      - Fortune 100
       - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
