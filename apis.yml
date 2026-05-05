@@ -76,16 +76,12 @@ network:
     url: https://github.com/api-evangelist/aarons
     x-profiled: 2026-05
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-tier: 2
     x-tier-reason: company-fortune
   - name: aar
     url: https://github.com/api-evangelist/aar
     x-profiled: 2026-05
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-tier: 2
     x-tier-reason: company-fortune
   - name: ab-tasty
@@ -105,7 +101,6 @@ network:
     x-profiled: 2026-05
     x-type: company
     x-fortune:
-      - Fortune 100
       - Fortune 500
       - Fortune 1000
     x-tier: 3
@@ -286,9 +281,6 @@ network:
   - name: activision-blizzard
     url: https://github.com/api-evangelist/activision-blizzard
     x-type: company
-    x-fortune:
-      - Fortune 500
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 2
     x-tier-reason: company-fortune
@@ -315,6 +307,8 @@ network:
   - name: adams-resources-and-energy
     url: https://github.com/api-evangelist/adams-resources-and-energy
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -518,8 +512,6 @@ network:
   - name: affiliated-managers-group
     url: https://github.com/api-evangelist/affiliated-managers-group
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 2
     x-tier-reason: company-fortune
@@ -708,6 +700,10 @@ network:
   - name: aig
     url: https://github.com/api-evangelist/aig
     x-type: company
+    x-fortune:
+      - Fortune 100
+      - Fortune 500
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 2
     x-tier-reason: company-fortune
@@ -941,8 +937,6 @@ network:
   - name: aleris
     url: https://raw.githubusercontent.com/api-evangelist/aleris/refs/heads/main/apis.yml
     x-type: company
-    x-fortune:
-      - Fortune 1000
     description: Aleris is a global producer of rolled aluminum products serving the aerospace, automotive, building and construction,
       and other industrial end-use markets.
     x-profiled: 2026-05
@@ -951,8 +945,6 @@ network:
   - name: alexion-pharmaceuticals
     url: https://raw.githubusercontent.com/api-evangelist/alexion-pharmaceuticals/refs/heads/main/apis.yml
     x-type: company
-    x-fortune:
-      - Fortune 1000
     description: This Site is currently under construction.
     x-profiled: 2026-05
     x-tier: 3
@@ -1030,8 +1022,6 @@ network:
   - name: allegheny-technologies
     url: https://raw.githubusercontent.com/api-evangelist/allegheny-technologies/refs/heads/main/apis.yml
     x-type: company
-    x-fortune:
-      - Fortune 1000
     description: Allegheny Technologies is a producer of specialty materials and complex components used in aerospace, defense,
       energy, medical, and other high-performance markets.
     x-profiled: 2026-05
@@ -1079,6 +1069,8 @@ network:
     url: https://github.com/api-evangelist/alliance-resource-partners
     x-profiled: 2026-05
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-tier: 2
     x-tier-reason: company-fortune
   - name: alliant-energy
@@ -3014,6 +3006,8 @@ network:
   - name: american-axle-and-manufacturing
     url: https://github.com/api-evangelist/american-axle-and-manufacturing
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 2
     x-tier-reason: company-fortune
@@ -3070,6 +3064,9 @@ network:
   - name: american-financial-group
     url: https://github.com/api-evangelist/american-financial-group
     x-type: company
+    x-fortune:
+      - Fortune 500
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -3088,18 +3085,12 @@ network:
   - name: american-international
     url: https://github.com/api-evangelist/american-international
     x-type: company
-    x-fortune:
-      - Fortune 100
-      - Fortune 500
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
   - name: american-national-insurance
     url: https://github.com/api-evangelist/american-national-insurance
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -3156,10 +3147,6 @@ network:
   - name: amerisourcebergen
     url: https://github.com/api-evangelist/amerisourcebergen
     x-type: company
-    x-fortune:
-      - Fortune 100
-      - Fortune 500
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 2
     x-tier-reason: company-fortune
@@ -4565,6 +4552,8 @@ network:
     url: https://github.com/api-evangelist/ares-management
     x-profiled: 2026-05
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-tier: 2
     x-tier-reason: company-fortune
   - name: argo-cd
@@ -4750,8 +4739,6 @@ network:
   - name: ashland
     url: https://github.com/api-evangelist/ashland
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
@@ -4862,6 +4849,8 @@ network:
     url: https://github.com/api-evangelist/atlassian
     x-profiled: 2026-05
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-tier: 1
     x-tier-reason: well-known-api-first
   - name: atmos-energy
@@ -5098,7 +5087,6 @@ network:
     x-profiled: 2026-05
     x-type: company
     x-fortune:
-      - Fortune 500
       - Fortune 1000
     x-tier: 3
     x-tier-reason: no-apis
@@ -5111,8 +5099,6 @@ network:
   - name: avaya
     url: https://github.com/api-evangelist/avaya
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -5591,8 +5577,6 @@ network:
   - name: barnes-and-noble
     url: https://github.com/api-evangelist/barnes-and-noble
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -5722,9 +5706,6 @@ network:
   - name: bed-bath-and-beyond
     url: https://github.com/api-evangelist/bed-bath-and-beyond
     x-type: company
-    x-fortune:
-      - Fortune 500
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -6372,7 +6353,6 @@ network:
     url: https://github.com/api-evangelist/boise-cascade
     x-type: company
     x-fortune:
-      - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
@@ -6540,6 +6520,8 @@ network:
   - name: bread
     url: https://github.com/api-evangelist/bread
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
@@ -6570,6 +6552,9 @@ network:
   - name: brightspring-health-services
     url: https://github.com/api-evangelist/brightspring-health-services
     x-type: company
+    x-fortune:
+      - Fortune 500
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -6609,7 +6594,6 @@ network:
     url: https://github.com/api-evangelist/broadcom
     x-type: company
     x-fortune:
-      - Fortune 100
       - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
@@ -6874,6 +6858,8 @@ network:
   - name: bwx-technologies
     url: https://github.com/api-evangelist/bwx-technologies
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
@@ -6898,8 +6884,6 @@ network:
   - name: cabot-oil-and-gas
     url: https://github.com/api-evangelist/cabot-oil-and-gas
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 2
     x-tier-reason: company-fortune
@@ -6983,8 +6967,6 @@ network:
   - name: calumet-specialty-products-partners
     url: https://github.com/api-evangelist/calumet-specialty-products-partners
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -7393,6 +7375,8 @@ network:
   - name: cbs
     url: https://github.com/api-evangelist/cbs
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -7583,7 +7567,6 @@ network:
     url: https://github.com/api-evangelist/cf-industries-holdings
     x-type: company
     x-fortune:
-      - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
     x-tier: 2
@@ -7808,8 +7791,6 @@ network:
   - name: chicos-fas
     url: https://github.com/api-evangelist/chicos-fas
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -7933,14 +7914,15 @@ network:
   - name: cimarex-energy
     url: https://github.com/api-evangelist/cimarex-energy
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
   - name: cincinnati-financial
     url: https://github.com/api-evangelist/cincinnati-financial
     x-type: company
+    x-fortune:
+      - Fortune 500
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -8082,8 +8064,6 @@ network:
   - name: cit-group
     url: https://github.com/api-evangelist/cit-group
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -8112,15 +8092,15 @@ network:
   - name: citizens-financial-group
     url: https://github.com/api-evangelist/citizens-financial-group
     x-type: company
+    x-fortune:
+      - Fortune 500
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 2
     x-tier-reason: company-fortune
   - name: citizens-financial
     url: https://github.com/api-evangelist/citizens-financial
     x-type: company
-    x-fortune:
-      - Fortune 500
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 2
     x-tier-reason: company-fortune
@@ -8139,8 +8119,6 @@ network:
   - name: citrix
     url: https://github.com/api-evangelist/citrix
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 2
     x-tier-reason: company-strong
@@ -8198,8 +8176,6 @@ network:
     url: https://github.com/api-evangelist/clear-channel-outdoor
     x-profiled: 2026-05
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-tier: 3
     x-tier-reason: no-apis
   - name: clearstream
@@ -8310,6 +8286,9 @@ network:
   - name: clorox
     url: https://github.com/api-evangelist/clorox
     x-type: company
+    x-fortune:
+      - Fortune 500
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -8600,6 +8579,8 @@ network:
   - name: coinbase
     url: https://github.com/api-evangelist/coinbase
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 2
     x-tier-reason: company-strong
@@ -8727,7 +8708,6 @@ network:
     url: https://github.com/api-evangelist/commscope-holding
     x-type: company
     x-fortune:
-      - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
     x-tier: 2
@@ -8803,14 +8783,15 @@ network:
   - name: concentrix
     url: https://github.com/api-evangelist/concentrix
     x-type: company
+    x-fortune:
+      - Fortune 500
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
   - name: concho-resources
     url: https://github.com/api-evangelist/concho-resources
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -8943,6 +8924,8 @@ network:
   - name: consol-energy
     url: https://github.com/api-evangelist/consol-energy
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 2
     x-tier-reason: company-fortune
@@ -9129,6 +9112,8 @@ network:
   - name: cooper-standard-holdings
     url: https://github.com/api-evangelist/cooper-standard-holdings
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -9173,6 +9158,8 @@ network:
   - name: core-and-main
     url: https://github.com/api-evangelist/core-and-main
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -9277,13 +9264,14 @@ network:
     x-profiled: 2026-05
     x-type: company
     x-fortune:
-      - Fortune 500
       - Fortune 1000
     x-tier: 2
     x-tier-reason: company-fortune
   - name: coty
     url: https://github.com/api-evangelist/coty
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -9393,8 +9381,6 @@ network:
   - name: crane
     url: https://github.com/api-evangelist/crane
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -9413,8 +9399,6 @@ network:
   - name: crestwood-equity-partners
     url: https://github.com/api-evangelist/crestwood-equity-partners
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -9466,6 +9450,8 @@ network:
     url: https://github.com/api-evangelist/crowdstrike
     x-profiled: 2026-05
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-tier: 2
     x-tier-reason: company-fortune
   - name: crown-castle-international
@@ -9478,7 +9464,6 @@ network:
     url: https://github.com/api-evangelist/crown
     x-type: company
     x-fortune:
-      - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
@@ -9487,6 +9472,9 @@ network:
     url: https://github.com/api-evangelist/crown-holdings
     x-profiled: 2026-05
     x-type: company
+    x-fortune:
+      - Fortune 500
+      - Fortune 1000
     x-tier: 3
     x-tier-reason: no-apis
   - name: crozdesk
@@ -9574,6 +9562,8 @@ network:
     url: https://github.com/api-evangelist/cullen-frost-bankers
     x-profiled: 2026-05
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-tier: 2
     x-tier-reason: company-fortune
   - name: cummins
@@ -10154,15 +10144,15 @@ network:
   - name: delek-us-holdings
     url: https://github.com/api-evangelist/delek-us-holdings
     x-type: company
+    x-fortune:
+      - Fortune 500
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 2
     x-tier-reason: company-fortune
   - name: delek-us
     url: https://github.com/api-evangelist/delek-us
     x-type: company
-    x-fortune:
-      - Fortune 500
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 2
     x-tier-reason: company-fortune
@@ -10226,8 +10216,6 @@ network:
     url: https://github.com/api-evangelist/deluxe
     x-profiled: 2026-05
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-tier: 2
     x-tier-reason: company-fortune
   - name: demandbase
@@ -10540,6 +10528,8 @@ network:
   - name: dillards
     url: https://github.com/api-evangelist/dillards
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -10588,9 +10578,6 @@ network:
   - name: discover-financial
     url: https://github.com/api-evangelist/discover-financial
     x-type: company
-    x-fortune:
-      - Fortune 500
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -10609,15 +10596,15 @@ network:
   - name: discover
     url: https://github.com/api-evangelist/discover
     x-type: company
+    x-fortune:
+      - Fortune 500
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
   - name: dish-network
     url: https://github.com/api-evangelist/dish-network
     x-type: company
-    x-fortune:
-      - Fortune 500
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -10733,6 +10720,8 @@ network:
     url: https://github.com/api-evangelist/docusign
     x-profiled: 2026-05
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-tier: 1
     x-tier-reason: well-known-api-first
   - name: dog-api
@@ -10831,6 +10820,9 @@ network:
   - name: doordash
     url: https://github.com/api-evangelist/doordash
     x-type: company
+    x-fortune:
+      - Fortune 500
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 2
     x-tier-reason: company-strong
@@ -10967,6 +10959,8 @@ network:
   - name: dropbox
     url: https://github.com/api-evangelist/dropbox
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 1
     x-tier-reason: well-known-api-first
@@ -11162,6 +11156,8 @@ network:
     url: https://github.com/api-evangelist/east-west-bancorp
     x-profiled: 2026-05
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-tier: 2
     x-tier-reason: company-fortune
   - name: eastman-chemical
@@ -11222,6 +11218,7 @@ network:
     url: https://github.com/api-evangelist/echostar
     x-type: company
     x-fortune:
+      - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
@@ -11286,8 +11283,6 @@ network:
   - name: edgewell-personal-care
     url: https://github.com/api-evangelist/edgewell-personal-care
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -11333,6 +11328,9 @@ network:
   - name: edward-jones
     url: https://github.com/api-evangelist/edward-jones
     x-type: company
+    x-fortune:
+      - Fortune 500
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -11408,6 +11406,7 @@ network:
     url: https://github.com/api-evangelist/electronic-arts
     x-type: company
     x-fortune:
+      - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
     x-tier: 2
@@ -11438,7 +11437,6 @@ network:
     url: https://github.com/api-evangelist/eli-lilly
     x-type: company
     x-fortune:
-      - Fortune 100
       - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
@@ -11555,8 +11553,6 @@ network:
   - name: enable-midstream-partners
     url: https://github.com/api-evangelist/enable-midstream-partners
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -11577,6 +11573,8 @@ network:
   - name: encore
     url: https://github.com/api-evangelist/encore
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
@@ -11589,6 +11587,8 @@ network:
   - name: endeavor-group-holdings
     url: https://github.com/api-evangelist/endeavor-group-holdings
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -11810,7 +11810,6 @@ network:
     url: https://github.com/api-evangelist/eqt
     x-type: company
     x-fortune:
-      - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
@@ -11972,8 +11971,6 @@ network:
   - name: etrade
     url: https://github.com/api-evangelist/etrade
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
@@ -11981,6 +11978,8 @@ network:
     url: https://github.com/api-evangelist/etsy
     x-profiled: 2026-05
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-tier: 3
     x-tier-reason: no-apis
   - name: eu-open-data-portal
@@ -12023,8 +12022,6 @@ network:
     url: https://github.com/api-evangelist/evercore
     x-profiled: 2026-05
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-tier: 2
     x-tier-reason: company-fortune
   - name: eversource-energy
@@ -12120,8 +12117,6 @@ network:
   - name: express
     url: https://github.com/api-evangelist/express
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
@@ -12157,13 +12152,13 @@ network:
     url: https://github.com/api-evangelist/f5-networks
     x-profiled: 2026-05
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-tier: 2
     x-tier-reason: company-strong
   - name: f5
     url: https://github.com/api-evangelist/f5
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
@@ -12310,6 +12305,7 @@ network:
     url: https://github.com/api-evangelist/fastenal
     x-type: company
     x-fortune:
+      - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
@@ -12679,7 +12675,6 @@ network:
     url: https://github.com/api-evangelist/first-american-financial
     x-type: company
     x-fortune:
-      - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
@@ -12687,6 +12682,9 @@ network:
   - name: first-citizens-bancshares
     url: https://github.com/api-evangelist/first-citizens-bancshares
     x-type: company
+    x-fortune:
+      - Fortune 500
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -12750,6 +12748,8 @@ network:
     url: https://github.com/api-evangelist/five-below
     x-profiled: 2026-05
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-tier: 3
     x-tier-reason: no-apis
   - name: fivetran
@@ -12804,8 +12804,6 @@ network:
     url: https://github.com/api-evangelist/fleetcor
     x-profiled: 2026-05
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-tier: 3
     x-tier-reason: no-apis
   - name: flexera
@@ -12946,6 +12944,9 @@ network:
   - name: fm
     url: https://github.com/api-evangelist/fm
     x-type: company
+    x-fortune:
+      - Fortune 500
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -13071,7 +13072,6 @@ network:
     x-profiled: 2026-05
     x-type: company
     x-fortune:
-      - Fortune 500
       - Fortune 1000
     x-tier: 2
     x-tier-reason: company-fortune
@@ -13084,8 +13084,6 @@ network:
   - name: fossil-group
     url: https://github.com/api-evangelist/fossil-group
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -13231,6 +13229,8 @@ network:
   - name: frontier-communications
     url: https://github.com/api-evangelist/frontier-communications
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -13343,6 +13343,8 @@ network:
   - name: gamestop
     url: https://github.com/api-evangelist/gamestop
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -13420,6 +13422,9 @@ network:
   - name: ge-healthcare-technologies
     url: https://github.com/api-evangelist/ge-healthcare-technologies
     x-type: company
+    x-fortune:
+      - Fortune 500
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -13469,7 +13474,6 @@ network:
     url: https://github.com/api-evangelist/general-dynamics
     x-type: company
     x-fortune:
-      - Fortune 100
       - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
@@ -13519,8 +13523,6 @@ network:
   - name: genesco
     url: https://github.com/api-evangelist/genesco
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -13780,8 +13782,6 @@ network:
   - name: gnc-holdings
     url: https://github.com/api-evangelist/gnc-holdings
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -15064,8 +15064,6 @@ network:
   - name: groupon
     url: https://github.com/api-evangelist/groupon
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -15114,6 +15112,9 @@ network:
   - name: guardian-life-ins-co-of-america
     url: https://github.com/api-evangelist/guardian-life-ins-co-of-america
     x-type: company
+    x-fortune:
+      - Fortune 500
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -15211,8 +15212,6 @@ network:
   - name: hain-celestial-group
     url: https://github.com/api-evangelist/hain-celestial-group
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -15260,6 +15259,8 @@ network:
   - name: hanesbrands
     url: https://github.com/api-evangelist/hanesbrands
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -15662,8 +15663,6 @@ network:
   - name: hexion
     url: https://github.com/api-evangelist/hexion
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -15772,8 +15771,6 @@ network:
   - name: hni
     url: https://github.com/api-evangelist/hni
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -15934,6 +15931,8 @@ network:
   - name: howmet-aerospace
     url: https://github.com/api-evangelist/howmet-aerospace
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -16103,7 +16102,6 @@ network:
     url: https://github.com/api-evangelist/huntsman
     x-type: company
     x-fortune:
-      - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
@@ -16467,8 +16465,6 @@ network:
   - name: infor
     url: https://github.com/api-evangelist/infor
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 2
     x-tier-reason: company-medium
@@ -16489,10 +16485,6 @@ network:
   - name: ingram-micro
     url: https://github.com/api-evangelist/ingram-micro
     x-type: company
-    x-fortune:
-      - Fortune 100
-      - Fortune 500
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
@@ -16543,6 +16535,8 @@ network:
   - name: instacart
     url: https://github.com/api-evangelist/instacart
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 2
     x-tier-reason: company-strong
@@ -16650,6 +16644,7 @@ network:
     url: https://github.com/api-evangelist/interactive-brokers
     x-type: company
     x-fortune:
+      - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
@@ -16780,9 +16775,6 @@ network:
   - name: interpublic
     url: https://github.com/api-evangelist/interpublic
     x-type: company
-    x-fortune:
-      - Fortune 500
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -16790,6 +16782,9 @@ network:
     url: https://github.com/api-evangelist/interpublic-group
     x-profiled: 2026-05
     x-type: company
+    x-fortune:
+      - Fortune 500
+      - Fortune 1000
     x-tier: 3
     x-tier-reason: no-apis
   - name: intl-fcstone
@@ -16808,6 +16803,7 @@ network:
     url: https://github.com/api-evangelist/intuitive-surgical
     x-type: company
     x-fortune:
+      - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
@@ -17104,8 +17100,6 @@ network:
   - name: jcrew-group
     url: https://github.com/api-evangelist/jcrew-group
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -17125,6 +17119,7 @@ network:
     url: https://github.com/api-evangelist/jefferies-financial-group
     x-type: company
     x-fortune:
+      - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
@@ -17255,6 +17250,9 @@ network:
   - name: jms
     url: https://github.com/api-evangelist/jms
     x-type: standard
+    x-fortune:
+      - Fortune 500
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: standard
@@ -17301,9 +17299,6 @@ network:
   - name: jones-financial
     url: https://github.com/api-evangelist/jones-financial
     x-type: company
-    x-fortune:
-      - Fortune 500
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -17517,8 +17512,6 @@ network:
   - name: kansas-city-southern
     url: https://github.com/api-evangelist/kansas-city-southern
     x-type: opensource
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -17531,8 +17524,6 @@ network:
   - name: kar-auction-services
     url: https://github.com/api-evangelist/kar-auction-services
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -17609,6 +17600,9 @@ network:
   - name: kellanova
     url: https://github.com/api-evangelist/kellanova
     x-type: company
+    x-fortune:
+      - Fortune 500
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -17621,9 +17615,6 @@ network:
   - name: kellogg
     url: https://github.com/api-evangelist/kellogg
     x-type: company
-    x-fortune:
-      - Fortune 500
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -17646,8 +17637,6 @@ network:
   - name: kennametal
     url: https://github.com/api-evangelist/kennametal
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -17849,16 +17838,11 @@ network:
     url: https://github.com/api-evangelist/knight-swift-transportation
     x-profiled: 2026-05
     x-type: company
-    x-fortune:
-      - Fortune 500
-      - Fortune 1000
     x-tier: 2
     x-tier-reason: company-fortune
   - name: knights-of-columbus
     url: https://github.com/api-evangelist/knights-of-columbus
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -18103,9 +18087,6 @@ network:
   - name: kyndryl
     url: https://github.com/api-evangelist/kyndryl
     x-type: company
-    x-fortune:
-      - Fortune 500
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -18113,6 +18094,9 @@ network:
     url: https://github.com/api-evangelist/kyndryl-holdings
     x-profiled: 2026-05
     x-type: company
+    x-fortune:
+      - Fortune 500
+      - Fortune 1000
     x-tier: 3
     x-tier-reason: no-apis
   - name: kyverno
@@ -18154,6 +18138,9 @@ network:
   - name: labcorp
     url: https://github.com/api-evangelist/labcorp
     x-type: company
+    x-fortune:
+      - Fortune 500
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 2
     x-tier-reason: company-fortune
@@ -18166,9 +18153,6 @@ network:
   - name: laboratory-corp-of-america
     url: https://github.com/api-evangelist/laboratory-corp-of-america
     x-type: company
-    x-fortune:
-      - Fortune 500
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 2
     x-tier-reason: company-fortune
@@ -18230,7 +18214,6 @@ network:
     url: https://github.com/api-evangelist/landstar-system
     x-type: company
     x-fortune:
-      - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
@@ -18268,6 +18251,9 @@ network:
   - name: las-vegas-sands
     url: https://github.com/api-evangelist/las-vegas-sands
     x-type: company
+    x-fortune:
+      - Fortune 500
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -18367,8 +18353,6 @@ network:
   - name: legg-mason
     url: https://github.com/api-evangelist/legg-mason
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -18457,6 +18441,8 @@ network:
   - name: levi-strauss
     url: https://github.com/api-evangelist/levi-strauss
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -18524,8 +18510,6 @@ network:
     url: https://github.com/api-evangelist/lhc-group
     x-profiled: 2026-05
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-tier: 2
     x-tier-reason: company-fortune
   - name: liberty-interactive
@@ -18959,15 +18943,15 @@ network:
   - name: lpl-financial-holdings
     url: https://github.com/api-evangelist/lpl-financial-holdings
     x-type: company
+    x-fortune:
+      - Fortune 500
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
   - name: lpl-financial
     url: https://github.com/api-evangelist/lpl-financial
     x-type: company
-    x-fortune:
-      - Fortune 500
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -19102,8 +19086,6 @@ network:
   - name: magellan-midstream-partners
     url: https://github.com/api-evangelist/magellan-midstream-partners
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -19204,8 +19186,6 @@ network:
     url: https://github.com/api-evangelist/mantech
     x-profiled: 2026-05
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-tier: 3
     x-tier-reason: no-apis
   - name: mapbox
@@ -19230,7 +19210,6 @@ network:
     url: https://github.com/api-evangelist/marathon-oil
     x-type: company
     x-fortune:
-      - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
@@ -19495,8 +19474,6 @@ network:
   - name: maxim-integrated-products
     url: https://github.com/api-evangelist/maxim-integrated-products
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -19644,8 +19621,6 @@ network:
   - name: mednax
     url: https://github.com/api-evangelist/mednax
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -19750,8 +19725,6 @@ network:
   - name: meritor
     url: https://github.com/api-evangelist/meritor
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -19782,6 +19755,10 @@ network:
   - name: meta-platforms
     url: https://github.com/api-evangelist/meta-platforms
     x-type: company
+    x-fortune:
+      - Fortune 100
+      - Fortune 500
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -19818,10 +19795,6 @@ network:
   - name: meta
     url: https://github.com/api-evangelist/meta
     x-type: company
-    x-fortune:
-      - Fortune 100
-      - Fortune 500
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 1
     x-tier-reason: inline-pricing-data
@@ -19892,6 +19865,8 @@ network:
   - name: mettler-toledo-international
     url: https://github.com/api-evangelist/mettler-toledo-international
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -19913,8 +19888,6 @@ network:
   - name: michaels-cos
     url: https://github.com/api-evangelist/michaels-cos
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -19928,6 +19901,7 @@ network:
     url: https://github.com/api-evangelist/microchip-technology
     x-type: company
     x-fortune:
+      - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
@@ -21023,8 +20997,6 @@ network:
     url: https://github.com/api-evangelist/modine-manufacturing
     x-profiled: 2026-05
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-tier: 2
     x-tier-reason: company-fortune
   - name: modo-energy
@@ -21151,6 +21123,7 @@ network:
     url: https://github.com/api-evangelist/monster-beverage
     x-type: company
     x-fortune:
+      - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
@@ -21327,6 +21300,8 @@ network:
     url: https://github.com/api-evangelist/msci
     x-profiled: 2026-05
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-tier: 3
     x-tier-reason: no-apis
   - name: mtech-systems
@@ -21393,17 +21368,12 @@ network:
   - name: mutual-of-america-life-insurance
     url: https://github.com/api-evangelist/mutual-of-america-life-insurance
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
   - name: mutual-of-omaha-insurance
     url: https://github.com/api-evangelist/mutual-of-omaha-insurance
     x-type: company
-    x-fortune:
-      - Fortune 500
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -21827,7 +21797,6 @@ network:
     url: https://github.com/api-evangelist/ncr
     x-type: company
     x-fortune:
-      - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
@@ -21902,6 +21871,8 @@ network:
     url: https://github.com/api-evangelist/netapp
     x-profiled: 2026-05
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-tier: 2
     x-tier-reason: company-strong
   - name: netbird
@@ -22006,8 +21977,6 @@ network:
   - name: new-jersey-resources
     url: https://github.com/api-evangelist/new-jersey-resources
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -22070,8 +22039,6 @@ network:
     url: https://github.com/api-evangelist/newmark-group
     x-profiled: 2026-05
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-tier: 3
     x-tier-reason: no-apis
   - name: newmarket
@@ -22133,9 +22100,6 @@ network:
   - name: nexeo-solutions-holdings
     url: https://github.com/api-evangelist/nexeo-solutions-holdings
     x-type: company
-    x-fortune:
-      - Fortune 500
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -22288,8 +22252,6 @@ network:
   - name: noble-energy
     url: https://github.com/api-evangelist/noble-energy
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -22463,6 +22425,9 @@ network:
   - name: nov
     url: https://github.com/api-evangelist/nov
     x-type: company
+    x-fortune:
+      - Fortune 500
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -22496,8 +22461,6 @@ network:
   - name: nu-skin-enterprises
     url: https://github.com/api-evangelist/nu-skin-enterprises
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -22697,8 +22660,6 @@ network:
   - name: oceaneering-international
     url: https://github.com/api-evangelist/oceaneering-international
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -22923,7 +22884,6 @@ network:
     url: https://github.com/api-evangelist/olin
     x-type: company
     x-fortune:
-      - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
@@ -22943,9 +22903,6 @@ network:
   - name: omnicom
     url: https://github.com/api-evangelist/omnicom
     x-type: company
-    x-fortune:
-      - Fortune 500
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -22953,6 +22910,9 @@ network:
     url: https://github.com/api-evangelist/omnicom-group
     x-profiled: 2026-05
     x-type: company
+    x-fortune:
+      - Fortune 500
+      - Fortune 1000
     x-tier: 3
     x-tier-reason: no-apis
   - name: on-semiconductor
@@ -23657,6 +23617,8 @@ network:
   - name: oscar-health
     url: https://github.com/api-evangelist/oscar-health
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -23834,6 +23796,9 @@ network:
   - name: owens-illinois
     url: https://github.com/api-evangelist/owens-illinois
     x-type: company
+    x-fortune:
+      - Fortune 500
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -24040,9 +24005,6 @@ network:
   - name: paramount
     url: https://github.com/api-evangelist/paramount
     x-type: company
-    x-fortune:
-      - Fortune 500
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -24050,6 +24012,9 @@ network:
     url: https://github.com/api-evangelist/paramount-global
     x-profiled: 2026-05
     x-type: company
+    x-fortune:
+      - Fortune 500
+      - Fortune 1000
     x-tier: 3
     x-tier-reason: no-apis
   - name: parexel-international
@@ -24126,8 +24091,6 @@ network:
   - name: party-city-holdings
     url: https://github.com/api-evangelist/party-city-holdings
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -24154,6 +24117,8 @@ network:
   - name: patterson-uti-energy
     url: https://github.com/api-evangelist/patterson-uti-energy
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -24210,7 +24175,6 @@ network:
     url: https://github.com/api-evangelist/pbf-energy
     x-type: company
     x-fortune:
-      - Fortune 100
       - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
@@ -24278,6 +24242,8 @@ network:
     url: https://github.com/api-evangelist/penn-entertainment
     x-profiled: 2026-05
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-tier: 3
     x-tier-reason: no-apis
   - name: penn-medicine
@@ -24290,21 +24256,19 @@ network:
     url: https://github.com/api-evangelist/penn-mutual
     x-profiled: 2026-05
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-tier: 3
     x-tier-reason: no-apis
   - name: penn-mutual-life-insurance
     url: https://github.com/api-evangelist/penn-mutual-life-insurance
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
   - name: penn-national-gaming
     url: https://github.com/api-evangelist/penn-national-gaming
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -24406,8 +24370,6 @@ network:
   - name: perkinelmer
     url: https://github.com/api-evangelist/perkinelmer
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -24451,6 +24413,8 @@ network:
     url: https://github.com/api-evangelist/petco
     x-profiled: 2026-05
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-tier: 2
     x-tier-reason: company-fortune
   - name: peter-kiewit-sons
@@ -24487,6 +24451,9 @@ network:
   - name: pg-and-e
     url: https://github.com/api-evangelist/pg-and-e
     x-type: company
+    x-fortune:
+      - Fortune 500
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 2
     x-tier-reason: company-fortune
@@ -24499,9 +24466,6 @@ network:
   - name: pgande
     url: https://github.com/api-evangelist/pgande
     x-type: company
-    x-fortune:
-      - Fortune 500
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -24619,6 +24583,8 @@ network:
   - name: pinterest
     url: https://github.com/api-evangelist/pinterest
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 1
     x-tier-reason: inline-pricing-data
@@ -24959,6 +24925,8 @@ network:
   - name: post
     url: https://github.com/api-evangelist/post
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -25098,8 +25066,6 @@ network:
     url: https://github.com/api-evangelist/presidio
     x-profiled: 2026-05
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-tier: 2
     x-tier-reason: company-fortune
   - name: prestige-consumer-healthcare
@@ -25321,6 +25287,7 @@ network:
     url: https://github.com/api-evangelist/prologis
     x-type: company
     x-fortune:
+      - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
@@ -25700,7 +25667,6 @@ network:
     url: https://github.com/api-evangelist/qualcomm
     x-type: company
     x-fortune:
-      - Fortune 100
       - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
@@ -25937,6 +25903,8 @@ network:
   - name: radius
     url: https://github.com/api-evangelist/radius
     x-type: standard
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: standard
@@ -25985,6 +25953,8 @@ network:
   - name: ralph-lauren
     url: https://github.com/api-evangelist/ralph-lauren
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -26068,10 +26038,6 @@ network:
   - name: raytheon
     url: https://github.com/api-evangelist/raytheon
     x-type: company
-    x-fortune:
-      - Fortune 100
-      - Fortune 500
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -26168,6 +26134,8 @@ network:
   - name: realogy-holdings
     url: https://github.com/api-evangelist/realogy-holdings
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -26181,6 +26149,8 @@ network:
     url: https://github.com/api-evangelist/realty-income
     x-profiled: 2026-05
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-tier: 3
     x-tier-reason: no-apis
   - name: realtyna
@@ -26241,8 +26211,6 @@ network:
     url: https://github.com/api-evangelist/red-hat
     x-profiled: 2026-05
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-tier: 2
     x-tier-reason: company-strong
   - name: red5
@@ -26320,8 +26288,6 @@ network:
   - name: regal-beloit
     url: https://github.com/api-evangelist/regal-beloit
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -26335,6 +26301,8 @@ network:
     url: https://github.com/api-evangelist/regal-rexnord
     x-profiled: 2026-05
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-tier: 2
     x-tier-reason: company-fortune
   - name: regency-energy-partners
@@ -26445,6 +26413,9 @@ network:
   - name: reliance
     url: https://github.com/api-evangelist/reliance
     x-type: company
+    x-fortune:
+      - Fortune 500
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -26481,8 +26452,6 @@ network:
   - name: rent-a-center
     url: https://github.com/api-evangelist/rent-a-center
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -26578,8 +26547,6 @@ network:
   - name: resolute-forest-products
     url: https://github.com/api-evangelist/resolute-forest-products
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -26713,8 +26680,6 @@ network:
     url: https://github.com/api-evangelist/revlon
     x-profiled: 2026-05
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-tier: 3
     x-tier-reason: no-apis
   - name: revolutio
@@ -26726,8 +26691,6 @@ network:
   - name: rexnord
     url: https://github.com/api-evangelist/rexnord
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -26806,7 +26769,6 @@ network:
     url: https://github.com/api-evangelist/robert-half-international
     x-type: company
     x-fortune:
-      - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
@@ -26814,6 +26776,8 @@ network:
   - name: roblox-engine-api
     url: https://github.com/api-evangelist/roblox-engine-api
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
@@ -26939,6 +26903,7 @@ network:
     url: https://github.com/api-evangelist/rpm-international
     x-type: company
     x-fortune:
+      - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
@@ -27022,6 +26987,9 @@ network:
   - name: rush-enterprises
     url: https://github.com/api-evangelist/rush-enterprises
     x-type: company
+    x-fortune:
+      - Fortune 500
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
@@ -27123,6 +27091,8 @@ network:
     url: https://github.com/api-evangelist/saia
     x-profiled: 2026-05
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-tier: 2
     x-tier-reason: company-fortune
   - name: saic
@@ -27283,8 +27253,6 @@ network:
   - name: sanderson-farms
     url: https://github.com/api-evangelist/sanderson-farms
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -27596,8 +27564,6 @@ network:
   - name: schnitzer-steel-industries
     url: https://github.com/api-evangelist/schnitzer-steel-industries
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -27860,6 +27826,9 @@ network:
   - name: securian-financial-group
     url: https://github.com/api-evangelist/securian-financial-group
     x-type: company
+    x-fortune:
+      - Fortune 500
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -28023,6 +27992,8 @@ network:
   - name: sentry-insurance-group
     url: https://github.com/api-evangelist/sentry-insurance-group
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -28133,8 +28104,6 @@ network:
   - name: servicemaster-global-holdings
     url: https://github.com/api-evangelist/servicemaster-global-holdings
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -28425,6 +28394,8 @@ network:
   - name: simon-property-group
     url: https://github.com/api-evangelist/simon-property-group
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 2
     x-tier-reason: company-fortune
@@ -28531,6 +28502,8 @@ network:
     url: https://github.com/api-evangelist/skyline-champion
     x-profiled: 2026-05
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-tier: 2
     x-tier-reason: company-fortune
   - name: skywest
@@ -28662,6 +28635,8 @@ network:
   - name: snapchat
     url: https://github.com/api-evangelist/snapchat
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 2
     x-tier-reason: company-strong
@@ -28681,6 +28656,8 @@ network:
     url: https://github.com/api-evangelist/snowflake
     x-profiled: 2026-05
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-tier: 1
     x-tier-reason: well-known-api-first
   - name: snowplow
@@ -28870,7 +28847,6 @@ network:
     url: https://github.com/api-evangelist/sonoco-products
     x-type: company
     x-fortune:
-      - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
@@ -28947,7 +28923,6 @@ network:
     url: https://github.com/api-evangelist/southwestern-energy
     x-type: company
     x-fortune:
-      - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
     x-tier: 2
@@ -29146,12 +29121,16 @@ network:
   - name: spire
     url: https://github.com/api-evangelist/spire
     x-type: opensource
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: opensource-thin
   - name: spirit-aerosystems-holdings
     url: https://github.com/api-evangelist/spirit-aerosystems-holdings
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -29238,8 +29217,6 @@ network:
   - name: sprague-resources
     url: https://github.com/api-evangelist/sprague-resources
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
@@ -29356,8 +29333,6 @@ network:
   - name: spx
     url: https://github.com/api-evangelist/spx
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
@@ -29383,8 +29358,6 @@ network:
     url: https://github.com/api-evangelist/square
     x-profiled: 2026-05
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-tier: 1
     x-tier-reason: well-known-api-first
   - name: squid
@@ -29572,16 +29545,16 @@ network:
   - name: state-farm-insurance
     url: https://github.com/api-evangelist/state-farm-insurance
     x-type: company
+    x-fortune:
+      - Fortune 100
+      - Fortune 500
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 2
     x-tier-reason: company-fortune
   - name: state-farm
     url: https://github.com/api-evangelist/state-farm
     x-type: company
-    x-fortune:
-      - Fortune 100
-      - Fortune 500
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 2
     x-tier-reason: company-fortune
@@ -29890,6 +29863,7 @@ network:
     url: https://github.com/api-evangelist/super-micro-computer
     x-type: company
     x-fortune:
+      - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
@@ -29969,6 +29943,9 @@ network:
   - name: swift-transportation
     url: https://github.com/api-evangelist/swift-transportation
     x-type: company
+    x-fortune:
+      - Fortune 500
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
@@ -30045,8 +30022,6 @@ network:
     url: https://github.com/api-evangelist/syneos-health
     x-profiled: 2026-05
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-tier: 2
     x-tier-reason: company-fortune
   - name: synnex
@@ -30140,8 +30115,6 @@ network:
   - name: tailored-brands
     url: https://github.com/api-evangelist/tailored-brands
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -30187,6 +30160,8 @@ network:
     url: https://github.com/api-evangelist/tapestry
     x-profiled: 2026-05
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-tier: 2
     x-tier-reason: company-fortune
   - name: targa-energy
@@ -30762,7 +30737,6 @@ network:
     url: https://github.com/api-evangelist/thermo-fisher-scientific
     x-type: company
     x-fortune:
-      - Fortune 100
       - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
@@ -30877,8 +30851,6 @@ network:
   - name: tiffany
     url: https://github.com/api-evangelist/tiffany
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
@@ -30975,6 +30947,8 @@ network:
   - name: toast
     url: https://github.com/api-evangelist/toast
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 2
     x-tier-reason: company-strong
@@ -31191,9 +31165,6 @@ network:
   - name: travelcenters-of-america
     url: https://github.com/api-evangelist/travelcenters-of-america
     x-type: company
-    x-fortune:
-      - Fortune 500
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
@@ -31201,7 +31172,6 @@ network:
     url: https://github.com/api-evangelist/travelers
     x-type: company
     x-fortune:
-      - Fortune 100
       - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
@@ -31356,8 +31326,6 @@ network:
   - name: triple-s-management
     url: https://github.com/api-evangelist/triple-s-management
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
@@ -31370,8 +31338,6 @@ network:
   - name: triumph-group
     url: https://github.com/api-evangelist/triumph-group
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 2
     x-tier-reason: company-fortune
@@ -31402,8 +31368,6 @@ network:
   - name: trueblue
     url: https://github.com/api-evangelist/trueblue
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -31505,6 +31469,8 @@ network:
   - name: twilio
     url: https://github.com/api-evangelist/twilio
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 1
     x-tier-reason: already-reconciled
@@ -31524,8 +31490,6 @@ network:
     url: https://github.com/api-evangelist/twitter
     x-profiled: 2026-05
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-tier: 2
     x-tier-reason: company-medium
   - name: tyk
@@ -31735,8 +31699,6 @@ network:
   - name: unisys
     url: https://github.com/api-evangelist/unisys
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 2
     x-tier-reason: company-fortune
@@ -31901,6 +31863,9 @@ network:
   - name: universal-health-services
     url: https://github.com/api-evangelist/universal-health-services
     x-type: company
+    x-fortune:
+      - Fortune 500
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -31968,6 +31933,8 @@ network:
   - name: upbound
     url: https://github.com/api-evangelist/upbound
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
@@ -32173,7 +32140,6 @@ network:
     url: https://github.com/api-evangelist/usaa
     x-type: company
     x-fortune:
-      - Fortune 100
       - Fortune 500
       - Fortune 1000
     x-profiled: 2026-05
@@ -32290,8 +32256,6 @@ network:
   - name: varian-medical-systems
     url: https://github.com/api-evangelist/varian-medical-systems
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 2
     x-tier-reason: company-fortune
@@ -32658,9 +32622,6 @@ network:
     url: https://github.com/api-evangelist/vmware
     x-profiled: 2026-05
     x-type: company
-    x-fortune:
-      - Fortune 500
-      - Fortune 1000
     x-tier: 2
     x-tier-reason: company-strong
   - name: vnc
@@ -32708,6 +32669,9 @@ network:
   - name: voya-financial
     url: https://github.com/api-evangelist/voya-financial
     x-type: company
+    x-fortune:
+      - Fortune 500
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -32759,8 +32723,6 @@ network:
   - name: wabco-holdings
     url: https://github.com/api-evangelist/wabco-holdings
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
@@ -33105,15 +33067,15 @@ network:
   - name: western-and-southern-financial-group
     url: https://github.com/api-evangelist/western-and-southern-financial-group
     x-type: company
+    x-fortune:
+      - Fortune 500
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
   - name: western-and-southern-financial
     url: https://github.com/api-evangelist/western-and-southern-financial
     x-type: company
-    x-fortune:
-      - Fortune 500
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 2
     x-tier-reason: company-fortune
@@ -33176,6 +33138,8 @@ network:
   - name: west
     url: https://github.com/api-evangelist/west
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -33189,6 +33153,8 @@ network:
     url: https://github.com/api-evangelist/wex
     x-profiled: 2026-05
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-tier: 3
     x-tier-reason: no-apis
   - name: weyerhaeuser
@@ -33260,6 +33226,8 @@ network:
   - name: whiting-petroleum
     url: https://github.com/api-evangelist/whiting-petroleum
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -33326,8 +33294,6 @@ network:
   - name: windstream-holdings
     url: https://github.com/api-evangelist/windstream-holdings
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
@@ -33365,6 +33331,8 @@ network:
     url: https://github.com/api-evangelist/wintrust-financial
     x-profiled: 2026-05
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-tier: 2
     x-tier-reason: company-fortune
   - name: wired
@@ -33412,8 +33380,6 @@ network:
   - name: wolverine-world-wide
     url: https://github.com/api-evangelist/wolverine-world-wide
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -33523,6 +33489,7 @@ network:
     x-profiled: 2026-05
     x-type: company
     x-fortune:
+      - Fortune 500
       - Fortune 1000
     x-tier: 2
     x-tier-reason: company-strong
@@ -33539,15 +33506,15 @@ network:
   - name: world-fuel-services
     url: https://github.com/api-evangelist/world-fuel-services
     x-type: company
-    x-fortune:
-      - Fortune 100
-      - Fortune 500
-      - Fortune 1000
     x-tier: 3
     x-tier-reason: no-apis
   - name: world-kinect
     url: https://github.com/api-evangelist/world-kinect
     x-type: company
+    x-fortune:
+      - Fortune 100
+      - Fortune 500
+      - Fortune 1000
     x-tier: 3
     x-tier-reason: no-apis
   - name: world-news-api
@@ -33565,8 +33532,6 @@ network:
   - name: wpx-energy
     url: https://github.com/api-evangelist/wpx-energy
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-tier: 3
     x-tier-reason: no-apis
   - name: wr-berkley
@@ -33616,9 +33581,6 @@ network:
   - name: ww-grainger
     url: https://github.com/api-evangelist/ww-grainger
     x-type: company
-    x-fortune:
-      - Fortune 500
-      - Fortune 1000
     x-tier: 3
     x-tier-reason: no-apis
   - name: wyndham-worldwide
@@ -33631,6 +33593,8 @@ network:
   - name: wynn-resorts
     url: https://github.com/api-evangelist/wynn-resorts
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-tier: 3
     x-tier-reason: no-apis
   - name: wynsure
@@ -33654,6 +33618,8 @@ network:
   - name: xerox
     url: https://github.com/api-evangelist/xerox
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-tier: 2
     x-tier-reason: company-fortune
   - name: xero
@@ -33674,8 +33640,6 @@ network:
   - name: xilinx
     url: https://github.com/api-evangelist/xilinx
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-tier: 3
     x-tier-reason: no-apis
   - name: ximilar
@@ -33715,6 +33679,7 @@ network:
     url: https://github.com/api-evangelist/xylem
     x-type: company
     x-fortune:
+      - Fortune 500
       - Fortune 1000
     x-tier: 3
     x-tier-reason: no-apis
@@ -33829,8 +33794,6 @@ network:
     url: https://github.com/api-evangelist/zayo-group
     x-profiled: 2026-05
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-tier: 2
     x-tier-reason: company-fortune
   - name: zdnet
@@ -33913,13 +33876,14 @@ network:
   - name: zillow-group
     url: https://github.com/api-evangelist/zillow-group
     x-type: company
-    x-fortune:
-      - Fortune 1000
     x-tier: 3
     x-tier-reason: company-thin
   - name: zimmer-biomet
     url: https://github.com/api-evangelist/zimmer-biomet
     x-type: company
+    x-fortune:
+      - Fortune 500
+      - Fortune 1000
     x-tier: 3
     x-tier-reason: no-apis
   - name: zions-bancorp
@@ -33973,6 +33937,8 @@ network:
     url: https://github.com/api-evangelist/zoom
     x-profiled: 2026-05
     x-type: company
+    x-fortune:
+      - Fortune 1000
     x-tier: 1
     x-tier-reason: well-known-api-first
   - name: zot
@@ -34030,28 +33996,22 @@ network:
     x-profiled: '2026-05'
     x-type: company
     x-fortune:
-      - Fortune 500
       - Fortune 1000
   - name: opendoor-technologies
     url: https://github.com/api-evangelist/opendoor-technologies
     x-profiled: '2026-05'
     x-type: company
     x-fortune:
-      - Fortune 500
       - Fortune 1000
   - name: dcp-midstream
     url: https://github.com/api-evangelist/dcp-midstream
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 500
-      - Fortune 1000
   - name: jackson-financial
     url: https://github.com/api-evangelist/jackson-financial
     x-profiled: '2026-05'
     x-type: company
     x-fortune:
-      - Fortune 500
       - Fortune 1000
   - name: qurate-retail
     url: https://github.com/api-evangelist/qurate-retail
@@ -34065,7 +34025,6 @@ network:
     x-profiled: '2026-05'
     x-type: company
     x-fortune:
-      - Fortune 500
       - Fortune 1000
   - name: polaris
     url: https://github.com/api-evangelist/polaris
@@ -34078,9 +34037,6 @@ network:
     url: https://github.com/api-evangelist/arconic
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 500
-      - Fortune 1000
   - name: odp
     url: https://github.com/api-evangelist/odp
     x-profiled: '2026-05'
@@ -34093,14 +34049,11 @@ network:
     x-profiled: '2026-05'
     x-type: company
     x-fortune:
-      - Fortune 500
       - Fortune 1000
   - name: national-general-holdings
     url: https://github.com/api-evangelist/national-general-holdings
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: evergy
     url: https://github.com/api-evangelist/evergy
     x-profiled: '2026-05'
@@ -34129,8 +34082,6 @@ network:
     url: https://github.com/api-evangelist/genesis-healthcare
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: marriott-vacations-worldwide
     url: https://github.com/api-evangelist/marriott-vacations-worldwide
     x-profiled: '2026-05'
@@ -34153,8 +34104,6 @@ network:
     url: https://github.com/api-evangelist/sinclair-broadcast-group
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: asgn
     url: https://github.com/api-evangelist/asgn
     x-profiled: '2026-05'
@@ -34171,20 +34120,14 @@ network:
     url: https://github.com/api-evangelist/laureate-education
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: bmc-stock-holdings
     url: https://github.com/api-evangelist/bmc-stock-holdings
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: meredith
     url: https://github.com/api-evangelist/meredith
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: illumina
     url: https://github.com/api-evangelist/illumina
     x-profiled: '2026-05'
@@ -34201,8 +34144,6 @@ network:
     url: https://github.com/api-evangelist/scientific-games
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: mdc-holdings
     url: https://github.com/api-evangelist/mdc-holdings
     x-profiled: '2026-05'
@@ -34237,8 +34178,6 @@ network:
     url: https://github.com/api-evangelist/tri-pointe-group
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: elanco-animal-health
     url: https://github.com/api-evangelist/elanco-animal-health
     x-profiled: '2026-05'
@@ -34249,8 +34188,6 @@ network:
     url: https://github.com/api-evangelist/pra-health-sciences
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: middleby
     url: https://github.com/api-evangelist/middleby
     x-profiled: '2026-05'
@@ -34261,8 +34198,6 @@ network:
     url: https://github.com/api-evangelist/now
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: agnc-investment
     url: https://github.com/api-evangelist/agnc-investment
     x-profiled: '2026-05'
@@ -34273,8 +34208,6 @@ network:
     url: https://github.com/api-evangelist/hill-rom-holdings
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: woodward
     url: https://github.com/api-evangelist/woodward
     x-profiled: '2026-05'
@@ -34297,8 +34230,6 @@ network:
     url: https://github.com/api-evangelist/pae
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: texas-roadhouse
     url: https://github.com/api-evangelist/texas-roadhouse
     x-profiled: '2026-05'
@@ -34315,20 +34246,14 @@ network:
     url: https://github.com/api-evangelist/atlas-air-worldwide-holdings
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: colony-capital
     url: https://github.com/api-evangelist/colony-capital
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: ttm-technologies
     url: https://github.com/api-evangelist/ttm-technologies
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: cooper
     url: https://github.com/api-evangelist/cooper
     x-profiled: '2026-05'
@@ -34345,8 +34270,6 @@ network:
     url: https://github.com/api-evangelist/renewable-energy-group
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: bluelinx-holdings
     url: https://github.com/api-evangelist/bluelinx-holdings
     x-profiled: '2026-05'
@@ -34375,14 +34298,10 @@ network:
     url: https://github.com/api-evangelist/new-residential-investment
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: herman-miller
     url: https://github.com/api-evangelist/herman-miller
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: grocery-outlet-holding
     url: https://github.com/api-evangelist/grocery-outlet-holding
     x-profiled: '2026-05'
@@ -34393,8 +34312,6 @@ network:
     url: https://github.com/api-evangelist/itron
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: mi-homes
     url: https://github.com/api-evangelist/mi-homes
     x-profiled: '2026-05'
@@ -34411,8 +34328,6 @@ network:
     url: https://github.com/api-evangelist/geo-group
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: ingersoll-rand
     url: https://github.com/api-evangelist/ingersoll-rand
     x-profiled: '2026-05'
@@ -34423,8 +34338,6 @@ network:
     url: https://github.com/api-evangelist/verso
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: arista-networks
     url: https://github.com/api-evangelist/arista-networks
     x-profiled: '2026-05'
@@ -34483,20 +34396,14 @@ network:
     url: https://github.com/api-evangelist/hexcel
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: ohio-national-mutual
     url: https://github.com/api-evangelist/ohio-national-mutual
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: cdk-global
     url: https://github.com/api-evangelist/cdk-global
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: avalonbay-communities
     url: https://github.com/api-evangelist/avalonbay-communities
     x-profiled: '2026-05'
@@ -34513,14 +34420,10 @@ network:
     url: https://github.com/api-evangelist/service-properties-trust
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: peoples-united-financial
     url: https://github.com/api-evangelist/peoples-united-financial
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: option-care-health
     url: https://github.com/api-evangelist/option-care-health
     x-profiled: '2026-05'
@@ -34555,8 +34458,6 @@ network:
     url: https://github.com/api-evangelist/first-horizon-national
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: vail-resorts
     url: https://github.com/api-evangelist/vail-resorts
     x-profiled: '2026-05'
@@ -34591,8 +34492,6 @@ network:
     url: https://github.com/api-evangelist/cypress-semiconductor
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: generac-holdings
     url: https://github.com/api-evangelist/generac-holdings
     x-profiled: '2026-05'
@@ -34609,8 +34508,6 @@ network:
     url: https://github.com/api-evangelist/echo-global-logistics
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: incyte
     url: https://github.com/api-evangelist/incyte
     x-profiled: '2026-05'
@@ -34621,14 +34518,10 @@ network:
     url: https://github.com/api-evangelist/foundation-building-materials
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: centric-brands
     url: https://github.com/api-evangelist/centric-brands
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: federated-mutual-insurance
     url: https://github.com/api-evangelist/federated-mutual-insurance
     x-profiled: '2026-05'
@@ -34645,14 +34538,10 @@ network:
     url: https://github.com/api-evangelist/bgc-partners
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: beazer-homes-usa
     url: https://github.com/api-evangelist/beazer-homes-usa
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: bruker
     url: https://github.com/api-evangelist/bruker
     x-profiled: '2026-05'
@@ -34663,8 +34552,6 @@ network:
     url: https://github.com/api-evangelist/oasis-petroleum
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: myr-group
     url: https://github.com/api-evangelist/myr-group
     x-profiled: '2026-05'
@@ -34681,8 +34568,6 @@ network:
     url: https://github.com/api-evangelist/bright-horizons-family-solutions
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: vista-outdoor
     url: https://github.com/api-evangelist/vista-outdoor
     x-profiled: '2026-05'
@@ -34693,14 +34578,10 @@ network:
     url: https://github.com/api-evangelist/tcf-financial
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: propetro-holding
     url: https://github.com/api-evangelist/propetro-holding
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: floor-and-decor-holdings
     url: https://github.com/api-evangelist/floor-and-decor-holdings
     x-profiled: '2026-05'
@@ -34711,14 +34592,10 @@ network:
     url: https://github.com/api-evangelist/barnes-and-noble-education
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: maxar-technologies
     url: https://github.com/api-evangelist/maxar-technologies
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: deckers-outdoor
     url: https://github.com/api-evangelist/deckers-outdoor
     x-profiled: '2026-05'
@@ -34741,8 +34618,6 @@ network:
     url: https://github.com/api-evangelist/mr-cooper-group
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: herc-holdings
     url: https://github.com/api-evangelist/herc-holdings
     x-profiled: '2026-05'
@@ -34753,11 +34628,7 @@ network:
     url: https://github.com/api-evangelist/healthpeak-properties
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: liberty-oilfield-services
     url: https://github.com/api-evangelist/liberty-oilfield-services
     x-profiled: '2026-05'
     x-type: company
-    x-fortune:
-      - Fortune 1000
