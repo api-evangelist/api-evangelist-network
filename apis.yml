@@ -34851,13 +34851,6 @@ network:
     x-fortune:
       - Fortune 500
       - Fortune 1000
-  - name: svb-financial-group
-    url: https://github.com/api-evangelist/svb-financial-group
-    x-profiled: '2026-05'
-    x-type: company
-    x-fortune:
-      - Fortune 500
-      - Fortune 1000
   - name: national-general-holdings
     url: https://github.com/api-evangelist/national-general-holdings
     x-profiled: '2026-05'
@@ -34882,20 +34875,8 @@ network:
     x-type: company
     x-fortune:
       - Fortune 1000
-  - name: yellow
-    url: https://github.com/api-evangelist/yellow
-    x-profiled: '2026-05'
-    x-type: company
-    x-fortune:
-      - Fortune 1000
   - name: schneider-national
     url: https://github.com/api-evangelist/schneider-national
-    x-profiled: '2026-05'
-    x-type: company
-    x-fortune:
-      - Fortune 1000
-  - name: nortonlifelock
-    url: https://github.com/api-evangelist/nortonlifelock
     x-profiled: '2026-05'
     x-type: company
     x-fortune:
@@ -34926,24 +34907,6 @@ network:
       - Fortune 1000
   - name: sinclair-broadcast-group
     url: https://github.com/api-evangelist/sinclair-broadcast-group
-    x-profiled: '2026-05'
-    x-type: company
-    x-fortune:
-      - Fortune 1000
-  - name: first-republic-bank
-    url: https://github.com/api-evangelist/first-republic-bank
-    x-profiled: '2026-05'
-    x-type: company
-    x-fortune:
-      - Fortune 1000
-  - name: wyndham-destinations
-    url: https://github.com/api-evangelist/wyndham-destinations
-    x-profiled: '2026-05'
-    x-type: company
-    x-fortune:
-      - Fortune 1000
-  - name: ppd
-    url: https://github.com/api-evangelist/ppd
     x-profiled: '2026-05'
     x-type: company
     x-fortune:
@@ -34992,12 +34955,6 @@ network:
       - Fortune 1000
   - name: scientific-games
     url: https://github.com/api-evangelist/scientific-games
-    x-profiled: '2026-05'
-    x-type: company
-    x-fortune:
-      - Fortune 1000
-  - name: lsc-communications
-    url: https://github.com/api-evangelist/lsc-communications
     x-profiled: '2026-05'
     x-type: company
     x-fortune:
