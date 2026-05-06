@@ -4,7 +4,7 @@ description: A network index of all APIs.json files maintained by the API Evange
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 url: https://raw.githubusercontent.com/api-evangelist/network/refs/heads/main/apis.yml
 created: '2026-02-27'
-modified: '2026-05-04'
+modified: '2026-05-06'
 specificationVersion: '0.19'
 type: Network
 tags:
@@ -35235,3 +35235,69 @@ network:
     x-type: company
     x-fortune:
       - Fortune 1000
+  - name: aligned-news
+    url: https://github.com/api-evangelist/aligned-news
+    x-profiled: '2026-05'
+    x-type: api
+    x-source: inbox
+    x-source-issue: 902
+  - name: api-snap
+    url: https://github.com/api-evangelist/api-snap
+    x-profiled: '2026-05'
+    x-type: api
+    x-source: inbox
+    x-source-issue: 900
+  - name: bubble
+    url: https://github.com/api-evangelist/bubble
+    x-profiled: '2026-05'
+    x-type: api
+    x-source: inbox
+    x-source-issue: 891
+  - name: descript
+    url: https://github.com/api-evangelist/descript
+    x-profiled: '2026-05'
+    x-type: api
+    x-source: inbox
+    x-source-issue: 904
+  - name: email-verifier-api
+    url: https://github.com/api-evangelist/email-verifier-api
+    x-profiled: '2026-05'
+    x-type: api
+    x-source: inbox
+    x-source-issue: 887
+  - name: gitea
+    url: https://github.com/api-evangelist/gitea
+    x-profiled: '2026-05'
+    x-type: api
+    x-source: inbox
+    x-source-issue: 903
+  - name: konbiniapi
+    url: https://github.com/api-evangelist/konbiniapi
+    x-profiled: '2026-05'
+    x-type: api
+    x-source: inbox
+    x-source-issue: 901
+  - name: lapis
+    url: https://github.com/api-evangelist/lapis
+    x-profiled: '2026-05'
+    x-type: api
+    x-source: inbox
+    x-source-issue: 892
+  - name: mobileapi-dev
+    url: https://github.com/api-evangelist/mobileapi-dev
+    x-profiled: '2026-05'
+    x-type: api
+    x-source: inbox
+    x-source-issue: 899
+  - name: valueray
+    url: https://github.com/api-evangelist/valueray
+    x-profiled: '2026-05'
+    x-type: api
+    x-source: inbox
+    x-source-issue: 898
+  - name: waxell
+    url: https://github.com/api-evangelist/waxell
+    x-profiled: '2026-05'
+    x-type: api
+    x-source: inbox
+    x-source-issue: 905
