@@ -35250,7 +35250,7 @@ network:
   - name: bubble
     url: https://github.com/api-evangelist/bubble
     x-profiled: '2026-05'
-    x-type: api
+    x-type: company
     x-source: inbox
     x-source-issue: 891
   - name: descript
@@ -35262,25 +35262,25 @@ network:
   - name: email-verifier-api
     url: https://github.com/api-evangelist/email-verifier-api
     x-profiled: '2026-05'
-    x-type: api
+    x-type: company
     x-source: inbox
     x-source-issue: 887
   - name: gitea
     url: https://github.com/api-evangelist/gitea
     x-profiled: '2026-05'
-    x-type: api
+    x-type: opensource
     x-source: inbox
     x-source-issue: 903
   - name: konbiniapi
     url: https://github.com/api-evangelist/konbiniapi
     x-profiled: '2026-05'
-    x-type: api
+    x-type: company
     x-source: inbox
     x-source-issue: 901
   - name: lapis
     url: https://github.com/api-evangelist/lapis
     x-profiled: '2026-05'
-    x-type: api
+    x-type: standard
     x-source: inbox
     x-source-issue: 892
   - name: mobileapi-dev
@@ -35292,12 +35292,12 @@ network:
   - name: valueray
     url: https://github.com/api-evangelist/valueray
     x-profiled: '2026-05'
-    x-type: api
+    x-type: company
     x-source: inbox
     x-source-issue: 898
   - name: waxell
     url: https://github.com/api-evangelist/waxell
     x-profiled: '2026-05'
-    x-type: api
+    x-type: company
     x-source: inbox
     x-source-issue: 905
