@@ -35286,7 +35286,7 @@ network:
   - name: mobileapi-dev
     url: https://github.com/api-evangelist/mobileapi-dev
     x-profiled: '2026-05'
-    x-type: api
+    x-type: company
     x-source: inbox
     x-source-issue: 899
   - name: valueray
