@@ -35256,7 +35256,7 @@ network:
   - name: descript
     url: https://github.com/api-evangelist/descript
     x-profiled: '2026-05'
-    x-type: api
+    x-type: company
     x-source: inbox
     x-source-issue: 904
   - name: email-verifier-api
