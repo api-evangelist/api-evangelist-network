@@ -35244,7 +35244,7 @@ network:
   - name: api-snap
     url: https://github.com/api-evangelist/api-snap
     x-profiled: '2026-05'
-    x-type: api
+    x-type: company
     x-source: inbox
     x-source-issue: 900
   - name: bubble
