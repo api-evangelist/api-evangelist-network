@@ -35238,7 +35238,7 @@ network:
   - name: aligned-news
     url: https://github.com/api-evangelist/aligned-news
     x-profiled: '2026-05'
-    x-type: api
+    x-type: company
     x-source: inbox
     x-source-issue: 902
   - name: api-snap
