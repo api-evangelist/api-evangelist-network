@@ -5571,9 +5571,9 @@ network:
   - name: barndoor
     url: https://github.com/api-evangelist/barndoor
     x-type: company
-    x-profiled: 2026-05
-    x-tier: 3
-    x-tier-reason: no-apis
+    x-profiled: 2026-05-15
+    x-tier: 2
+    x-tier-reason: full-platform-api-26-ops-19-paths-pricing-public
   - name: barnes-and-noble
     url: https://github.com/api-evangelist/barnes-and-noble
     x-type: company
