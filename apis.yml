@@ -24908,8 +24908,8 @@ network:
     url: https://github.com/api-evangelist/postman
     x-type: company
     x-profiled: 2026-05
-    x-tier: 2
-    x-tier-reason: company-strong
+    x-tier: 1
+    x-tier-reason: top-tier-api-platform
   - name: postmark
     url: https://github.com/api-evangelist/postmark
     x-type: company
