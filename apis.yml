@@ -17158,8 +17158,8 @@ network:
     url: https://github.com/api-evangelist/jentic
     x-type: company
     x-profiled: 2026-05
-    x-tier: 3
-    x-tier-reason: company-thin
+    x-tier: 1
+    x-tier-reason: top-tier-agent-api-integration-platform-arazzo-mcp-openapi
   - name: jest
     url: https://github.com/api-evangelist/jest
     x-type: opensource
