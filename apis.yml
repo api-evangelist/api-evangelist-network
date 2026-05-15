@@ -14925,10 +14925,10 @@ network:
     x-tier-reason: no-apis
   - name: gravitee
     url: https://github.com/api-evangelist/gravitee
-    x-type: company
+    x-type: opensource
     x-profiled: 2026-05
-    x-tier: 2
-    x-tier-reason: company-medium
+    x-tier: 1
+    x-tier-reason: opensource-tier1-api-management-platform
   - name: graybar-electric
     url: https://github.com/api-evangelist/graybar-electric
     x-type: company
