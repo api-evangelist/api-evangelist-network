@@ -31106,10 +31106,10 @@ network:
     x-tier-reason: no-apis
   - name: traefik
     url: https://github.com/api-evangelist/traefik
-    x-type: company
+    x-type: opensource
     x-profiled: 2026-05
-    x-tier: 2
-    x-tier-reason: company-medium
+    x-tier: 1
+    x-tier-reason: top-tier api-gateway provider in the agentic era - oss proxy plus commercial hub (api gateway, api management, ai gateway, mcp gateway)
   - name: traiana
     url: https://github.com/api-evangelist/traiana
     x-type: company
