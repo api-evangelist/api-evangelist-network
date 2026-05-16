@@ -144,12 +144,6 @@ network:
     x-type: topic
     x-tier: 3
     x-tier-reason: topic
-  - name: about-exim-exim-gov-export-import-bank-of-the-united-states
-    url: https://github.com/api-evangelist/about-exim-exim-gov-export-import-bank-of-the-united-states
-    x-profiled: 2026-05
-    x-type: government
-    x-tier: 3
-    x-tier-reason: government-thin
   - name: absence-io
     url: https://github.com/api-evangelist/absence-io
     x-profiled: 2026-05
@@ -414,12 +408,6 @@ network:
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
-  - name: adobe-premiere-pro
-    url: https://github.com/api-evangelist/adobe-premiere-pro
-    x-profiled: 2026-05
-    x-type: company
-    x-tier: 3
-    x-tier-reason: no-apis
   - name: adobe-suite
     url: https://github.com/api-evangelist/adobe-suite
     x-profiled: 2026-05
@@ -6037,12 +6025,6 @@ network:
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
-  - name: bloomberg-economics
-    url: https://github.com/api-evangelist/bloomberg-economics
-    x-profiled: 2026-05
-    x-type: company
-    x-tier: 3
-    x-tier-reason: no-apis
   - name: bloomberg-emsx
     url: https://github.com/api-evangelist/bloomberg-emsx
     x-type: company
@@ -6055,12 +6037,6 @@ network:
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
-  - name: bloomberg-enterprise-data
-    url: https://github.com/api-evangelist/bloomberg-enterprise-data
-    x-profiled: 2026-05
-    x-type: company
-    x-tier: 3
-    x-tier-reason: no-apis
   - name: bloomberg-esg-products
     url: https://github.com/api-evangelist/bloomberg-esg-products
     x-type: company
@@ -11170,12 +11146,6 @@ network:
     url: https://github.com/api-evangelist/ebpf
     x-type: standard
     x-profiled: 2026-05
-    x-tier: 3
-    x-tier-reason: no-apis
-  - name: ec2
-    url: https://github.com/api-evangelist/ec2
-    x-profiled: 2026-05
-    x-type: company
     x-tier: 3
     x-tier-reason: no-apis
   - name: echostar
@@ -16570,12 +16540,6 @@ network:
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
-  - name: intellij-idea
-    url: https://github.com/api-evangelist/intellij-idea
-    x-profiled: 2026-05
-    x-type: company
-    x-tier: 3
-    x-tier-reason: no-apis
   - name: intellimatch
     url: https://github.com/api-evangelist/intellimatch
     x-type: company
@@ -19762,12 +19726,6 @@ network:
     x-type: company
     x-tier: 3
     x-tier-reason: company-thin
-  - name: metasploit
-    url: https://github.com/api-evangelist/metasploit
-    x-profiled: 2026-05
-    x-type: company
-    x-tier: 3
-    x-tier-reason: no-apis
   - name: meteor
     url: https://github.com/api-evangelist/meteor
     x-type: company
@@ -20401,12 +20359,6 @@ network:
     x-profiled: 2026-05
     x-tier: 2
     x-tier-reason: company-strong
-  - name: microsoft-endpoint-manager
-    url: https://github.com/api-evangelist/microsoft-endpoint-manager
-    x-profiled: 2026-05
-    x-type: company
-    x-tier: 3
-    x-tier-reason: no-apis
   - name: microsoft-entity-framework
     url: https://github.com/api-evangelist/microsoft-entity-framework
     x-type: company
@@ -20467,12 +20419,6 @@ network:
     x-profiled: 2026-05
     x-tier: 2
     x-tier-reason: company-strong
-  - name: microsoft-identity-manager
-    url: https://github.com/api-evangelist/microsoft-identity-manager
-    x-profiled: 2026-05
-    x-type: company
-    x-tier: 3
-    x-tier-reason: no-apis
   - name: microsoft-intune
     url: https://github.com/api-evangelist/microsoft-intune
     x-type: company
@@ -20617,12 +20563,6 @@ network:
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
-  - name: microsoft-powerpoint
-    url: https://github.com/api-evangelist/microsoft-powerpoint
-    x-profiled: 2026-05
-    x-type: company
-    x-tier: 3
-    x-tier-reason: no-apis
   - name: microsoft-products
     url: https://github.com/api-evangelist/microsoft-products
     x-type: company
@@ -23415,12 +23355,6 @@ network:
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
-  - name: oracle-hyperion
-    url: https://github.com/api-evangelist/oracle-hyperion
-    x-profiled: 2026-05
-    x-type: company
-    x-tier: 3
-    x-tier-reason: no-apis
   - name: oracle-integration
     url: https://github.com/api-evangelist/oracle-integration
     x-profiled: 2026-05
@@ -23457,12 +23391,6 @@ network:
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
-  - name: oracle-r12
-    url: https://github.com/api-evangelist/oracle-r12
-    x-profiled: 2026-05
-    x-type: company
-    x-tier: 3
-    x-tier-reason: no-apis
   - name: oracle-retail
     url: https://github.com/api-evangelist/oracle-retail
     x-type: company
@@ -26141,12 +26069,6 @@ network:
     x-type: opensource
     x-tier: 3
     x-tier-reason: opensource-thin
-  - name: red-hat-enterprise-linux
-    url: https://github.com/api-evangelist/red-hat-enterprise-linux
-    x-profiled: 2026-05
-    x-type: company
-    x-tier: 3
-    x-tier-reason: no-apis
   - name: red-hat-enterprise-linux-8
     url: https://github.com/api-evangelist/red-hat-enterprise-linux-8
     x-type: company
@@ -27113,12 +27035,6 @@ network:
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
-  - name: salesforce-lightning
-    url: https://github.com/api-evangelist/salesforce-lightning
-    x-profiled: 2026-05
-    x-type: company
-    x-tier: 3
-    x-tier-reason: no-apis
   - name: salesforce-marketing-cloud
     url: https://github.com/api-evangelist/salesforce-marketing-cloud
     x-profiled: 2026-05
@@ -27632,12 +27548,6 @@ network:
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
-  - name: scribd
-    url: https://github.com/api-evangelist/scribd
-    x-type: company
-    x-profiled: 2026-05
-    x-tier: 3
-    x-tier-reason: no-apis
   - name: scripps-networks-interactive
     url: https://github.com/api-evangelist/scripps-networks-interactive
     x-type: company
@@ -27647,12 +27557,6 @@ network:
   - name: scrum
     url: https://github.com/api-evangelist/scrum
     x-type: company
-    x-profiled: 2026-05
-    x-tier: 3
-    x-tier-reason: no-apis
-  - name: scte
-    url: https://github.com/api-evangelist/scte
-    x-type: standard
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -27674,18 +27578,6 @@ network:
     x-fortune:
       - Fortune 500
       - Fortune 1000
-    x-profiled: 2026-05
-    x-tier: 3
-    x-tier-reason: no-apis
-  - name: seagate-technology
-    url: https://github.com/api-evangelist/seagate-technology
-    x-type: company
-    x-profiled: 2026-05
-    x-tier: 3
-    x-tier-reason: no-apis
-  - name: seagen
-    url: https://github.com/api-evangelist/seagen
-    x-type: company
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
@@ -28104,26 +27996,8 @@ network:
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
-  - name: sforce
-    url: https://github.com/api-evangelist/sforce
-    x-type: company
-    x-profiled: 2026-05
-    x-tier: 3
-    x-tier-reason: no-apis
-  - name: sf-symbols
-    url: https://github.com/api-evangelist/sf-symbols
-    x-type: company
-    x-profiled: 2026-05
-    x-tier: 3
-    x-tier-reason: no-apis
   - name: sftp
     url: https://github.com/api-evangelist/sftp
-    x-type: company
-    x-profiled: 2026-05
-    x-tier: 3
-    x-tier-reason: no-apis
-  - name: sg-analytics
-    url: https://github.com/api-evangelist/sg-analytics
     x-type: company
     x-profiled: 2026-05
     x-tier: 3
@@ -28140,12 +28014,6 @@ network:
     x-type: company
     x-tier: 2
     x-tier-reason: company-medium
-  - name: shazam
-    url: https://github.com/api-evangelist/shazam
-    x-type: company
-    x-profiled: 2026-05
-    x-tier: 3
-    x-tier-reason: no-apis
   - name: shell-scripting
     url: https://github.com/api-evangelist/shell-scripting
     x-type: company
@@ -28423,12 +28291,6 @@ network:
     x-profiled: 2026-05
     x-tier: 2
     x-tier-reason: company-strong
-  - name: six-flags
-    url: https://github.com/api-evangelist/six-flags
-    x-profiled: 2026-05
-    x-type: company
-    x-tier: 3
-    x-tier-reason: no-apis
   - name: six-sigma
     url: https://github.com/api-evangelist/six-sigma
     x-type: company
@@ -28444,12 +28306,6 @@ network:
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
-  - name: skillsoft
-    url: https://github.com/api-evangelist/skillsoft
-    x-profiled: 2026-05
-    x-type: company
-    x-tier: 3
-    x-tier-reason: no-apis
   - name: sketches
     url: https://github.com/api-evangelist/sketches
     x-type: company
@@ -28480,12 +28336,6 @@ network:
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
-  - name: skyvera
-    url: https://github.com/api-evangelist/skyvera
-    x-profiled: 2026-05
-    x-type: company
-    x-tier: 3
-    x-tier-reason: no-apis
   - name: sl-green-realty
     url: https://github.com/api-evangelist/sl-green-realty
     x-profiled: 2026-05
@@ -28498,12 +28348,6 @@ network:
     x-type: company
     x-tier: 1
     x-tier-reason: already-reconciled
-  - name: slalom
-    url: https://github.com/api-evangelist/slalom
-    x-profiled: 2026-05
-    x-type: company
-    x-tier: 3
-    x-tier-reason: no-apis
   - name: slashdot
     url: https://github.com/api-evangelist/slashdot
     x-type: company
@@ -29142,12 +28986,6 @@ network:
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
-  - name: spot
-    url: https://github.com/api-evangelist/spot
-    x-profiled: 2026-05
-    x-type: company
-    x-tier: 2
-    x-tier-reason: company-strong
   - name: spot-by-netapp
     url: https://github.com/api-evangelist/spot-by-netapp
     x-type: company
@@ -31106,14 +30944,6 @@ network:
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
-  - name: transunion
-    url: https://github.com/api-evangelist/transunion
-    x-profiled: 2026-05
-    x-type: company
-    x-fortune:
-      - Fortune 1000
-    x-tier: 3
-    x-tier-reason: no-apis
   - name: tratta
     url: https://github.com/api-evangelist/tratta
     x-type: company
