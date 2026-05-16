@@ -4,7 +4,7 @@ description: A network index of all APIs.json files maintained by the API Evange
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 url: https://raw.githubusercontent.com/api-evangelist/network/refs/heads/main/apis.yml
 created: '2026-02-27'
-modified: '2026-05-06'
+modified: '2026-05-16'
 specificationVersion: '0.19'
 type: Network
 tags:
@@ -35301,3 +35301,63 @@ network:
     x-type: company
     x-source: inbox
     x-source-issue: 905
+  - name: brewpage
+    url: https://github.com/api-evangelist/brewpage
+    x-profiled: '2026-05-16'
+    x-type: api
+    x-source: api-search-network-issue
+    x-source-issue: 29
+  - name: buywhere
+    url: https://github.com/api-evangelist/buywhere
+    x-profiled: '2026-05-16'
+    x-type: api
+    x-source: api-search-network-issue
+    x-source-issue: 25
+  - name: dead-drop
+    url: https://github.com/api-evangelist/dead-drop
+    x-profiled: '2026-05-16'
+    x-type: api
+    x-source: api-search-network-issue
+    x-source-issue: 24
+  - name: discgolfapi
+    url: https://github.com/api-evangelist/discgolfapi
+    x-profiled: '2026-05-16'
+    x-type: api
+    x-source: api-search-network-issue
+    x-source-issue: 23
+  - name: fastdol
+    url: https://github.com/api-evangelist/fastdol
+    x-profiled: '2026-05-16'
+    x-type: api
+    x-source: api-search-network-issue
+    x-source-issue: 27
+  - name: frostbyte
+    url: https://github.com/api-evangelist/frostbyte
+    x-profiled: '2026-05-16'
+    x-type: api
+    x-source: api-search-network-issue
+    x-source-issue: 20
+  - name: memesio
+    url: https://github.com/api-evangelist/memesio
+    x-profiled: '2026-05-16'
+    x-type: api
+    x-source: api-search-network-issue
+    x-source-issue: 28
+  - name: openmercantil
+    url: https://github.com/api-evangelist/openmercantil
+    x-profiled: '2026-05-16'
+    x-type: api
+    x-source: api-search-network-issue
+    x-source-issue: 30
+  - name: postalcodes-info
+    url: https://github.com/api-evangelist/postalcodes-info
+    x-profiled: '2026-05-16'
+    x-type: api
+    x-source: api-search-network-issue
+    x-source-issue: 22
+  - name: sorsa
+    url: https://github.com/api-evangelist/sorsa
+    x-profiled: '2026-05-16'
+    x-type: api
+    x-source: api-search-network-issue
+    x-source-issue: 21
