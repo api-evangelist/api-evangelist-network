@@ -6,7 +6,7 @@ url: https://raw.githubusercontent.com/api-evangelist/network/refs/heads/main/ap
 created: '2026-02-27'
 modified: '2026-05-16'
 specificationVersion: '0.19'
-type: Network
+kind: network
 tags:
   - Directory
   - Index
@@ -39775,3 +39775,663 @@ network:
     x-type: api
     x-tier: 3
     x-tier-reason: no-apis
+  - name: 7-eleven
+    url: https://github.com/api-evangelist/7-eleven
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: abn-amro
+    url: https://github.com/api-evangelist/abn-amro
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: accenture
+    url: https://github.com/api-evangelist/accenture
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: accord
+    url: https://github.com/api-evangelist/accord
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: adidas
+    url: https://github.com/api-evangelist/adidas
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: aeropostale
+    url: https://github.com/api-evangelist/aeropostale
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: airbus
+    url: https://github.com/api-evangelist/airbus
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: alaska-airlines
+    url: https://github.com/api-evangelist/alaska-airlines
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: allianz
+    url: https://github.com/api-evangelist/allianz
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: anheuser-busch
+    url: https://github.com/api-evangelist/anheuser-busch
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: astrazeneca
+    url: https://github.com/api-evangelist/astrazeneca
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: axa
+    url: https://github.com/api-evangelist/axa
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: bae-systems
+    url: https://github.com/api-evangelist/bae-systems
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: bain-and-company
+    url: https://github.com/api-evangelist/bain-and-company
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: barnes-nobles
+    url: https://github.com/api-evangelist/barnes-nobles
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: bayer
+    url: https://github.com/api-evangelist/bayer
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: bechtel
+    url: https://github.com/api-evangelist/bechtel
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: bhp
+    url: https://github.com/api-evangelist/bhp
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: blizzard-entertainment
+    url: https://github.com/api-evangelist/blizzard-entertainment
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: bloomingdales
+    url: https://github.com/api-evangelist/bloomingdales
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: bosch
+    url: https://github.com/api-evangelist/bosch
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: bunge
+    url: https://github.com/api-evangelist/bunge
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: burger-king
+    url: https://github.com/api-evangelist/burger-king
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: canadian-national-railway
+    url: https://github.com/api-evangelist/canadian-national-railway
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: carnival-corporation
+    url: https://github.com/api-evangelist/carnival-corporation
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: chickfila
+    url: https://github.com/api-evangelist/chickfila
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: circlek
+    url: https://github.com/api-evangelist/circlek
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: cmc-materials
+    url: https://github.com/api-evangelist/cmc-materials
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: collibra
+    url: https://github.com/api-evangelist/collibra
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: commonwealth-bank
+    url: https://github.com/api-evangelist/commonwealth-bank
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: cosco-shipping
+    url: https://github.com/api-evangelist/cosco-shipping
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: curaleaf
+    url: https://github.com/api-evangelist/curaleaf
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: deliveroo
+    url: https://github.com/api-evangelist/deliveroo
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: eventbrite
+    url: https://github.com/api-evangelist/eventbrite
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: ey
+    url: https://github.com/api-evangelist/ey
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: fidelity-investments
+    url: https://github.com/api-evangelist/fidelity-investments
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: ge-aerospace
+    url: https://github.com/api-evangelist/ge-aerospace
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: geico
+    url: https://github.com/api-evangelist/geico
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: green-thumb-industries
+    url: https://github.com/api-evangelist/green-thumb-industries
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: gusto
+    url: https://github.com/api-evangelist/gusto
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: hapag-lloyd
+    url: https://github.com/api-evangelist/hapag-lloyd
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: heineken
+    url: https://github.com/api-evangelist/heineken
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: henkel
+    url: https://github.com/api-evangelist/henkel
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: hm
+    url: https://github.com/api-evangelist/hm
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: hsbc
+    url: https://github.com/api-evangelist/hsbc
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: hyatt
+    url: https://github.com/api-evangelist/hyatt
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: ikea
+    url: https://github.com/api-evangelist/ikea
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: inditex
+    url: https://github.com/api-evangelist/inditex
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: ing
+    url: https://github.com/api-evangelist/ing
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: kaiser-permanente
+    url: https://github.com/api-evangelist/kaiser-permanente
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: kubota-corporation
+    url: https://github.com/api-evangelist/kubota-corporation
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: lego
+    url: https://github.com/api-evangelist/lego
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: lenovo
+    url: https://github.com/api-evangelist/lenovo
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: life-time-group
+    url: https://github.com/api-evangelist/life-time-group
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: loreal
+    url: https://github.com/api-evangelist/loreal
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: lvmh
+    url: https://github.com/api-evangelist/lvmh
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: maersk
+    url: https://github.com/api-evangelist/maersk
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: major-league-baseball
+    url: https://github.com/api-evangelist/major-league-baseball
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: manulife
+    url: https://github.com/api-evangelist/manulife
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: mars
+    url: https://github.com/api-evangelist/mars
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: mckinsey
+    url: https://github.com/api-evangelist/mckinsey
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: national-basketball-association
+    url: https://github.com/api-evangelist/national-basketball-association
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: national-football-league
+    url: https://github.com/api-evangelist/national-football-league
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: national-hockey-league
+    url: https://github.com/api-evangelist/national-hockey-league
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: nbc
+    url: https://github.com/api-evangelist/nbc
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: nestle
+    url: https://github.com/api-evangelist/nestle
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: new-york-life
+    url: https://github.com/api-evangelist/new-york-life
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: norwegian-cruise-line
+    url: https://github.com/api-evangelist/norwegian-cruise-line
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: novartis
+    url: https://github.com/api-evangelist/novartis
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: novo-nordisk
+    url: https://github.com/api-evangelist/novo-nordisk
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: parkway-corp
+    url: https://github.com/api-evangelist/parkway-corp
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: peloton
+    url: https://github.com/api-evangelist/peloton
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: penske
+    url: https://github.com/api-evangelist/penske
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: philips
+    url: https://github.com/api-evangelist/philips
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: planet-fitness
+    url: https://github.com/api-evangelist/planet-fitness
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: pratt-and-whitney
+    url: https://github.com/api-evangelist/pratt-and-whitney
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: progressive-insurance
+    url: https://github.com/api-evangelist/progressive-insurance
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: pwc
+    url: https://github.com/api-evangelist/pwc
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: rabobank
+    url: https://github.com/api-evangelist/rabobank
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: reckitt
+    url: https://github.com/api-evangelist/reckitt
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: regeneron
+    url: https://github.com/api-evangelist/regeneron
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: riggs-distler
+    url: https://github.com/api-evangelist/riggs-distler
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: rio-tinto
+    url: https://github.com/api-evangelist/rio-tinto
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: roche
+    url: https://github.com/api-evangelist/roche
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: rolls-royce
+    url: https://github.com/api-evangelist/rolls-royce
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: royal-caribbean
+    url: https://github.com/api-evangelist/royal-caribbean
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: sanofi
+    url: https://github.com/api-evangelist/sanofi
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: sas
+    url: https://github.com/api-evangelist/sas
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: sephora
+    url: https://github.com/api-evangelist/sephora
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: sony
+    url: https://github.com/api-evangelist/sony
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: standard-chartered
+    url: https://github.com/api-evangelist/standard-chartered
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: subway
+    url: https://github.com/api-evangelist/subway
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: t-mobile
+    url: https://github.com/api-evangelist/t-mobile
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: tamr
+    url: https://github.com/api-evangelist/tamr
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: texaco
+    url: https://github.com/api-evangelist/texaco
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: tilray-brands
+    url: https://github.com/api-evangelist/tilray-brands
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: totalenergies
+    url: https://github.com/api-evangelist/totalenergies
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: trader-joes
+    url: https://github.com/api-evangelist/trader-joes
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: transunion
+    url: https://github.com/api-evangelist/transunion
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: travelport
+    url: https://github.com/api-evangelist/travelport
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: trumark-financial
+    url: https://github.com/api-evangelist/trumark-financial
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: tsmc
+    url: https://github.com/api-evangelist/tsmc
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: ubs
+    url: https://github.com/api-evangelist/ubs
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: unilever
+    url: https://github.com/api-evangelist/unilever
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: upmc
+    url: https://github.com/api-evangelist/upmc
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: usa-today
+    url: https://github.com/api-evangelist/usa-today
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: veolia
+    url: https://github.com/api-evangelist/veolia
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: warner-brothers
+    url: https://github.com/api-evangelist/warner-brothers
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: wiley
+    url: https://github.com/api-evangelist/wiley
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
+  - name: zurich-insurance
+    url: https://github.com/api-evangelist/zurich-insurance
+    x-profiled: '2026-05-16'
+    x-type: company
+    x-tier: 3
+    x-tier-reason: no-apis-yet
