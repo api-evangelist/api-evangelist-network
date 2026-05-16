@@ -5279,12 +5279,6 @@ network:
     x-profiled: 2026-05
     x-tier: 2
     x-tier-reason: company-strong
-  - name: azure-active-directory
-    url: https://github.com/api-evangelist/azure-active-directory
-    x-profiled: 2026-05
-    x-type: company
-    x-tier: 2
-    x-tier-reason: company-strong
   - name: azure-ad
     url: https://github.com/api-evangelist/azure-ad
     x-type: company
@@ -5321,18 +5315,6 @@ network:
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
-  - name: azure-data-factory
-    url: https://github.com/api-evangelist/azure-data-factory
-    x-profiled: 2026-05
-    x-type: company
-    x-tier: 3
-    x-tier-reason: no-apis
-  - name: azure-databricks
-    url: https://github.com/api-evangelist/azure-databricks
-    x-profiled: 2026-05
-    x-type: company
-    x-tier: 2
-    x-tier-reason: company-strong
   - name: azure-dev-ops
     url: https://github.com/api-evangelist/azure-dev-ops
     x-type: company
@@ -5357,18 +5339,6 @@ network:
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
-  - name: azure-key-vault
-    url: https://github.com/api-evangelist/azure-key-vault
-    x-profiled: 2026-05
-    x-type: company
-    x-tier: 2
-    x-tier-reason: company-strong
-  - name: azure-kubernetes-service
-    url: https://github.com/api-evangelist/azure-kubernetes-service
-    x-profiled: 2026-05
-    x-type: company
-    x-tier: 2
-    x-tier-reason: company-strong
   - name: azure-log-analytics
     url: https://github.com/api-evangelist/azure-log-analytics
     x-profiled: 2026-05
@@ -5381,12 +5351,6 @@ network:
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
-  - name: azure-machine-learning
-    url: https://github.com/api-evangelist/azure-machine-learning
-    x-profiled: 2026-05
-    x-type: company
-    x-tier: 3
-    x-tier-reason: no-apis
   - name: azure-networking-services
     url: https://github.com/api-evangelist/azure-networking-services
     x-type: company
@@ -13773,12 +13737,6 @@ network:
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
-  - name: gmail
-    url: https://github.com/api-evangelist/gmail
-    x-profiled: 2026-05
-    x-type: company
-    x-tier: 3
-    x-tier-reason: no-apis
   - name: gnc-holdings
     url: https://github.com/api-evangelist/gnc-holdings
     x-type: company
