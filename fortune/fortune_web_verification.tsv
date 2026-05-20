@@ -1,0 +1,629 @@
+slug	status	portal_url	notes
+a-mark-precious-metals	NO_PORTAL		no developer/api subdomain found
+abbvie	NO_PORTAL		only supplier/support/grants/open innovation portals
+academy-sports-and-outdoors	NO_PORTAL		no developer portal found
+adapthealth	NO_PORTAL		only patient/employee apps
+advanced-drainage-systems	NO_PORTAL		no developer portal found
+advantage-solutions	NO_PORTAL		no developer portal found
+agilent-technologies	HAS_PORTAL	https://help.ilab.agilent.com/ilab-api	iLab API documentation
+agilon-health	NO_PORTAL		no developer portal found
+agnc-investment	NO_PORTAL		REIT, no developer portal
+air-lease	NO_PORTAL		aircraft leasing, no developer portal
+alexandria-real-estate-equities	NO_PORTAL		REIT, no developer portal
+alight	HAS_PORTAL	https://developer.alight.com	Alight Integration Center, REST APIs with OAuth
+align-technology	NO_PORTAL		Invisalign maker, no public dev portal
+allegiant-travel	NO_PORTAL		no official API portal (only 3rd-party flight data)
+alliant-energy	NO_PORTAL		utility, only customer myaccount portal
+allison-transmission-holdings	NO_PORTAL		only supplier/service portals
+allstate	HAS_PORTAL	https://developer.allstate.com	Allstate Developer Portal login page
+ally-financial	HAS_PORTAL	https://www.ally.com/api/invest/documentation/	Ally Invest API docs
+alpha-metallurgical-resources	NO_PORTAL		coal supplier, no public API
+alphabet	HAS_PORTAL	https://developers.google.com	Google for Developers
+altice-usa	NO_PORTAL		dev.alticeconnects.com is a community/brands site not API
+altria	HAS_PORTAL	https://developer.insightsc3m.com	ALCS Developer Portal (Altria Client Services)
+american-financial-group	HAS_PORTAL	https://www.greatamericaninsurancegroup.com/agents-brokers/great-american-carrier-services	Great American Carrier Services API; docs at api-documentation.gaig.com
+american-tower	NO_PORTAL		M2M monitoring portal exists but not a developer API portal
+amn-healthcare-services	HAS_PORTAL	https://api-developer.amnhealthcare.io	AMN Healthcare developer portal
+apa	NO_PORTAL		oil & gas, no developer portal
+api-group	NO_PORTAL		safety services holding co, no developer portal
+apollo-global-management	NO_PORTAL		alt investment firm, no developer portal (apollo.io is unrelated)
+applied-industrial-technologies	NO_PORTAL		no public developer portal at applied.com
+applied-materials	NO_PORTAL		only customer/software portals; myappliedproducts.com is unrelated Applied Systems
+aptargroup	NO_PORTAL		packaging mfr, no developer portal
+arch-resources	NO_PORTAL		coal producer, no developer portal
+arista-networks	HAS_PORTAL	https://apihelp.wifi.arista.com	Arista Wi-Fi API Portal; also eAPI for switches
+arko	NO_PORTAL		convenience store operator, no developer portal
+asgn	NO_PORTAL		IT staffing, no developer portal
+ati	NO_PORTAL		specialty metals, no developer portal
+atkore	NO_PORTAL		only customer agent portal
+autonation	HAS_PORTAL	https://autonation.developer.azure-api.net	AutoNation API Management developer portal (Azure)
+avalonbay-communities	HAS_PORTAL	https://developer.portal.avalonbay.com	AvalonBay developer portal with API documentation
+avantor	NO_PORTAL		lab supplies, no public developer portal
+ball	NO_PORTAL		only customer/supplier portals (The Source, Coupa)
+baxter-international	NO_PORTAL		only supplier/customer portals (ServiceNow, EDI)
+becton-dickinson	NO_PORTAL		internal API program exists but no public portal
+belden	NO_PORTAL		networking hardware vendor, no public developer portal
+benchmark-electronics	NO_PORTAL		EMS provider, no developer portal
+berkshire-hathaway	HAS_PORTAL	https://www.bnsf.com/ship-with-bnsf/support-services/customer-api/	BNSF Railway API Center (subsidiary)
+big-lots	NO_PORTAL		bankrupt/liquidating, no developer portal
+bjs-wholesale-club	HAS_PORTAL	https://developer.bjshomedelivery.com	BJ's Order Management developer portal (home delivery)
+blackrock	HAS_PORTAL	https://www.blackrock.com/aladdin/products/aladdin-developer	Aladdin Developer platform
+blackstone	NO_PORTAL		PE firm, no public developer portal (blackstoneonline.com is unrelated)
+bloomin-brands	NO_PORTAL		Outback Steakhouse parent, no public developer portal
+bluelinx-holdings	NO_PORTAL		building products distributor, only supplier portal
+boise-cascade	NO_PORTAL		only customer/EDI portals
+bok-financial	NO_PORTAL		regional bank, no public developer portal
+booking-holdings	HAS_PORTAL	https://developers.booking.com	Booking.com developer portal (Demand API, partner)
+borgwarner	NO_PORTAL		auto parts, only supplier portals
+boston-properties	NO_PORTAL		REIT (BXP), no developer portal
+boyd-gaming	NO_PORTAL		casino operator, no developer portal
+brighthouse-financial	NO_PORTAL		only customer access portal, no developer API portal
+brightview-holdings	NO_PORTAL		landscaping services, no developer portal
+brinker-international	HAS_PORTAL	https://developer.brinker.com	Brinker (Chili's/Maggiano's) developer portal
+brookdale-senior-living	NO_PORTAL		only employee/supplier portals
+slug	status	portal_url	notes
+brown-and-brown	NO_PORTAL		Insurance brokerage; only client/customer portals found, no developer/API portal
+brown-forman	NO_PORTAL		Spirits company; no public developer/API/data portal identified
+bruker	NO_PORTAL		Scientific instruments; product-specific Python APIs (XeprAPI, TopSpin) but no unified developer portal
+brunswick	NO_PORTAL		Marine recreation; internal APIs via Eradani/Apigee but no public portal
+builders-firstsource	NO_PORTAL		myBLDR customer portal exists but is end-user, not a developer portal
+burlington-stores	NO_PORTAL		Vendor portals via EDI only, no public developer portal
+bwx-technologies	NO_PORTAL		Nuclear/defense manufacturer; no public developer portal
+cabot	NO_PORTAL		Specialty chemicals; only Coupa supplier portal, no developer portal
+caci-international	NO_PORTAL		CACI International Inc (US defense/IT) has no public dev portal; apps.caci.com is internal employee portal; docs.api.caci.co.uk is a different company (CACI Limited UK marketing data)
+cadence	NO_PORTAL		Cadence Design Systems; support.cadence.com and community.cadence.com are customer/community, not dev portal
+caesars-entertainment	HAS_PORTAL	https://developer.caesars.com/	Caesars Developer Portal with API docs, IO Docs interactive, registration for keys
+cal-maine-foods	NO_PORTAL		Egg producer; no public developer/API/data portal
+caleres	NO_PORTAL		Footwear (Famous Footwear, Sam Edelman, etc.); EDI/B2B only
+california-resources	NO_PORTAL		CRC oil/gas; no public developer/API/data portal
+calumet	NO_PORTAL		Specialty hydrocarbons; no public developer portal
+camping-world-holdings	NO_PORTAL		RV retail; only customer/EDI portals, no developer portal
+cano-health	NO_PORTAL		Healthcare primary care; no public developer/API/data portal
+cardinal-health	HAS_PORTAL	https://developer.np.cardinalhealth.com/	Cardinal Health API Developer Portal (np = non-production) referenced in search; primary connectivity is EDI but a dev portal subdomain exists
+carmax	NO_PORTAL		Internal/semi-public API at api.carmax.com but no public self-service developer portal
+carpenter-technology	NO_PORTAL		Specialty alloys; only customer member portal, no developer portal
+carters	NO_PORTAL		Children's apparel; no public developer/API/data portal
+caseys-general-stores	HAS_PORTAL	https://developer.esl.caseys.io/	Casey's Developer Portal for Products, Stores, Orders APIs with key request
+cboe	HAS_PORTAL	https://datashop.cboe.com/	Cboe DataShop is a market data API portal with All Access API, Time and Sales API, LiveVol API, etc.
+cbs	NO_PORTAL		CBS/Paramount Global; no public developer portal for streaming/media metadata
+cdw	HAS_PORTAL	https://portal.apiconnect.cdw.com/	CDW API Management developer portal with API catalog, signup, FAQ
+celanese	NO_PORTAL		Chemille is an end-user AI material search assistant, not a developer/API portal
+cencora	NO_PORTAL		Pharma distribution (formerly AmerisourceBergen); only EDI/B2B integration, no public dev portal
+cf-industries-holdings	NO_PORTAL		Nitrogen fertilizer; only investor/EDI channels, no developer portal
+charles-river-laboratories-international	NO_PORTAL		Customer portals (Apollo, Microbial, Accugenix) exist but are end-user, not developer
+chart-industries	NO_PORTAL		Cryogenic equipment; no public developer/API/data portal
+charter-communications	HAS_PORTAL	https://enterprise.spectrum.com/	Spectrum Enterprise B2B API (carrier serviceability, ticketing) with OAuth 2.0, API guides published; also Bryte IQ NaaS API
+cheesecake-factory	NO_PORTAL		No public developer portal for the restaurant company (developer.cake.net is unrelated CAKE POS system)
+chefs-warehouse	NO_PORTAL		Specialty food distributor; no public developer/API/data portal
+chemours	NO_PORTAL		Only Ti-Pure Flex e-commerce and supplier portals, no developer/API portal
+chevron	NO_PORTAL		Major oil/gas; only internal Chevron Portal, CIPS supplier payment, no public developer portal
+chewy	HAS_PORTAL	https://developer.chewy.promoteiq.com/	Chewy PromoteIQ developer portal for retail media/advertising APIs (Azure API Management)
+chipotle-mexican-grill	NO_PORTAL		lt-servicesportal.chipotle.com and api.community.chipotle.com are internal/login-walled; no public developer portal
+chs	NO_PORTAL		MyCHS and CHS Connect are customer portals; no public developer/API portal
+cinemark-holdings	NO_PORTAL		Cinemark Brazil has developers.cinemark.com.br but Cinemark Holdings (US parent) does not publish a public developer portal
+civitas-resources	NO_PORTAL		Oil/gas E&P; no public developer/API/data portal
+cleveland-cliffs	NO_PORTAL		Only supplier/transportation collaboration portals, no public developer/API portal
+clorox	NO_PORTAL		Has internal MuleSoft APIs and an Ingredients Inside data feed referenced for partners, but no public developer portal
+cno-financial-group	NO_PORTAL		Insurance holding; no public developer/API portal
+cnx-resources	NO_PORTAL		Natural gas E&P; no public developer/API/data portal
+cognizant-technology	NO_PORTAL		Neuro AI/Neuro SAN open-sourced on GitHub but no central self-service developer portal at cognizant.com domain
+coherent	NO_PORTAL		Coherent Corp (photonics/lasers); developers.coherent-labs.com is a different company (game UI engine)
+colfax	NO_PORTAL		Defunct (split into Enovis and ESAB in 2022); no developer portal
+colgate-palmolive	NO_PORTAL		Only Open Innovation submission portal (yet2.com) and EDI; no developer/API portal
+comerica	NO_PORTAL		Bank; only aggregator access (Plaid/Tink), no own public developer portal
+compass	NO_PORTAL		Real estate brokerage; Compass One is client portal; no public developer/API portal
+conagra-brands	NO_PORTAL		Only supplier portal (specs.conagrabrands.com); described as API-first internally but no public developer portal
+conagra-foods	NO_PORTAL		Historical alias renamed to Conagra Brands in 2015; no developer portal
+concentrix	NO_PORTAL		CX/BPO services; Catalyst builds dev portals for clients but Concentrix itself has no public dev portal
+consol-energy	NO_PORTAL		Merged into Core Natural Resources (2025); no public developer/API portal
+continental-resources	NO_PORTAL		Private oil/gas; no public developer/API/data portal
+cooper	NO_PORTAL		Likely Cooper Companies (medical devices) or The Cooper Cos; no public developer/API portal identified
+cooper-standard-holdings	NO_PORTAL		Automotive Tier-1 supplier; no public developer/API portal
+copart	NO_PORTAL		Auto auctions; no official public developer portal (only third-party scraping APIs)
+core-and-main	NO_PORTAL		Online Advantage is a customer portal; no public developer/API portal
+corning	NO_PORTAL		portal.corning.com and ecatalog portals are B2B customer/order portals; no public developer/API portal
+corpay	HAS_PORTAL	https://developer.crossborder.corpay.com/	Corpay Cross-Border Developer Portal (also legacy developers.fleetcor.com NAF portal)
+corteva	NO_PORTAL		Agriculture; Granular Insights/Link are end-user farmer apps, no public developer/API portal
+country-financial	NO_PORTAL		apis.yml states no public dev API; no candidate URL found
+cracker-barrel-old-country-store	NO_PORTAL		apis.yml states no public API or developer portal
+crocs	HAS_PORTAL	https://apim-ext-developer.dev.crocs.com/signin	Azure API Management developer portal confirmed via fetch
+crown	NO_PORTAL		Crown Holdings (Crown Cork) packaging; no public dev portal; B2B/EDI only
+crown-holdings	NO_PORTAL		Same as crown (Crown Holdings); no public dev portal
+cummins	HAS_PORTAL	https://developer.cummins.com/	Cummins Developer Portal (API integrations for diagnostics) confirmed via search; live URL returns 403 to bot but listed publicly
+cuna-mutual-group	NO_PORTAL		TruStage; no public developer API portal found
+curtiss-wright	NO_PORTAL		dev.curtisswright.com is a website preview, not a developer/API portal
+cvs-health	HAS_PORTAL	https://developer.cvshealth.com	CVS Health Developer Portal confirmed via fetch (Auth, Claims, Covid, ExtraCare APIs)
+danaher	NO_PORTAL		Conglomerate; APIs only at subsidiary level (Beckman, Cepheid, etc.)
+darden-restaurants	NO_PORTAL		apis.yml says no public dev API; consumer apps only
+darling-ingredients	NO_PORTAL		darlingii.com/health/pharma/api refers to Active Pharma Ingredients, not dev API
+deckers-outdoor	NO_PORTAL		No public developer API portal found via probe or search
+delek-us-holdings	NO_PORTAL		apis.yml states no developer API; EDI only
+designer-brands	NO_PORTAL		Uses Apigee internally but no public developer portal found
+devon-energy	NO_PORTAL		No public developer API portal found
+diamondback-energy	NO_PORTAL		apis.yml placeholder; no portal found
+dicks-sporting-goods	NO_PORTAL		apis.yml placeholder; no portal found; EDI only
+diebold	HAS_PORTAL	https://vrp-api.dieboldnixdorf.com/vrp/docs/vynamic-retail-platform-vrp	Diebold Nixdorf Vynamic Retail Platform API docs (login-gated dev portal)
+digital-realty-trust	HAS_PORTAL	https://developer.digitalrealty.com	Digital Realty Developer Portal with API catalog confirmed via fetch
+dillards	NO_PORTAL		EDI/VICS only; no public dev API portal
+dominion-energy	NO_PORTAL		Green Button standard mentioned but no public dev portal; ECONNREFUSED on developer subdomain
+domtar	NO_PORTAL		No public dev API portal found
+donaldson	NO_PORTAL		iCue IoT service exists for customers but no public dev API portal
+dover	NO_PORTAL		Industrial conglomerate; no public dev portal for Dover Corporation
+dow	NO_PORTAL		Materials science; no public dev API portal at dow.com
+dr-horton	NO_PORTAL		Customer/Vendor portals only; no public dev API
+draftkings	HAS_PORTAL	https://marketplace.draftkings.com/api/activity/	DraftKings Marketplace public API for transaction data (2022 launch)
+dream-finders-homes	NO_PORTAL		No public developer API portal; dev.dreamfindershomes.com is staging site
+dte-energy	NO_PORTAL		Customer data hub exists but no public dev API portal
+duke-energy	NO_PORTAL		Builder portal exists; API is unofficial and not public
+dupont	NO_PORTAL		No public dev API portal found
+echostar	NO_PORTAL		Satellite/Hughes; no public dev API portal found
+ecolab	NO_PORTAL		Customer portals only; no public dev API portal
+edison-international	NO_PORTAL		SCE Innovation Portal exists but not a public dev API portal
+edward-jones	HAS_PORTAL	https://developer.edwardjones.com/	Edward Jones API Developer Portal (auth-gated) confirmed via search
+edwards-lifesciences	NO_PORTAL		Multiple internal/clinical portals but no public dev API portal
+elanco-animal-health	NO_PORTAL		developer.elanco.com is an Azure AD SSO login, not a public API portal
+electronic-arts	NO_PORTAL		No public developer API portal; GitHub org only
+eli-lilly	NO_PORTAL		Old Lilly COI clinical trials API is deprecated/legacy; no current portal
+emcor	NO_PORTAL		No public dev API portal found
+emerson-electric	HAS_PORTAL	https://developer.emerson.com/	Emerson API Developer Portal confirmed via search (invite-only signup)
+encore	NO_PORTAL		Slug refers to Encore Wire (Fortune 1000); no public dev portal (encore.dev is a different framework company)
+endeavor-group-holdings	NO_PORTAL		Company rebranded/restructured; no public dev API portal
+enersys	NO_PORTAL		Customer tools exist; no public dev API portal
+enlink-midstream	NO_PORTAL		Acquired by ONEOK; no public dev API portal
+enterprise-products-partners	NO_PORTAL		Partner integration only; no public dev API portal
+envista-holdings	NO_PORTAL		Brand-level integrations only; no unified dev API portal
+eog-resources	NO_PORTAL		OAuth/business portals exist but no public dev API portal
+equitable-holdings	NO_PORTAL		Plan Build API via Employee Navigator partnership only; no public dev portal
+equity-residential	NO_PORTAL		MyEquity is a customer app; no public dev API portal
+erie-insurance	NO_PORTAL		Internal/partner APIs only; no public dev API portal
+estee-lauder	NO_PORTAL		No public dev API portal found
+etsy	HAS_PORTAL	https://developers.etsy.com/documentation	Etsy Open API v3 developer portal confirmed via fetch
+euronet-worldwide	NO_PORTAL		REV/Dandelion APIs marketed but no public self-serve developer portal URL found
+evergy	NO_PORTAL		Trade ally portal only; no public dev API portal
+eversource-energy	NO_PORTAL		Green Button via UtilityAPI partnership; no native dev portal
+exact-sciences	NO_PORTAL		Patient/provider hubs only; no public dev API portal
+exelon	HAS_PORTAL	https://developer-dev.exeloncorp.com/gateway	Exelon Developer Portal (gateway returns 502 to bot but listed publicly in search)
+exp-world-holdings	NO_PORTAL		RESO-certified for MLS but no public dev API portal
+expeditors-international-of-washington	HAS_PORTAL	https://help.expeditors.com/globalhelp/shipment_api/home.htm	Expeditors Tracking API Developer Center confirmed via fetch
+extra-space-storage	NO_PORTAL		No public dev API portal found
+slug	status	portal_url	notes
+exxon-mobil	HAS_PORTAL	https://developer.exxonmobil.com	ExxonMobil API Developer Portal - Customer, Storage, Supplier APIs
+farmers-insurance-exchange	HAS_PORTAL	https://developer.farmers.com	Farmers Insurance Developer Portal with API explorer
+fastenal	NO_PORTAL		Only supplier portal and EDI integration partners; no public dev portal
+federated-mutual-insurance	NO_PORTAL		Only mySHIELD customer portal; no public dev/api portal
+fidelity-national-financial	NO_PORTAL		Fidelity International is separate; no FNF dev portal
+fifth-third-bancorp	HAS_PORTAL	https://developers.newline53.com	Newline by Fifth Third API developer portal
+first-citizens-bancshares	NO_PORTAL		Citizens Bank (separate) has dev portal; First Citizens does not
+first-horizon	HAS_PORTAL	https://developers-test.firsthorizon.com	First Horizon API Banking Developer Portal
+first-national-of-nebraska	NO_PORTAL		FNBO BaaS efforts mentioned but no public dev portal URL found
+first-solar	HAS_PORTAL	https://portal.firstsolar.com/developer	First Solar Developer Portal (license agreement page found)
+firstcash-holdings	NO_PORTAL		No developer/API portal found
+firstenergy	NO_PORTAL		Third-party data access program is manual/EDI based, not API/dev portal
+five-below	NO_PORTAL		Only EDI/supplier integration via third parties; no public dev portal
+floor-and-decor-holdings	NO_PORTAL		Uses third-party APIs; no public dev portal
+flowers-foods	NO_PORTAL		Only distributor portal; no public dev portal
+flowserve	NO_PORTAL		Only partner/collaboration portal; no public dev portal
+fluor	NO_PORTAL		Only supplier/contractor portal; no public dev portal
+fm	NO_PORTAL		Only FM Approvals AIM customer portal; no public dev portal
+fmc	NO_PORTAL		FMC Corp (chemical) has no public dev portal (Cisco FMC unrelated)
+foot-locker	NO_PORTAL		Only inventory integration via third parties; no public dev portal
+fox	NO_PORTAL		Fox Corporation (media) has no public dev portal
+franklin-resources	HAS_PORTAL	https://developer.franklintempleton.com	Franklin Templeton developer/API portal for product data
+freeport-mcmoran	NO_PORTAL		Only internal/supplier portals; no public dev portal
+frontier-communications	NO_PORTAL		Frontier Comm has no public dev portal (separate from Frontier Airlines)
+frontier-group-holdings	HAS_PORTAL	https://developer.flyfrontier.com	Frontier Airlines developer portal with NDC APIs
+g-iii-apparel-group	NO_PORTAL		No public dev/API portal found
+gamestop	NO_PORTAL		Only vendor portal; legacy Impulse API discontinued 2014
+gannett	NO_PORTAL		USA Today API Developer Network from 2010 appears defunct
+gap	NO_PORTAL		Gap Inc (apparel) has no public dev portal (my.gap.im is unrelated Iranian messenger)
+garrett-motion	NO_PORTAL		Only SAP portal and eOrder system; no public dev portal
+gartner	NO_PORTAL		Gartner covers other companies' dev portals but has no public dev portal of its own
+ge-healthcare-technologies	HAS_PORTAL	https://mydata.gehealthcare.com	GE HealthCare Developer Portal (also has Ultrasound Developer Program)
+gen-digital	NO_PORTAL		Norton/Avast/Gen Digital - no public dev portal found
+generac-holdings	HAS_PORTAL	https://www.generacgs.com/partner-ecosystem/sdk-program/	Generac Grid Services SDK Program with open APIs (Concerto)
+general-dynamics	NO_PORTAL		Only supplier portals; no public dev portal (api.gdmissionsystems.com is referenced but private)
+general-electric	NO_PORTAL		GE has division-specific portals (GE HealthCare has one separately); no consolidated GE dev portal
+general-mills	NO_PORTAL		Only internal portals; no public dev portal
+genesis-energy	NO_PORTAL		Genesis Energy LP (US midstream) has no public dev portal (NZ Genesis is different)
+genuine-parts	NO_PORTAL		NAPA PROLink is a B2B order system; no public developer/API portal
+genworth-financial	NO_PORTAL		Only producer/agent portals; no public dev portal
+gilead-sciences	NO_PORTAL		Only supplier/grants/co-pay portals; no public dev/API portal
+goldman-sachs-group	HAS_PORTAL	https://developer.gs.com	Goldman Sachs Developer (Marquee) - GSQuant, PlotTool, Marquee API
+gms	NO_PORTAL		GMS has customer cloud portal but no developer/API portal
+graham-holdings	NO_PORTAL		No public dev portal found
+grainger	NO_PORTAL		Only supplier/SAP/PunchOut portals; no public dev portal
+granite-construction	NO_PORTAL		api.granitegrc.com is Granite Risk Management (different company); Granite Construction has none
+graphic-packaging	NO_PORTAL		No public dev portal found
+gray-television	NO_PORTAL		Only vendor/internal portals; no public dev/API portal
+graybar-electric	HAS_PORTAL	https://apiportal-snd.graybar.com	Graybar Azure API Management developer portal
+green-plains	NO_PORTAL		No public dev/API portal found
+greenbrier-cos	NO_PORTAL		My GBRX and RailPulse are customer portals; no public dev portal
+greif	NO_PORTAL		Greif+ is a customer portal, not a developer/API portal
+griffon	NO_PORTAL		Clopay's portalapi.clopay.com is a private/auth-only API service, not public dev portal
+grocery-outlet-holding	NO_PORTAL		svc.groceryoutlet.com is internal API for store ops, not public dev portal
+group-1-automotive	NO_PORTAL		No public dev/API portal found
+guardian-life-ins-co-of-america	HAS_PORTAL	https://developer.guardianlife.com	Guardian API Portal - Group Insurance, Life Insurance, Claims Processing
+guess	NO_PORTAL		No public dev/API portal found
+gxo-logistics	NO_PORTAL		Only customer/SCM portals; no public dev/API portal (GXO IQ mentions APIs but no portal URL)
+halliburton	NO_PORTAL		Halliburton Landmark contributes to OSDU but has no public dev portal of its own
+handr-block	HAS_PORTAL	https://apiportal.hrblock.com	H&R Block Developer Portal (login via IdP)
+hanesbrands	NO_PORTAL		Only B2B/procurement portals; no public dev/API portal
+hanover-insurance-group	NO_PORTAL		Only agency portal and MHP customer portal; no public dev/API portal
+slug	status	portal_url	notes
+harley-davidson	NO_PORTAL		Only Service Information Portal for dealers, no public dev/API portal
+hartford-financial-services-group	HAS_PORTAL	https://developer.thehartford.com/	The Hartford API Developer Portal for B2B insurance APIs
+hasbro	NO_PORTAL		No public developer portal; CSP is internal
+hawaiian-electric-industries	NO_PORTAL		Customer-only My Energy Use portal, no dev/API portal
+hawaiian-holdings	HAS_PORTAL	https://haconnect.hawaiianairlines.com/	HA Connect partner portal (Accelya NDC); Hawaiian merged with Alaska Air
+helmerich-and-payne	NO_PORTAL		No public developer/API/data portal found
+henry-schein	HAS_PORTAL	https://ddp.dentrix.com/	Dentrix Developer Portal (Henry Schein One API Exchange)
+herc-holdings	NO_PORTAL		No public developer/API portal found
+hershey	NO_PORTAL		Only internal HR and supplier portals
+hertz	NO_PORTAL		developers.hertz.com has TLS issue; only third-party integrations via Mashery
+hess	NO_PORTAL		Only Owner Relations Portal; no public dev API
+hewlett-packard-enterprise	HAS_PORTAL	https://developer.hpe.com/	HPE Developer Community + HPE GreenLake Developer Portal
+hf-sinclair	NO_PORTAL		Only distributor and supplier portals, no dev/API portal
+hillenbrand	NO_PORTAL		Application cloud exists but no public developer/API portal
+hologic	HAS_PORTAL	https://dev.hologic.io/	Hologic developer portal at dev.hologic.io
+hormel-foods	NO_PORTAL		Only internal employee, supplier, and customer portals
+host-hotels-and-resorts	NO_PORTAL		REIT - no public developer/API portal
+hovnanian-enterprises	NO_PORTAL		Homebuilder - no public developer/API portal
+howmet-aerospace	NO_PORTAL		No public developer/API portal found
+huntington-ingalls-industries	NO_PORTAL		developer.huntington.com is Huntington Bank, not HII (defense)
+huntsman	NO_PORTAL		Technology Portal is for innovation collaboration, not APIs
+hyatt-hotels	NO_PORTAL		Hyatt Resource Portal is for hotel owners; no public API dev portal
+hyster-yale-materials-handling	NO_PORTAL		Only partner/extranet login pages, no public dev/API portal
+iac-interactivecorp	NO_PORTAL		Holding company; no consolidated developer portal
+icahn-enterprises	NO_PORTAL		Holding company; no developer/API portal
+idex	NO_PORTAL		IDEX Corporation (industrial pumps) has no public dev portal; results were unrelated IDEX Online/crypto
+idexx-laboratories	HAS_PORTAL	https://developer.vetconnectplus.com/	VetConnect PLUS developer portal + IDEXX Data Services API
+iheartmedia	NO_PORTAL		Former iHeartRadio developer portal discontinued
+illinois-tool-works	NO_PORTAL		Decentralized; no consolidated developer/API portal
+illumina	HAS_PORTAL	https://developer.illumina.com/	Illumina Software Resources developer portal
+incyte	NO_PORTAL		Only request management and provider portals
+ingersoll-rand	NO_PORTAL		Helix Connected Platform is customer-only, no dev/API portal
+ingles-markets	NO_PORTAL		Grocery chain - only EDI/3rd party integrations
+ingredion	NO_PORTAL		Only customer documentation portal MyIngredion
+insight-enterprises	NO_PORTAL		No public dev/API portal found
+insperity	HAS_PORTAL	https://developer.insperity.com/	Insperity Integration Portal for customers
+instacart	HAS_PORTAL	https://docs.instacart.com/	Instacart Docs hub for Connect, Developer Platform, Ads, Data Hub APIs
+installed-building-products	NO_PORTAL		Building products installer - no public dev/API portal
+international-flavors-and-fragrances	NO_PORTAL		No public developer/API portal
+international-paper	NO_PORTAL		No public developer/API portal; only supplier/customer portals
+interpublic-group	NO_PORTAL		Internal interact.interpublic.com portal exists but is not a public dev/API portal
+intuitive-surgical	NO_PORTAL		My Intuitive is a clinical platform, no public dev/API portal
+iqvia	HAS_PORTAL	https://developer.iqvia.com/	IQVIA Developer Hub (DevIQ Portal) with APIs and templates
+iron-mountain	HAS_PORTAL	https://www.ironmountain.com/support/how-it-works/resources/for-developers/authentication	Iron Mountain developer resources for InSight Core Data Vault APIs
+itt	NO_PORTAL		Industrial conglomerate; no public dev/API portal (Intel ITT is unrelated)
+jackson-financial	NO_PORTAL		Uses third-party FireLight API; no own dev portal
+jacobs-solutions	NO_PORTAL		Various internal portals but no public dev/API portal
+jeld-wen-holding	NO_PORTAL		Only partner portals, no public dev/API portal
+jetblue-airways	HAS_PORTAL	https://developerqa.jetblue.com/	JetBlue Mashery Developer Network Portal
+jms	NO_PORTAL		Slug refers to Jakarta Messaging Service standard, not a company portal
+kb-home	NO_PORTAL		Homebuilder - no public dev/API portal
+kbr	NO_PORTAL		Engineering services - no public dev/API portal
+kellanova	NO_PORTAL		No public developer/API portal
+kelly-services	NO_PORTAL		Kelly Helix is for users/clients, not a public dev/API portal
+kemper	NO_PORTAL		Only agent and customer portals, no public dev/API portal
+keysight-technologies	NO_PORTAL		Sells API plugin products (KS8106A) but no central dev portal
+kimberly-clark	NO_PORTAL		Only SCM/supplier/customer portals, no public dev/API portal
+kinder-morgan	NO_PORTAL		Pipeline portals are operational tools, no public dev/API portal
+kirby	NO_PORTAL		Marine transportation - no public dev/API portal
+kkr	NO_PORTAL		Only client portal at portal.kkr.com, not a dev/API portal
+kla	NO_PORTAL		Semiconductor equipment - no public dev/API portal
+kohls	NO_PORTAL		connection.kohls.com is for vendors via Logicbroker; no public dev/API portal
+slug	status	portal_url	notes
+kontoor-brands	NO_PORTAL		No public developer/API portal found; portal.kontoorbrands.com is internal login only
+korn-ferry	HAS_PORTAL	https://api.kornferry.com/	Korn Ferry Products Suite API portal
+kraft-heinz	NO_PORTAL		Internal supplier/quality portals only; no public developer API portal
+kyndryl-holdings	HAS_PORTAL	https://docs.kyndryl.com/	Kyndryl docs site with Developer Console and Modern Operations APIs
+l-brands	NO_PORTAL		L Brands split into BBWI and VSCO; no public developer API portal found
+l3harris-technologies	NO_PORTAL		Customer/supplier portals only; no public developer API portal
+labcorp	NO_PORTAL		Integration handled via Vendor Relations Management Team; no public developer portal
+lam-research	NO_PORTAL		MyLam is password-protected customer/supplier extranet; no public developer portal
+land-olakes	NO_PORTAL		Member portals only; no public developer API portal
+landstar-system	HAS_PORTAL	https://portal.landstartel.co/ns-api/	Landstar Telecom OAuth2 API available; portal.landstaronline.com
+las-vegas-sands	NO_PORTAL		No public developer API portal found
+lci-industries	HAS_PORTAL	https://api.lci1.com/	Lippert Legacy API / LCI Media Center
+lear	NO_PORTAL		Supplier/internal portals only; no public developer API portal
+leggett-and-platt	NO_PORTAL		Dealer/employee portals only; no developer API portal
+leidos	NO_PORTAL		Leidos Flight Service has internal web services portal but no public Leidos developer portal
+levi-strauss	NO_PORTAL		No public developer API portal found
+liberty-energy	NO_PORTAL		Customer login only at core.libertyenergy.com; no developer portal
+liberty-media	NO_PORTAL		No public developer API portal found (not Liberty Mutual)
+lincoln-electric-holdings	NO_PORTAL		MyLincoln business/education portals only; no developer API portal
+lithia-motors	NO_PORTAL		Vendor/admin portals only; no developer API portal
+lkq	NO_PORTAL		B2B/service portals only; no public developer API portal
+lockheed-martin	NO_PORTAL		Internal MyLM portal and GitHub presence; no public developer API portal
+loews	NO_PORTAL		Loews Corp holding co; no public developer API portal (results were for Lowe's instead)
+louisiana-pacific	NO_PORTAL		Uses third-party Trimble CFX; no own public developer portal
+lpl-financial-holdings	NO_PORTAL		ClientWorks integration via Salesforce AppExchange; no public developer API portal
+lululemon-athletica	NO_PORTAL		No public developer API portal (results conflated with Lulu print-on-demand)
+m-and-t-bank	NO_PORTAL		Open Banking access via third-party aggregators only; no own developer portal
+macys	HAS_PORTAL	https://developer.macys.com/	Macy's developer portal (private API, requires registration via Mashery)
+manpowergroup	NO_PORTAL		Talent Solutions API tracked but no public developer portal
+marathon-oil	NO_PORTAL		Marathon Oil acquired by ConocoPhillips; no own developer portal
+marathon-petroleum	HAS_PORTAL	https://api.developer.marathonpetroleum.com/	Azure API Management developer portal for partners
+markel	HAS_PORTAL	https://developer.markel.com/	Markel API developer portal with multiple product lines
+marriott-vacations-worldwide	NO_PORTAL		Marriott International has devportalprod.marriott.com but MVW is separate; no own developer portal
+marsh-and-mclennan	NO_PORTAL		Client portals only; no public developer API portal
+martin-marietta-materials	NO_PORTAL		eRocks customer portal; no public developer API portal
+marvell-technology	NO_PORTAL		Customer extranet/document library only; no public developer API portal
+masco	NO_PORTAL		No public developer API portal (search hits were for unrelated masco.dev branding tool)
+massachusetts-mutual-life-insurance	NO_PORTAL		GitHub presence only; no public developer API portal
+mastec	NO_PORTAL		Internal identity/tech portals only; no developer API portal
+masterbrand	NO_PORTAL		Dealer portal at masterbrandconnect.com; no developer API portal
+matador-resources	NO_PORTAL		No public developer API portal
+match-group	NO_PORTAL		Uses internal Tinder API Gateway; no public developer API portal
+mativ-holdings	NO_PORTAL		No public developer API portal
+matson	NO_PORTAL		EDI integration only; no public developer API portal
+mattel	NO_PORTAL		Internal Product Catalog Web API only at dev.product.mattel.mattelcloud.com; not a public developer portal
+mccormick	NO_PORTAL		No public developer API portal
+mckesson	HAS_PORTAL	https://apiaccess.mckesson.com/apiportal-service/	iKnowMed API portal; also McKesson Hub and Ontada developer portals
+mdc-holdings	NO_PORTAL		Homebuilder; no public developer API portal
+mdu-resources-group	NO_PORTAL		Utility customer portals only; no developer API portal
+medical-mutual-of-ohio	HAS_PORTAL	https://www.medmutual.com/About-Medical-Mutual/Interoperability-Information.aspx	Interoperability program with FHIR Provider Directory API
+merck	HAS_PORTAL	https://api.merck.com/customer-link/v1/	Customer Link API exposed; internal developer portal noted in case study
+mercury-general	HAS_PORTAL	https://developer.mercuryinsurance.com/	Mercury Insurance API portal for agencies
+meritage-homes	NO_PORTAL		Homeowner/resident portals only; no developer API portal
+meta-platforms	HAS_PORTAL	https://developers.meta.com/	Meta for Developers (also developers.facebook.com)
+metlife	HAS_PORTAL	https://emea.developer.metlife.com/	Regional developer portals: MetLife Gulf (EMEA) and Mexico portals
+mettler-toledo-international	NO_PORTAL		Customer portal and technical docs only; no public developer API portal
+mgm-resorts-international	NO_PORTAL		GitHub presence and partner API integrations only; no public developer API portal
+mi-homes	NO_PORTAL		Customer Journey app only; no developer API portal
+microchip-technology	HAS_PORTAL	https://developerhelp.microchip.com/	Microchip Developer Help portal for products and tools
+micron-technology	NO_PORTAL		API-first internal strategy but no public developer portal; downloads page only
+middleby	NO_PORTAL		Dealer/support portals only; no developer API portal
+millerknoll	NO_PORTAL		Product API used internally for dealer platform; no public developer portal
+slug	status	portal_url	notes
+mks-instruments	NO_PORTAL		Has Customer/Service ePortals and IIoT SDK but no public dev portal
+moderna	NO_PORTAL		No public developer portal found
+modivcare	NO_PORTAL		Has Integration Hub for partners but no public dev portal
+mohawk-industries	NO_PORTAL		Only has MohawkNet/MohawkXchange business portals
+molina-healthcare	NO_PORTAL		No public developer portal found
+molson-coors-beverage	NO_PORTAL		BeerMate is partner portal only, no dev portal
+mondelez	NO_PORTAL		Innovation portal and supplier portal only
+monster-beverage	NO_PORTAL		No public developer portal found
+moog	NO_PORTAL		No public developer portal found
+mosaic	NO_PORTAL		No public developer portal found
+mrc-global	NO_PORTAL		Has Customer Community and Vendor portal only
+msc-industrial-direct	NO_PORTAL		Supplier portal only, no public dev portal
+msci	HAS_PORTAL	https://developer.msci.com	MSCI Developer Community with multiple APIs
+mueller-industries	NO_PORTAL		No public developer portal found
+murphy-oil	NO_PORTAL		Uses Ariba Network for suppliers only
+murphy-usa	NO_PORTAL		Construction and vendor portals only
+mutual-of-omaha	NO_PORTAL		API integrations via partners (ADP, bSwift), no public dev portal
+myr-group	NO_PORTAL		No public developer portal found
+nasdaq	HAS_PORTAL	https://data.nasdaq.com	Nasdaq Data Link with REST/Streaming APIs and docs
+nationwide	HAS_PORTAL	https://developer.nationwide.com	Nationwide Partnership Portal with auto/insurance APIs
+navient	NO_PORTAL		Loans transferred to MOHELA, no public dev portal
+netflix	NO_PORTAL		Public API was retired in 2014, only internal APIs
+new-york-community-bancorp	NO_PORTAL		No public developer portal found
+new-york-life-insurance	NO_PORTAL		Partner integrations only, no public dev portal
+newell-brands	NO_PORTAL		Customer/Ariba portals only
+newmarket	NO_PORTAL		NewMarket Corporation (petroleum additives) has no dev portal
+newmont	NO_PORTAL		No public developer portal found
+news-corp	NO_PORTAL		Internal APIs only, no public dev portal
+nexstar-media-group	NO_PORTAL		No public developer portal found
+nextera-energy	HAS_PORTAL	https://developer.dev.nexteraenergy.com/	NextEra Energy Developer Portal with API catalog
+nisource	NO_PORTAL		Vendor/Supplier portals only, no public dev portal
+nlv-financial	NO_PORTAL		No public developer portal found
+nordstrom	NO_PORTAL		B2B EDI integrations only, no public dev portal
+northrop-grumman	NO_PORTAL		Supplier OASIS portal only, no public dev portal
+northwestern-mutual	NO_PORTAL		Internal APIs and open-source Kanali tool, no public portal
+nov	NO_PORTAL		Internal API Management platform, no public dev portal
+nrg-energy	HAS_PORTAL	https://docs.nrg.com/	NRG Sales APIs documentation portal
+nucor	NO_PORTAL		NucorNow customer portal only, no public dev portal
+nvr	NO_PORTAL		Vendor portal only, no public dev portal
+occidental-petroleum	NO_PORTAL		Royalty/supplier portals only, no public dev portal
+odp	NO_PORTAL		No public developer portal found for ODP/Office Depot
+oge-energy	NO_PORTAL		Customer portal only, no public dev portal
+old-dominion-freight-line	HAS_PORTAL	https://www.odfl.com/us/en/resources/shipping-api-integrations.html	ODFL Shipping API Integrations with REST tracking API
+old-national-bancorp	NO_PORTAL		No public developer portal found
+old-republic-international	NO_PORTAL		Internal title agent integrations only
+olin	NO_PORTAL		No public developer portal found
+omnicom-group	NO_PORTAL		Uses third-party APIs (Instacart, LinkedIn) but has no own portal
+on-semiconductor	NO_PORTAL		Image Sensor portal requires access request, not public dev portal
+onemain-holdings	NO_PORTAL		Affiliate-only API integrations
+oneok	HAS_PORTAL	https://developers.magellanlp.com	ONEOK/Magellan Developer Portal (Swift APIs)
+opendoor-technologies	HAS_PORTAL	https://opendoor.docs.apiary.io/	Opendoor API documentation on Apiary
+option-care-health	NO_PORTAL		Provider TouchPoint portal only, no public dev portal
+oreilly-automotive	HAS_PORTAL	https://integrations.oreillypro.com/	O'Reilly Pro Integration Hub for B2B integrations
+oscar-health	HAS_PORTAL	https://www.hioscar.com/cms_patient_access_developer_page	Oscar Health Patient Access API (FHIR via 1upHealth)
+oshkosh	NO_PORTAL		Supplier network only, no public dev portal
+otis-worldwide	HAS_PORTAL	https://developers.otis.com/	Otis Developer Portal with Building Management API
+ovintiv	NO_PORTAL		No public developer portal found
+owens-and-minor	NO_PORTAL		IPM and marketplace only, no public dev portal
+owens-corning	NO_PORTAL		Customer/learning portals only, no public dev portal
+owens-illinois	NO_PORTAL		Account check tool only, no public dev portal
+paccar	HAS_PORTAL	https://www.daf.com/en/products-and-services/daf-services/connected-services/paccar-connect-partners	PACCAR Connect Data Integration Partner Program
+pacific-life	NO_PORTAL		Partners with IXN for API platform but no own portal
+slug	status	portal_url	notes
+packaging-corp-of-america	NO_PORTAL		Only customer/employee portals; no public developer/API portal
+pacs-group	NO_PORTAL		Nursing home operator; no public dev portal
+par-pacific	NO_PORTAL		Petroleum refiner; no public dev portal
+paramount-global	NO_PORTAL		paramount.tech open source page only; no public API portal
+park-hotels-and-resorts	NO_PORTAL		Hotel REIT; no public dev portal
+parker-hannifin	HAS_PORTAL	https://developer.parker.com	Parker Hannifin API Developer Portal (Azure APIM)
+patterson	NO_PORTAL		Patterson Innovation Connection for partners only; no public portal
+patterson-uti-energy	NO_PORTAL		developer.patterson-uti.com is placeholder; PTEN+ is customer-only
+pbf-energy	NO_PORTAL		Refiner; no public dev portal
+pc-connection	NO_PORTAL		IT reseller; no public dev portal found
+peabody-energy	NO_PORTAL		Coal company; only internal envirohub/employee portals
+peloton-interactive	NO_PORTAL		No official public consumer API; only community docs
+penn-entertainment	NO_PORTAL		No public developer portal
+penn-mutual-life-insurance	NO_PORTAL		Only client portal; no public dev portal
+penske-automotive	NO_PORTAL		Telematics integrations via partners; no public dev portal
+pepsico	HAS_PORTAL	https://docs.sen.ite.pepsico.com/	Azure APIM developer portal (PepsiCo internal/partner)
+performance-food	NO_PORTAL		Customer/logistics portals only; no public dev portal
+permian-resources	NO_PORTAL		Oil & gas E&P; no public dev portal
+peter-kiewit-sons	HAS_PORTAL	https://api-portal.kiewit.com/	Kiewit Corporation developer portal
+pfizer	NO_PORTAL		Pharma; CentreOne is API manufacturing (active pharma ingredients) not software APIs
+pg-and-e	HAS_PORTAL	https://sharemydata.pge.com/	PG&E Share My Data (Green Button) API portal; also pgedataportals.pge.com
+philip-morris	NO_PORTAL		Internal DEEP platform; no public dev portal
+phillips-66	NO_PORTAL		Customer/supplier portals; no public dev portal
+pinnacle-west-capital	NO_PORTAL		APS utility; no public dev portal
+pioneer-natural-resources	NO_PORTAL		Acquired by ExxonMobil 2024; no public dev portal
+plains-gp	NO_PORTAL		Midstream pipeline operator; no public dev portal
+playtika-holding	NO_PORTAL		Mobile games; privacy portal only, no public dev portal
+pnc-financial-services-group	HAS_PORTAL	https://developer.pnc.com/	PNC Developer Tools: Open APIs for Banking & Payments
+polaris	NO_PORTAL		RIDE COMMAND consumer app; no public dev portal
+polyone	NO_PORTAL		Now Avient; no public dev portal
+pool	NO_PORTAL		Pool360 B2B portal; no public dev portal
+popular	NO_PORTAL		No public dev portal found
+post	NO_PORTAL		Post Holdings (food); no public dev portal
+ppg-industries	HAS_PORTAL	https://api-portal-test.ppg.com/	PPG API Management portal (Azure APIM)
+ppl	NO_PORTAL		PPL Corporation (US utility); results are for unrelated PPL CZ logistics and CMS PPL
+pricesmart	NO_PORTAL		mwebapi.priorpos.com is third-party POS; no public dev portal
+primoris-services	NO_PORTAL		platformapi.primorisservices.com is internal; no public dev portal
+principal-financial	HAS_PORTAL	https://portal.developer.principal.com/	Principal Developer Portal
+profrac-holding	NO_PORTAL		Oilfield services; no public dev portal
+prologis	NO_PORTAL		Customer/supplier/investor portals; no public dev portal
+public-service-enterprise	NO_PORTAL		PSE&G; no public dev portal
+public-storage	NO_PORTAL		Self-storage REIT; no public dev portal
+publix-super-markets	NO_PORTAL		Business Connection partner portal; no public dev portal
+puget-energy	NO_PORTAL		MyData/EnergyCAP customer access; no public dev portal
+pultegroup	NO_PORTAL		Customer/owner portals; no public dev portal
+pvh	NO_PORTAL		Apparel; no public dev portal
+qorvo	NO_PORTAL		GitHub SDKs and order portal; no public dev portal
+quad-graphics	NO_PORTAL		MyIO insertion order portal; no public dev portal
+quanta-services	NO_PORTAL		Support portal only; no public dev portal
+quest-diagnostics	HAS_PORTAL	https://api.questdiagnostics.com/	FHIR API (Quanum EHR); also api.ess.questdiagnostics.com
+qurate-retail	NO_PORTAL		QVC/HSN vendor portal only; no public dev portal
+rackspace-technology	HAS_PORTAL	https://docs.rackspace.com/	Rackspace API documentation (Cloud DNS, LB, Monitoring, etc.)
+ralph-lauren	NO_PORTAL		api.ralphlauren.com returns 403; no public dev portal
+range-resources	NO_PORTAL		Oil & gas E&P; no public dev portal
+realogy-holdings	HAS_PORTAL	https://developers.anywhere.re/	Anywhere (formerly Realogy) Developers Portal - 40+ real estate APIs
+realty-income	NO_PORTAL		REIT; no public dev portal
+regeneron-pharmaceuticals	NO_PORTAL		Pharma; various login portals but no public dev portal
+regions-financial	NO_PORTAL		No public dev portal found
+reinsurance-group-of-america	NO_PORTAL		GitHub presence but no public dev portal
+reliance	NO_PORTAL		Reliance Steel; no public dev portal
+resideo-technologies	HAS_PORTAL	https://developer.resideo.com/	Resideo/Honeywell Home Developer Portal
+resmed	NO_PORTAL		developer.resmed.com redirects to www; no public dev portal
+slug	status	portal_url	notes
+rev-group	NO_PORTAL		REV Group (specialty vehicles) - no public developer/API portal found
+revvity	HAS_PORTAL	https://revvitysignals.com/revvity-signals-developer-guide-rest-api	Revvity Signals public REST API developer guide with Swagger UI
+rh	NO_PORTAL		RH (Restoration Hardware) - no public developer or API portal
+rithm-capital	NO_PORTAL		Rithm Capital (investment management) - no public developer/API portal
+rivian-automotive	NO_PORTAL		Rivian - api.rivian.com exists but is private; OCPI Data API by email-only request; no public portal
+robert-half-international	NO_PORTAL		Robert Half - only candidate/employee portals, no public developer/API portal
+rocket-companies	HAS_PORTAL	https://developers.mortgageapi.rocket.mortgage/	Rocket Mortgage Mortgage API developer portal with Retail and Pro paths
+rpm-international	NO_PORTAL		RPM International (coatings/sealants) - no developer portal; api.rpmsoftware.com is unrelated SaaS company
+rtx	NO_PORTAL		RTX (Raytheon) - only internal/auth portals (sso, sftp); no public developer portal
+rush-enterprises	NO_PORTAL		Rush Enterprises - only customer/parts portals; no public developer/API portal
+rxo	HAS_PORTAL	https://developer.rxo.com/	RXO API Developer Portal with Carrier Load Search, Booking, Document APIs
+ryerson-holding	NO_PORTAL		Ryerson Holding (metals distribution) - no public developer/API portal
+sally-beauty-holdings	NO_PORTAL		Sally Beauty - no public developer/API portal; vendor onboarding only
+sanmina	NO_PORTAL		Sanmina/42Q - no public developer or API portal found
+sba-communications	NO_PORTAL		SBA Communications (cell tower REIT) - no developer portal; developer.sba.gov is Small Business Administration (different entity)
+schneider-national	HAS_PORTAL	https://portal.api.schneider.com/	Schneider National Azure-based API Management developer portal with Documents, Quote, Tracking APIs
+science-applications-international	NO_PORTAL		SAIC (defense IT contractor) - no public developer/API portal
+scotts-miracle-gro	NO_PORTAL		Scotts Miracle-Gro - GRO app has open API but no public developer portal
+seaboard	NO_PORTAL		Seaboard Corporation - only customer/transport portals; no public developer/API portal
+sealed-air	HAS_PORTAL	https://uat-developer.sealedair.com/	Sealed Air Azure API Management developer portal (UAT environment publicly accessible)
+securian-financial-group	NO_PORTAL		Securian Financial - no dedicated developer portal; aggregator-only API access
+select-medical-holdings	NO_PORTAL		Select Medical Holdings - no public developer/API portal (Select Health is a different entity)
+selective-insurance-group	NO_PORTAL		Selective Insurance - only customer/agent portals; no public developer/API portal
+sempra	NO_PORTAL		Sempra Energy - only edt.sempra.com EDI transfer portal; no public developer/API portal
+sentry-insurance-group	NO_PORTAL		Sentry Insurance - only customer portals (Sentry.io error monitoring is different entity)
+service-corp-international	NO_PORTAL		Service Corporation International (funeral services) - no public developer/API portal
+silgan-holdings	NO_PORTAL		Silgan Holdings (packaging) - no public developer/API portal
+sinclair	NO_PORTAL		Sinclair Broadcast - only payment/content portals; no public developer/API portal
+siteone-landscape-supply	NO_PORTAL		SiteOne - API Key sold as product but no public developer documentation portal
+skywest	NO_PORTAL		SkyWest Airlines - only employee portal (SkyWestOnline); third-party APIs only
+skyworks-solutions	NO_PORTAL		Skyworks Solutions (semiconductor) - customer portal only; no public developer/API portal
+slm	NO_PORTAL		Sallie Mae (SLM) - no public developer/API portal
+snap-on	NO_PORTAL		Snap-on tools - docs.snaponbusinesssolutions.com exists but unclear public access; no clear public API portal
+southern	NO_PORTAL		Southern Company - only Georgia Power construction developers page (non-API); no central public developer/API portal
+southwest-airlines	NO_PORTAL		Southwest Airlines - partner-only Direct Connect API; no public developer portal
+southwestern-energy	NO_PORTAL		Southwestern Energy/Expand Energy - only owner relations portal; no public developer/API portal
+spartannash	NO_PORTAL		SpartanNash - only Insite partner portal and Brand Portal; no public developer/API portal
+spectrum-brands	NO_PORTAL		Spectrum Brands - no public developer/API portal found
+spire	NO_PORTAL		Spire Inc (natural gas utility) - only customer portal; no public developer/API portal (Spire Global is different)
+spirit-aerosystems-holdings	NO_PORTAL		Spirit AeroSystems - only customer and supplier portals; no public developer/API portal
+spirit-airlines	NO_PORTAL		Spirit Airlines - partner-only travel agent booking API; no public developer portal
+sprouts-farmers-market	NO_PORTAL		Sprouts Farmers Market - only Workday supplier portal and EDI; no public developer/API portal
+ss-and-c-technologies	HAS_PORTAL	https://developer.ssctech.com/	SS&C Technologies APIM Portal (Azure API Management)
+stagwell	NO_PORTAL		Stagwell - only vendor and new-hire portals; no public developer/API portal
+steel-dynamics	NO_PORTAL		Steel Dynamics - only customer/supplier portals; no public developer/API portal
+steelcase	NO_PORTAL		Steelcase - uses Clara.io REST API and RoomWizard API but no central developer portal
+stonex-group	HAS_PORTAL	https://developer.stonex.com/	StoneX Developer Storefront with Clearing, Trading, Payments APIs
+stryker	NO_PORTAL		Stryker - only internal/customer-specific portals (GRT, iD Portal); no public developer/API portal
+summit-materials	NO_PORTAL		Summit Materials - no public developer/API portal
+sun-communities	NO_PORTAL		Sun Communities - only resident/customer/HR portals; no public developer/API portal
+surgery-partners	NO_PORTAL		Surgery Partners - only RevMD customer portal and service desk; no public developer/API portal
+sylvamo	NO_PORTAL		Sylvamo (paper) - no public developer/API portal
+take-two-interactive-software	NO_PORTAL		Take-Two Interactive - api.t2gp.take2games.com exists for game services but no public developer portal
+talen-energy	NO_PORTAL		Talen Energy - only supplier portal and Talen Connect app; no public developer/API portal
+targa-resources	NO_PORTAL		Targa Resources (midstream energy) - only producer portal; no public developer/API portal (Targa Telematics is different entity)
+taylor-morrison-home	NO_PORTAL		Taylor Morrison - only homeowner/builder portals; no public developer/API portal
+tegna	NO_PORTAL		TEGNA - api.tegna.com and api.premion.com exist but no public developer portal; only Jira support desk
+teladoc-health	HAS_PORTAL	https://api-documentation.teladochealth.com/	Teladoc Health Developer Hub for virtual care APIs
+teleflex	NO_PORTAL		Teleflex - only customer/HCP/grants portals (HEP, myTeleflex); no public developer/API portal
+telephone-and-data-systems	NO_PORTAL		Telephone and Data Systems (TDS) - only agent and support portals; no public developer/API portal
+tenet-healthcare	NO_PORTAL		Tenet Healthcare - api.tenethealth.com exists but no public developer portal; only provider/employee portals
+teradyne	NO_PORTAL		Teradyne - eKnowledge customer support portal; Smart4Metrics API requires customer access; no public developer portal
+slug	status	portal_url	notes
+tetra-tech	NO_PORTAL		Tetra Tech (engineering consulting); subsidiary TetraScience has developers.tetrascience.com but is a separate company
+texas-roadhouse	NO_PORTAL		Internal API/mobile portals exist but not public-facing developer portal
+textron	NO_PORTAL		Aerospace/defense conglomerate; no public developer portal found
+thermo-fisher-scientific	HAS_PORTAL	https://www.thermofisher.com/blog/connectedlab/platform-for-science-developer-portal-beta/	Platform for Science Developer Portal (beta); also has IAPI on GitHub, Smart EPU API, GeneArt API
+thor-industries	NO_PORTAL		RV/bus manufacturer; no public developer portal found
+thrivent-financial-for-lutherans	NO_PORTAL		Customer/employee login portals only; no public developer portal
+timken	NO_PORTAL		Distributor/services portals only; no public developer portal
+titan-machinery	NO_PORTAL		Agricultural/construction equipment dealer; no public developer portal
+toll-brothers	NO_PORTAL		Homebuilder; customer portals only (smart home, home buyer); no developer portal
+topbuild	NO_PORTAL		Insulation installer; no public developer portal found
+topgolf-callaway-brands	NO_PORTAL		Has GitHub org but no public developer portal
+toro	NO_PORTAL		Lawn equipment; extranet for partners only
+transdigm	NO_PORTAL		Aerospace components; no public developer portal found
+transunion	HAS_PORTAL	https://techservices.transunion.com/doc-repository	TransUnion Technical Services Document Repository (403 to public, but documented as their developer support portal); CIBIL India has full portal
+treehouse-foods	NO_PORTAL		Private label food manufacturer; no public developer portal
+tri-pointe-homes	NO_PORTAL		Homebuilder; homebuyer apps only, no developer portal
+trinity-industries	NO_PORTAL		Rail car manufacturer; api-portal.ti.com is Texas Instruments not Trinity
+tutor-perini	NO_PORTAL		Construction; remote support portal only
+ugi	NO_PORTAL		Energy/utility; supplier portal only, no public developer portal
+ulta-beauty	NO_PORTAL		Internal APIs only; no public developer portal
+union-pacific	HAS_PORTAL	https://www.up.com/customers/all/api-developer/	Union Pacific Developer Center with Shipment, Action, Cases APIs
+united-rentals	NO_PORTAL		System integration page only; no public developer portal
+unitedhealth	HAS_PORTAL	https://www.uhc.com/legal/interoperability-apis	UnitedHealthcare Interoperability APIs (FHIR-based); also provider APIs at uhcprovider.com
+universal	NO_PORTAL		Tobacco company (Universal Corp); no public developer portal
+universal-forest-products	NO_PORTAL		UFP Industries; no public developer portal found
+universal-health-services	NO_PORTAL		Patient/employee portals only, no developer portal
+univision-communications	NO_PORTAL		TelevisaUnivision; partner distribution portal only, no public developer portal
+upbound	NO_PORTAL		Upbound Group (Rent-A-Center); financial services; upbound.io is unrelated Crossplane company
+us-foods	NO_PORTAL		Customer portal only; no public developer portal
+usaa	NO_PORTAL		Internal API platform; only third-party Open Banking access (Plaid/Finicity)
+v2x	NO_PORTAL		Government services contractor; no public developer portal (v2x.network is unrelated)
+vail-resorts	NO_PORTAL		Owner/employee portals only; no public developer portal
+valero-energy	NO_PORTAL		Wholesale/customer portals only; no public developer portal
+valley-national-bancorp	NO_PORTAL		Mentioned on Open Banking Tracker but no dedicated public dev portal URL
+valvoline	NO_PORTAL		Product information portal only; no public developer portal
+ventas	NO_PORTAL		REIT (healthcare); only remote support portal, no developer portal
+vertex-energy	NO_PORTAL		Petroleum refining company; vertexone.app is unrelated utilities software company
+vertiv	NO_PORTAL		Customer/service portals only; APIs documented in product docs but no public dev portal
+viasat	HAS_PORTAL	https://developer.viasat.com/	Viasat API Developer Portal (login required); plus docs.tcs.viasat.io
+vici-properties	NO_PORTAL		Real estate REIT (casinos); no public developer portal
+vista-outdoor	NO_PORTAL		Innovation portal for product ideas only, not API/developer portal
+vontier	NO_PORTAL		GitHub org exists; no central public developer portal (subsidiaries may have own)
+voya-financial	NO_PORTAL		Open Banking aggregator access only (Plaid/MX); no dedicated public dev portal
+vulcan-materials	NO_PORTAL		MyVulcan customer portal only; no public developer portal
+wabash-national	NO_PORTAL		devportal-dev.onewabash.com appears to be internal dev; supplier portal only
+webster-financial	NO_PORTAL		Open Banking aggregator access only (Plaid/Finicity); no dedicated public dev portal
+welltower	NO_PORTAL		Operator/tenant portals only; no public developer portal
+western-alliance-bancorp	HAS_PORTAL	https://developer.westernalliancebank.com/	WAB API Developer Portal
+western-midstream-partners	NO_PORTAL		Midstream energy; no public developer portal
+wex	HAS_PORTAL	https://developer.wexinc.com/	WEX Developer Portal; also fleetapi.wexinc.com and developers.wexhealth.com
+whiting-petroleum	NO_PORTAL		Uses third-party APIs (Engage Mobilize); no public developer portal
+williams-sonoma	HAS_PORTAL	http://developer.williams-sonomainc.com/	Williams-Sonoma API site (Mashery/Boomi-powered)
+winnebago-industries	NO_PORTAL		Multiple dealer/partner portals but no public developer portal
+woodward	NO_PORTAL		Aerospace controls; supplier portal only, no public developer portal
+world-kinect	NO_PORTAL		Customer portals (myWorld) only; API capability mentioned but no public dev portal
+wyndham-worldwide	NO_PORTAL		development.wyndhamhotels.com is hotel franchise development not developer portal; no public API portal
+wynn-resorts	NO_PORTAL		Supplier portal only; no public developer portal
+xpo	HAS_PORTAL	https://developers.ltl-xpo.com/	XPO Developer Portal (LTL); also apisolutions.xpo.com and EU portal
+xylem	HAS_PORTAL	https://apis.xylem.com/	Xylem Apis Manager developer portal (OAuth 2.0 / business APIs)
+yum-china	NO_PORTAL		Digital supplier platform only; no public developer portal
+zimmer-biomet	NO_PORTAL		Learning portal (zbinstitute.com) and grants portal only; no developer portal
+zoetis	NO_PORTAL		Distributor portal and partner integrations; no public developer portal

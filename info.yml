@@ -1,11 +1,11 @@
-name: API Platform Capabilities
-description: The capability areas that make up a modern API platform, each mapped to the tools and services that support it.
+name: API Platform Info
+description: The information areas that make up a modern API platform, each mapped to the tools and services that support it.
 url: https://raw.githubusercontent.com/api-evangelist/network/refs/heads/main/capabilities.yml
 source: https://apievangelist.com/2017/08/16/the-85-stops-along-the-api-lifecycle-i-track-on/
 created: '2026-03-16'
 modified: '2026-03-27'
 total: 76
-capabilities:
+common:
   - name: Aggregation
     skill: aggregation
     updated: '2026-03-27'
@@ -303,3 +303,11 @@ capabilities:
     description: AI automation combines artificial intelligence with workflow and process automation to create intelligent, autonomous systems. This includes AI agent frameworks that orchestrate multi-step
       reasoning and tool use, autonomous coding agents, AI-powered workflow platforms that add intelligence to integration and automation pipelines, intelligent process automation (IPA) that extends RPA
       with ML and NLP capabilities, and AI orchestration tools that coordinate multiple models and agents to complete complex tasks end-to-end.
+  - name: Agent Skills
+    skill: agents-skills
+    updated: ''
+    description: Needs description.
+  - name: Model Context Protocol
+    skill: agents
+    updated: ''
+    description: Needs description.    
