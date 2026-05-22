@@ -4,7 +4,7 @@ description: A network index of all APIs.json files maintained by the API Evange
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 url: https://raw.githubusercontent.com/api-evangelist/network/refs/heads/main/apis.yml
 created: '2026-02-27'
-modified: '2026-05-16'
+modified: '2026-05-22'
 specificationVersion: '0.19'
 kind: network
 tags:
@@ -557,6 +557,12 @@ network:
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
+  - name: agent-readiness
+    url: https://github.com/api-evangelist/agent-readiness
+    x-profiled: '2026-05-22'
+    x-type: topic
+    x-tier: 2
+    x-tier-reason: next-round
   - name: agent-skills
     url: https://github.com/api-evangelist/agent-skills
     x-type: topic
@@ -679,6 +685,12 @@ network:
     x-type: topic
     x-tier: 3
     x-tier-reason: no-apis
+  - name: ai-gateway
+    url: https://github.com/api-evangelist/ai-gateway
+    x-profiled: '2026-05-22'
+    x-type: topic
+    x-tier: 2
+    x-tier-reason: next-round
   - name: ai-habitat
     url: https://github.com/api-evangelist/ai-habitat
     x-type: opensource
@@ -4476,6 +4488,12 @@ network:
     x-profiled: 2026-05
     x-tier: 2
     x-tier-reason: company-fortune
+  - name: arcade
+    url: https://github.com/api-evangelist/arcade
+    x-profiled: '2026-05-22'
+    x-type: company
+    x-tier: 2
+    x-tier-reason: next-round
   - name: arcbest
     url: https://github.com/api-evangelist/arcbest
     x-type: company
@@ -4781,6 +4799,12 @@ network:
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
+  - name: async-apis
+    url: https://github.com/api-evangelist/async-apis
+    x-profiled: '2026-05-22'
+    x-type: topic
+    x-tier: 2
+    x-tier-reason: next-round
   - name: asyncapi
     url: https://github.com/api-evangelist/asyncapi
     x-type: standard
@@ -4809,6 +4833,72 @@ network:
     x-profiled: 2026-05
     x-tier: 1
     x-tier-reason: company-strong-fortune
+  - name: mcp
+    url: https://github.com/api-evangelist/mcp
+    x-profiled: '2026-05-22'
+    x-type: topic
+    x-tier: 2
+    x-tier-reason: next-round
+  - name: linting
+    url: https://github.com/api-evangelist/linting
+    x-profiled: '2026-05-22'
+    x-type: topic
+    x-tier: 2
+    x-tier-reason: next-round
+  - name: knowledge
+    url: https://github.com/api-evangelist/knowledge
+    x-profiled: '2026-05-22'
+    x-type: topic
+    x-tier: 2
+    x-tier-reason: next-round
+  - name: guardrails
+    url: https://github.com/api-evangelist/guardrails
+    x-profiled: '2026-05-22'
+    x-type: topic
+    x-tier: 2
+    x-tier-reason: next-round
+  - name: governance
+    url: https://github.com/api-evangelist/governance
+    x-profiled: '2026-05-22'
+    x-type: topic
+    x-tier: 2
+    x-tier-reason: next-round
+  - name: events
+    url: https://github.com/api-evangelist/events
+    x-profiled: '2026-05-22'
+    x-type: topic
+    x-tier: 2
+    x-tier-reason: next-round
+  - name: evals
+    url: https://github.com/api-evangelist/evals
+    x-profiled: '2026-05-22'
+    x-type: topic
+    x-tier: 2
+    x-tier-reason: next-round
+  - name: kinde
+    url: https://github.com/api-evangelist/kinde
+    x-profiled: '2026-05-22'
+    x-type: company
+    x-tier: 2
+    x-tier-reason: next-round
+  - name: frontegg
+    url: https://github.com/api-evangelist/frontegg
+    x-profiled: '2026-05-22'
+    x-type: company
+    x-tier: 2
+    x-tier-reason: next-round
+  - name: convoy
+    url: https://github.com/api-evangelist/convoy
+    x-profiled: '2026-05-22'
+    x-type: company
+    x-tier: 2
+    x-tier-reason: next-round
+  - name: clerk-com
+    url: https://github.com/api-evangelist/clerk-com
+    x-profiled: '2026-05-22'
+    x-type: company
+    x-tier: 2
+    x-tier-reason: next-round
   - name: national-council-on-disability
     url: https://github.com/api-evangelist/ational-council-on-disability
     x-type: government
@@ -26025,6 +26115,12 @@ network:
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
+  - name: realtime
+    url: https://github.com/api-evangelist/realtime
+    x-profiled: '2026-05-22'
+    x-type: topic
+    x-tier: 2
+    x-tier-reason: next-round
   - name: realtor
     url: https://github.com/api-evangelist/realtor
     x-type: company
@@ -28840,6 +28936,12 @@ network:
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
+  - name: specifications
+    url: https://github.com/api-evangelist/specifications
+    x-profiled: '2026-05-22'
+    x-type: topic
+    x-tier: 2
+    x-tier-reason: next-round
   - name: speclynx
     url: https://github.com/api-evangelist/speclynx
     x-type: company
@@ -29526,6 +29628,12 @@ network:
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
+  - name: streaming
+    url: https://github.com/api-evangelist/streaming
+    x-profiled: '2026-05-22'
+    x-type: topic
+    x-tier: 2
+    x-tier-reason: next-round
   - name: streamlit
     url: https://github.com/api-evangelist/streamlit
     x-type: opensource
@@ -29559,6 +29667,12 @@ network:
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: no-apis
+  - name: style-guides
+    url: https://github.com/api-evangelist/style-guides
+    x-profiled: '2026-05-22'
+    x-type: topic
+    x-tier: 2
+    x-tier-reason: next-round
   - name: stytch
     url: https://github.com/api-evangelist/stytch
     x-type: company
@@ -29706,6 +29820,12 @@ network:
     x-type: company
     x-tier: 3
     x-tier-reason: no-apis
+  - name: svix
+    url: https://github.com/api-evangelist/svix
+    x-profiled: '2026-05-22'
+    x-type: company
+    x-tier: 2
+    x-tier-reason: next-round
   - name: svn
     url: https://github.com/api-evangelist/svn
     x-type: opensource
