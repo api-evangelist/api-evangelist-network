@@ -41597,6 +41597,241 @@ network:
     x-tier: 3
     x-tier-reason: company-strong
 
+  - name: paytm
+    url: https://github.com/api-evangelist/paytm
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: phonepe
+    url: https://github.com/api-evangelist/phonepe
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: cred
+    url: https://github.com/api-evangelist/cred
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: no-apis
+  - name: setu
+    url: https://github.com/api-evangelist/setu
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: nubank
+    url: https://github.com/api-evangelist/nubank
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: bitso
+    url: https://github.com/api-evangelist/bitso
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: mercadopago
+    url: https://github.com/api-evangelist/mercadopago
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: konfio
+    url: https://github.com/api-evangelist/konfio
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: no-apis
+  - name: worldcoin
+    url: https://github.com/api-evangelist/worldcoin
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: farcaster
+    url: https://github.com/api-evangelist/farcaster
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: coinbase-onchain-kit
+    url: https://github.com/api-evangelist/coinbase-onchain-kit
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: 1inch
+    url: https://github.com/api-evangelist/1inch
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: aave
+    url: https://github.com/api-evangelist/aave
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: hyperliquid
+    url: https://github.com/api-evangelist/hyperliquid
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: jupiter-ag
+    url: https://github.com/api-evangelist/jupiter-ag
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: base-l2
+    url: https://github.com/api-evangelist/base-l2
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: arbitrum
+    url: https://github.com/api-evangelist/arbitrum
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: optimism
+    url: https://github.com/api-evangelist/optimism
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: zksync
+    url: https://github.com/api-evangelist/zksync
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: starknet
+    url: https://github.com/api-evangelist/starknet
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: eigenlayer
+    url: https://github.com/api-evangelist/eigenlayer
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: helium-network
+    url: https://github.com/api-evangelist/helium-network
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: akash-network
+    url: https://github.com/api-evangelist/akash-network
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: pump-fun
+    url: https://github.com/api-evangelist/pump-fun
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: polymarket
+    url: https://github.com/api-evangelist/polymarket
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: kalshi
+    url: https://github.com/api-evangelist/kalshi
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: medusa-js
+    url: https://github.com/api-evangelist/medusa-js
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: saleor
+    url: https://github.com/api-evangelist/saleor
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: vendure
+    url: https://github.com/api-evangelist/vendure
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: swell
+    url: https://github.com/api-evangelist/swell
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: has-2-apis
+  - name: crystallize
+    url: https://github.com/api-evangelist/crystallize
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: novu
+    url: https://github.com/api-evangelist/novu
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: has-3-apis
+  - name: liveblocks
+    url: https://github.com/api-evangelist/liveblocks
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: has-3-apis
+  - name: partykit
+    url: https://github.com/api-evangelist/partykit
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: ag2
+    url: https://github.com/api-evangelist/ag2
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: has-3-apis
+  - name: phidata
+    url: https://github.com/api-evangelist/phidata
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: has-3-apis
+  - name: estuary-flow
+    url: https://github.com/api-evangelist/estuary-flow
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: bytewax
+    url: https://github.com/api-evangelist/bytewax
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: has-3-apis
+  - name: flashbots
+    url: https://github.com/api-evangelist/flashbots
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+
 common:
   - type: LinkedIn
     url: https://www.linkedin.com/company/api-evangelist
