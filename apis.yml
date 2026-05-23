@@ -35301,10 +35301,10 @@ network:
     x-tier-reason: has-2-apis
   - name: abn-amro
     url: https://github.com/api-evangelist/abn-amro
-    x-profiled: '2026-05-16'
+    x-profiled: '2026-05-22'
     x-type: api
     x-tier: 3
-    x-tier-reason: no-apis
+    x-tier-reason: has-3-apis
   - name: accelo
     url: https://github.com/api-evangelist/accelo
     x-profiled: '2026-05-16'
@@ -35955,10 +35955,10 @@ network:
     x-tier-reason: no-apis
   - name: bosch
     url: https://github.com/api-evangelist/bosch
-    x-profiled: '2026-05-16'
+    x-profiled: '2026-05-22'
     x-type: api
     x-tier: 3
-    x-tier-reason: no-apis
+    x-tier-reason: company-strong
   - name: botpress
     url: https://github.com/api-evangelist/botpress
     x-profiled: '2026-05-16'
@@ -36699,10 +36699,10 @@ network:
     x-tier-reason: has-1-apis
   - name: eventbrite
     url: https://github.com/api-evangelist/eventbrite
-    x-profiled: '2026-05-16'
+    x-profiled: '2026-05-22'
     x-type: api
     x-tier: 3
-    x-tier-reason: no-apis
+    x-tier-reason: has-3-apis
   - name: evidence
     url: https://github.com/api-evangelist/evidence
     x-profiled: '2026-05-16'
@@ -37089,10 +37089,10 @@ network:
     x-tier-reason: has-1-apis
   - name: gusto
     url: https://github.com/api-evangelist/gusto
-    x-profiled: '2026-05-16'
+    x-profiled: '2026-05-22'
     x-type: api
     x-tier: 3
-    x-tier-reason: no-apis
+    x-tier-reason: has-2-apis
   - name: hapag-lloyd
     url: https://github.com/api-evangelist/hapag-lloyd
     x-profiled: '2026-05-16'
@@ -37119,10 +37119,10 @@ network:
     x-tier-reason: no-apis
   - name: heineken
     url: https://github.com/api-evangelist/heineken
-    x-profiled: '2026-05-16'
+    x-profiled: '2026-05-22'
     x-type: api
     x-tier: 3
-    x-tier-reason: no-apis
+    x-tier-reason: has-1-apis
   - name: helius
     url: https://github.com/api-evangelist/helius
     x-profiled: '2026-05-16'
@@ -37995,10 +37995,10 @@ network:
     x-tier-reason: no-apis
   - name: national-hockey-league
     url: https://github.com/api-evangelist/national-hockey-league
-    x-profiled: '2026-05-16'
+    x-profiled: '2026-05-22'
     x-type: api
     x-tier: 3
-    x-tier-reason: no-apis
+    x-tier-reason: has-2-apis
   - name: nbc
     url: https://github.com/api-evangelist/nbc
     x-profiled: '2026-05-16'
@@ -38103,7 +38103,7 @@ network:
     x-tier-reason: has-2-apis
   - name: novo-nordisk
     url: https://github.com/api-evangelist/novo-nordisk
-    x-profiled: '2026-05-16'
+    x-profiled: '2026-05-22'
     x-type: api
     x-tier: 3
     x-tier-reason: no-apis
@@ -39903,10 +39903,10 @@ network:
     x-tier-reason: no-apis-yet
   - name: abn-amro
     url: https://github.com/api-evangelist/abn-amro
-    x-profiled: '2026-05-16'
+    x-profiled: '2026-05-22'
     x-type: company
     x-tier: 3
-    x-tier-reason: no-apis-yet
+    x-tier-reason: has-3-apis
   - name: accenture
     url: https://github.com/api-evangelist/accenture
     x-profiled: '2026-05-16'
@@ -40017,10 +40017,10 @@ network:
     x-tier-reason: no-apis-yet
   - name: bosch
     url: https://github.com/api-evangelist/bosch
-    x-profiled: '2026-05-16'
+    x-profiled: '2026-05-22'
     x-type: company
     x-tier: 3
-    x-tier-reason: no-apis-yet
+    x-tier-reason: company-strong
   - name: bunge
     url: https://github.com/api-evangelist/bunge
     x-profiled: '2026-05-16'
@@ -40095,10 +40095,10 @@ network:
     x-tier-reason: no-apis-yet
   - name: eventbrite
     url: https://github.com/api-evangelist/eventbrite
-    x-profiled: '2026-05-16'
+    x-profiled: '2026-05-22'
     x-type: company
     x-tier: 3
-    x-tier-reason: no-apis-yet
+    x-tier-reason: has-3-apis
   - name: ey
     url: https://github.com/api-evangelist/ey
     x-profiled: '2026-05-16'
@@ -40131,10 +40131,10 @@ network:
     x-tier-reason: no-apis-yet
   - name: gusto
     url: https://github.com/api-evangelist/gusto
-    x-profiled: '2026-05-16'
+    x-profiled: '2026-05-22'
     x-type: company
     x-tier: 3
-    x-tier-reason: no-apis-yet
+    x-tier-reason: has-2-apis
   - name: hapag-lloyd
     url: https://github.com/api-evangelist/hapag-lloyd
     x-profiled: '2026-05-16'
@@ -40143,10 +40143,10 @@ network:
     x-tier-reason: no-apis-yet
   - name: heineken
     url: https://github.com/api-evangelist/heineken
-    x-profiled: '2026-05-16'
+    x-profiled: '2026-05-22'
     x-type: company
     x-tier: 3
-    x-tier-reason: no-apis-yet
+    x-tier-reason: has-1-apis
   - name: henkel
     url: https://github.com/api-evangelist/henkel
     x-profiled: '2026-05-16'
@@ -40275,10 +40275,10 @@ network:
     x-tier-reason: no-apis-yet
   - name: national-hockey-league
     url: https://github.com/api-evangelist/national-hockey-league
-    x-profiled: '2026-05-16'
+    x-profiled: '2026-05-22'
     x-type: company
     x-tier: 3
-    x-tier-reason: no-apis-yet
+    x-tier-reason: has-2-apis
   - name: nbc
     url: https://github.com/api-evangelist/nbc
     x-profiled: '2026-05-16'
@@ -40311,10 +40311,10 @@ network:
     x-tier-reason: no-apis-yet
   - name: novo-nordisk
     url: https://github.com/api-evangelist/novo-nordisk
-    x-profiled: '2026-05-16'
+    x-profiled: '2026-05-22'
     x-type: company
     x-tier: 3
-    x-tier-reason: no-apis-yet
+    x-tier-reason: no-apis
   - name: parkway-corp
     url: https://github.com/api-evangelist/parkway-corp
     x-profiled: '2026-05-16'
