@@ -42097,6 +42097,259 @@ network:
     x-tier: 3
     x-tier-reason: no-apis
 
+  - name: sea-group
+    url: https://github.com/api-evangelist/sea-group
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: no-apis
+  - name: grab
+    url: https://github.com/api-evangelist/grab
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: goto-gojek
+    url: https://github.com/api-evangelist/goto-gojek
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: rakuten
+    url: https://github.com/api-evangelist/rakuten
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: naver
+    url: https://github.com/api-evangelist/naver
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: kakao
+    url: https://github.com/api-evangelist/kakao
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: shopee
+    url: https://github.com/api-evangelist/shopee
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: lazada
+    url: https://github.com/api-evangelist/lazada
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: jd-com
+    url: https://github.com/api-evangelist/jd-com
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: eightfold-ai
+    url: https://github.com/api-evangelist/eightfold-ai
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: findem
+    url: https://github.com/api-evangelist/findem
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: hirevue
+    url: https://github.com/api-evangelist/hirevue
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: paradox-ai
+    url: https://github.com/api-evangelist/paradox-ai
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: gem-com
+    url: https://github.com/api-evangelist/gem-com
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: costar
+    url: https://github.com/api-evangelist/costar
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: realpage
+    url: https://github.com/api-evangelist/realpage
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: buildium
+    url: https://github.com/api-evangelist/buildium
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: gong-io
+    url: https://github.com/api-evangelist/gong-io
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: clay-com
+    url: https://github.com/api-evangelist/clay-com
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: smartlead-ai
+    url: https://github.com/api-evangelist/smartlead-ai
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: instantly-ai
+    url: https://github.com/api-evangelist/instantly-ai
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: berachain
+    url: https://github.com/api-evangelist/berachain
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: monad
+    url: https://github.com/api-evangelist/monad
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: blast-network
+    url: https://github.com/api-evangelist/blast-network
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: linea-network
+    url: https://github.com/api-evangelist/linea-network
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: scroll-zkevm
+    url: https://github.com/api-evangelist/scroll-zkevm
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: mantle-network
+    url: https://github.com/api-evangelist/mantle-network
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: ronin-network
+    url: https://github.com/api-evangelist/ronin-network
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: arkham-intelligence
+    url: https://github.com/api-evangelist/arkham-intelligence
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: bitquery
+    url: https://github.com/api-evangelist/bitquery
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: chainalysis
+    url: https://github.com/api-evangelist/chainalysis
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: goldsky
+    url: https://github.com/api-evangelist/goldsky
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: tempo-labs
+    url: https://github.com/api-evangelist/tempo-labs
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: has-2-apis
+  - name: locofy
+    url: https://github.com/api-evangelist/locofy
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: has-3-apis
+  - name: plasmic
+    url: https://github.com/api-evangelist/plasmic
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: glassdoor
+    url: https://github.com/api-evangelist/glassdoor
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: has-2-apis
+  - name: formstack
+    url: https://github.com/api-evangelist/formstack
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: airslate
+    url: https://github.com/api-evangelist/airslate
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: arc-browser
+    url: https://github.com/api-evangelist/arc-browser
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: dia-browser
+    url: https://github.com/api-evangelist/dia-browser
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: has-3-apis
+  - name: brave-browser
+    url: https://github.com/api-evangelist/brave-browser
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: kimi-moonshot
+    url: https://github.com/api-evangelist/kimi-moonshot
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+
 common:
   - type: LinkedIn
     url: https://www.linkedin.com/company/api-evangelist
