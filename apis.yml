@@ -37698,7 +37698,7 @@ network:
     x-profiled: '2026-05-22'
     x-type: api
     x-tier: 3
-    x-tier-reason: now-has-apis-needs-profiling
+    x-tier-reason: company-strong
   - name: magento-2
     url: https://github.com/api-evangelist/magento-2
     x-profiled: '2026-05-16'
@@ -37770,7 +37770,7 @@ network:
     x-profiled: '2026-05-22'
     x-type: api
     x-tier: 3
-    x-tier-reason: now-has-apis-needs-profiling
+    x-tier-reason: has-1-apis
   - name: materialize
     url: https://github.com/api-evangelist/materialize
     x-profiled: '2026-05-16'
@@ -38502,7 +38502,7 @@ network:
     x-profiled: '2026-05-22'
     x-type: api
     x-tier: 3
-    x-tier-reason: now-has-apis-needs-profiling
+    x-tier-reason: has-3-apis
   - name: properties
     url: https://github.com/api-evangelist/properties
     x-profiled: '2026-05-16'
@@ -40236,7 +40236,7 @@ network:
     x-profiled: '2026-05-22'
     x-type: company
     x-tier: 3
-    x-tier-reason: now-has-apis-needs-profiling
+    x-tier-reason: company-strong
   - name: major-league-baseball
     url: https://github.com/api-evangelist/major-league-baseball
     x-profiled: '2026-05-16'
@@ -40254,7 +40254,7 @@ network:
     x-profiled: '2026-05-22'
     x-type: company
     x-tier: 3
-    x-tier-reason: now-has-apis-needs-profiling
+    x-tier-reason: has-1-apis
   - name: mckinsey
     url: https://github.com/api-evangelist/mckinsey
     x-profiled: '2026-05-16'
@@ -40356,7 +40356,7 @@ network:
     x-profiled: '2026-05-22'
     x-type: company
     x-tier: 3
-    x-tier-reason: now-has-apis-needs-profiling
+    x-tier-reason: has-3-apis
   - name: pwc
     url: https://github.com/api-evangelist/pwc
     x-profiled: '2026-05-16'
