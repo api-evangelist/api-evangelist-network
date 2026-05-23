@@ -42597,6 +42597,19 @@ network:
     x-tier: 3
     x-tier-reason: company-strong
 
+  - name: mosaic-app
+    url: https://github.com/api-evangelist/mosaic-app
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: has-1-apis
+  - name: the-index-fyi
+    url: https://github.com/api-evangelist/the-index-fyi
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: has-1-apis
+
 common:
   - type: LinkedIn
     url: https://www.linkedin.com/company/api-evangelist
