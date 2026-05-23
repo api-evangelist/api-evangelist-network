@@ -41832,6 +41832,271 @@ network:
     x-tier: 3
     x-tier-reason: company-strong
 
+  - name: at-protocol
+    url: https://github.com/api-evangelist/at-protocol
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: nostr
+    url: https://github.com/api-evangelist/nostr
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: lens-protocol
+    url: https://github.com/api-evangelist/lens-protocol
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: human-security
+    url: https://github.com/api-evangelist/human-security
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: hcaptcha
+    url: https://github.com/api-evangelist/hcaptcha
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: cloudflare-turnstile
+    url: https://github.com/api-evangelist/cloudflare-turnstile
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: datadome
+    url: https://github.com/api-evangelist/datadome
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: friendly-captcha
+    url: https://github.com/api-evangelist/friendly-captcha
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: uber-eats
+    url: https://github.com/api-evangelist/uber-eats
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: postmates
+    url: https://github.com/api-evangelist/postmates
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: has-2-apis
+  - name: zillow
+    url: https://github.com/api-evangelist/zillow
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: opendoor
+    url: https://github.com/api-evangelist/opendoor
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: has-3-apis
+  - name: trulia
+    url: https://github.com/api-evangelist/trulia
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: has-2-apis
+  - name: epic-games
+    url: https://github.com/api-evangelist/epic-games
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: unreal-engine
+    url: https://github.com/api-evangelist/unreal-engine
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: playfab
+    url: https://github.com/api-evangelist/playfab
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: roblox
+    url: https://github.com/api-evangelist/roblox
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: godot
+    url: https://github.com/api-evangelist/godot
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: pandascore
+    url: https://github.com/api-evangelist/pandascore
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: has-3-apis
+  - name: abios-gaming
+    url: https://github.com/api-evangelist/abios-gaming
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: has-3-apis
+  - name: statsbomb
+    url: https://github.com/api-evangelist/statsbomb
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: has-3-apis
+  - name: second-spectrum
+    url: https://github.com/api-evangelist/second-spectrum
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: has-2-apis
+  - name: soundraw
+    url: https://github.com/api-evangelist/soundraw
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: has-1-apis
+  - name: mubert
+    url: https://github.com/api-evangelist/mubert
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: has-3-apis
+  - name: boomy
+    url: https://github.com/api-evangelist/boomy
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: has-2-apis
+  - name: simulia
+    url: https://github.com/api-evangelist/simulia
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: comsol
+    url: https://github.com/api-evangelist/comsol
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: no-apis
+  - name: ansys
+    url: https://github.com/api-evangelist/ansys
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: has-2-apis
+  - name: brilliant
+    url: https://github.com/api-evangelist/brilliant
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: no-apis
+  - name: ixl
+    url: https://github.com/api-evangelist/ixl
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: no-apis
+  - name: kahoot
+    url: https://github.com/api-evangelist/kahoot
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: has-2-apis
+  - name: prodigy-learning
+    url: https://github.com/api-evangelist/prodigy-learning
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: no-apis
+  - name: woebot
+    url: https://github.com/api-evangelist/woebot
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: has-1-apis
+  - name: calm-app
+    url: https://github.com/api-evangelist/calm-app
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: no-apis
+  - name: headspace
+    url: https://github.com/api-evangelist/headspace
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: no-apis
+  - name: flo-health
+    url: https://github.com/api-evangelist/flo-health
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: no-apis
+  - name: clue-app
+    url: https://github.com/api-evangelist/clue-app
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: no-apis
+  - name: kindbody
+    url: https://github.com/api-evangelist/kindbody
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: no-apis
+  - name: maven-clinic
+    url: https://github.com/api-evangelist/maven-clinic
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: no-apis
+  - name: bumble
+    url: https://github.com/api-evangelist/bumble
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: no-apis
+  - name: hinge
+    url: https://github.com/api-evangelist/hinge
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: no-apis
+  - name: tripo-ai
+    url: https://github.com/api-evangelist/tripo-ai
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: company-strong
+  - name: hims-and-hers
+    url: https://github.com/api-evangelist/hims-and-hers
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: no-apis
+  - name: tia-women
+    url: https://github.com/api-evangelist/tia-women
+    x-profiled: '2026-05-23'
+    x-type: api
+    x-tier: 3
+    x-tier-reason: no-apis
+
 common:
   - type: LinkedIn
     url: https://www.linkedin.com/company/api-evangelist
