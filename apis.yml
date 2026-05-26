@@ -36403,12 +36403,6 @@ network:
     x-type: api
     x-tier: 2
     x-tier-reason: has-1-apis
-  - name: convertkit
-    url: https://github.com/api-evangelist/convertkit
-    x-profiled: '2026-05-16'
-    x-type: api
-    x-tier: 2
-    x-tier-reason: has-1-apis
   - name: cosco-shipping
     url: https://github.com/api-evangelist/cosco-shipping
     x-profiled: '2026-05-16'
@@ -40671,12 +40665,6 @@ network:
     x-tier-reason: no-apis
   - name: insilico-medicine
     url: https://github.com/api-evangelist/insilico-medicine
-    x-profiled: '2026-05-23'
-    x-type: api
-    x-tier: 3
-    x-tier-reason: no-apis
-  - name: recursion-pharma
-    url: https://github.com/api-evangelist/recursion-pharma
     x-profiled: '2026-05-23'
     x-type: api
     x-tier: 3
