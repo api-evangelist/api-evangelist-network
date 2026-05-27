@@ -42597,6 +42597,30 @@ network:
     x-type: api
     x-tier: 3
     x-tier-reason: has-1-apis
+  - name: parseflow
+    url: https://github.com/api-evangelist/parseflow
+    x-profiled: '2026-05-27'
+    x-type: api
+    x-tier: 1
+    x-tier-reason: has-1-apis
+  - name: snapapi
+    url: https://github.com/api-evangelist/snapapi
+    x-profiled: '2026-05-27'
+    x-type: api
+    x-tier: 1
+    x-tier-reason: has-1-apis
+  - name: wanapis
+    url: https://github.com/api-evangelist/wanapis
+    x-profiled: '2026-05-27'
+    x-type: api
+    x-tier: 2
+    x-tier-reason: has-1-apis
+  - name: dopost-co
+    url: https://github.com/api-evangelist/dopost-co
+    x-profiled: '2026-05-27'
+    x-type: api
+    x-tier: 2
+    x-tier-reason: has-1-apis
 
 common:
   - type: LinkedIn
