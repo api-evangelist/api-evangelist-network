@@ -24746,6 +24746,11 @@ network:
     x-profiled: 2026-05
     x-tier: 3
     x-tier-reason: company-thin
+  - name: pokeapi
+    url: https://github.com/api-evangelist/pokeapi
+    x-type: opensource
+    x-profiled: 2026-05
+    x-tier: 2
   - name: polaris-industries
     url: https://github.com/api-evangelist/polaris-industries
     x-type: company
@@ -45607,9 +45612,9 @@ network:
   - name: fred
     url: https://github.com/api-evangelist/fred
     x-profiled: '2026-05-28'
-    x-type: api
-    x-tier: 3
-    x-tier-reason: bulk-public-apis-stub
+    x-type: government
+    x-tier: 1
+    x-tier-reason: comprehensive-pipeline-enrichment
     x-source: public-apis
   - name: front-accounting-apis
     url: https://github.com/api-evangelist/front-accounting-apis
