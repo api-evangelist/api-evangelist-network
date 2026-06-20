@@ -1,7 +1,7 @@
 name: API Evangelist Network
 description: A network index of all APIs.json files maintained by the API Evangelist organization, providing a comprehensive
   directory of API definitions across the network.
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: https://raw.githubusercontent.com/api-evangelist/network/refs/heads/main/apis.yml
 created: '2026-02-27'
 modified: '2026-05-22'
