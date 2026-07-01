@@ -3,3 +3,6 @@ _site/
 .DS_Store
 *.bak.*
 node_modules/
+Gemfile
+Gemfile.lock
+_site_new/
