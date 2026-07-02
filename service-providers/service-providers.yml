@@ -36381,19 +36381,6 @@ providers:
   - Service Management
   repo_url: https://github.com/api-evangelist/nacos
   api_count: 1
-- slug: naftiko
-  name: Naftiko
-  description: Naftiko provides spec-driven integration tooling that turns existing data and APIs into governed capabilities for AI. The platform centers on a YAML capability specification, an open-source
-    framework that runs those specs as live MCP, SKILL, and REST services, and Fleet — a governed runtime that makes capabilities discoverable, composable, observable, and cost-bounded.
-  tags:
-  - AI
-  - API Integration
-  - Capabilities
-  - Governance
-  - MCP
-  - Spec-Driven Integration
-  repo_url: https://github.com/api-evangelist/naftiko
-  api_count: 3
 - slug: nagios
   name: Nagios
   description: Nagios is a family of open-source and commercial IT infrastructure monitoring tools, including Nagios Core (the original open-source monitoring engine), Nagios XI (the commercial enterprise

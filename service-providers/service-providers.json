@@ -41007,21 +41007,6 @@
     "api_count": 1
   },
   {
-    "slug": "naftiko",
-    "name": "Naftiko",
-    "description": "Naftiko provides spec-driven integration tooling that turns existing data and APIs into governed capabilities for AI. The platform centers on a YAML capability specification, an open-source framework that runs those specs as live MCP, SKILL, and REST services, and Fleet — a governed runtime that makes capabilities discoverable, composable, observable, and cost-bounded.",
-    "tags": [
-      "AI",
-      "API Integration",
-      "Capabilities",
-      "Governance",
-      "MCP",
-      "Spec-Driven Integration"
-    ],
-    "repo_url": "https://github.com/api-evangelist/naftiko",
-    "api_count": 3
-  },
-  {
     "slug": "nagios",
     "name": "Nagios",
     "description": "Nagios is a family of open-source and commercial IT infrastructure monitoring tools, including Nagios Core (the original open-source monitoring engine), Nagios XI (the commercial enterprise distribution), Nagios Fusion, Nagios Log Server, and Nagios Network Analyzer, used to monitor hosts, services, networks, applications, and metrics with alerting and reporting. Nagios Core itself has no central HTTP API; Nagios XI ships a built-in REST API (typically reached at https://{nagios-xi-host}/nagiosxi/api/v1/) for reading, writing, deleting, and updating monitoring configuration and status. The Nagios XI API is authenticated via a per-user API key passed as a query parameter or header.",
