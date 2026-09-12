@@ -1,0 +1,52 @@
+# Kin Score artifact — api-evangelist-network — 2026-09-05T144739
+# The API Evangelist rating (https://github.com/api-evangelist/kin-score). Generated; do not edit.
+---
+kin_score:
+  slug: api-evangelist-network
+  schema_version: 0.18.3
+  scored_at: '2026-09-05'
+  run_ts: 2026-09-05T144739
+  composite: 2.6
+  band: minimal
+  facets:
+    discoverability: 25.9
+    contract_quality: 0.0
+    governance: 0.0
+    operational_transparency: 0.0
+    developer_ergonomics: 0.0
+    commercial_clarity: 0.0
+    contract_governance: 0.0
+    access_clarity: 0.0
+  agent_readiness:
+    score: 0.0
+    band: human-only
+    dimensions:
+      spec_presence: false
+      agentic_access: false
+      reversibility_documented: false
+      mcp_server: false
+      auth_clarity: false
+      idempotency: false
+      error_semantics: false
+      openapi_examples: false
+      rate_limit_signal: false
+      event_surface_described: false
+      agent_skills: false
+      well_known_catalog: false
+      consent_identity: false
+      agent_card: false
+      dry_run_mode: false
+      delegated_identity: false
+      protected_resource_metadata: false
+      dynamic_client_registration: false
+      agentic_commerce: false
+  needs_work:
+    owner: catalog
+    reasons:
+    - owner: catalog
+      reason: no_resolvable_host
+    - owner: catalog
+      reason: never_enriched
+    detected: '2026-08-18'
+    note: Recorded so this provider's gaps can be attributed. Does not affect the
+      composite.
