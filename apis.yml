@@ -117,18 +117,6 @@ network:
   x-tier: 3
   x-tier-reason: bulk-public-apis-stub
   x-source: public-apis
-- name: 1up-health
-  url: https://github.com/api-evangelist/1up-health
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-7-apis
-- name: 1x-robotics
-  url: https://github.com/api-evangelist/1x-robotics
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: 1x-technologies
   url: https://github.com/api-evangelist/1x-technologies
   x-profiled: '2026-05-23'
@@ -571,12 +559,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: active-campaign
-  url: https://github.com/api-evangelist/active-campaign
-  x-profiled: '2026-05-16'
-  x-type: api
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: active-directory
   url: https://github.com/api-evangelist/active-directory
   x-type: company
@@ -631,12 +613,6 @@ network:
   x-type: government
   x-tier: 2
   x-tier-reason: has-5-apis
-- name: acuity
-  url: https://github.com/api-evangelist/acuity
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: acuity-brands
   url: https://github.com/api-evangelist/acuity-brands
   x-type: company
@@ -663,12 +639,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-6-apis
-- name: ada-cx
-  url: https://github.com/api-evangelist/ada-cx
-  x-profiled: '2026-05-23'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: company-strong
 - name: adafruit-io
   url: https://github.com/api-evangelist/adafruit-io
   x-profiled: '2026-07-02'
@@ -905,13 +875,6 @@ network:
   x-type: api
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: ads-b-exchange
-  url: https://github.com/api-evangelist/ads-b-exchange
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: adsbexchange
   url: https://github.com/api-evangelist/adsbexchange
   x-profiled: '2026-07-02'
@@ -1510,13 +1473,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: ais-hub
-  url: https://github.com/api-evangelist/ais-hub
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: aisin
   url: https://github.com/api-evangelist/aisin
   x-profiled: '2026-05-16'
@@ -1547,26 +1503,12 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: akamai-technologies
-  url: https://github.com/api-evangelist/akamai-technologies
-  x-profiled: 2026-05
-  x-type: company
-  x-fortune:
-  - Fortune 1000
-  x-tier: 2
-  x-tier-reason: company-fortune
 - name: akash
   url: https://github.com/api-evangelist/akash
   x-profiled: '2026-07-02'
   x-type: company
   x-tier: 2
   x-tier-reason: has-4-apis
-- name: akash-network
-  url: https://github.com/api-evangelist/akash-network
-  x-profiled: '2026-05-23'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: company-strong
 - name: akeneo
   url: https://github.com/api-evangelist/akeneo
   x-profiled: '2026-05-16'
@@ -1642,12 +1584,6 @@ network:
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-fortune
-- name: alaska-airlines
-  url: https://github.com/api-evangelist/alaska-airlines
-  x-profiled: '2026-05-16'
-  x-type: company
-  x-tier: 3
-  x-tier-reason: no-apis-yet
 - name: alation
   url: https://github.com/api-evangelist/alation
   x-type: company
@@ -1662,12 +1598,6 @@ network:
   x-tier-reason: has-10-apis
 - name: albato
   url: https://github.com/api-evangelist/albato
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: albato-a-single-no-code-platform-for-all-automations
-  url: https://github.com/api-evangelist/albato-a-single-no-code-platform-for-all-automations
   x-type: company
   x-profiled: 2026-05
   x-tier: 3
@@ -1709,13 +1639,6 @@ network:
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-medium
-- name: alchemy-ethereum
-  url: https://github.com/api-evangelist/alchemy-ethereum
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: alcoa
   url: https://github.com/api-evangelist/alcoa
   x-type: company
@@ -1962,12 +1885,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: allianz
-  url: https://github.com/api-evangelist/allianz
-  x-profiled: '2026-05-16'
-  x-type: company
-  x-tier: 3
-  x-tier-reason: no-apis-yet
 - name: allianz-docs
   url: https://raw.githubusercontent.com/api-evangelist/allianz-docs/refs/heads/main/apis.yml
   x-type: company
@@ -2050,12 +1967,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: alloy
-  url: https://github.com/api-evangelist/alloy
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: alloy-automation
   url: https://raw.githubusercontent.com/api-evangelist/alloy-automation/refs/heads/main/apis.yml
   x-type: company
@@ -2391,7 +2302,7 @@ network:
   tags:
   - AWS
   - Frontend
-  - Full Stack
+  - Full-Stack
   - Hosting
   - Mobile Development
   - Web Applications
@@ -2402,21 +2313,6 @@ network:
   - Hosting
   - Mobile Development
   - Web Applications
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
-- name: amazon-api-gateway
-  url: https://raw.githubusercontent.com/api-evangelist/amazon-api-gateway/refs/heads/main/apis.yml
-  x-type: company
-  description: Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain,
-    monitor, and secure APIs at any scale.
-  tags:
-  - AWS
-  - Gateway
-  - HTTP API
-  - REST API
-  - Serverless
-  - WebSocket
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
@@ -2466,7 +2362,7 @@ network:
   tags:
   - AWS
   - Connectors
-  - Data Flow
+  - Dataflows
   - Data Transfer
   - ETL
   - Integration
@@ -3033,12 +2929,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: amazon-dynamo-db
-  url: https://github.com/api-evangelist/amazon-dynamo-db
-  x-profiled: '2026-05-16'
-  x-type: api
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: amazon-dynamodb
   url: https://github.com/api-evangelist/amazon-dynamodb
   x-type: company
@@ -3993,12 +3883,6 @@ network:
   x-type: company
   x-tier: 3
   x-tier-reason: no-apis
-- name: ambience-ai
-  url: https://github.com/api-evangelist/ambience-ai
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: ambient-mesh
   url: https://github.com/api-evangelist/ambient-mesh
   x-type: company
@@ -4330,13 +4214,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: an-api-of-ice-and-fire
-  url: https://github.com/api-evangelist/an-api-of-ice-and-fire
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: anadarko-petroleum
   url: https://github.com/api-evangelist/anadarko-petroleum
   x-type: company
@@ -4611,12 +4488,6 @@ network:
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-fortune
-- name: anthem
-  url: https://github.com/api-evangelist/anthem
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 2
-  x-tier-reason: company-fortune
 - name: anthropic
   url: https://github.com/api-evangelist/anthropic
   x-type: company
@@ -4641,12 +4512,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-6-apis
-- name: any-api
-  url: https://github.com/api-evangelist/any-api
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: anycrap
   url: https://github.com/api-evangelist/anycrap
   x-profiled: '2026-05-28'
@@ -5327,12 +5192,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: api-layer
-  url: https://github.com/api-evangelist/api-layer
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: api-league
   url: https://github.com/api-evangelist/api-league
   x-type: company
@@ -5602,13 +5461,6 @@ network:
   x-type: api
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: apitemplate-io
-  url: https://github.com/api-evangelist/apitemplate-io
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: apitoolkit
   url: https://github.com/api-evangelist/apitoolkit
   x-type: company
@@ -5671,12 +5523,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: apollo-federation
-  url: https://github.com/api-evangelist/apollo-federation
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: apollo-global-management
   url: https://github.com/api-evangelist/apollo-global-management
   x-type: company
@@ -6108,12 +5954,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: opensource-thin
-- name: argo-cd
-  url: https://github.com/api-evangelist/argo-cd
-  x-type: opensource
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: opensource-thin
 - name: argo-workflows
   url: https://github.com/api-evangelist/argo-workflows
   x-type: opensource
@@ -6156,12 +5996,6 @@ network:
   x-type: government
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: argyle-financial
-  url: https://github.com/api-evangelist/argyle-financial
-  x-profiled: '2026-07-02'
-  x-type: government
-  x-tier: 2
-  x-tier-reason: has-20-apis
 - name: ariba
   url: https://github.com/api-evangelist/ariba
   x-profiled: 2026-05
@@ -6489,12 +6323,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: at-protocol
-  url: https://github.com/api-evangelist/at-protocol
-  x-profiled: '2026-05-23'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: company-strong
 - name: at-t-developer-hub
   url: https://github.com/api-evangelist/at-t-developer-hub
   x-type: company
@@ -6507,12 +6335,6 @@ network:
   x-profiled: 2026-05
   x-tier: 1
   x-tier-reason: company-strong-fortune
-- name: athena-health
-  url: https://github.com/api-evangelist/athena-health
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-5-apis
 - name: athenahealth
   url: https://github.com/api-evangelist/athenahealth
   x-profiled: '2026-07-02'
@@ -6563,18 +6385,6 @@ network:
   x-tier-reason: well-known-api-first
 - name: atlassian-compass
   url: https://github.com/api-evangelist/atlassian-compass
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: atlassian-confluence
-  url: https://github.com/api-evangelist/atlassian-confluence
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: atlassian-jira
-  url: https://github.com/api-evangelist/atlassian-jira
   x-type: company
   x-profiled: 2026-05
   x-tier: 3
@@ -6762,12 +6572,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: authorize-net
-  url: https://github.com/api-evangelist/authorize-net
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: authors-md
   url: https://github.com/api-evangelist/authors-md
   x-type: company
@@ -6891,15 +6695,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: automatic-data-processing
-  url: https://github.com/api-evangelist/automatic-data-processing
-  x-type: company
-  x-fortune:
-  - Fortune 500
-  - Fortune 1000
-  x-profiled: 2026-05
-  x-tier: 2
-  x-tier-reason: company-fortune
 - name: automation-anywhere
   url: https://github.com/api-evangelist/automation-anywhere
   x-type: company
@@ -7177,24 +6972,12 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: aws-cloudwatch
-  url: https://github.com/api-evangelist/aws-cloudwatch
-  x-profiled: '2026-05-16'
-  x-type: api
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: aws-codebuild
   url: https://github.com/api-evangelist/aws-codebuild
   x-profiled: '2026-05-16'
   x-type: api
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: aws-cognito
-  url: https://github.com/api-evangelist/aws-cognito
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: aws-elastic-beanstalk
   url: https://github.com/api-evangelist/aws-elastic-beanstalk
   x-profiled: '2026-05-16'
@@ -7374,12 +7157,6 @@ network:
   x-tier: 3
   x-tier-reason: bulk-public-apis-stub
   x-source: public-apis
-- name: azure
-  url: https://github.com/api-evangelist/azure
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 2
-  x-tier-reason: company-medium
 - name: azure-ad
   url: https://github.com/api-evangelist/azure-ad
   x-type: company
@@ -7394,12 +7171,6 @@ network:
   x-tier-reason: has-1-apis
 - name: azure-cli
   url: https://github.com/api-evangelist/azure-cli
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: azure-cloud
-  url: https://github.com/api-evangelist/azure-cloud
   x-type: company
   x-profiled: 2026-05
   x-tier: 3
@@ -7428,18 +7199,6 @@ network:
   x-type: api
   x-tier: 2
   x-tier-reason: has-2-apis
-- name: azure-dev-ops
-  url: https://github.com/api-evangelist/azure-dev-ops
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: azure-devops
-  url: https://github.com/api-evangelist/azure-devops
-  x-profiled: 2026-05
-  x-type: company
-  x-tier: 2
-  x-tier-reason: company-strong
 - name: azure-devops-health
   url: https://github.com/api-evangelist/azure-devops-health
   x-profiled: '2026-05-28'
@@ -7467,12 +7226,6 @@ network:
   x-tier-reason: has-2-apis
 - name: azure-function-apps
   url: https://github.com/api-evangelist/azure-function-apps
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: azure-functions
-  url: https://github.com/api-evangelist/azure-functions
   x-type: company
   x-profiled: 2026-05
   x-tier: 3
@@ -7507,24 +7260,12 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: azure-openai
-  url: https://github.com/api-evangelist/azure-openai
-  x-profiled: '2026-05-16'
-  x-type: api
-  x-tier: 2
-  x-tier-reason: has-3-apis
 - name: azure-service-bus
   url: https://github.com/api-evangelist/azure-service-bus
   x-profiled: 2026-05
   x-type: company
   x-tier: 3
   x-tier-reason: company-thin
-- name: azure-storage-account
-  url: https://github.com/api-evangelist/azure-storage-account
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 2
-  x-tier-reason: company-medium
 - name: azure-storage-accounts
   url: https://github.com/api-evangelist/azure-storage-accounts
   x-type: company
@@ -7834,12 +7575,6 @@ network:
   x-profiled: 2026-05-15
   x-tier: 2
   x-tier-reason: full-platform-api-26-ops-19-paths-pricing-public
-- name: barnes-and-noble
-  url: https://github.com/api-evangelist/barnes-and-noble
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: barnes-and-noble-education
   url: https://github.com/api-evangelist/barnes-and-noble-education
   x-profiled: 2026-05
@@ -8318,12 +8053,6 @@ network:
   x-type: api
   x-tier: 3
   x-tier-reason: company-strong
-- name: better-stack
-  url: https://github.com/api-evangelist/better-stack
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: bettercloud
   url: https://github.com/api-evangelist/bettercloud
   x-type: company
@@ -8615,12 +8344,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-6-apis
-- name: bird-com
-  url: https://github.com/api-evangelist/bird-com
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-5-apis
 - name: bird-rides
   url: https://github.com/api-evangelist/bird-rides
   x-profiled: '2026-07-02'
@@ -8951,13 +8674,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: blockchain
-  url: https://github.com/api-evangelist/blockchain
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: blockchair
   url: https://github.com/api-evangelist/blockchair
   x-profiled: '2026-07-02'
@@ -9250,12 +8966,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-4-apis
-- name: bls
-  url: https://github.com/api-evangelist/bls
-  x-profiled: '2026-07-02'
-  x-type: government
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: bls-gov
   url: https://github.com/api-evangelist/bls-gov
   x-profiled: '2026-07-02'
@@ -9382,12 +9092,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: bny-bank-of-new-york-mellon
-  url: https://github.com/api-evangelist/bny-bank-of-new-york-mellon
-  x-profiled: 2026-05
-  x-type: company
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: board-game-geek
   url: https://github.com/api-evangelist/board-game-geek
   x-profiled: '2026-05-28'
@@ -9451,12 +9155,6 @@ network:
   x-tier: 3
   x-tier-reason: bulk-public-apis-stub
   x-source: public-apis
-- name: bolt
-  url: https://github.com/api-evangelist/bolt
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-7-apis
 - name: bolt-new
   url: https://github.com/api-evangelist/bolt-new
   x-profiled: '2026-05-16'
@@ -9481,12 +9179,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: bond-fi
-  url: https://github.com/api-evangelist/bond-fi
-  x-profiled: '2026-05-23'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: bonneville-power-administration
   url: https://github.com/api-evangelist/bonneville-power-administration
   x-type: government
@@ -9508,12 +9200,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: bookingcom
-  url: https://github.com/api-evangelist/bookingcom
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 2
-  x-tier-reason: company-fortune
 - name: bookstack
   url: https://github.com/api-evangelist/bookstack
   x-profiled: '2026-07-02'
@@ -9700,12 +9386,6 @@ network:
   x-type: api
   x-tier: 3
   x-tier-reason: has-1-apis
-- name: braintrust-data
-  url: https://github.com/api-evangelist/braintrust-data
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-10-apis
 - name: branch
   url: https://github.com/api-evangelist/branch
   x-profiled: '2026-07-02'
@@ -9748,12 +9428,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: brave
-  url: https://github.com/api-evangelist/brave
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-2-apis
 - name: brave-browser
   url: https://github.com/api-evangelist/brave-browser
   x-profiled: '2026-05-23'
@@ -9815,14 +9489,6 @@ network:
   x-tier: 3
   x-tier-reason: bulk-public-apis-stub
   x-source: public-apis
-- name: bread
-  url: https://github.com/api-evangelist/bread
-  x-type: company
-  x-fortune:
-  - Fortune 1000
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: breaking-bad
   url: https://github.com/api-evangelist/breaking-bad
   x-profiled: '2026-05-28'
@@ -9947,12 +9613,6 @@ network:
   x-type: company
   x-fortune:
   - Fortune 1000
-- name: brilliant
-  url: https://github.com/api-evangelist/brilliant
-  x-profiled: '2026-05-23'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: brilliant-org
   url: https://github.com/api-evangelist/brilliant-org
   x-profiled: '2026-07-02'
@@ -10023,12 +9683,6 @@ network:
   x-tier-reason: company-fortune
 - name: brocade
   url: https://github.com/api-evangelist/brocade
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: brocade-communications-systems
-  url: https://github.com/api-evangelist/brocade-communications-systems
   x-type: company
   x-profiled: 2026-05
   x-tier: 3
@@ -10112,12 +9766,6 @@ network:
   x-type: company
   x-fortune:
   - Fortune 1000
-- name: bruno
-  url: https://github.com/api-evangelist/bruno
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: brunswick
   url: https://github.com/api-evangelist/brunswick
   x-type: company
@@ -10164,12 +9812,6 @@ network:
   x-type: company
   x-source: inbox
   x-source-issue: 891
-- name: bubbles
-  url: https://github.com/api-evangelist/bubbles
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: buckeye-partners
   url: https://github.com/api-evangelist/buckeye-partners
   x-type: company
@@ -10381,12 +10023,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: government-thin
-- name: bureau-of-industry-security
-  url: https://github.com/api-evangelist/bureau-of-industry-security
-  x-type: government
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: government-thin
 - name: bureau-of-international-labor-affairs
   url: https://github.com/api-evangelist/bureau-of-international-labor-affairs
   x-type: government
@@ -10594,12 +10230,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: calcom
-  url: https://github.com/api-evangelist/calcom
-  x-profiled: '2026-07-02'
-  x-type: opensource
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: calendarific
   url: https://github.com/api-evangelist/calendarific
   x-profiled: '2026-05-28'
@@ -10646,18 +10276,6 @@ network:
   x-type: api
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: calm-app
-  url: https://github.com/api-evangelist/calm-app
-  x-profiled: '2026-05-23'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: no-apis
-- name: calm-com
-  url: https://github.com/api-evangelist/calm-com
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: calorie-ninjas
   url: https://github.com/api-evangelist/calorie-ninjas
   x-type: company
@@ -10676,12 +10294,6 @@ network:
   x-type: government
   x-tier: 2
   x-tier-reason: has-3-apis
-- name: calumet
-  url: https://github.com/api-evangelist/calumet
-  x-profiled: 2026-05
-  x-type: company
-  x-fortune:
-  - Fortune 1000
 - name: calumet-specialty-products-partners
   url: https://github.com/api-evangelist/calumet-specialty-products-partners
   x-type: company
@@ -10824,12 +10436,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-8-apis
-- name: candidhealth
-  url: https://github.com/api-evangelist/candidhealth
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-6-apis
 - name: canny
   url: https://github.com/api-evangelist/canny
   x-profiled: '2026-05-16'
@@ -10850,12 +10456,6 @@ network:
   x-tier-reason: company-thin
 - name: canopy
   url: https://github.com/api-evangelist/canopy
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: cantaloupe-seed-api
-  url: https://github.com/api-evangelist/cantaloupe-seed-api
   x-type: company
   x-profiled: 2026-05
   x-tier: 3
@@ -10967,12 +10567,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: captions-ai
-  url: https://github.com/api-evangelist/captions-ai
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-4-apis
 - name: car-api
   url: https://github.com/api-evangelist/car-api
   x-type: company
@@ -10985,12 +10579,6 @@ network:
   x-type: api
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: carapi
-  url: https://github.com/api-evangelist/carapi
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: carbon-direct
   url: https://github.com/api-evangelist/carbon-direct
   x-profiled: '2026-07-02'
@@ -11093,12 +10681,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-6-apis
-- name: cargurus
-  url: https://github.com/api-evangelist/cargurus
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-8-apis
 - name: caris-life-sciences
   url: https://github.com/api-evangelist/caris-life-sciences
   x-profiled: '2026-07-02'
@@ -11183,14 +10765,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: company-fortune
-- name: carters
-  url: https://github.com/api-evangelist/carters
-  x-type: company
-  x-fortune:
-  - Fortune 1000
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: cartes-io
   url: https://github.com/api-evangelist/cartes-io
   x-profiled: '2026-05-28'
@@ -11204,12 +10778,6 @@ network:
   x-type: opensource
   x-tier: 3
   x-tier-reason: no-apis
-- name: cartesia
-  url: https://github.com/api-evangelist/cartesia
-  x-profiled: '2026-05-23'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: has-2-apis
 - name: carto
   url: https://github.com/api-evangelist/carto
   x-type: company
@@ -11533,24 +11101,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: census
-  url: https://github.com/api-evangelist/census
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: census-ci
-  url: https://github.com/api-evangelist/census-ci
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-7-apis
-- name: census-co
-  url: https://github.com/api-evangelist/census-co
-  x-profiled: '2026-05-23'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: has-3-apis
 - name: census-gov
   url: https://github.com/api-evangelist/census-gov
   x-profiled: '2026-05-28'
@@ -11592,12 +11142,6 @@ network:
   x-tier-reason: company-fortune
 - name: centers-for-disease-control-and-prevention
   url: https://github.com/api-evangelist/centers-for-disease-control-and-prevention
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: centers-for-medicare-and-medicaid-services
-  url: https://github.com/api-evangelist/centers-for-medicare-and-medicaid-services
   x-type: company
   x-profiled: 2026-05
   x-tier: 3
@@ -11677,12 +11221,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: cerebras
-  url: https://github.com/api-evangelist/cerebras
-  x-profiled: '2026-05-23'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: has-1-apis
 - name: cerebrium
   url: https://github.com/api-evangelist/cerebrium
   x-profiled: '2026-07-02'
@@ -11707,12 +11245,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: certn-com
-  url: https://github.com/api-evangelist/certn-com
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-4-apis
 - name: cf-industries-holdings
   url: https://github.com/api-evangelist/cf-industries-holdings
   x-type: company
@@ -11798,12 +11330,6 @@ network:
   x-type: api
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: chameleon-co
-  url: https://github.com/api-evangelist/chameleon-co
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-3-apis
 - name: champ
   url: https://github.com/api-evangelist/champ
   x-type: company
@@ -12005,12 +11531,6 @@ network:
   x-type: opensource
   x-tier: 2
   x-tier-reason: has-3-apis
-- name: chatwoot-com
-  url: https://github.com/api-evangelist/chatwoot-com
-  x-profiled: '2026-07-02'
-  x-type: opensource
-  x-tier: 2
-  x-tier-reason: has-17-apis
 - name: chatwork
   url: https://github.com/api-evangelist/chatwork
   x-profiled: '2026-05-16'
@@ -12030,12 +11550,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-4-apis
-- name: check-point
-  url: https://github.com/api-evangelist/check-point
-  x-profiled: '2026-05-16'
-  x-type: api
-  x-tier: 2
-  x-tier-reason: has-3-apis
 - name: checkiday-national-holiday-api
   url: https://github.com/api-evangelist/checkiday-national-holiday-api
   x-profiled: '2026-05-28'
@@ -12335,13 +11849,6 @@ network:
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-medium
-- name: chronicling-america
-  url: https://github.com/api-evangelist/chronicling-america
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: chroniclingamerica
   url: https://github.com/api-evangelist/chroniclingamerica
   x-profiled: '2026-07-02'
@@ -12370,12 +11877,6 @@ network:
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-fortune
-- name: chuck-norris
-  url: https://github.com/api-evangelist/chuck-norris
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: chuck-norris-database
   url: https://github.com/api-evangelist/chuck-norris-database
   x-profiled: '2026-05-28'
@@ -12552,12 +12053,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: cisco-directory-connectors
-  url: https://github.com/api-evangelist/cisco-directory-connectors
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: cisco-expressway
   url: https://github.com/api-evangelist/cisco-expressway
   x-type: company
@@ -12588,33 +12083,10 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: cisco-spark
-  url: https://github.com/api-evangelist/cisco-spark
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
-- name: cisco-systems
-  url: https://github.com/api-evangelist/cisco-systems
-  x-type: company
-  x-fortune:
-  - Fortune 100
-  - Fortune 500
-  - Fortune 1000
-  x-profiled: 2026-05
-  x-tier: 1
-  x-tier-reason: company-strong-fortune
 - name: cisco-voice-portal
   url: https://github.com/api-evangelist/cisco-voice-portal
   x-profiled: 2026-05
   x-type: company
-  x-tier: 2
-  x-tier-reason: company-strong
-- name: cisco-webex
-  url: https://github.com/api-evangelist/cisco-webex
-  x-type: company
-  x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-strong
 - name: cisco-webex-meetings
@@ -12660,12 +12132,6 @@ network:
   - Fortune 100
   - Fortune 500
   - Fortune 1000
-  x-profiled: 2026-05
-  x-tier: 2
-  x-tier-reason: company-fortune
-- name: citizens-financial
-  url: https://github.com/api-evangelist/citizens-financial
-  x-type: company
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-fortune
@@ -12915,12 +12381,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: clay
-  url: https://github.com/api-evangelist/clay
-  x-profiled: '2026-05-16'
-  x-type: api
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: clay-com
   url: https://github.com/api-evangelist/clay-com
   x-profiled: '2026-05-23'
@@ -12978,12 +12438,6 @@ network:
   x-type: company
   x-tier: 3
   x-tier-reason: no-apis
-- name: clear-channel-outdoor-hldgs
-  url: https://github.com/api-evangelist/clear-channel-outdoor-hldgs
-  x-profiled: 2026-05
-  x-type: company
-  x-fortune:
-  - Fortune 1000
 - name: clearbit
   url: https://github.com/api-evangelist/clearbit
   x-profiled: '2026-05-16'
@@ -13045,12 +12499,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: clerk
-  url: https://github.com/api-evangelist/clerk
-  x-profiled: '2026-05-23'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: company-strong
 - name: clerk-com
   url: https://github.com/api-evangelist/clerk-com
   x-profiled: '2026-05-22'
@@ -13263,12 +12711,6 @@ network:
   x-type: opensource
   x-tier: 2
   x-tier-reason: has-5-apis
-- name: cloud-native-buildpacks
-  url: https://github.com/api-evangelist/cloud-native-buildpacks
-  x-profiled: '2026-05-16'
-  x-type: opensource
-  x-tier: 2
-  x-tier-reason: has-7-apis
 - name: cloud-storage
   url: https://github.com/api-evangelist/cloud-storage
   x-profiled: '2026-05-16'
@@ -13355,12 +12797,6 @@ network:
   x-type: api
   x-tier: 3
   x-tier-reason: company-strong
-- name: cloudflare-com
-  url: https://github.com/api-evangelist/cloudflare-com
-  x-profiled: '2026-05-16'
-  x-type: api
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: cloudflare-d1
   url: https://github.com/api-evangelist/cloudflare-d1
   x-profiled: '2026-07-02'
@@ -13462,13 +12898,6 @@ network:
   x-source: public-apis
 - name: cloudmersive-validate
   url: https://github.com/api-evangelist/cloudmersive-validate
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
-- name: cloudmersive-validate-cloudmersive
-  url: https://github.com/api-evangelist/cloudmersive-validate-cloudmersive
   x-profiled: '2026-05-28'
   x-type: api
   x-tier: 3
@@ -14246,12 +13675,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-3-apis
-- name: commercelayer
-  url: https://github.com/api-evangelist/commercelayer
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-8-apis
 - name: commercetools
   url: https://github.com/api-evangelist/commercetools
   x-type: company
@@ -14364,12 +13787,6 @@ network:
   x-type: company
   x-fortune:
   - Fortune 1000
-- name: compass-real-estate
-  url: https://github.com/api-evangelist/compass-real-estate
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: complete-criminal-checks
   url: https://github.com/api-evangelist/complete-criminal-checks
   x-profiled: '2026-05-28'
@@ -15111,18 +14528,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: cortex
-  url: https://github.com/api-evangelist/cortex
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: cortex-app
-  url: https://github.com/api-evangelist/cortex-app
-  x-profiled: '2026-05-23'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: company-strong
 - name: corva-ai
   url: https://github.com/api-evangelist/corva-ai
   x-type: company
@@ -15608,12 +15013,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: crewai
-  url: https://github.com/api-evangelist/crewai
-  x-profiled: 2026-05
-  x-type: company
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: crewai-cloud
   url: https://github.com/api-evangelist/crewai-cloud
   x-profiled: '2026-07-02'
@@ -15769,18 +15168,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: crunchbase
-  url: https://github.com/api-evangelist/crunchbase
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: crusoe-energy
-  url: https://github.com/api-evangelist/crusoe-energy
-  x-profiled: '2026-05-23'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: has-1-apis
 - name: crxcavator
   url: https://github.com/api-evangelist/crxcavator
   x-profiled: '2026-05-28'
@@ -15990,13 +15377,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: currency-api
-  url: https://github.com/api-evangelist/currency-api
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: currencybeacon
   url: https://github.com/api-evangelist/currencybeacon
   x-profiled: '2026-07-02'
@@ -16087,12 +15467,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: customerio
-  url: https://github.com/api-evangelist/customerio
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-5-apis
 - name: customeros
   url: https://github.com/api-evangelist/customeros
   x-profiled: '2026-07-02'
@@ -16168,12 +15542,6 @@ network:
   x-tier-reason: company-thin
 - name: cvent-hospitality-cloud
   url: https://github.com/api-evangelist/cvent-hospitality-cloud
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: cvent-platform
-  url: https://github.com/api-evangelist/cvent-platform
   x-type: company
   x-profiled: 2026-05
   x-tier: 3
@@ -16279,24 +15647,12 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-3-apis
-- name: d-local
-  url: https://github.com/api-evangelist/d-local
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-9-apis
 - name: d-wave
   url: https://github.com/api-evangelist/d-wave
   x-profiled: '2026-07-02'
   x-type: company
   x-tier: 2
   x-tier-reason: has-6-apis
-- name: d2l
-  url: https://github.com/api-evangelist/d2l
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-5-apis
 - name: dad-jokes
   url: https://github.com/api-evangelist/dad-jokes
   x-profiled: '2026-07-02'
@@ -16431,12 +15787,6 @@ network:
   x-fortune:
   - Fortune 500
   - Fortune 1000
-  x-profiled: 2026-05
-  x-tier: 2
-  x-tier-reason: company-fortune
-- name: dana-incorporated
-  url: https://github.com/api-evangelist/dana-incorporated
-  x-type: company
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-fortune
@@ -17334,12 +16684,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: davita-healthcare-partners
-  url: https://github.com/api-evangelist/davita-healthcare-partners
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: day-zimmermann
   url: https://github.com/api-evangelist/day-zimmermann
   x-profiled: 2026-05
@@ -17376,12 +16720,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: opensource-thin
-- name: dbt-cloud
-  url: https://github.com/api-evangelist/dbt-cloud
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-3-apis
 - name: dcp-midstream
   url: https://github.com/api-evangelist/dcp-midstream
   x-profiled: 2026-05
@@ -17453,12 +16791,6 @@ network:
   x-type: api
   x-tier: 3
   x-tier-reason: has-1-apis
-- name: decagon-ai
-  url: https://github.com/api-evangelist/decagon-ai
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: decap
   url: https://github.com/api-evangelist/decap
   x-profiled: '2026-07-02'
@@ -17502,12 +16834,6 @@ network:
   x-type: company
   x-tier: 3
   x-tier-reason: no-apis
-- name: deel
-  url: https://github.com/api-evangelist/deel
-  x-profiled: '2026-05-16'
-  x-type: api
-  x-tier: 2
-  x-tier-reason: has-19-apis
 - name: deel-com
   url: https://github.com/api-evangelist/deel-com
   x-profiled: '2026-07-02'
@@ -17582,16 +16908,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-4-apis
-- name: deere
-  url: https://github.com/api-evangelist/deere
-  x-type: company
-  x-fortune:
-  - Fortune 100
-  - Fortune 500
-  - Fortune 1000
-  x-profiled: 2026-05
-  x-tier: 2
-  x-tier-reason: company-fortune
 - name: deezer
   url: https://github.com/api-evangelist/deezer
   x-profiled: '2026-05-16'
@@ -17688,12 +17004,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: defer-run
-  url: https://github.com/api-evangelist/defer-run
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: defillama
   url: https://github.com/api-evangelist/defillama
   x-profiled: '2026-05-16'
@@ -17719,12 +17029,6 @@ network:
   x-tier: 3
   x-tier-reason: bulk-public-apis-stub
   x-source: public-apis
-- name: delek-us
-  url: https://github.com/api-evangelist/delek-us
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 2
-  x-tier-reason: company-fortune
 - name: delek-us-holdings
   url: https://github.com/api-evangelist/delek-us-holdings
   x-type: company
@@ -17780,16 +17084,6 @@ network:
   x-type: company
   x-tier: 3
   x-tier-reason: no-apis
-- name: delta-air-lines
-  url: https://github.com/api-evangelist/delta-air-lines
-  x-type: company
-  x-fortune:
-  - Fortune 100
-  - Fortune 500
-  - Fortune 1000
-  x-profiled: 2026-05
-  x-tier: 2
-  x-tier-reason: company-fortune
 - name: delta-airlines
   url: https://github.com/api-evangelist/delta-airlines
   x-type: company
@@ -17894,32 +17188,14 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: government-thin
-- name: department-of-energy
-  url: https://github.com/api-evangelist/department-of-energy
-  x-type: government
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: government-thin
 - name: department-of-homeland-security
   url: https://github.com/api-evangelist/department-of-homeland-security
   x-type: government
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: government-thin
-- name: department-of-housing-and-urban-development
-  url: https://github.com/api-evangelist/department-of-housing-and-urban-development
-  x-type: government
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: government-thin
 - name: department-of-justice
   url: https://github.com/api-evangelist/department-of-justice
-  x-type: government
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: government-thin
-- name: department-of-labor
-  url: https://github.com/api-evangelist/department-of-labor
   x-type: government
   x-profiled: 2026-05
   x-tier: 3
@@ -18021,12 +17297,6 @@ network:
   x-tier: 3
   x-tier-reason: bulk-public-apis-stub
   x-source: public-apis
-- name: detect-language
-  url: https://github.com/api-evangelist/detect-language
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: detectlanguage
   url: https://github.com/api-evangelist/detectlanguage
   x-profiled: '2026-07-02'
@@ -18170,13 +17440,6 @@ network:
   x-type: api
   x-tier: 3
   x-tier-reason: has-3-apis
-- name: dialogflow
-  url: https://github.com/api-evangelist/dialogflow
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: dialpad
   url: https://github.com/api-evangelist/dialpad
   x-profiled: '2026-05-16'
@@ -18408,12 +17671,6 @@ network:
   x-type: government
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: discover-financial
-  url: https://github.com/api-evangelist/discover-financial
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: discovercloud
   url: https://github.com/api-evangelist/discovercloud
   x-type: company
@@ -18731,13 +17988,6 @@ network:
   x-tier: 3
   x-tier-reason: bulk-public-apis-stub
   x-source: public-apis
-- name: dog-facts-kinduff
-  url: https://github.com/api-evangelist/dog-facts-kinduff
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: doge-meme
   url: https://github.com/api-evangelist/doge-meme
   x-profiled: '2026-05-28'
@@ -18958,12 +18208,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-6-apis
-- name: dot
-  url: https://github.com/api-evangelist/dot
-  x-profiled: '2026-07-02'
-  x-type: government
-  x-tier: 2
-  x-tier-reason: has-5-apis
 - name: dot-regulations
   url: https://github.com/api-evangelist/dot-regulations
   x-type: company
@@ -19011,16 +18255,6 @@ network:
   url: https://github.com/api-evangelist/dover
   x-type: company
   x-fortune:
-  - Fortune 500
-  - Fortune 1000
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
-- name: dow
-  url: https://github.com/api-evangelist/dow
-  x-type: company
-  x-fortune:
-  - Fortune 100
   - Fortune 500
   - Fortune 1000
   x-profiled: 2026-05
@@ -19144,12 +18378,6 @@ network:
   x-tier: 3
   x-tier-reason: bulk-public-apis-stub
   x-source: public-apis
-- name: drift
-  url: https://github.com/api-evangelist/drift
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 1
-  x-tier-reason: well-known-api-first
 - name: drift-com
   url: https://github.com/api-evangelist/drift-com
   x-profiled: '2026-07-02'
@@ -19174,12 +18402,6 @@ network:
   x-type: api
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: drip-com
-  url: https://github.com/api-evangelist/drip-com
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-2-apis
 - name: drivet-url-shortener
   url: https://github.com/api-evangelist/drivet-url-shortener
   x-profiled: '2026-05-28'
@@ -19199,18 +18421,6 @@ network:
   x-type: opensource
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: drone-ci
-  url: https://github.com/api-evangelist/drone-ci
-  x-profiled: '2026-05-16'
-  x-type: opensource
-  x-tier: 2
-  x-tier-reason: has-1-apis
-- name: drone-deploy
-  url: https://github.com/api-evangelist/drone-deploy
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-3-apis
 - name: dronecode
   url: https://github.com/api-evangelist/dronecode
   x-type: company
@@ -19524,12 +18734,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-9-apis
-- name: dynamic-xyz
-  url: https://github.com/api-evangelist/dynamic-xyz
-  x-profiled: '2026-05-16'
-  x-type: api
-  x-tier: 2
-  x-tier-reason: has-3-apis
 - name: dynamodb
   url: https://github.com/api-evangelist/dynamodb
   x-profiled: 2026-05
@@ -19684,10 +18888,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-4-apis
-- name: echo-global-logistics
-  url: https://github.com/api-evangelist/echo-global-logistics
-  x-profiled: 2026-05
-  x-type: company
 - name: echostar
   url: https://github.com/api-evangelist/echostar
   x-type: company
@@ -19976,12 +19176,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-2-apis
-- name: elastic-search
-  url: https://github.com/api-evangelist/elastic-search
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: elastic-stack
   url: https://github.com/api-evangelist/elastic-stack
   x-type: company
@@ -19994,12 +19188,6 @@ network:
   x-profiled: 2026-05
   x-tier: 1
   x-tier-reason: well-known-api-first
-- name: elation
-  url: https://github.com/api-evangelist/elation
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: election-assistance-commission
   url: https://github.com/api-evangelist/election-assistance-commission
   x-type: government
@@ -20012,12 +19200,6 @@ network:
   x-type: opensource
   x-tier: 2
   x-tier-reason: has-3-apis
-- name: electricity-maps
-  url: https://github.com/api-evangelist/electricity-maps
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: electricitymaps
   url: https://github.com/api-evangelist/electricitymaps
   x-profiled: '2026-07-02'
@@ -20355,14 +19537,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: endeavor-group-holdings
-  url: https://github.com/api-evangelist/endeavor-group-holdings
-  x-type: company
-  x-fortune:
-  - Fortune 1000
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: endo-international
   url: https://github.com/api-evangelist/endo-international
   x-profiled: 2026-05
@@ -20499,12 +19673,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-7-apis
-- name: enphase-energy
-  url: https://github.com/api-evangelist/enphase-energy
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-3-apis
 - name: enpro-industries
   url: https://github.com/api-evangelist/enpro-industries
   x-profiled: 2026-05
@@ -20574,12 +19742,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: entsoe
-  url: https://github.com/api-evangelist/entsoe
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: env0
   url: https://github.com/api-evangelist/env0
   x-type: company
@@ -20592,12 +19754,6 @@ network:
   x-type: api
   x-tier: 2
   x-tier-reason: has-2-apis
-- name: envelop
-  url: https://github.com/api-evangelist/envelop
-  x-profiled: '2026-07-02'
-  x-type: opensource
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: envestnet
   url: https://github.com/api-evangelist/envestnet
   x-type: company
@@ -20610,12 +19766,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-3-apis
-- name: environmental-protection-agency
-  url: https://github.com/api-evangelist/environmental-protection-agency
-  x-type: government
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: government-thin
 - name: envision-healthcare-holdings
   url: https://github.com/api-evangelist/envision-healthcare-holdings
   x-type: company
@@ -20706,12 +19856,6 @@ network:
   x-type: government
   x-tier: 2
   x-tier-reason: has-3-apis
-- name: epic
-  url: https://github.com/api-evangelist/epic
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: epic-games
   url: https://github.com/api-evangelist/epic-games
   x-profiled: '2026-05-23'
@@ -21002,12 +20146,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: ethos-life
-  url: https://github.com/api-evangelist/ethos-life
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: ethplorer
   url: https://github.com/api-evangelist/ethplorer
   x-profiled: '2026-05-28'
@@ -21079,12 +20217,6 @@ network:
   x-tier: 3
   x-tier-reason: bulk-public-apis-stub
   x-source: public-apis
-- name: eve-legal
-  url: https://github.com/api-evangelist/eve-legal
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: eve-online
   url: https://github.com/api-evangelist/eve-online
   x-profiled: '2026-05-28'
@@ -21252,12 +20384,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: exchangerate
-  url: https://github.com/api-evangelist/exchangerate
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: exchangerate-api
   url: https://github.com/api-evangelist/exchangerate-api
   x-profiled: '2026-05-28'
@@ -21502,12 +20628,6 @@ network:
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-medium
-- name: f5-networks
-  url: https://github.com/api-evangelist/f5-networks
-  x-profiled: 2026-05
-  x-type: company
-  x-tier: 2
-  x-tier-reason: company-strong
 - name: f6s
   url: https://github.com/api-evangelist/f6s
   x-type: company
@@ -21562,12 +20682,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: factorial
-  url: https://github.com/api-evangelist/factorial
-  x-profiled: '2026-05-16'
-  x-type: api
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: factorial-hr
   url: https://github.com/api-evangelist/factorial-hr
   x-profiled: '2026-07-02'
@@ -21625,13 +20739,6 @@ network:
   x-source: public-apis
 - name: fakerapi
   url: https://github.com/api-evangelist/fakerapi
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
-- name: fakestoreapi
-  url: https://github.com/api-evangelist/fakestoreapi
   x-profiled: '2026-05-28'
   x-type: api
   x-tier: 3
@@ -21859,12 +20966,6 @@ network:
   x-tier: 3
   x-tier-reason: bulk-public-apis-stub
   x-source: public-apis
-- name: fbn
-  url: https://github.com/api-evangelist/fbn
-  x-profiled: '2026-05-23'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: company-strong
 - name: fcc
   url: https://github.com/api-evangelist/fcc
   x-profiled: '2026-07-02'
@@ -21927,12 +21028,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: federal-aviation-administration
-  url: https://github.com/api-evangelist/federal-aviation-administration
-  x-type: government
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: government-thin
 - name: federal-bureau-of-investigation
   url: https://github.com/api-evangelist/federal-bureau-of-investigation
   x-type: government
@@ -21971,12 +21066,6 @@ network:
   x-tier-reason: government-thin
 - name: federal-highway-administration
   url: https://github.com/api-evangelist/federal-highway-administration
-  x-type: government
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: government-thin
-- name: federal-housing-finance-agency
-  url: https://github.com/api-evangelist/federal-housing-finance-agency
   x-type: government
   x-profiled: 2026-05
   x-tier: 3
@@ -22196,15 +21285,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: fidelity-national-information
-  url: https://github.com/api-evangelist/fidelity-national-information
-  x-type: company
-  x-fortune:
-  - Fortune 500
-  - Fortune 1000
-  x-profiled: 2026-05
-  x-tier: 2
-  x-tier-reason: company-fortune
 - name: fieldpoint
   url: https://github.com/api-evangelist/fieldpoint
   x-profiled: '2026-07-02'
@@ -22373,13 +21453,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-7-apis
-- name: fingerprintjs-pro
-  url: https://github.com/api-evangelist/fingerprintjs-pro
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: finlight
   url: https://github.com/api-evangelist/finlight
   x-profiled: '2026-07-02'
@@ -22517,10 +21590,6 @@ network:
   x-type: company
   x-fortune:
   - Fortune 1000
-- name: first-horizon-national
-  url: https://github.com/api-evangelist/first-horizon-national
-  x-profiled: 2026-05
-  x-type: company
 - name: first-national-of-nebraska
   url: https://github.com/api-evangelist/first-national-of-nebraska
   x-profiled: 2026-05
@@ -22842,12 +21911,6 @@ network:
   x-type: opensource
   x-tier: 2
   x-tier-reason: has-7-apis
-- name: flowable-api
-  url: https://github.com/api-evangelist/flowable-api
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: flowcharts
   url: https://github.com/api-evangelist/flowcharts
   x-type: company
@@ -22961,14 +22024,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: fmc
-  url: https://github.com/api-evangelist/fmc
-  x-type: company
-  x-fortune:
-  - Fortune 1000
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: fmc-corporation
   url: https://github.com/api-evangelist/fmc-corporation
   x-profiled: 2026-05
@@ -23031,12 +22086,6 @@ network:
   x-tier: 3
   x-tier-reason: bulk-public-apis-stub
   x-source: public-apis
-- name: fooddata
-  url: https://github.com/api-evangelist/fooddata
-  x-profiled: '2026-07-02'
-  x-type: government
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: fooddata-central
   url: https://github.com/api-evangelist/fooddata-central
   x-profiled: '2026-05-28'
@@ -23262,12 +22311,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: forter-com
-  url: https://github.com/api-evangelist/forter-com
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: fortify
   url: https://github.com/api-evangelist/fortify
   x-type: company
@@ -23301,12 +22344,6 @@ network:
   x-type: api
   x-tier: 3
   x-tier-reason: has-1-apis
-- name: fortune-brands-home-and-security
-  url: https://github.com/api-evangelist/fortune-brands-home-and-security
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: fortune-brands-innovations
   url: https://github.com/api-evangelist/fortune-brands-innovations
   x-profiled: 2026-05
@@ -23368,12 +22405,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-9-apis
-- name: fountain-tech
-  url: https://github.com/api-evangelist/fountain-tech
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-2-apis
 - name: fourkites
   url: https://github.com/api-evangelist/fourkites
   x-profiled: '2026-05-16'
@@ -23392,15 +22423,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-9-apis
-- name: fox
-  url: https://github.com/api-evangelist/fox
-  x-type: company
-  x-fortune:
-  - Fortune 500
-  - Fortune 1000
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: fox-corporation
   url: https://github.com/api-evangelist/fox-corporation
   x-profiled: 2026-05
@@ -23800,13 +22822,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: full-contact
-  url: https://github.com/api-evangelist/full-contact
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: fullcontact
   url: https://github.com/api-evangelist/fullcontact
   x-profiled: '2026-05-16'
@@ -23976,12 +22991,6 @@ network:
   x-profiled: 2026-05
   x-tier: 1
   x-tier-reason: well-known-api-first
-- name: galileo-ai
-  url: https://github.com/api-evangelist/galileo-ai
-  x-profiled: '2026-05-16'
-  x-type: api
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: galileo-fs
   url: https://github.com/api-evangelist/galileo-fs
   x-profiled: '2026-05-16'
@@ -24094,13 +23103,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-5-apis
-- name: gateio
-  url: https://github.com/api-evangelist/gateio
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: gatekeeper
   url: https://github.com/api-evangelist/gatekeeper
   x-profiled: '2026-05-16'
@@ -24151,12 +23153,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-8-apis
-- name: gcp
-  url: https://github.com/api-evangelist/gcp
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: gcp-cloud-storage
   url: https://github.com/api-evangelist/gcp-cloud-storage
   x-profiled: 2026-05
@@ -24271,13 +23267,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: genderize-io
-  url: https://github.com/api-evangelist/genderize-io
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: geneos
   url: https://github.com/api-evangelist/geneos
   x-type: company
@@ -24464,13 +23453,6 @@ network:
   x-profiled: 2026-05
   x-tier: 1
   x-tier-reason: well-known-api-first
-- name: geocod-io
-  url: https://github.com/api-evangelist/geocod-io
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: geocode-earth
   url: https://github.com/api-evangelist/geocode-earth
   x-profiled: '2026-07-02'
@@ -24602,12 +23584,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: getaround-com
-  url: https://github.com/api-evangelist/getaround-com
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: getcensus
   url: https://github.com/api-evangelist/getcensus
   x-profiled: '2026-07-02'
@@ -24646,12 +23622,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: getty
-  url: https://github.com/api-evangelist/getty
-  x-profiled: '2026-05-16'
-  x-type: api
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: getty-images
   url: https://github.com/api-evangelist/getty-images
   x-type: company
@@ -24671,25 +23641,12 @@ network:
   x-type: government
   x-tier: 2
   x-tier-reason: has-5-apis
-- name: ghost
-  url: https://github.com/api-evangelist/ghost
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 2
-  x-tier-reason: company-strong
 - name: ghost-robotics
   url: https://github.com/api-evangelist/ghost-robotics
   x-profiled: '2026-05-23'
   x-type: api
   x-tier: 3
   x-tier-reason: no-apis
-- name: giant-bomb
-  url: https://github.com/api-evangelist/giant-bomb
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: giantbomb
   url: https://github.com/api-evangelist/giantbomb
   x-profiled: '2026-07-02'
@@ -25184,12 +24141,6 @@ network:
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-strong
-- name: gong-io
-  url: https://github.com/api-evangelist/gong-io
-  x-profiled: '2026-05-23'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: company-strong
 - name: good-manufacturing-practices
   url: https://github.com/api-evangelist/good-manufacturing-practices
   x-type: company
@@ -25283,12 +24234,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: google-apigee
-  url: https://github.com/api-evangelist/google-apigee
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 2
-  x-tier-reason: company-strong
 - name: google-apps-script
   url: https://github.com/api-evangelist/google-apps-script
   x-profiled: 2026-05
@@ -25385,12 +24330,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: google-cloud
-  url: https://github.com/api-evangelist/google-cloud
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 1
-  x-tier-reason: well-known-api-first
 - name: google-cloud-api-gateway
   url: https://github.com/api-evangelist/google-cloud-api-gateway
   x-type: company
@@ -25668,12 +24607,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: company-strong
-- name: google-cloud-platform-gcp
-  url: https://github.com/api-evangelist/google-cloud-platform-gcp
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: google-cloud-profiler
   url: https://github.com/api-evangelist/google-cloud-profiler
   x-type: company
@@ -26094,24 +25027,6 @@ network:
   x-type: company
   x-tier: 3
   x-tier-reason: company-thin
-- name: google-suite
-  url: https://github.com/api-evangelist/google-suite
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: google-suite-docs-sheets-slides-gmail
-  url: https://github.com/api-evangelist/google-suite-docs-sheets-slides-gmail
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: google-suites
-  url: https://github.com/api-evangelist/google-suites
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: google-tag-manager
   url: https://github.com/api-evangelist/google-tag-manager
   x-profiled: 2026-05
@@ -26216,12 +25131,6 @@ network:
   x-type: api
   x-tier: 3
   x-tier-reason: company-strong
-- name: goto-webinar
-  url: https://github.com/api-evangelist/goto-webinar
-  x-profiled: '2026-05-16'
-  x-type: api
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: gov-uk-notify
   url: https://github.com/api-evangelist/gov-uk-notify
   x-profiled: '2026-07-02'
@@ -26419,42 +25328,12 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: graphite-dev
-  url: https://github.com/api-evangelist/graphite-dev
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-6-apis
 - name: graphql
   url: https://github.com/api-evangelist/graphql
   x-type: standard
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: graphql-code-generator
-  url: https://github.com/api-evangelist/graphql-code-generator
-  x-profiled: '2026-07-02'
-  x-type: opensource
-  x-tier: 2
-  x-tier-reason: has-1-apis
-- name: graphql-codegen
-  url: https://github.com/api-evangelist/graphql-codegen
-  x-type: standard
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: standard
-- name: graphql-hive
-  url: https://github.com/api-evangelist/graphql-hive
-  x-profiled: '2026-07-02'
-  x-type: opensource
-  x-tier: 2
-  x-tier-reason: has-1-apis
-- name: graphql-inspector
-  url: https://github.com/api-evangelist/graphql-inspector
-  x-profiled: '2026-07-02'
-  x-type: opensource
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: graphql-jobs
   url: https://github.com/api-evangelist/graphql-jobs
   x-profiled: '2026-05-28'
@@ -26462,12 +25341,6 @@ network:
   x-tier: 3
   x-tier-reason: bulk-public-apis-stub
   x-source: public-apis
-- name: graphql-mesh
-  url: https://github.com/api-evangelist/graphql-mesh
-  x-type: standard
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: standard
 - name: graphql-pokemon
   url: https://github.com/api-evangelist/graphql-pokemon
   x-profiled: '2026-05-28'
@@ -26477,24 +25350,6 @@ network:
   x-source: public-apis
 - name: graphql-request
   url: https://github.com/api-evangelist/graphql-request
-  x-profiled: '2026-07-02'
-  x-type: opensource
-  x-tier: 2
-  x-tier-reason: has-1-apis
-- name: graphql-scalars
-  url: https://github.com/api-evangelist/graphql-scalars
-  x-profiled: '2026-07-02'
-  x-type: opensource
-  x-tier: 2
-  x-tier-reason: has-1-apis
-- name: graphql-tools
-  url: https://github.com/api-evangelist/graphql-tools
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-1-apis
-- name: graphql-yoga
-  url: https://github.com/api-evangelist/graphql-yoga
   x-profiled: '2026-07-02'
   x-type: opensource
   x-tier: 2
@@ -26813,21 +25668,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: guardian-life-ins-co-of-america
-  url: https://github.com/api-evangelist/guardian-life-ins-co-of-america
-  x-type: company
-  x-fortune:
-  - Fortune 500
-  - Fortune 1000
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
-- name: guardian-life-insurance
-  url: https://github.com/api-evangelist/guardian-life-insurance
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: guerrilla-mail
   url: https://github.com/api-evangelist/guerrilla-mail
   x-profiled: '2026-05-28'
@@ -26987,13 +25827,6 @@ network:
   x-tier: 3
   x-tier-reason: bulk-public-apis-stub
   x-source: public-apis
-- name: hackernews
-  url: https://github.com/api-evangelist/hackernews
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: hackerone
   url: https://github.com/api-evangelist/hackerone
   x-profiled: '2026-05-28'
@@ -27066,14 +25899,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-6-apis
-- name: handr-block
-  url: https://github.com/api-evangelist/handr-block
-  x-type: company
-  x-fortune:
-  - Fortune 1000
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: handwrite-io
   url: https://github.com/api-evangelist/handwrite-io
   x-type: company
@@ -27262,12 +26087,6 @@ network:
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-strong
-- name: hashicorp-nomad
-  url: https://github.com/api-evangelist/hashicorp-nomad
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: hashicorp-vault
   url: https://github.com/api-evangelist/hashicorp-vault
   x-type: company
@@ -27304,13 +26123,6 @@ network:
   x-type: api
   x-tier: 2
   x-tier-reason: has-2-apis
-- name: haveibeenpwned
-  url: https://github.com/api-evangelist/haveibeenpwned
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: hawaiian-electric-industries
   url: https://github.com/api-evangelist/hawaiian-electric-industries
   x-type: company
@@ -27339,12 +26151,6 @@ network:
   x-type: government
   x-tier: 3
   x-tier-reason: no-apis
-- name: haystack
-  url: https://github.com/api-evangelist/haystack
-  x-profiled: 2026-05
-  x-type: company
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: haystack-ai
   url: https://github.com/api-evangelist/haystack-ai
   x-profiled: '2026-07-02'
@@ -27357,12 +26163,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: hb-fuller
-  url: https://github.com/api-evangelist/hb-fuller
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: hbku
   url: https://github.com/api-evangelist/hbku
   x-profiled: '2026-07-02'
@@ -27413,12 +26213,6 @@ network:
   url: https://github.com/api-evangelist/headspace
   x-profiled: '2026-05-23'
   x-type: api
-  x-tier: 3
-  x-tier-reason: no-apis
-- name: headway-co
-  url: https://github.com/api-evangelist/headway-co
-  x-profiled: '2026-07-02'
-  x-type: company
   x-tier: 3
   x-tier-reason: no-apis
 - name: health-gorilla
@@ -27586,21 +26380,8 @@ network:
   x-type: company
   x-tier: 3
   x-tier-reason: no-apis
-- name: helion-energy
-  url: https://github.com/api-evangelist/helion-energy
-  x-profiled: '2026-05-23'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: helipaddy-sites
   url: https://github.com/api-evangelist/helipaddy-sites
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
-- name: helium
-  url: https://github.com/api-evangelist/helium
   x-profiled: '2026-05-28'
   x-type: api
   x-tier: 3
@@ -27716,12 +26497,6 @@ network:
   x-tier: 3
   x-tier-reason: bulk-public-apis-stub
   x-source: public-apis
-- name: here-technologies
-  url: https://github.com/api-evangelist/here-technologies
-  x-profiled: '2026-05-23'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: company-strong
 - name: heriot-watt
   url: https://github.com/api-evangelist/heriot-watt
   x-profiled: '2026-07-02'
@@ -27762,15 +26537,6 @@ network:
   x-tier-reason: no-apis
 - name: hertz
   url: https://github.com/api-evangelist/hertz
-  x-type: company
-  x-fortune:
-  - Fortune 500
-  - Fortune 1000
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
-- name: hess
-  url: https://github.com/api-evangelist/hess
   x-type: company
   x-fortune:
   - Fortune 500
@@ -27897,12 +26663,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: opensource-thin
-- name: hibob
-  url: https://github.com/api-evangelist/hibob
-  x-profiled: '2026-05-16'
-  x-type: api
-  x-tier: 2
-  x-tier-reason: has-2-apis
 - name: hidden-layer
   url: https://github.com/api-evangelist/hidden-layer
   x-profiled: '2026-07-02'
@@ -28030,12 +26790,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: hippo
-  url: https://github.com/api-evangelist/hippo
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: hippo-com
   url: https://github.com/api-evangelist/hippo-com
   x-profiled: '2026-07-02'
@@ -28329,12 +27083,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: hopper-travel
-  url: https://github.com/api-evangelist/hopper-travel
-  x-profiled: '2026-05-23'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: company-strong
 - name: hoppscotch
   url: https://github.com/api-evangelist/hoppscotch
   x-type: company
@@ -28707,13 +27455,6 @@ network:
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-fortune
-- name: humanitarian-data-exchange
-  url: https://github.com/api-evangelist/humanitarian-data-exchange
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: humanitec
   url: https://github.com/api-evangelist/humanitec
   x-type: company
@@ -28984,12 +27725,6 @@ network:
   url: https://github.com/api-evangelist/iambic
   x-profiled: '2026-05-23'
   x-type: api
-  x-tier: 3
-  x-tier-reason: no-apis
-- name: iambic-tx
-  url: https://github.com/api-evangelist/iambic-tx
-  x-profiled: '2026-07-02'
-  x-type: company
   x-tier: 3
   x-tier-reason: no-apis
 - name: iasis-healthcare
@@ -29717,12 +28452,6 @@ network:
   x-type: api
   x-tier: 2
   x-tier-reason: has-6-apis
-- name: inflection-ai
-  url: https://github.com/api-evangelist/inflection-ai
-  x-profiled: '2026-05-23'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: has-2-apis
 - name: infleqtion
   url: https://github.com/api-evangelist/infleqtion
   x-profiled: '2026-07-02'
@@ -30527,13 +29256,6 @@ network:
   x-tier: 3
   x-tier-reason: bulk-public-apis-stub
   x-source: public-apis
-- name: ipstack-ipstack
-  url: https://github.com/api-evangelist/ipstack-ipstack
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: iqair
   url: https://github.com/api-evangelist/iqair
   x-profiled: '2026-05-28'
@@ -30657,12 +29379,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-3-apis
-- name: isometric-co
-  url: https://github.com/api-evangelist/isometric-co
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-2-apis
 - name: isomorphic-labs
   url: https://github.com/api-evangelist/isomorphic-labs
   x-profiled: '2026-07-02'
@@ -31047,15 +29763,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: jefferies-financial-group
-  url: https://github.com/api-evangelist/jefferies-financial-group
-  x-type: company
-  x-fortune:
-  - Fortune 500
-  - Fortune 1000
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: jefferson-health
   url: https://github.com/api-evangelist/jefferson-health
   x-profiled: 2026-05
@@ -31315,12 +30022,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: joke-api
-  url: https://github.com/api-evangelist/joke-api
-  x-profiled: '2026-07-02'
-  x-type: opensource
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: jokeapi
   url: https://github.com/api-evangelist/jokeapi
   x-profiled: '2026-05-28'
@@ -31445,12 +30146,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: json-placeholder
-  url: https://github.com/api-evangelist/json-placeholder
-  x-profiled: '2026-07-02'
-  x-type: opensource
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: json-processing
   url: https://github.com/api-evangelist/json-processing
   x-type: company
@@ -31479,13 +30174,6 @@ network:
   x-source: public-apis
 - name: jsonplaceholder
   url: https://github.com/api-evangelist/jsonplaceholder
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
-- name: jsonplaceholder-jsonplaceholder
-  url: https://github.com/api-evangelist/jsonplaceholder-jsonplaceholder
   x-profiled: '2026-05-28'
   x-type: api
   x-tier: 3
@@ -31559,14 +30247,6 @@ network:
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-strong
-- name: juniper-networks
-  url: https://github.com/api-evangelist/juniper-networks
-  x-type: company
-  x-fortune:
-  - Fortune 1000
-  x-profiled: 2026-05
-  x-tier: 2
-  x-tier-reason: company-strong
 - name: junit
   url: https://github.com/api-evangelist/junit
   x-type: company
@@ -31599,12 +30279,6 @@ network:
   x-tier-reason: no-apis
 - name: jupyter
   url: https://github.com/api-evangelist/jupyter
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: jupyter-hub
-  url: https://github.com/api-evangelist/jupyter-hub
   x-type: company
   x-profiled: 2026-05
   x-tier: 3
@@ -31889,12 +30563,6 @@ network:
   x-type: company
   x-tier: 3
   x-tier-reason: no-apis
-- name: kayak-com
-  url: https://github.com/api-evangelist/kayak-com
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: kb-home
   url: https://github.com/api-evangelist/kb-home
   x-type: company
@@ -31953,13 +30621,6 @@ network:
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-strong
-- name: keen-io
-  url: https://github.com/api-evangelist/keen-io
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: keep
   url: https://github.com/api-evangelist/keep
   x-profiled: '2026-05-16'
@@ -32011,13 +30672,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: kelley-blue-book
-  url: https://github.com/api-evangelist/kelley-blue-book
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: kellogg
   url: https://github.com/api-evangelist/kellogg
   x-type: company
@@ -32082,12 +30736,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: ketch-com
-  url: https://github.com/api-evangelist/ketch-com
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-6-apis
 - name: ketch-io
   url: https://github.com/api-evangelist/ketch-io
   x-profiled: '2026-05-23'
@@ -32332,12 +30980,6 @@ network:
   x-type: api
   x-tier: 2
   x-tier-reason: has-2-apis
-- name: kit
-  url: https://github.com/api-evangelist/kit
-  x-profiled: '2026-05-16'
-  x-type: api
-  x-tier: 2
-  x-tier-reason: has-2-apis
 - name: kitex
   url: https://github.com/api-evangelist/kitex
   x-type: company
@@ -32366,15 +31008,6 @@ network:
   x-source: public-apis
 - name: kkr
   url: https://github.com/api-evangelist/kkr
-  x-type: company
-  x-fortune:
-  - Fortune 500
-  - Fortune 1000
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
-- name: kla
-  url: https://github.com/api-evangelist/kla
   x-type: company
   x-fortune:
   - Fortune 500
@@ -32502,12 +31135,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: koala
-  url: https://github.com/api-evangelist/koala
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-3-apis
 - name: koala-io
   url: https://github.com/api-evangelist/koala-io
   x-profiled: '2026-07-02'
@@ -32559,12 +31186,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: konfig
-  url: https://github.com/api-evangelist/konfig
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: konfio
   url: https://github.com/api-evangelist/konfio
   x-profiled: '2026-05-23'
@@ -33193,12 +31814,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: opensource-thin
-- name: languagetools
-  url: https://github.com/api-evangelist/languagetools
-  x-profiled: '2026-07-02'
-  x-type: opensource
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: langwatch
   url: https://github.com/api-evangelist/langwatch
   x-profiled: '2026-07-02'
@@ -33245,12 +31860,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-3-apis
-- name: last-fm
-  url: https://github.com/api-evangelist/last-fm
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: lastfm
   url: https://github.com/api-evangelist/lastfm
   x-profiled: '2026-05-28'
@@ -33505,12 +32114,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: legora-ai
-  url: https://github.com/api-evangelist/legora-ai
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: leiden
   url: https://github.com/api-evangelist/leiden
   x-profiled: '2026-07-02'
@@ -33550,12 +32153,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: lemonsqueezy
-  url: https://github.com/api-evangelist/lemonsqueezy
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-9-apis
 - name: lemonway
   url: https://github.com/api-evangelist/lemonway
   x-profiled: '2026-07-02'
@@ -33817,35 +32414,18 @@ network:
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-fortune
-- name: liberty-oilfield-services
-  url: https://github.com/api-evangelist/liberty-oilfield-services
-  x-profiled: 2026-05
-  x-type: company
 - name: liblab
   url: https://github.com/api-evangelist/liblab
   x-type: company
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: library-of-congress
-  url: https://github.com/api-evangelist/library-of-congress
-  x-type: government
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: government-thin
 - name: libre-translate
   url: https://github.com/api-evangelist/libre-translate
   x-profiled: '2026-07-02'
   x-type: opensource
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: libretranslate
-  url: https://github.com/api-evangelist/libretranslate
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: license-api
   url: https://github.com/api-evangelist/license-api
   x-profiled: '2026-05-28'
@@ -34062,12 +32642,6 @@ network:
   x-type: api
   x-tier: 3
   x-tier-reason: company-strong
-- name: linear
-  url: https://github.com/api-evangelist/linear
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 1
-  x-tier-reason: well-known-api-first
 - name: linear-app
   url: https://github.com/api-evangelist/linear-app
   x-profiled: '2026-05-23'
@@ -34247,12 +32821,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: lithic
-  url: https://github.com/api-evangelist/lithic
-  x-profiled: '2026-05-16'
-  x-type: api
-  x-tier: 2
-  x-tier-reason: has-3-apis
 - name: litify
   url: https://github.com/api-evangelist/litify
   x-profiled: '2026-07-02'
@@ -34310,12 +32878,6 @@ network:
   x-type: api
   x-tier: 3
   x-tier-reason: company-strong
-- name: livepeer-com
-  url: https://github.com/api-evangelist/livepeer-com
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-3-apis
 - name: liveperson
   url: https://github.com/api-evangelist/liveperson
   x-type: company
@@ -34385,13 +32947,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: lob-com
-  url: https://github.com/api-evangelist/lob-com
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: lobsters
   url: https://github.com/api-evangelist/lobsters
   x-profiled: '2026-07-02'
@@ -34498,12 +33053,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: loews-corporation
-  url: https://github.com/api-evangelist/loews-corporation
-  x-profiled: 2026-05
-  x-type: company
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: log10
   url: https://github.com/api-evangelist/log10
   x-profiled: '2026-07-02'
@@ -34512,12 +33061,6 @@ network:
   x-tier-reason: has-3-apis
 - name: log4j
   url: https://github.com/api-evangelist/log4j
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: logic-apps
-  url: https://github.com/api-evangelist/logic-apps
   x-type: company
   x-profiled: 2026-05
   x-tier: 3
@@ -34756,12 +33299,6 @@ network:
   x-type: api
   x-tier: 2
   x-tier-reason: has-2-apis
-- name: lovable-dev
-  url: https://github.com/api-evangelist/lovable-dev
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: lowes
   url: https://github.com/api-evangelist/lowes
   x-type: company
@@ -34779,12 +33316,6 @@ network:
   x-tier: 3
   x-tier-reason: bulk-public-apis-stub
   x-source: public-apis
-- name: lpl-financial
-  url: https://github.com/api-evangelist/lpl-financial
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: lpl-financial-holdings
   url: https://github.com/api-evangelist/lpl-financial-holdings
   x-type: company
@@ -34866,12 +33397,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: luma-ai
-  url: https://github.com/api-evangelist/luma-ai
-  x-profiled: '2026-05-16'
-  x-type: api
-  x-tier: 2
-  x-tier-reason: has-2-apis
 - name: luma-labs
   url: https://github.com/api-evangelist/luma-labs
   x-profiled: '2026-05-23'
@@ -34899,12 +33424,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-2-apis
-- name: lunar-dev
-  url: https://github.com/api-evangelist/lunar-dev
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: lunar-energy
   url: https://github.com/api-evangelist/lunar-energy
   x-profiled: '2026-07-02'
@@ -34929,12 +33448,6 @@ network:
   x-type: government
   x-tier: 2
   x-tier-reason: has-5-apis
-- name: lura
-  url: https://github.com/api-evangelist/lura
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: lura-project
   url: https://github.com/api-evangelist/lura-project
   x-type: company
@@ -34998,15 +33511,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: m-and-t-bank
-  url: https://github.com/api-evangelist/m-and-t-bank
-  x-type: company
-  x-fortune:
-  - Fortune 500
-  - Fortune 1000
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: m1-finance
   url: https://github.com/api-evangelist/m1-finance
   x-profiled: '2026-07-02'
@@ -35031,13 +33535,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: mac-address-vendor-lookup
-  url: https://github.com/api-evangelist/mac-address-vendor-lookup
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: machinetutors
   url: https://github.com/api-evangelist/machinetutors
   x-profiled: '2026-05-28'
@@ -35139,12 +33636,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-2-apis
-- name: magiceden
-  url: https://github.com/api-evangelist/magiceden
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-7-apis
 - name: magna-international
   url: https://github.com/api-evangelist/magna-international
   x-profiled: '2026-05-16'
@@ -35317,12 +33808,6 @@ network:
   x-tier: 3
   x-tier-reason: bulk-public-apis-stub
   x-source: public-apis
-- name: mandt-bank
-  url: https://github.com/api-evangelist/mandt-bank
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: mandt-bank-corp
   url: https://github.com/api-evangelist/mandt-bank-corp
   x-type: company
@@ -35490,12 +33975,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-8-apis
-- name: marinetraffic
-  url: https://github.com/api-evangelist/marinetraffic
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 2
-  x-tier-reason: company-strong
 - name: mario-kart-tour
   url: https://github.com/api-evangelist/mario-kart-tour
   x-profiled: '2026-05-28'
@@ -35745,12 +34224,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: mastra-ai
-  url: https://github.com/api-evangelist/mastra-ai
-  x-profiled: '2026-07-02'
-  x-type: opensource
-  x-tier: 2
-  x-tier-reason: has-12-apis
 - name: matador-resources
   url: https://github.com/api-evangelist/matador-resources
   x-profiled: 2026-05
@@ -35997,12 +34470,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: mckinsey
-  url: https://github.com/api-evangelist/mckinsey
-  x-profiled: '2026-05-16'
-  x-type: company
-  x-tier: 3
-  x-tier-reason: no-apis-yet
 - name: mckinsey-and-company
   url: https://github.com/api-evangelist/mckinsey-and-company
   x-profiled: 2026-05
@@ -36105,12 +34572,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: medidata
-  url: https://github.com/api-evangelist/medidata
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: meditech
   url: https://github.com/api-evangelist/meditech
   x-type: company
@@ -36159,12 +34620,6 @@ network:
   x-type: opensource
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: medusa-js
-  url: https://github.com/api-evangelist/medusa-js
-  x-profiled: '2026-05-23'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: company-strong
 - name: meet
   url: https://github.com/api-evangelist/meet
   x-profiled: '2026-05-16'
@@ -36308,19 +34763,6 @@ network:
   x-tier: 3
   x-tier-reason: bulk-public-apis-stub
   x-source: public-apis
-- name: mercadolibre
-  url: https://github.com/api-evangelist/mercadolibre
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
-- name: mercadopago
-  url: https://github.com/api-evangelist/mercadopago
-  x-profiled: '2026-05-23'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: company-strong
 - name: mercari
   url: https://github.com/api-evangelist/mercari
   x-profiled: '2026-05-16'
@@ -36583,12 +35025,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: method-fi
-  url: https://github.com/api-evangelist/method-fi
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-7-apis
 - name: metlife
   url: https://github.com/api-evangelist/metlife
   x-type: company
@@ -36649,20 +35085,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: company-fortune
-- name: mettler-toledo-international
-  url: https://github.com/api-evangelist/mettler-toledo-international
-  x-type: company
-  x-fortune:
-  - Fortune 1000
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
-- name: mews
-  url: https://github.com/api-evangelist/mews
-  x-profiled: '2026-05-16'
-  x-type: api
-  x-tier: 2
-  x-tier-reason: has-3-apis
 - name: mews-com
   url: https://github.com/api-evangelist/mews-com
   x-profiled: '2026-07-02'
@@ -36845,20 +35267,8 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: microsoft-active-directory
-  url: https://github.com/api-evangelist/microsoft-active-directory
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: microsoft-advertising
   url: https://github.com/api-evangelist/microsoft-advertising
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: microsoft-applications
-  url: https://github.com/api-evangelist/microsoft-applications
   x-type: company
   x-profiled: 2026-05
   x-tier: 3
@@ -36877,12 +35287,6 @@ network:
   x-tier-reason: company-strong
 - name: microsoft-azure-advisor
   url: https://github.com/api-evangelist/microsoft-azure-advisor
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: microsoft-azure-ai-foundry
-  url: https://github.com/api-evangelist/microsoft-azure-ai-foundry
   x-type: company
   x-profiled: 2026-05
   x-tier: 3
@@ -36959,24 +35363,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: microsoft-azure-container-instances
-  url: https://github.com/api-evangelist/microsoft-azure-container-instances
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: microsoft-azure-container-registry
-  url: https://github.com/api-evangelist/microsoft-azure-container-registry
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: microsoft-azure-cosmos-db
-  url: https://github.com/api-evangelist/microsoft-azure-cosmos-db
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: microsoft-azure-cost-management
   url: https://github.com/api-evangelist/microsoft-azure-cost-management
   x-type: company
@@ -37007,12 +35393,6 @@ network:
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-strong
-- name: microsoft-azure-event-grid
-  url: https://github.com/api-evangelist/microsoft-azure-event-grid
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: microsoft-azure-event-hubs
   url: https://github.com/api-evangelist/microsoft-azure-event-hubs
   x-type: company
@@ -37021,12 +35401,6 @@ network:
   x-tier-reason: company-medium
 - name: microsoft-azure-express-route
   url: https://github.com/api-evangelist/microsoft-azure-express-route
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: microsoft-azure-file-storage
-  url: https://github.com/api-evangelist/microsoft-azure-file-storage
   x-type: company
   x-profiled: 2026-05
   x-tier: 3
@@ -37073,12 +35447,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: microsoft-azure-logic-apps
-  url: https://github.com/api-evangelist/microsoft-azure-logic-apps
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: microsoft-azure-machine-learning
   url: https://github.com/api-evangelist/microsoft-azure-machine-learning
   x-type: company
@@ -37109,12 +35477,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: microsoft-azure-networking
-  url: https://github.com/api-evangelist/microsoft-azure-networking
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 2
-  x-tier-reason: company-strong
 - name: microsoft-azure-notification-hubs
   url: https://github.com/api-evangelist/microsoft-azure-notification-hubs
   x-type: company
@@ -37165,12 +35527,6 @@ network:
   x-tier-reason: company-medium
 - name: microsoft-azure-search
   url: https://github.com/api-evangelist/microsoft-azure-search
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: microsoft-azure-service-bus
-  url: https://github.com/api-evangelist/microsoft-azure-service-bus
   x-type: company
   x-profiled: 2026-05
   x-tier: 3
@@ -37283,12 +35639,6 @@ network:
   x-type: api
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: microsoft-dotnet
-  url: https://github.com/api-evangelist/microsoft-dotnet
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: microsoft-dynamics
   url: https://github.com/api-evangelist/microsoft-dynamics
   x-type: company
@@ -37337,12 +35687,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: company-strong
-- name: microsoft-entra-id
-  url: https://github.com/api-evangelist/microsoft-entra-id
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: microsoft-excel
   url: https://github.com/api-evangelist/microsoft-excel
   x-profiled: 2026-05
@@ -37391,12 +35735,6 @@ network:
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-strong
-- name: microsoft-linkedin
-  url: https://github.com/api-evangelist/microsoft-linkedin
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: microsoft-loop
   url: https://github.com/api-evangelist/microsoft-loop
   x-type: company
@@ -37407,12 +35745,6 @@ network:
   url: https://github.com/api-evangelist/microsoft-net
   x-profiled: 2026-05
   x-type: company
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: microsoft-nuget
-  url: https://github.com/api-evangelist/microsoft-nuget
-  x-type: company
-  x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
 - name: microsoft-office
@@ -37427,36 +35759,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: company-strong
-- name: microsoft-office-applications
-  url: https://github.com/api-evangelist/microsoft-office-applications
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: microsoft-office-integration
-  url: https://github.com/api-evangelist/microsoft-office-integration
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: microsoft-office-pack
-  url: https://github.com/api-evangelist/microsoft-office-pack
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: microsoft-office-products
-  url: https://github.com/api-evangelist/microsoft-office-products
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: microsoft-office-suite
-  url: https://github.com/api-evangelist/microsoft-office-suite
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: microsoft-onedrive
   url: https://github.com/api-evangelist/microsoft-onedrive
   x-type: company
@@ -37505,32 +35807,14 @@ network:
   x-type: company
   x-tier: 3
   x-tier-reason: company-thin
-- name: microsoft-power-bi
-  url: https://github.com/api-evangelist/microsoft-power-bi
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: microsoft-power-pages
   url: https://github.com/api-evangelist/microsoft-power-pages
   x-type: company
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: microsoft-power-platform
-  url: https://github.com/api-evangelist/microsoft-power-platform
-  x-profiled: 2026-05
-  x-type: company
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: microsoft-power-virtual-agents
   url: https://github.com/api-evangelist/microsoft-power-virtual-agents
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: microsoft-products
-  url: https://github.com/api-evangelist/microsoft-products
   x-type: company
   x-profiled: 2026-05
   x-tier: 3
@@ -37541,12 +35825,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: company-medium
-- name: microsoft-projects
-  url: https://github.com/api-evangelist/microsoft-projects
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: microsoft-purview
   url: https://github.com/api-evangelist/microsoft-purview
   x-type: company
@@ -37572,12 +35850,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: microsoft-sharepoint
-  url: https://github.com/api-evangelist/microsoft-sharepoint
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: microsoft-skype
   url: https://github.com/api-evangelist/microsoft-skype
   x-type: company
@@ -37592,12 +35864,6 @@ network:
   x-tier-reason: company-thin
 - name: microsoft-stream
   url: https://github.com/api-evangelist/microsoft-stream
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: microsoft-suite
-  url: https://github.com/api-evangelist/microsoft-suite
   x-type: company
   x-profiled: 2026-05
   x-tier: 3
@@ -37624,18 +35890,6 @@ network:
   url: https://github.com/api-evangelist/microsoft-to-do
   x-type: company
   x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: microsoft-typescript
-  url: https://github.com/api-evangelist/microsoft-typescript
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: microsoft-visio
-  url: https://github.com/api-evangelist/microsoft-visio
-  x-profiled: 2026-05
-  x-type: company
   x-tier: 3
   x-tier-reason: company-thin
 - name: microsoft-visual-studio
@@ -37868,12 +36122,6 @@ network:
   x-profiled: 2026-05
   x-tier: 1
   x-tier-reason: well-known-api-first
-- name: mistral-ai
-  url: https://github.com/api-evangelist/mistral-ai
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 2
-  x-tier-reason: company-strong
 - name: mit
   url: https://github.com/api-evangelist/mit
   x-type: company
@@ -38048,12 +36296,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: modal
-  url: https://github.com/api-evangelist/modal
-  x-profiled: '2026-05-16'
-  x-type: api
-  x-tier: 2
-  x-tier-reason: has-14-apis
 - name: modal-com
   url: https://github.com/api-evangelist/modal-com
   x-profiled: '2026-07-02'
@@ -38262,13 +36504,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: mono
-  url: https://github.com/api-evangelist/mono
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: mono-co
   url: https://github.com/api-evangelist/mono-co
   x-profiled: '2026-07-02'
@@ -38309,12 +36544,6 @@ network:
   x-type: api
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: monte-carlo-data
-  url: https://github.com/api-evangelist/monte-carlo-data
-  x-profiled: 2026-05
-  x-type: company
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: montecarlodata
   url: https://github.com/api-evangelist/montecarlodata
   x-profiled: '2026-07-02'
@@ -38504,13 +36733,6 @@ network:
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-fortune
-- name: movebank
-  url: https://github.com/api-evangelist/movebank
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: moveyou
   url: https://github.com/api-evangelist/moveyou
   x-type: company
@@ -38524,12 +36746,6 @@ network:
   x-tier: 3
   x-tier-reason: bulk-public-apis-stub
   x-source: public-apis
-- name: moxion-power
-  url: https://github.com/api-evangelist/moxion-power
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: moxtra
   url: https://github.com/api-evangelist/moxtra
   x-profiled: '2026-05-16'
@@ -38580,42 +36796,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-3-apis
-- name: ms-applications
-  url: https://github.com/api-evangelist/ms-applications
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: ms-excel
-  url: https://github.com/api-evangelist/ms-excel
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: ms-office
-  url: https://github.com/api-evangelist/ms-office
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: ms-products
-  url: https://github.com/api-evangelist/ms-products
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: ms-projects
-  url: https://github.com/api-evangelist/ms-projects
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: ms-word
-  url: https://github.com/api-evangelist/ms-word
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: msc-cargo
   url: https://github.com/api-evangelist/msc-cargo
   x-profiled: '2026-07-02'
@@ -38742,25 +36922,12 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: mutual-of-omaha
-  url: https://github.com/api-evangelist/mutual-of-omaha
-  x-profiled: 2026-05
-  x-type: company
-  x-fortune:
-  - Fortune 500
-  - Fortune 1000
 - name: mutual-of-omaha-insurance
   url: https://github.com/api-evangelist/mutual-of-omaha-insurance
   x-type: company
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: mux
-  url: https://github.com/api-evangelist/mux
-  x-profiled: '2026-05-16'
-  x-type: api
-  x-tier: 2
-  x-tier-reason: has-2-apis
 - name: mux-com
   url: https://github.com/api-evangelist/mux-com
   x-profiled: '2026-07-02'
@@ -38878,12 +37045,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-5-apis
-- name: nacelle-com
-  url: https://github.com/api-evangelist/nacelle-com
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-3-apis
 - name: nachonacho
   url: https://github.com/api-evangelist/nachonacho
   x-type: company
@@ -39318,13 +37479,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: government-thin
-- name: national-park-service-us
-  url: https://github.com/api-evangelist/national-park-service-us
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: national-pesticide-information-center
   url: https://github.com/api-evangelist/national-pesticide-information-center
   x-type: government
@@ -39392,13 +37546,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: nationalize-io
-  url: https://github.com/api-evangelist/nationalize-io
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: nationstar-mortgage-holdings
   url: https://github.com/api-evangelist/nationstar-mortgage-holdings
   x-type: company
@@ -39433,12 +37580,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: government-thin
-- name: navan-com
-  url: https://github.com/api-evangelist/navan-com
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: navattic
   url: https://github.com/api-evangelist/navattic
   x-profiled: '2026-07-02'
@@ -39823,16 +37964,6 @@ network:
   x-type: company
   x-tier: 3
   x-tier-reason: no-apis-yet
-- name: new-york-life-insurance
-  url: https://github.com/api-evangelist/new-york-life-insurance
-  x-type: company
-  x-fortune:
-  - Fortune 100
-  - Fortune 500
-  - Fortune 1000
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: new-york-public-library-whats-on-the-menu
   url: https://github.com/api-evangelist/new-york-public-library-whats-on-the-menu
   x-type: company
@@ -39921,12 +38052,6 @@ network:
   x-tier: 3
   x-tier-reason: bulk-public-apis-stub
   x-source: public-apis
-- name: news-api
-  url: https://github.com/api-evangelist/news-api
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: news-corp
   url: https://github.com/api-evangelist/news-corp
   x-type: company
@@ -40033,12 +38158,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: nextgen
-  url: https://github.com/api-evangelist/nextgen
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-6-apis
 - name: nextra
   url: https://github.com/api-evangelist/nextra
   x-type: company
@@ -40092,12 +38211,6 @@ network:
   x-tier-reason: no-apis
 - name: ngrok
   url: https://github.com/api-evangelist/ngrok
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: ngrok-ai
-  url: https://github.com/api-evangelist/ngrok-ai
   x-type: company
   x-profiled: 2026-05
   x-tier: 3
@@ -40586,12 +38699,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: notch
-  url: https://github.com/api-evangelist/notch
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: notch-financial
   url: https://github.com/api-evangelist/notch-financial
   x-profiled: '2026-07-02'
@@ -40869,13 +38976,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-3-apis
-- name: numbers
-  url: https://github.com/api-evangelist/numbers
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: numbers-api
   url: https://github.com/api-evangelist/numbers-api
   x-profiled: '2026-07-02'
@@ -41501,14 +39601,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: olin
-  url: https://github.com/api-evangelist/olin
-  x-type: company
-  x-fortune:
-  - Fortune 1000
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: olive-ai
   url: https://github.com/api-evangelist/olive-ai
   x-profiled: '2026-07-02'
@@ -41613,13 +39705,6 @@ network:
   x-type: government
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: onedrive
-  url: https://github.com/api-evangelist/onedrive
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: oneio
   url: https://github.com/api-evangelist/oneio
   x-type: company
@@ -41759,13 +39844,6 @@ network:
   x-type: government
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: open-charge-map
-  url: https://github.com/api-evangelist/open-charge-map
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: open-collective
   url: https://github.com/api-evangelist/open-collective
   x-profiled: '2026-05-28'
@@ -41806,12 +39884,6 @@ network:
   x-tier: 3
   x-tier-reason: bulk-public-apis-stub
   x-source: public-apis
-- name: open-exchange-rates
-  url: https://github.com/api-evangelist/open-exchange-rates
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: open-fda
   url: https://github.com/api-evangelist/open-fda
   x-profiled: '2026-07-02'
@@ -41866,13 +39938,6 @@ network:
   x-source: public-apis
 - name: open-government-belgium
   url: https://github.com/api-evangelist/open-government-belgium
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
-- name: open-government-canada
-  url: https://github.com/api-evangelist/open-government-canada
   x-profiled: '2026-05-28'
   x-type: api
   x-tier: 3
@@ -42386,13 +40451,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-3-apis
-- name: opencorporates
-  url: https://github.com/api-evangelist/opencorporates
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: opencost
   url: https://github.com/api-evangelist/opencost
   x-type: opensource
@@ -42591,12 +40649,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: opensource-thin
-- name: openfda
-  url: https://github.com/api-evangelist/openfda
-  x-profiled: '2026-07-02'
-  x-type: government
-  x-tier: 2
-  x-tier-reason: has-6-apis
 - name: openfeature
   url: https://github.com/api-evangelist/openfeature
   x-type: opensource
@@ -42785,13 +40837,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-8-apis
-- name: openrouteservice-org
-  url: https://github.com/api-evangelist/openrouteservice-org
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: opensanctions
   url: https://github.com/api-evangelist/opensanctions
   x-profiled: '2026-05-28'
@@ -43145,12 +41190,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: company-strong
-- name: oracle-eloqua
-  url: https://github.com/api-evangelist/oracle-eloqua
-  x-profiled: '2026-05-16'
-  x-type: api
-  x-tier: 2
-  x-tier-reason: has-2-apis
 - name: oracle-enterprise-manager
   url: https://github.com/api-evangelist/oracle-enterprise-manager
   x-profiled: 2026-05
@@ -43211,12 +41250,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: company-medium
-- name: oracle-netsuite
-  url: https://github.com/api-evangelist/oracle-netsuite
-  x-profiled: '2026-05-16'
-  x-type: api
-  x-tier: 2
-  x-tier-reason: has-2-apis
 - name: oracle-partitioning
   url: https://github.com/api-evangelist/oracle-partitioning
   x-type: company
@@ -43291,12 +41324,6 @@ network:
   x-tier-reason: has-35-apis
 - name: oras
   url: https://github.com/api-evangelist/oras
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: orb
-  url: https://github.com/api-evangelist/orb
   x-type: company
   x-profiled: 2026-05
   x-tier: 3
@@ -43383,12 +41410,6 @@ network:
   x-type: company
   x-fortune:
   - Fortune 1000
-- name: orion
-  url: https://github.com/api-evangelist/orion
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 2
-  x-tier-reason: company-medium
 - name: orion-health
   url: https://github.com/api-evangelist/orion-health
   x-profiled: '2026-05-28'
@@ -43427,14 +41448,6 @@ network:
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-medium
-- name: oscar-health
-  url: https://github.com/api-evangelist/oscar-health
-  x-type: company
-  x-fortune:
-  - Fortune 1000
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: osgi
   url: https://github.com/api-evangelist/osgi
   x-type: company
@@ -43827,12 +41840,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: packaging-corporation-of-america
-  url: https://github.com/api-evangelist/packaging-corporation-of-america
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: packagist
   url: https://github.com/api-evangelist/packagist
   x-profiled: '2026-07-02'
@@ -43897,12 +41904,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-17-apis
-- name: pagarme
-  url: https://github.com/api-evangelist/pagarme
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-8-apis
 - name: pagbank
   url: https://github.com/api-evangelist/pagbank
   x-profiled: '2026-07-02'
@@ -44278,12 +42279,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: particle-io
-  url: https://github.com/api-evangelist/particle-io
-  x-profiled: '2026-05-23'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: company-strong
 - name: particle-space
   url: https://github.com/api-evangelist/particle-space
   x-profiled: '2026-07-02'
@@ -44352,12 +42347,6 @@ network:
   x-tier: 3
   x-tier-reason: bulk-public-apis-stub
   x-source: public-apis
-- name: patch
-  url: https://github.com/api-evangelist/patch
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: patch-io
   url: https://github.com/api-evangelist/patch-io
   x-profiled: '2026-05-23'
@@ -44398,12 +42387,6 @@ network:
   - Fortune 1000
   x-tier: 2
   x-tier-reason: company-fortune
-- name: patronus
-  url: https://github.com/api-evangelist/patronus
-  x-profiled: '2026-05-16'
-  x-type: api
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: patronus-ai
   url: https://github.com/api-evangelist/patronus-ai
   x-profiled: '2026-05-23'
@@ -44634,12 +42617,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: pdfmonkey
-  url: https://github.com/api-evangelist/pdfmonkey
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-4-apis
 - name: pdfshift
   url: https://github.com/api-evangelist/pdfshift
   x-profiled: '2026-07-02'
@@ -44669,12 +42646,6 @@ network:
   x-source: public-apis
 - name: pebblely
   url: https://github.com/api-evangelist/pebblely
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: pebblely-ai
-  url: https://github.com/api-evangelist/pebblely-ai
   x-type: company
   x-profiled: 2026-05
   x-tier: 3
@@ -44813,12 +42784,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: people-data-labs
-  url: https://github.com/api-evangelist/people-data-labs
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: peopleforce
   url: https://github.com/api-evangelist/peopleforce
   x-type: company
@@ -45037,12 +43002,6 @@ network:
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-fortune
-- name: pgande
-  url: https://github.com/api-evangelist/pgande
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: pgande-corp
   url: https://github.com/api-evangelist/pgande-corp
   x-type: company
@@ -45224,12 +43183,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: pie
-  url: https://github.com/api-evangelist/pie
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: pie-insurance
   url: https://github.com/api-evangelist/pie-insurance
   x-profiled: '2026-07-02'
@@ -45250,12 +43203,6 @@ network:
   x-tier-reason: no-apis
 - name: piggyvest
   url: https://github.com/api-evangelist/piggyvest
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-1-apis
-- name: pika
-  url: https://github.com/api-evangelist/pika
   x-profiled: '2026-07-02'
   x-type: company
   x-tier: 2
@@ -45551,12 +43498,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: plan-a-earth
-  url: https://github.com/api-evangelist/plan-a-earth
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: planable
   url: https://github.com/api-evangelist/planable
   x-profiled: '2026-07-02'
@@ -45565,12 +43506,6 @@ network:
   x-tier-reason: has-1-apis
 - name: plandex
   url: https://github.com/api-evangelist/plandex
-  x-profiled: '2026-07-02'
-  x-type: opensource
-  x-tier: 2
-  x-tier-reason: has-1-apis
-- name: plane
-  url: https://github.com/api-evangelist/plane
   x-profiled: '2026-07-02'
   x-type: opensource
   x-tier: 2
@@ -45623,12 +43558,6 @@ network:
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-medium
-- name: play-ht
-  url: https://github.com/api-evangelist/play-ht
-  x-profiled: '2026-05-16'
-  x-type: api
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: playerdb
   url: https://github.com/api-evangelist/playerdb
   x-profiled: '2026-05-28'
@@ -45660,12 +43589,6 @@ network:
   x-type: company
   x-fortune:
   - Fortune 1000
-- name: playwright
-  url: https://github.com/api-evangelist/playwright
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: pleo
   url: https://github.com/api-evangelist/pleo
   x-profiled: '2026-07-02'
@@ -45727,15 +43650,6 @@ network:
 - name: pnc
   url: https://github.com/api-evangelist/pnc
   x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
-- name: pnc-financial-services-group
-  url: https://github.com/api-evangelist/pnc-financial-services-group
-  x-type: company
-  x-fortune:
-  - Fortune 500
-  - Fortune 1000
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
@@ -45830,13 +43744,6 @@ network:
   x-type: government
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: poetrydb
-  url: https://github.com/api-evangelist/poetrydb
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: pointclickcare
   url: https://github.com/api-evangelist/pointclickcare
   x-type: company
@@ -46219,12 +44126,6 @@ network:
   x-type: opensource
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: postgres
-  url: https://github.com/api-evangelist/postgres
-  x-profiled: '2026-05-16'
-  x-type: opensource
-  x-tier: 2
-  x-tier-reason: has-4-apis
 - name: postgresql
   url: https://github.com/api-evangelist/postgresql
   x-type: opensource
@@ -46313,18 +44214,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: company-fortune
-- name: power-apps
-  url: https://github.com/api-evangelist/power-apps
-  x-profiled: 2026-05
-  x-type: company
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: power-automate
-  url: https://github.com/api-evangelist/power-automate
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: power-bi
   url: https://github.com/api-evangelist/power-bi
   x-profiled: 2026-05
@@ -46760,12 +44649,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: product-hunt
-  url: https://github.com/api-evangelist/product-hunt
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: productboard
   url: https://github.com/api-evangelist/productboard
   x-profiled: '2026-05-16'
@@ -46837,12 +44720,6 @@ network:
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-fortune
-- name: progressive-insurance
-  url: https://github.com/api-evangelist/progressive-insurance
-  x-profiled: '2026-05-22'
-  x-type: company
-  x-tier: 3
-  x-tier-reason: has-3-apis
 - name: project44
   url: https://github.com/api-evangelist/project44
   x-type: company
@@ -46876,12 +44753,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-3-apis
-- name: prompt-foo
-  url: https://github.com/api-evangelist/prompt-foo
-  x-profiled: '2026-07-02'
-  x-type: opensource
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: promptfoo
   url: https://github.com/api-evangelist/promptfoo
   x-profiled: '2026-05-23'
@@ -46952,12 +44823,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: protect-ai
-  url: https://github.com/api-evangelist/protect-ai
-  x-profiled: '2026-07-02'
-  x-type: opensource
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: protectai
   url: https://github.com/api-evangelist/protectai
   x-profiled: '2026-07-02'
@@ -46970,12 +44835,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: protobuf
-  url: https://github.com/api-evangelist/protobuf
-  x-type: standard
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: standard
 - name: protocol-buffers
   url: https://github.com/api-evangelist/protocol-buffers
   x-type: standard
@@ -47360,27 +45219,12 @@ network:
   x-tier: 3
   x-tier-reason: bulk-public-apis-stub
   x-source: public-apis
-- name: puzzle-io
-  url: https://github.com/api-evangelist/puzzle-io
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-8-apis
 - name: pverify
   url: https://github.com/api-evangelist/pverify
   x-profiled: '2026-07-02'
   x-type: company
   x-tier: 2
   x-tier-reason: has-6-apis
-- name: pvh
-  url: https://github.com/api-evangelist/pvh
-  x-type: company
-  x-fortune:
-  - Fortune 500
-  - Fortune 1000
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: pvh-corp
   url: https://github.com/api-evangelist/pvh-corp
   x-profiled: 2026-05
@@ -47868,13 +45712,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: quizapi-io
-  url: https://github.com/api-evangelist/quizapi-io
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: quizlet
   url: https://github.com/api-evangelist/quizlet
   x-profiled: '2026-07-02'
@@ -47998,12 +45835,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: company-fortune
-- name: rabbit-r1
-  url: https://github.com/api-evangelist/rabbit-r1
-  x-profiled: '2026-05-23'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: company-strong
 - name: rabbitmq
   url: https://github.com/api-evangelist/rabbitmq
   x-type: opensource
@@ -48116,12 +45947,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: ragas
-  url: https://github.com/api-evangelist/ragas
-  x-profiled: '2026-05-16'
-  x-type: opensource
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: ragas-ai
   url: https://github.com/api-evangelist/ragas-ai
   x-profiled: '2026-07-02'
@@ -48209,12 +46034,6 @@ network:
   x-fortune:
   - Fortune 1000
   x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
-- name: ralph-lauren-corporation
-  url: https://github.com/api-evangelist/ralph-lauren-corporation
-  x-profiled: 2026-05
-  x-type: company
   x-tier: 3
   x-tier-reason: no-apis
 - name: raml
@@ -48371,13 +46190,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: rawg-io
-  url: https://github.com/api-evangelist/rawg-io
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: ray
   url: https://github.com/api-evangelist/ray
   x-profiled: '2026-05-16'
@@ -48605,13 +46417,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: recipeapi
-  url: https://github.com/api-evangelist/recipeapi
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: reckitt
   url: https://github.com/api-evangelist/reckitt
   x-profiled: '2026-05-16'
@@ -48740,12 +46545,6 @@ network:
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-medium
-- name: redhat
-  url: https://github.com/api-evangelist/redhat
-  x-profiled: '2026-05-16'
-  x-type: api
-  x-tier: 2
-  x-tier-reason: has-2-apis
 - name: redis
   url: https://github.com/api-evangelist/redis
   x-type: opensource
@@ -48776,12 +46575,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: redox-engine
-  url: https://github.com/api-evangelist/redox-engine
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-4-apis
 - name: redpanda
   url: https://github.com/api-evangelist/redpanda
   x-profiled: '2026-05-16'
@@ -48924,15 +46717,6 @@ network:
   x-type: company
   x-tier: 3
   x-tier-reason: no-apis-yet
-- name: regeneron-pharmaceuticals
-  url: https://github.com/api-evangelist/regeneron-pharmaceuticals
-  x-type: company
-  x-fortune:
-  - Fortune 500
-  - Fortune 1000
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: regions-financial
   url: https://github.com/api-evangelist/regions-financial
   x-type: company
@@ -48975,12 +46759,6 @@ network:
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-fortune
-- name: reinsurance-of-america
-  url: https://github.com/api-evangelist/reinsurance-of-america
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: rejax
   url: https://github.com/api-evangelist/rejax
   x-profiled: '2026-05-28'
@@ -48993,12 +46771,6 @@ network:
   x-profiled: '2026-05-23'
   x-type: api
   x-tier: 3
-  x-tier-reason: has-1-apis
-- name: reka-ai
-  url: https://github.com/api-evangelist/reka-ai
-  x-profiled: '2026-05-16'
-  x-type: api
-  x-tier: 2
   x-tier-reason: has-1-apis
 - name: related-companies
   url: https://github.com/api-evangelist/related-companies
@@ -49048,12 +46820,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-4-apis
-- name: relay-tx
-  url: https://github.com/api-evangelist/relay-tx
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: relevance-ai
   url: https://github.com/api-evangelist/relevance-ai
   x-profiled: 2026-05
@@ -49427,12 +47193,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-2-apis
-- name: restcountries
-  url: https://github.com/api-evangelist/restcountries
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: restfox
   url: https://github.com/api-evangelist/restfox
   x-type: company
@@ -49500,12 +47260,6 @@ network:
   x-type: api
   x-tier: 2
   x-tier-reason: has-2-apis
-- name: retell
-  url: https://github.com/api-evangelist/retell
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-10-apis
 - name: retell-ai
   url: https://github.com/api-evangelist/retell-ai
   x-profiled: '2026-05-16'
@@ -49554,12 +47308,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: revel
-  url: https://github.com/api-evangelist/revel
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: revel-systems
   url: https://github.com/api-evangelist/revel-systems
   x-profiled: '2026-05-16'
@@ -49596,12 +47344,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: revert-dev
-  url: https://github.com/api-evangelist/revert-dev
-  x-profiled: '2026-07-02'
-  x-type: opensource
-  x-tier: 2
-  x-tier-reason: has-13-apis
 - name: reviews-io
   url: https://github.com/api-evangelist/reviews-io
   x-profiled: '2026-07-02'
@@ -49707,13 +47449,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-4-apis
-- name: rick-and-morty
-  url: https://github.com/api-evangelist/rick-and-morty
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: rickandmorty
   url: https://github.com/api-evangelist/rickandmorty
   x-profiled: '2026-07-02'
@@ -50104,12 +47839,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-2-apis
-- name: root-insurance
-  url: https://github.com/api-evangelist/root-insurance
-  x-profiled: '2026-05-23'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: has-2-apis
 - name: rootly
   url: https://github.com/api-evangelist/rootly
   x-profiled: 2026-05
@@ -50311,12 +48040,6 @@ network:
   x-tier: 3
   x-tier-reason: bulk-public-apis-stub
   x-source: public-apis
-- name: runloop
-  url: https://github.com/api-evangelist/runloop
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-8-apis
 - name: runloop-ai
   url: https://github.com/api-evangelist/runloop-ai
   x-profiled: '2026-07-02'
@@ -50341,12 +48064,6 @@ network:
   x-profiled: 2026-05
   x-tier: 1
   x-tier-reason: well-known-api-first
-- name: runway-ml
-  url: https://github.com/api-evangelist/runway-ml
-  x-profiled: '2026-05-23'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: has-1-apis
 - name: runyankole-bible
   url: https://github.com/api-evangelist/runyankole-bible
   x-profiled: '2026-05-28'
@@ -50383,12 +48100,6 @@ network:
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-medium
-- name: rutter-io
-  url: https://github.com/api-evangelist/rutter-io
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-5-apis
 - name: rwanda-locations
   url: https://github.com/api-evangelist/rwanda-locations
   x-profiled: '2026-05-28'
@@ -50535,12 +48246,6 @@ network:
   - Fortune 1000
   x-tier: 2
   x-tier-reason: company-fortune
-- name: saic
-  url: https://github.com/api-evangelist/saic
-  x-profiled: 2026-05
-  x-type: company
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: saidit
   url: https://github.com/api-evangelist/saidit
   x-profiled: '2026-05-28'
@@ -50716,12 +48421,6 @@ network:
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-strong
-- name: sambanova
-  url: https://github.com/api-evangelist/sambanova
-  x-profiled: '2026-05-23'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: has-1-apis
 - name: saml
   url: https://github.com/api-evangelist/saml
   x-type: standard
@@ -50770,12 +48469,6 @@ network:
   x-type: company
   x-tier: 3
   x-tier-reason: company-thin
-- name: sandp-global
-  url: https://github.com/api-evangelist/sandp-global
-  x-profiled: 2026-05
-  x-type: company
-  x-tier: 2
-  x-tier-reason: company-fortune
 - name: sanity
   url: https://github.com/api-evangelist/sanity
   x-profiled: 2026-05
@@ -51258,13 +48951,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: scraperapi
-  url: https://github.com/api-evangelist/scraperapi
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: scraperbox
   url: https://github.com/api-evangelist/scraperbox
   x-profiled: '2026-05-28'
@@ -51475,12 +49161,6 @@ network:
   x-type: government
   x-tier: 2
   x-tier-reason: has-3-apis
-- name: sec-edgar
-  url: https://github.com/api-evangelist/sec-edgar
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 2
-  x-tier-reason: company-medium
 - name: sec-edgar-data
   url: https://github.com/api-evangelist/sec-edgar-data
   x-profiled: '2026-05-28'
@@ -51524,12 +49204,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: secure-software-development-lifecycle
-  url: https://github.com/api-evangelist/secure-software-development-lifecycle
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: secureframe
   url: https://github.com/api-evangelist/secureframe
   x-profiled: '2026-05-16'
@@ -51542,12 +49216,6 @@ network:
   x-type: company
   x-tier: 3
   x-tier-reason: company-thin
-- name: securian-financial
-  url: https://github.com/api-evangelist/securian-financial
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: securian-financial-group
   url: https://github.com/api-evangelist/securian-financial-group
   x-type: company
@@ -51819,12 +49487,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-2-apis
-- name: sense-energy
-  url: https://github.com/api-evangelist/sense-energy
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: sensible-io
   url: https://github.com/api-evangelist/sensible-io
   x-profiled: '2026-05-16'
@@ -51868,12 +49530,6 @@ network:
   x-type: api
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: sentry
-  url: https://github.com/api-evangelist/sentry
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 1
-  x-tier-reason: well-known-api-first
 - name: sentry-insurance-group
   url: https://github.com/api-evangelist/sentry-insurance-group
   x-type: company
@@ -51888,18 +49544,6 @@ network:
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-strong
-- name: seon
-  url: https://github.com/api-evangelist/seon
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-7-apis
-- name: seon-docs
-  url: https://github.com/api-evangelist/seon-docs
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: seon-tech
   url: https://github.com/api-evangelist/seon-tech
   x-profiled: '2026-07-02'
@@ -52115,12 +49759,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-2-apis
-- name: sf-compute
-  url: https://github.com/api-evangelist/sf-compute
-  x-profiled: '2026-05-23'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: has-1-apis
 - name: sfcompute
   url: https://github.com/api-evangelist/sfcompute
   x-profiled: '2026-07-02'
@@ -52394,12 +50032,6 @@ network:
   x-type: company
   x-tier: 3
   x-tier-reason: company-thin
-- name: shopware
-  url: https://github.com/api-evangelist/shopware
-  x-profiled: '2026-07-02'
-  x-type: opensource
-  x-tier: 2
-  x-tier-reason: has-2-apis
 - name: shoreline
   url: https://github.com/api-evangelist/shoreline
   x-profiled: 2026-05
@@ -52470,12 +50102,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-4-apis
-- name: shuftipro
-  url: https://github.com/api-evangelist/shuftipro
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-5-apis
 - name: shutterstock
   url: https://github.com/api-evangelist/shutterstock
   x-profiled: 2026-05
@@ -52518,12 +50144,6 @@ network:
   x-type: api
   x-tier: 3
   x-tier-reason: has-1-apis
-- name: sierra-ai
-  url: https://github.com/api-evangelist/sierra-ai
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: sieve
   url: https://github.com/api-evangelist/sieve
   x-profiled: '2026-07-02'
@@ -52743,18 +50363,6 @@ network:
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-fortune
-- name: sirius-xm-holdings
-  url: https://github.com/api-evangelist/sirius-xm-holdings
-  x-profiled: 2026-05
-  x-type: company
-  x-tier: 3
-  x-tier-reason: no-apis
-- name: siriusxm
-  url: https://github.com/api-evangelist/siriusxm
-  x-profiled: 2026-05
-  x-type: company
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: sirv
   url: https://github.com/api-evangelist/sirv
   x-profiled: '2026-05-28'
@@ -53117,12 +50725,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: smithsonian-institution
-  url: https://github.com/api-evangelist/smithsonian-institution
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: smithy
   url: https://github.com/api-evangelist/smithy
   x-type: company
@@ -53199,12 +50801,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-4-apis
-- name: snov
-  url: https://github.com/api-evangelist/snov
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-10-apis
 - name: snov-io
   url: https://github.com/api-evangelist/snov-io
   x-profiled: '2026-07-02'
@@ -53304,24 +50900,12 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-6-apis
-- name: soda-co
-  url: https://github.com/api-evangelist/soda-co
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: soda-data
   url: https://github.com/api-evangelist/soda-data
   x-profiled: 2026-05
   x-type: company
   x-tier: 3
   x-tier-reason: company-thin
-- name: sofi
-  url: https://github.com/api-evangelist/sofi
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-6-apis
 - name: sofi-technologies
   url: https://github.com/api-evangelist/sofi-technologies
   x-profiled: 2026-05
@@ -53360,12 +50944,6 @@ network:
   x-tier-reason: company-thin
 - name: software-design-patterns
   url: https://github.com/api-evangelist/software-design-patterns
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: software-development-life-cycle
-  url: https://github.com/api-evangelist/software-development-life-cycle
   x-type: company
   x-profiled: 2026-05
   x-tier: 3
@@ -53449,12 +51027,6 @@ network:
   x-type: api
   x-tier: 3
   x-tier-reason: no-apis
-- name: solo
-  url: https://github.com/api-evangelist/solo
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: solr
   url: https://github.com/api-evangelist/solr
   x-profiled: '2026-05-16'
@@ -54056,12 +51628,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: splice
-  url: https://github.com/api-evangelist/splice
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: splice-com
   url: https://github.com/api-evangelist/splice-com
   x-profiled: '2026-07-02'
@@ -54074,12 +51640,6 @@ network:
   x-type: api
   x-tier: 2
   x-tier-reason: has-5-apis
-- name: spline-design
-  url: https://github.com/api-evangelist/spline-design
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: split
   url: https://github.com/api-evangelist/split
   x-type: company
@@ -54246,12 +51806,6 @@ network:
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-medium
-- name: spree
-  url: https://github.com/api-evangelist/spree
-  x-profiled: '2026-07-02'
-  x-type: opensource
-  x-tier: 2
-  x-tier-reason: has-4-apis
 - name: spree-commerce
   url: https://github.com/api-evangelist/spree-commerce
   x-profiled: '2026-07-02'
@@ -54276,12 +51830,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: opensource-thin
-- name: spring-batch-51
-  url: https://github.com/api-evangelist/spring-batch-51
-  x-type: opensource
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: opensource-thin
 - name: spring-boot
   url: https://github.com/api-evangelist/spring-boot
   x-type: opensource
@@ -54296,12 +51844,6 @@ network:
   x-tier-reason: opensource-substantial
 - name: spring-boot-admin-console
   url: https://github.com/api-evangelist/spring-boot-admin-console
-  x-type: opensource
-  x-profiled: 2026-05
-  x-tier: 2
-  x-tier-reason: opensource-substantial
-- name: spring-cloud
-  url: https://github.com/api-evangelist/spring-cloud
   x-type: opensource
   x-profiled: 2026-05
   x-tier: 2
@@ -54330,12 +51872,6 @@ network:
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: opensource-substantial
-- name: spring-framework
-  url: https://github.com/api-evangelist/spring-framework
-  x-type: opensource
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: opensource-thin
 - name: spring-health
   url: https://github.com/api-evangelist/spring-health
   x-profiled: '2026-07-02'
@@ -54421,12 +51957,6 @@ network:
   url: https://github.com/api-evangelist/sql
   x-type: company
   x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: sql-server
-  url: https://github.com/api-evangelist/sql-server
-  x-profiled: 2026-05
-  x-type: company
   x-tier: 3
   x-tier-reason: company-thin
 - name: squadcast
@@ -54535,12 +52065,6 @@ network:
   x-type: api
   x-tier: 3
   x-tier-reason: company-strong
-- name: stack-exchange
-  url: https://github.com/api-evangelist/stack-exchange
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: stack-overflow
   url: https://github.com/api-evangelist/stack-overflow
   x-type: company
@@ -54754,25 +52278,9 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: state-dept
-  url: https://github.com/api-evangelist/state-dept
-  x-profiled: '2026-07-02'
-  x-type: government
-  x-tier: 2
-  x-tier-reason: has-2-apis
 - name: state-farm
   url: https://github.com/api-evangelist/state-farm
   x-type: company
-  x-profiled: 2026-05
-  x-tier: 2
-  x-tier-reason: company-fortune
-- name: state-farm-insurance
-  url: https://github.com/api-evangelist/state-farm-insurance
-  x-type: company
-  x-fortune:
-  - Fortune 100
-  - Fortune 500
-  - Fortune 1000
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-fortune
@@ -54894,12 +52402,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: opensource-thin
-- name: step-functions
-  url: https://github.com/api-evangelist/step-functions
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: stepan
   url: https://github.com/api-evangelist/stepan
   x-profiled: 2026-05
@@ -54952,12 +52454,6 @@ network:
   x-profiled: 2026-05
   x-tier: 1
   x-tier-reason: well-known-api-first
-- name: stitch-money
-  url: https://github.com/api-evangelist/stitch-money
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-6-apis
 - name: stockdata
   url: https://github.com/api-evangelist/stockdata
   x-type: company
@@ -54989,12 +52485,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-4-apis
-- name: stone-co
-  url: https://github.com/api-evangelist/stone-co
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: stonex
   url: https://github.com/api-evangelist/stonex
   x-type: company
@@ -55037,13 +52527,6 @@ network:
   x-tier-reason: no-apis
 - name: storj
   url: https://github.com/api-evangelist/storj
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
-- name: storm-glass
-  url: https://github.com/api-evangelist/storm-glass
   x-profiled: '2026-05-28'
   x-type: api
   x-tier: 3
@@ -55117,12 +52600,6 @@ network:
   x-tier: 3
   x-tier-reason: bulk-public-apis-stub
   x-source: public-apis
-- name: stream-io
-  url: https://github.com/api-evangelist/stream-io
-  x-profiled: '2026-05-16'
-  x-type: api
-  x-tier: 2
-  x-tier-reason: has-4-apis
 - name: streamkap
   url: https://github.com/api-evangelist/streamkap
   x-profiled: '2026-07-02'
@@ -55255,12 +52732,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-3-apis
-- name: suki
-  url: https://github.com/api-evangelist/suki
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-5-apis
 - name: suki-ai
   url: https://github.com/api-evangelist/suki-ai
   x-profiled: '2026-05-23'
@@ -55291,12 +52762,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: sumologic
-  url: https://github.com/api-evangelist/sumologic
-  x-profiled: '2026-05-23'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: company-strong
 - name: sumsub
   url: https://github.com/api-evangelist/sumsub
   x-profiled: '2026-07-02'
@@ -55333,12 +52798,6 @@ network:
   x-type: api
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: suno-ai
-  url: https://github.com/api-evangelist/suno-ai
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: sunoco
   url: https://github.com/api-evangelist/sunoco
   x-profiled: 2026-05
@@ -55669,12 +53128,6 @@ network:
   x-type: company
   x-tier: 3
   x-tier-reason: no-apis
-- name: swell
-  url: https://github.com/api-evangelist/swell
-  x-profiled: '2026-05-23'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: has-2-apis
 - name: swell-io
   url: https://github.com/api-evangelist/swell-io
   x-profiled: '2026-07-02'
@@ -55970,12 +53423,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-7-apis
-- name: tabs-fi
-  url: https://github.com/api-evangelist/tabs-fi
-  x-profiled: '2026-05-23'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: has-1-apis
 - name: tacofancy
   url: https://github.com/api-evangelist/tacofancy
   x-profiled: '2026-05-28'
@@ -56037,14 +53484,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: company-fortune
-- name: take-two-interactive-software
-  url: https://github.com/api-evangelist/take-two-interactive-software
-  x-type: company
-  x-fortune:
-  - Fortune 1000
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: takealot
   url: https://github.com/api-evangelist/takealot
   x-profiled: '2026-07-02'
@@ -56490,12 +53929,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-3-apis
-- name: teladoc-health
-  url: https://github.com/api-evangelist/teladoc-health
-  x-profiled: 2026-05
-  x-type: company
-  x-fortune:
-  - Fortune 1000
 - name: teledyne-technologies
   url: https://github.com/api-evangelist/teledyne-technologies
   x-type: company
@@ -57051,13 +54484,6 @@ network:
   x-type: api
   x-tier: 2
   x-tier-reason: has-5-apis
-- name: the-guardian
-  url: https://github.com/api-evangelist/the-guardian
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: the-index-fyi
   url: https://github.com/api-evangelist/the-index-fyi
   x-profiled: '2026-05-23'
@@ -57066,19 +54492,6 @@ network:
   x-tier-reason: has-1-apis
 - name: the-lord-of-the-rings
   url: https://github.com/api-evangelist/the-lord-of-the-rings
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
-- name: the-movie-database
-  url: https://github.com/api-evangelist/the-movie-database
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
-- name: the-muse
-  url: https://github.com/api-evangelist/the-muse
   x-profiled: '2026-05-28'
   x-type: api
   x-tier: 3
@@ -57153,12 +54566,6 @@ network:
   x-type: opensource
   x-tier: 2
   x-tier-reason: has-9-apis
-- name: the-trade-desk
-  url: https://github.com/api-evangelist/the-trade-desk
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-4-apis
 - name: the-vampire-diaries
   url: https://github.com/api-evangelist/the-vampire-diaries
   x-profiled: '2026-05-28'
@@ -57191,12 +54598,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: themealdb
-  url: https://github.com/api-evangelist/themealdb
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 1
-  x-tier-reason: inline-pricing-data
 - name: themeparks-wiki
   url: https://github.com/api-evangelist/themeparks-wiki
   x-type: company
@@ -57216,12 +54617,6 @@ network:
   x-tier: 3
   x-tier-reason: bulk-public-apis-stub
   x-source: public-apis
-- name: thenewsapi
-  url: https://github.com/api-evangelist/thenewsapi
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: thermal-power
   url: https://github.com/api-evangelist/thermal-power
   x-type: company
@@ -57255,12 +54650,6 @@ network:
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-medium
-- name: thesportsdb
-  url: https://github.com/api-evangelist/thesportsdb
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: theta-edge
   url: https://github.com/api-evangelist/theta-edge
   x-profiled: '2026-07-02'
@@ -57411,12 +54800,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: tia-women
-  url: https://github.com/api-evangelist/tia-women
-  x-profiled: '2026-05-23'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: tiaa
   url: https://github.com/api-evangelist/tiaa
   x-type: company
@@ -57748,12 +55131,6 @@ network:
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-strong
-- name: toast-tab
-  url: https://github.com/api-evangelist/toast-tab
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-19-apis
 - name: tock
   url: https://github.com/api-evangelist/tock
   x-profiled: '2026-05-16'
@@ -57923,12 +55300,6 @@ network:
   x-type: api
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: topgolf
-  url: https://github.com/api-evangelist/topgolf
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: topgolf-callaway-brands
   url: https://github.com/api-evangelist/topgolf-callaway-brands
   x-profiled: 2026-05
@@ -57937,12 +55308,6 @@ network:
   - Fortune 1000
 - name: tops-holding
   url: https://github.com/api-evangelist/tops-holding
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
-- name: torchmark
-  url: https://github.com/api-evangelist/torchmark
   x-type: company
   x-profiled: 2026-05
   x-tier: 3
@@ -58218,12 +55583,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
-- name: transit-app
-  url: https://github.com/api-evangelist/transit-app
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: transitland
   url: https://github.com/api-evangelist/transitland
   x-profiled: '2026-05-28'
@@ -58582,12 +55941,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: tray-io
-  url: https://github.com/api-evangelist/tray-io
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 1
-  x-tier-reason: well-known-api-first
 - name: treasure-data
   url: https://github.com/api-evangelist/treasure-data
   x-profiled: '2026-07-02'
@@ -58675,10 +56028,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: company-fortune
-- name: tri-pointe-group
-  url: https://github.com/api-evangelist/tri-pointe-group
-  x-profiled: 2026-05
-  x-type: company
 - name: tri-pointe-homes
   url: https://github.com/api-evangelist/tri-pointe-homes
   x-profiled: 2026-05
@@ -58729,12 +56078,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: trinet
-  url: https://github.com/api-evangelist/trinet
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: trinet-group
   url: https://github.com/api-evangelist/trinet-group
   x-type: company
@@ -58847,13 +56190,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: opensource-thin
-- name: tronald-dump
-  url: https://github.com/api-evangelist/tronald-dump
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: tronity
   url: https://github.com/api-evangelist/tronity
   x-profiled: '2026-07-02'
@@ -58960,12 +56296,6 @@ network:
   x-type: company
   x-tier: 3
   x-tier-reason: no-apis-yet
-- name: trunk-io
-  url: https://github.com/api-evangelist/trunk-io
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-5-apis
 - name: truphone
   url: https://github.com/api-evangelist/truphone
   x-profiled: '2026-07-02'
@@ -59191,13 +56521,6 @@ network:
   x-tier: 3
   x-tier-reason: bulk-public-apis-stub
   x-source: public-apis
-- name: twelve-data
-  url: https://github.com/api-evangelist/twelve-data
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: twelvelabs
   url: https://github.com/api-evangelist/twelvelabs
   x-profiled: '2026-07-02'
@@ -59210,12 +56533,6 @@ network:
   x-type: opensource
   x-tier: 2
   x-tier-reason: has-2-apis
-- name: twenty-crm
-  url: https://github.com/api-evangelist/twenty-crm
-  x-profiled: '2026-07-02'
-  x-type: opensource
-  x-tier: 2
-  x-tier-reason: has-3-apis
 - name: twenty-first-century-fox
   url: https://github.com/api-evangelist/twenty-first-century-fox
   x-type: company
@@ -59312,36 +56629,18 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: government-thin
-- name: u-s-bureau-of-labor-statistics
-  url: https://github.com/api-evangelist/u-s-bureau-of-labor-statistics
-  x-type: government
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: government-thin
 - name: u-s-geological-survey
   url: https://github.com/api-evangelist/u-s-geological-survey
   x-type: government
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: government-substantial
-- name: u-s-treasury-fiscal-data
-  url: https://github.com/api-evangelist/u-s-treasury-fiscal-data
-  x-type: government
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: government-thin
 - name: uab
   url: https://github.com/api-evangelist/uab
   x-profiled: '2026-07-02'
   x-type: company
   x-tier: 2
   x-tier-reason: has-2-apis
-- name: uala
-  url: https://github.com/api-evangelist/uala
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: uam
   url: https://github.com/api-evangelist/uam
   x-profiled: '2026-07-02'
@@ -59735,12 +57034,6 @@ network:
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-fortune
-- name: unit
-  url: https://github.com/api-evangelist/unit
-  x-profiled: '2026-05-16'
-  x-type: api
-  x-tier: 2
-  x-tier-reason: has-2-apis
 - name: unit21
   url: https://github.com/api-evangelist/unit21
   x-profiled: '2026-07-02'
@@ -60879,12 +58172,6 @@ network:
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-fortune
-- name: us-geological-survey
-  url: https://github.com/api-evangelist/us-geological-survey
-  x-type: government
-  x-profiled: 2026-05
-  x-tier: 2
-  x-tier-reason: government-substantial
 - name: us-house-of-representatives
   url: https://github.com/api-evangelist/us-house-of-representatives
   x-type: government
@@ -60967,13 +58254,6 @@ network:
   x-tier-reason: has-3-apis
 - name: usajobs
   url: https://github.com/api-evangelist/usajobs
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
-- name: usaspending-gov
-  url: https://github.com/api-evangelist/usaspending-gov
   x-profiled: '2026-05-28'
   x-type: api
   x-tier: 3
@@ -61077,13 +58357,6 @@ network:
   x-type: government
   x-tier: 2
   x-tier-reason: has-10-apis
-- name: usgs-water-services
-  url: https://github.com/api-evangelist/usgs-water-services
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: usm
   url: https://github.com/api-evangelist/usm
   x-profiled: '2026-07-02'
@@ -61096,12 +58369,6 @@ network:
   x-type: api
   x-tier: 2
   x-tier-reason: has-5-apis
-- name: uspto
-  url: https://github.com/api-evangelist/uspto
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 2
-  x-tier-reason: company-strong
 - name: uspto-gov
   url: https://github.com/api-evangelist/uspto-gov
   x-profiled: '2026-07-02'
@@ -61318,12 +58585,6 @@ network:
   x-type: company
   x-tier: 3
   x-tier-reason: no-apis
-- name: vannevar-labs
-  url: https://github.com/api-evangelist/vannevar-labs
-  x-profiled: '2026-05-23'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: vanta
   url: https://github.com/api-evangelist/vanta
   x-type: company
@@ -61429,12 +58690,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: vault
-  url: https://github.com/api-evangelist/vault
-  x-type: opensource
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: opensource-thin
 - name: vaynermedia
   url: https://github.com/api-evangelist/vaynermedia
   x-profiled: 2026-05
@@ -61472,12 +58727,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-6-apis
-- name: vectra-ai
-  url: https://github.com/api-evangelist/vectra-ai
-  x-profiled: '2026-05-23'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: has-1-apis
 - name: vectren
   url: https://github.com/api-evangelist/vectren
   x-type: company
@@ -61503,12 +58752,6 @@ network:
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-medium
-- name: veeva-systems
-  url: https://github.com/api-evangelist/veeva-systems
-  x-profiled: 2026-05
-  x-type: company
-  x-tier: 2
-  x-tier-reason: company-fortune
 - name: vegeta
   url: https://github.com/api-evangelist/vegeta
   x-type: opensource
@@ -61620,12 +58863,6 @@ network:
   x-type: api
   x-tier: 2
   x-tier-reason: has-10-apis
-- name: veriff-com
-  url: https://github.com/api-evangelist/veriff-com
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-7-apis
 - name: verifier
   url: https://github.com/api-evangelist/verifier
   x-profiled: '2026-05-28'
@@ -61702,16 +58939,6 @@ network:
   x-profiled: 2026-05
   x-tier: 1
   x-tier-reason: company-strong-fortune
-- name: verizon-communications
-  url: https://github.com/api-evangelist/verizon-communications
-  x-type: company
-  x-fortune:
-  - Fortune 100
-  - Fortune 500
-  - Fortune 1000
-  x-profiled: 2026-05
-  x-tier: 2
-  x-tier-reason: company-fortune
 - name: verome
   url: https://github.com/api-evangelist/verome
   x-profiled: '2026-05-28'
@@ -61776,12 +59003,6 @@ network:
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-strong
-- name: vespa
-  url: https://github.com/api-evangelist/vespa
-  x-profiled: '2026-05-16'
-  x-type: opensource
-  x-tier: 2
-  x-tier-reason: has-2-apis
 - name: vespa-ai
   url: https://github.com/api-evangelist/vespa-ai
   x-profiled: '2026-07-02'
@@ -62018,12 +59239,6 @@ network:
   x-tier: 3
   x-tier-reason: bulk-public-apis-stub
   x-source: public-apis
-- name: visual-studio
-  url: https://github.com/api-evangelist/visual-studio
-  x-profiled: '2026-05-16'
-  x-type: api
-  x-tier: 2
-  x-tier-reason: has-2-apis
 - name: visual-studio-code
   url: https://github.com/api-evangelist/visual-studio-code
   x-profiled: '2026-05-16'
@@ -62121,12 +59336,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-27-apis
-- name: voi-app
-  url: https://github.com/api-evangelist/voi-app
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-2-apis
 - name: voiceflow
   url: https://github.com/api-evangelist/voiceflow
   x-profiled: '2026-05-16'
@@ -62210,12 +59419,6 @@ network:
   url: https://github.com/api-evangelist/vornado-realty-trust
   x-type: company
   x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
-- name: vouch
-  url: https://github.com/api-evangelist/vouch
-  x-profiled: '2026-07-02'
-  x-type: company
   x-tier: 3
   x-tier-reason: no-apis
 - name: vouch-co
@@ -62539,13 +59742,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: warrant
-  url: https://github.com/api-evangelist/warrant
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: warrior-met-coal
   url: https://github.com/api-evangelist/warrior-met-coal
   x-profiled: 2026-05
@@ -62740,13 +59936,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-5-apis
-- name: weather-api
-  url: https://github.com/api-evangelist/weather-api
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: weather-gov
   url: https://github.com/api-evangelist/weather-gov
   x-type: government
@@ -62867,12 +60056,6 @@ network:
   x-type: opensource
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: weblogic
-  url: https://github.com/api-evangelist/weblogic
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 2
-  x-tier-reason: company-strong
 - name: webscraping-ai
   url: https://github.com/api-evangelist/webscraping-ai
   x-profiled: '2026-05-28'
@@ -63286,13 +60469,6 @@ network:
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: company-thin
-- name: whiskyhunter
-  url: https://github.com/api-evangelist/whiskyhunter
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: whistle
   url: https://github.com/api-evangelist/whistle
   x-type: company
@@ -63337,12 +60513,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-1-apis
-- name: whoop-co
-  url: https://github.com/api-evangelist/whoop-co
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-2-apis
 - name: whylabs
   url: https://github.com/api-evangelist/whylabs
   x-profiled: '2026-05-23'
@@ -63426,12 +60596,6 @@ network:
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-fortune
-- name: williams-companies
-  url: https://github.com/api-evangelist/williams-companies
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: no-apis
 - name: williams-sonoma
   url: https://github.com/api-evangelist/williams-sonoma
   x-type: company
@@ -63459,12 +60623,6 @@ network:
   x-type: api
   x-tier: 2
   x-tier-reason: has-3-apis
-- name: windsurfrules
-  url: https://github.com/api-evangelist/windsurfrules
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: windward-ai
   url: https://github.com/api-evangelist/windward-ai
   x-profiled: '2026-07-02'
@@ -63551,12 +60709,6 @@ network:
   x-type: api
   x-tier: 2
   x-tier-reason: has-10-apis
-- name: wisk
-  url: https://github.com/api-evangelist/wisk
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: wisk-aero
   url: https://github.com/api-evangelist/wisk-aero
   x-profiled: '2026-05-23'
@@ -63581,12 +60733,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-3-apis
-- name: withpersona
-  url: https://github.com/api-evangelist/withpersona
-  x-profiled: '2026-07-02'
-  x-type: government
-  x-tier: 2
-  x-tier-reason: has-13-apis
 - name: wix
   url: https://github.com/api-evangelist/wix
   x-type: company
@@ -63624,12 +60770,6 @@ network:
   x-type: api
   x-tier: 3
   x-tier-reason: has-1-apis
-- name: wolfram-alpha
-  url: https://github.com/api-evangelist/wolfram-alpha
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 2
-  x-tier-reason: company-strong
 - name: wolframalpha
   url: https://github.com/api-evangelist/wolframalpha
   x-profiled: '2026-05-28'
@@ -63851,13 +60991,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-4-apis
-- name: world-bank
-  url: https://github.com/api-evangelist/world-bank
-  x-profiled: '2026-05-28'
-  x-type: api
-  x-tier: 3
-  x-tier-reason: bulk-public-apis-stub
-  x-source: public-apis
 - name: world-fuel-services
   url: https://github.com/api-evangelist/world-fuel-services
   x-type: company
@@ -63872,11 +61005,6 @@ network:
   - Fortune 1000
   x-tier: 3
   x-tier-reason: no-apis
-- name: world-news-api
-  url: https://github.com/api-evangelist/world-news-api
-  x-type: company
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: worldbank
   url: https://github.com/api-evangelist/worldbank
   x-profiled: '2026-07-02'
@@ -64019,12 +61147,6 @@ network:
   x-type: company
   x-tier: 3
   x-tier-reason: company-thin
-- name: wundergraph-cloud
-  url: https://github.com/api-evangelist/wundergraph-cloud
-  x-profiled: '2026-07-02'
-  x-type: company
-  x-tier: 2
-  x-tier-reason: has-1-apis
 - name: wunderground
   url: https://github.com/api-evangelist/wunderground
   x-profiled: '2026-07-02'
@@ -64506,12 +61628,6 @@ network:
   x-type: company
   x-tier: 1
   x-tier-reason: well-known-api-first
-- name: zayo-group
-  url: https://github.com/api-evangelist/zayo-group
-  x-profiled: 2026-05
-  x-type: company
-  x-tier: 2
-  x-tier-reason: company-fortune
 - name: zcal
   url: https://github.com/api-evangelist/zcal
   x-profiled: '2026-07-02'
@@ -65042,11 +62158,6 @@ network:
   x-type: company
   x-tier: 2
   x-tier-reason: has-5-apis
-- name: zuul
-  url: https://github.com/api-evangelist/zuul
-  x-type: company
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: zuva
   url: https://github.com/api-evangelist/zuva
   x-profiled: '2026-07-02'
