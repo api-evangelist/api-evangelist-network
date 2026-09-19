@@ -21,6 +21,10 @@ kind: network
 tags:
 - Directory
 - Index
+- Networks
+tags_raw:
+- Directory
+- Index
 - Network
 network:
 - name: '0'
