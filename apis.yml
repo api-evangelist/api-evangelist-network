@@ -34369,8 +34369,8 @@ network:
   x-type: api
   x-tier: 3
   x-tier-reason: company-strong
-- name: maxar-technologies
-  url: https://github.com/api-evangelist/maxar-technologies
+- name: vantor
+  url: https://github.com/api-evangelist/vantor
   x-profiled: 2026-05
   x-type: company
 - name: maxim
