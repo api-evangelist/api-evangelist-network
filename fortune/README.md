@@ -73,7 +73,6 @@ Three signals combined:
 | ibm | https://developer.ibm.com | apis.yml_strong |
 | intel | https://www.intel.com/content/www/us/en/developer/tools/oneapi/overview.html | apis.yml_medium |
 | johnson-and-johnson | https://github.com/johnsonandjohnson | apis.yml_strong |
-| jpmorgan-chase | https://developer.jpmorgan.com/ | apis.yml_strong |
 | kroger | https://developer.kroger.com/ | apis.yml_strong |
 | liberty-mutual-insurance | https://developer.libertymutual.com/ | apis.yml_medium |
 | lowes | https://portal.apim.lowes.com/ | apis.yml_strong |

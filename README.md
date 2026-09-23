@@ -2,7 +2,7 @@
 
 A network index of all APIs.json files maintained by the API Evangelist organization, providing a comprehensive directory of API definitions across the network.
 
-- **Total repos:** 4805
+- **Total repos:** 4804
 - **Last updated:** 2026-03-27
 - **Specification version:** 0.19
 
@@ -412,7 +412,6 @@ A network index of all APIs.json files maintained by the API Evangelist organiza
 | american-international | https://github.com/api-evangelist/american-international |
 | american-national-insurance | https://github.com/api-evangelist/american-national-insurance |
 | american-tire-distributors-holdings | https://github.com/api-evangelist/american-tire-distributors-holdings |
-| american-tower | https://github.com/api-evangelist/american-tower |
 | american-water-works | https://github.com/api-evangelist/american-water-works |
 | americorps | https://github.com/api-evangelist/americorps |
 | ameriprise-financial | https://github.com/api-evangelist/ameriprise-financial |
@@ -2434,7 +2433,6 @@ A network index of all APIs.json files maintained by the API Evangelist organiza
 | joy-global | https://github.com/api-evangelist/joy-global |
 | jp-morgan-chase | https://github.com/api-evangelist/jp-morgan-chase |
 | jpa | https://github.com/api-evangelist/jpa |
-| jpmorgan-chase | https://github.com/api-evangelist/jpmorgan-chase |
 | jquery | https://github.com/api-evangelist/jquery |
 | jsf | https://github.com/api-evangelist/jsf |
 | json-binding | https://github.com/api-evangelist/json-binding |
@@ -3200,7 +3198,6 @@ A network index of all APIs.json files maintained by the API Evangelist organiza
 | nutrient-io | https://github.com/api-evangelist/nutrient-io |
 | nutritics | https://github.com/api-evangelist/nutritics |
 | nutrition-exercise-api | https://github.com/api-evangelist/nutrition-exercise-api |
-| nuxgame | https://github.com/api-evangelist/nuxgame |
 | nvd | https://github.com/api-evangelist/nvd |
 | nvidia | https://github.com/api-evangelist/nvidia |
 | nvr | https://github.com/api-evangelist/nvr |
@@ -3864,7 +3861,6 @@ A network index of all APIs.json files maintained by the API Evangelist organiza
 | salesforce-net-zero-cloud | https://github.com/api-evangelist/salesforce-net-zero-cloud |
 | salesforce-sales-cloud | https://github.com/api-evangelist/salesforce-sales-cloud |
 | salesforce-service-cloud | https://github.com/api-evangelist/salesforce-service-cloud |
-| salesforcecom | https://github.com/api-evangelist/salesforcecom |
 | salesforce | https://github.com/api-evangelist/salesforce |
 | salesloft | https://github.com/api-evangelist/salesloft |
 | sally-beauty-holdings | https://github.com/api-evangelist/sally-beauty-holdings |

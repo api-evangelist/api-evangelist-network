@@ -4827,8 +4827,6 @@ Nutrient, Cloud, Workflow
 
 headerElement, DietaGram, iconApp, icon, appstore, googleplay, vk, facebook, telegram
 
-### nuxgame
-**Page:** https://nuxgame.com/partners
 
 **Integrations (10):**
 
