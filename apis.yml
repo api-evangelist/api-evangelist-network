@@ -1894,11 +1894,12 @@ network:
   x-type: company
   description: API documentation and developer resources for Allianz insurance and financial services.
   tags:
-  - Financial-Services
+  - Financial Services
   - Insurance
   tags_raw:
   - Financial Services
   - Insurance
+  - Financial-Services
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
@@ -1924,13 +1925,14 @@ network:
   tags:
   - Cloud Platform
   - Enterprise
-  - Financial-Services
+  - Financial Services
   - Insurance
   tags_raw:
   - Cloud Platform
   - Enterprise
   - Financial Services
   - Insurance
+  - Financial-Services
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
@@ -1982,7 +1984,7 @@ network:
   - Embedded Integrations
   - Integration
   - iPaaS
-  - Unified-API
+  - Unified API
   - Workflows
   tags_raw:
   - Automation
@@ -1991,6 +1993,7 @@ network:
   - iPaaS
   - Unified API
   - Workflows
+  - Unified-API
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
@@ -2088,6 +2091,9 @@ network:
     With their easy-to-use API, users can access up-to-date market data, technical indicators, and fundamental data to analyze
     market trends and develop trading strategies.
   tags:
+  - Finance
+  - Market Data
+  tags_raw:
   - Financial
   - Market Data
   x-profiled: 2026-05
@@ -2519,7 +2525,7 @@ network:
   - Foundation Models
   - Generative AI
   - LLM
-  - Machine-Learning
+  - Machine Learning
   tags_raw:
   - AI
   - AWS
@@ -2527,6 +2533,7 @@ network:
   - Generative AI
   - LLM
   - Machine Learning
+  - Machine-Learning
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
@@ -2802,7 +2809,7 @@ network:
     places.
   tags:
   - AWS
-  - Machine-Learning
+  - Machine Learning
   - Natural Language Processing
   - NLP
   - Text Analysis
@@ -2812,6 +2819,7 @@ network:
   - Natural Language Processing
   - NLP
   - Text Analysis
+  - Machine-Learning
   x-profiled: 2026-05
   x-tier: 3
   x-tier-reason: no-apis
