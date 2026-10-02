@@ -52302,15 +52302,6 @@ network:
   x-profiled: 2026-05
   x-tier: 2
   x-tier-reason: company-fortune
-- name: state-street
-  url: https://github.com/api-evangelist/state-street
-  x-type: company
-  x-fortune:
-  - Fortune 500
-  - Fortune 1000
-  x-profiled: 2026-05
-  x-tier: 2
-  x-tier-reason: company-strong
 - name: statically
   url: https://github.com/api-evangelist/statically
   x-profiled: '2026-05-28'

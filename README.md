@@ -8651,7 +8651,6 @@ is the front door for those.
 | state-farm | https://github.com/api-evangelist/state-farm |
 | state-farm-insurance | https://github.com/api-evangelist/state-farm-insurance |
 | state-farm-insurance-cos | https://github.com/api-evangelist/state-farm-insurance-cos |
-| state-street | https://github.com/api-evangelist/state-street |
 | statically | https://github.com/api-evangelist/statically |
 | statorium | https://github.com/api-evangelist/statorium |
 | stats-perform | https://github.com/api-evangelist/stats-perform |

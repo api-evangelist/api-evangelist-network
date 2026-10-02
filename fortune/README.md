@@ -278,7 +278,6 @@ Three signals combined:
 | sonic-automotive | https://www.echopark.com | apis.yml_strong |
 | stanley-black-and-decker | https://developer.stanley.com/ | apis.yml_strong |
 | starbucks | https://developer.starbucks.com/ | apis.yml_strong |
-| state-street | https://developer.statestreet.com | apis.yml_strong |
 | super-micro-computer | https://www.supermicro.com/en/solutions/management-software | apis.yml_strong |
 | swift-transportation | https://www.knighttrans.com/shipping/ | apis.yml_strong |
 | synchrony-financial | https://developer.syf.com/ | apis.yml_strong |

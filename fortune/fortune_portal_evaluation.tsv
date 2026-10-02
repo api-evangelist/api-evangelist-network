@@ -2347,13 +2347,6 @@ state-farm-insurance	State Farm Insurance	strong:type	https://developer.statefar
 state-farm-insurance	State Farm Insurance	strong:type	https://b2b.statefarm.com	B2B Portal	common
 state-farm-insurance	State Farm Insurance	medium:url-host	https://developer.statefarm.com/api/renters	Documentation	api
 state-farm-insurance	State Farm Insurance	medium:url-host	https://developer.statefarm.com/	Documentation	api
-state-street	State Street	strong:type	https://developer.statestreet.com	Developer Portal	common
-state-street	State Street	medium:url-host	https://developer.statestreet.com/apis-list	API Catalog	common
-state-street	State Street	medium:url-host	https://developer.statestreet.com/api-overview	API Overview	common
-state-street	State Street	medium:url-host	https://developer.statestreet.com/documentation-usage	Documentation	common
-state-street	State Street	medium:url-host	https://developer.statestreet.com/api-platform-standards	API Standards	common
-state-street	State Street	medium:url-host	https://developer.statestreet.com/get-started-browser	Getting Started	common
-state-street	State Street	medium:url-host	https://developer.statestreet.com/	Documentation	api
 stericycle	Stericycle	strong:type	https://www.mystericycle.com	Portal	common
 stifel-financial	Stifel Financial	weak:url-path	https://www.openbankingtracker.com/provider/stifel-bank-personal/apis	Open Banking Tracker	common
 stifel-financial	Stifel Financial	medium:url-host	https://developer.mastercard.com/open-banking-us/documentation/	Documentation	api
