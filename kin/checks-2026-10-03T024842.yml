@@ -1,24 +1,28 @@
 ---
 kin_checks:
   slug: api-evangelist-network
-  schema_version: 0.22.0
-  scored_at: '2026-09-21'
-  run_ts: 2026-09-21T233935
+  schema_version: 0.23.0
+  scored_at: '2026-10-03'
+  run_ts: 2026-10-03T024842
   note: Actionable checks (missed + partial) in `checks`, plus the ids that did not
-    apply in `na`. Everything else in rubric/scoring-0.22.0.yml was earned; counts
+    apply in `na`. Everything else in rubric/scoring-0.23.0.yml was earned; counts
     below let you verify that.
   counts:
-    total: 136
+    total: 153
     earned: 3
     partial: 0
-    missed: 89
-    na: 44
+    missed: 104
+    na: 46
   checks:
   - id: description_substantive
     status: missed
   - id: tags_present
     status: missed
   - id: maintainer_present
+    status: missed
+  - id: newsroom_present
+    status: missed
+  - id: leadership_present
     status: missed
   - id: multiple_apis
     status: missed
@@ -146,6 +150,32 @@ kin_checks:
     status: missed
   - id: reg_standards_conformance
     status: missed
+  - id: reg_named_standard_conformance
+    status: missed
+  - id: reg_sbom
+    status: missed
+  - id: reg_support_lifetime
+    status: missed
+  - id: reg_accessibility_conformance
+    status: missed
+  - id: reg_global_privacy_control
+    status: missed
+  - id: reg_data_subject_request
+    status: missed
+  - id: reg_subprocessors
+    status: missed
+  - id: reg_data_residency
+    status: missed
+  - id: reg_incident_notification
+    status: missed
+  - id: reg_age_assurance
+    status: missed
+  - id: reg_notice_and_action
+    status: missed
+  - id: reg_transparency_report
+    status: missed
+  - id: reg_exit_assistance
+    status: missed
   - id: upsert_outcome_discriminator
     status: missed
   - id: upsert_alternate_key
@@ -206,6 +236,7 @@ kin_checks:
   - graphql_type_depth
   - inbound_contract_published
   - info_complete
+  - mcp_endpoint_discoverable
   - messages_with_schema
   - oauth_flows_current
   - oauth_scopes_enumerated
@@ -220,15 +251,16 @@ kin_checks:
   - os_contribution_guide
   - os_releases
   - os_security_policy
+  - reg_ai_transparency
   - reg_camara_conformance
   - reg_certification_signal
   - reg_consent_model
   - reg_entitlement_terms
   - reg_fapi_profile
   - reg_mandate_verified
-  - reg_named_standard_conformance
   - reg_pci_sca
   - reg_smart_configuration
+  - reg_training_data_summary
   - reg_write_surface
   - response_coverage
   - security_applied
