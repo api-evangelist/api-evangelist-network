@@ -41622,12 +41622,6 @@ network:
   x-type: api
   x-tier: 2
   x-tier-reason: has-3-apis
-- name: outscraper
-  url: https://github.com/api-evangelist/outscraper
-  x-type: company
-  x-profiled: 2026-05
-  x-tier: 3
-  x-tier-reason: company-thin
 - name: ouvert-canada-ca
   url: https://github.com/api-evangelist/ouvert-canada-ca
   x-profiled: '2026-07-02'

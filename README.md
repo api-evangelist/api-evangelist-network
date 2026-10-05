@@ -6874,7 +6874,6 @@ is the front door for those.
 | outline | https://github.com/api-evangelist/outline |
 | output-audio | https://github.com/api-evangelist/output-audio |
 | outreach | https://github.com/api-evangelist/outreach |
-| outscraper | https://github.com/api-evangelist/outscraper |
 | ouvert-canada-ca | https://github.com/api-evangelist/ouvert-canada-ca |
 | ovation | https://github.com/api-evangelist/ovation |
 | overpass-api | https://github.com/api-evangelist/overpass-api |

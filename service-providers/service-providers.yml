@@ -43377,16 +43377,6 @@ providers:
   - Email
   repo_url: https://github.com/api-evangelist/outreach
   api_count: 3
-- slug: outscraper
-  name: Outscraper
-  description: Outscraper provides data scraping and extraction APIs for Google Maps, business data, reviews, and other web
-    data sources. Filter and export company databases by NAICS codes and other criteria.
-  tags:
-  - Business Data
-  - Data Scraping
-  - Google Maps
-  repo_url: https://github.com/api-evangelist/outscraper
-  api_count: 1
 - slug: overture-maps-foundation
   name: Overture Maps Foundation
   description: The Overture Maps Foundation is a Linux Foundation project created in partnership with Meta, Microsoft, AWS,
