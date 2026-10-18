@@ -2811,7 +2811,6 @@ network:
   - AWS
   - Machine Learning
   - Natural Language Processing
-  - NLP
   - Text Analysis
   tags_raw:
   - AWS
