@@ -1,0 +1,5 @@
+# Artifacts live in S3, not in git -- see the migration note in the README.
+# This repo publishes its README only; everything else is kept out deliberately.
+/*
+!/README.md
+!/.gitignore
