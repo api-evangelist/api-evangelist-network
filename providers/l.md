@@ -1,6 +1,6 @@
 # API Evangelist Network — providers L
 
-1,168 providers whose repository name begins with **L**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/l.yml](../network/l.yml).
+1,167 providers whose repository name begins with **L**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/l.yml](../network/l.yml).
 
 [← All providers](../README.md)
 
@@ -350,7 +350,6 @@
 | lemlist | [lemlist](https://apis.io/providers/lemlist/) | [lemlist](https://github.com/api-evangelist/lemlist) |
 | Lemmy | [lemmy](https://apis.io/providers/lemmy/) | [lemmy](https://github.com/api-evangelist/lemmy) |
 | Lemni | [lemni](https://apis.io/providers/lemni/) | [lemni](https://github.com/api-evangelist/lemni) |
-| Lemnos Labs | [lemnos-labs](https://apis.io/providers/lemnos-labs/) | [lemnos-labs](https://github.com/api-evangelist/lemnos-labs) |
 | Lemon Cash | [lemon-cash](https://apis.io/providers/lemon-cash/) | [lemon-cash](https://github.com/api-evangelist/lemon-cash) |
 | Lemon Perfect | [lemon-perfect](https://apis.io/providers/lemon-perfect/) | [lemon-perfect](https://github.com/api-evangelist/lemon-perfect) |
 | Lemon Squeezy | [lemon-squeezy](https://apis.io/providers/lemon-squeezy/) | [lemon-squeezy](https://github.com/api-evangelist/lemon-squeezy) |

@@ -1,5 +1,5 @@
 name: API Evangelist Network
-description: 'The network index of every API provider profiled by API Evangelist: 38087 providers, one GitHub repository each in the api-evangelist organization, published on APIs.io. The index is sharded by the first letter of the repository name; each include below is an apis.yml that in turn includes every provider apis.yml in its range.'
+description: 'The network index of every API provider profiled by API Evangelist: 38086 providers, one GitHub repository each in the api-evangelist organization, published on APIs.io. The index is sharded by the first letter of the repository name; each include below is an apis.yml that in turn includes every provider apis.yml in its range.'
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/apis.yml
 created: '2026-02-27'

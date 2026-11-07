@@ -1,5 +1,5 @@
 name: API Evangelist Network — providers L
-description: 'The 1168 API providers in the API Evangelist network whose repository name begins with L. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
+description: 'The 1167 API providers in the API Evangelist network whose repository name begins with L. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
 url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/l.yml
 created: '2026-02-27'
 modified: '2026-11-06'
@@ -1385,10 +1385,6 @@ include:
   url: https://artifacts.apis.io/lemni/apis.yml
   x-apis-io: https://apis.io/providers/lemni/
   x-github: https://github.com/api-evangelist/lemni
-- name: Lemnos Labs
-  url: https://artifacts.apis.io/lemnos-labs/apis.yml
-  x-apis-io: https://apis.io/providers/lemnos-labs/
-  x-github: https://github.com/api-evangelist/lemnos-labs
 - name: Lemon Cash
   url: https://artifacts.apis.io/lemon-cash/apis.yml
   x-apis-io: https://apis.io/providers/lemon-cash/

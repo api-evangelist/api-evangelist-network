@@ -9,6 +9,7 @@
 #   aid-map.txt          repo slug -> aid, from the cached all/<slug>/apis.yml (aid is the apis.io page slug)
 #   local-names.tsv      repo slug -> name, from the cached apis.yml (fallback when there is no page)
 #   skip-slugs.txt       retired + delisted slugs (engine/lib_retired.py); never listed
+#   vc-slugs.txt         investor pages the apis.io build renders under /vcs/ (not providers)
 #
 # Everything here is read-only. Run from anywhere; paths are absolute.
 set -euo pipefail
@@ -45,6 +46,10 @@ echo "cached apis.yml (aid + name) ..."
   | sed -E 's#^\./([^/]+)/apis\.yml:aid: *#\1 #; s/["'"'"']//g' > "$IN/aid-map.txt"
 ( cd "$ALL" && find . -mindepth 2 -maxdepth 2 -name apis.yml -print0 | xargs -0 grep -H -m1 -E '^name:' ) \
   | sed -E 's#^\./([^/]+)/apis\.yml:name: *#\1\t#' | sed -E "s/^([^\t]+)\t[\"']?(.*[^\"'])[\"']?$/\1\t\2/" > "$IN/local-names.tsv"
+
+echo "investor pages (/vcs/) ..."
+ls "${VCS:-$GH_ROOT/api-search/vcs/_vcs}" | sed 's/\.md$//' | sort > "$IN/vc-slugs.txt"
+echo "  $(wc -l < "$IN/vc-slugs.txt") investors"
 
 echo "retired + delisted ..."
 python3 "$ENGINE/lib_retired.py" --list | sort > "$IN/skip-slugs.txt"

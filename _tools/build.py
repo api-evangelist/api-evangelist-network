@@ -153,13 +153,14 @@ def main():
     built_names = read_tsv("built-names.tsv")
     local_names = read_tsv("local-names.tsv")
     skip = set(read_lines("skip-slugs.txt"))
+    vcs = set(read_lines("vc-slugs.txt")) if os.path.exists(os.path.join(IN, "vc-slugs.txt")) else set()
     aid = {}
     for l in read_lines("aid-map.txt"):
         k, _, v = l.partition(" ")
         if k and v:
             aid[k] = v.strip()
 
-    entries, core, retired, forks = [], [], [], []
+    entries, core, retired, forks, investors = [], [], [], [], []
     no_page, unprofiled = [], []
     for r in repos:
         name = r["name"]
@@ -172,6 +173,11 @@ def main():
         if r.get("fork"):
             forks.append(name)
         a = aid.get(name, name)
+        # Investors are profiled like providers but rendered under apis.io/vcs/, not /providers/.
+        # Not API providers, so not in the index -- and not a gap either.
+        if a in vcs or name in vcs:
+            investors.append(name)
+            continue
         page = None
         if a in live:
             page = a
@@ -206,6 +212,7 @@ def main():
         "profiled_no_live_page": len(no_page),
         "unprofiled": len(unprofiled),
         "retired_or_delisted": len(retired),
+        "investors": len(investors),
         "core_repos": len(core),
         "forks_listed": len(forks),
         "shards": len(shards),
@@ -296,7 +303,7 @@ def main():
         "",
         f"Repositories in the `{ORG}` GitHub organization that are named for a provider but have no live provider page on APIs.io "
         f"as of {today}. They are not in the index until a page exists. Infrastructure repositories (the sites, tools and data "
-        f"that run the network) and retired or delisted companies are excluded here and from the index.",
+        f"that run the network), investors (rendered under apis.io/vcs/) and retired or delisted companies are excluded here and from the index.",
         "",
         f"## Profiled, but no live page ({len(no_page):,})",
         "",
@@ -334,6 +341,7 @@ def main():
         f"| Profiled, but no live APIs.io page | {counts['profiled_no_live_page']:,} |",
         f"| Never profiled | {counts['unprofiled']:,} |",
         f"| Retired into another provider, or delisted on request | {counts['retired_or_delisted']:,} |",
+        f"| Investors, listed under [apis.io/vcs/](https://apis.io/vcs/) rather than as providers | {counts['investors']:,} |",
         f"| Infrastructure repositories (not providers) | {counts['core_repos']:,} |",
         f"| Last built | {today} |",
         "",

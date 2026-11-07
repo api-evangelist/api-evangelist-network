@@ -7,11 +7,12 @@ The index of every API provider in the [`api-evangelist`](https://github.com/api
 | | |
 |---|---:|
 | Public repositories in the organization | 41,296 |
-| Providers in this index (live APIs.io page) | **38,087** |
+| Providers in this index (live APIs.io page) | **38,086** |
 | … of which the store copy of apis.yml is still syncing (`x-store: pending`) | 185 |
-| Profiled, but no live APIs.io page | 1,582 |
+| Profiled, but no live APIs.io page | 1,475 |
 | Never profiled | 0 |
 | Retired into another provider, or delisted on request | 1,589 |
+| Investors, listed under [apis.io/vcs/](https://apis.io/vcs/) rather than as providers | 108 |
 | Infrastructure repositories (not providers) | 38 |
 | Last built | 2026-11-06 |
 
@@ -27,7 +28,7 @@ https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/hea
 
 ## Every provider
 
-38,087 providers, listed by the first letter of the repository name. GitHub will not render a single file that long, so the listing is one page per letter; together they are the complete list.
+38,086 providers, listed by the first letter of the repository name. GitHub will not render a single file that long, so the listing is one page per letter; together they are the complete list.
 
 | Letter | Providers | Listing | APIs.json |
 |---|---:|---|---|
@@ -48,7 +49,7 @@ https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/hea
 | I | 1,031 | [providers/i.md](providers/i.md) | [network/i.yml](network/i.yml) |
 | J | 407 | [providers/j.md](providers/j.md) | [network/j.yml](network/j.yml) |
 | K | 760 | [providers/k.md](providers/k.md) | [network/k.yml](network/k.yml) |
-| L | 1,168 | [providers/l.md](providers/l.md) | [network/l.yml](network/l.yml) |
+| L | 1,167 | [providers/l.md](providers/l.md) | [network/l.yml](network/l.yml) |
 | M | 1,897 | [providers/m.md](providers/m.md) | [network/m.yml](network/m.yml) |
 | N | 1,031 | [providers/n.md](providers/n.md) | [network/n.yml](network/n.yml) |
 | O | 1,148 | [providers/o.md](providers/o.md) | [network/o.yml](network/o.yml) |

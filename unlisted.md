@@ -1,8 +1,8 @@
 # In the organization, not on APIs.io
 
-Repositories in the `api-evangelist` GitHub organization that are named for a provider but have no live provider page on APIs.io as of 2026-11-06. They are not in the index until a page exists. Infrastructure repositories (the sites, tools and data that run the network) and retired or delisted companies are excluded here and from the index.
+Repositories in the `api-evangelist` GitHub organization that are named for a provider but have no live provider page on APIs.io as of 2026-11-06. They are not in the index until a page exists. Infrastructure repositories (the sites, tools and data that run the network), investors (rendered under apis.io/vcs/) and retired or delisted companies are excluded here and from the index.
 
-## Profiled, but no live page (1,582)
+## Profiled, but no live page (1,475)
 
 Artifacts exist in the profile store or a page was built once, but the page is missing or now redirects.
 
@@ -10,18 +10,12 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 |---|---|---|---|---|
 | [123rf](https://github.com/api-evangelist/123rf) | 123rf | not built | yes |  |
 | [3dvalley-com](https://github.com/api-evangelist/3dvalley-com) | 3dvalley-com | not built | yes |  |
-| [500-global](https://github.com/api-evangelist/500-global) | 500-global | not built | yes |  |
-| [8vc](https://github.com/api-evangelist/8vc) | 8vc | not built | yes |  |
-| [a16z](https://github.com/api-evangelist/a16z) | a16z | not built | yes |  |
-| [accel](https://github.com/api-evangelist/accel) | accel | not built | yes |  |
 | [acceptance-criteria](https://github.com/api-evangelist/acceptance-criteria) | acceptance-criteria | Moved to Topics | yes |  |
 | [accessibility-standards](https://github.com/api-evangelist/accessibility-standards) | accessibility-standards | Moved to Topics | yes |  |
 | [accounting-standards](https://github.com/api-evangelist/accounting-standards) | accounting-standards | Moved to Topics | yes |  |
 | [acid](https://github.com/api-evangelist/acid) | acid | Moved to Topics | yes |  |
 | [activitypub](https://github.com/api-evangelist/activitypub) | activitypub | Moved to Topics | yes |  |
 | [actor-model](https://github.com/api-evangelist/actor-model) | actor-model | Moved to Topics | yes |  |
-| [adaraventurepartners](https://github.com/api-evangelist/adaraventurepartners) | adaraventurepartners | not built | yes |  |
-| [addition](https://github.com/api-evangelist/addition) | addition | not built | yes |  |
 | [advanced-excel](https://github.com/api-evangelist/advanced-excel) | advanced-excel | Moved to Topics | yes |  |
 | [agent-readiness](https://github.com/api-evangelist/agent-readiness) | agent-readiness | Moved to Topics | yes |  |
 | [agentic-ai](https://github.com/api-evangelist/agentic-ai) | agentic-ai | not built | yes |  |
@@ -39,13 +33,10 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [alliance-partners](https://github.com/api-evangelist/alliance-partners) | alliance-partners | not built | yes |  |
 | [alliances](https://github.com/api-evangelist/alliances) | alliances | not built | yes |  |
 | [allianz-technology-standards](https://github.com/api-evangelist/allianz-technology-standards) | allianz-technology-standards | Moved to Topics | yes |  |
-| [altimeter-capital](https://github.com/api-evangelist/altimeter-capital) | altimeter-capital | not built | yes |  |
-| [amplify-partners](https://github.com/api-evangelist/amplify-partners) | amplify-partners | not built | yes |  |
 | [analysis](https://github.com/api-evangelist/analysis) | analysis | Moved to Areas | yes |  |
 | [analytics](https://github.com/api-evangelist/analytics) | analytics | Moved to Topics | yes |  |
 | [analytics-pricing](https://github.com/api-evangelist/analytics-pricing) | analytics-pricing | not built | yes |  |
 | [another-directory](https://github.com/api-evangelist/another-directory) | another-directory | not built | yes |  |
-| [anthemis](https://github.com/api-evangelist/anthemis) | anthemis | not built | yes |  |
 | [api-clients](https://github.com/api-evangelist/api-clients) | api-clients | Moved to Areas | yes |  |
 | [api-first](https://github.com/api-evangelist/api-first) | api-first | Moved to Topics | yes |  |
 | [api-proxies](https://github.com/api-evangelist/api-proxies) | api-proxies | Moved to Areas | yes |  |
@@ -56,9 +47,7 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [archimate](https://github.com/api-evangelist/archimate) | archimate | Moved to Topics | yes |  |
 | [architectural-design-patterns](https://github.com/api-evangelist/architectural-design-patterns) | architectural-design-patterns | Moved to Topics | yes |  |
 | [architecture-pattern](https://github.com/api-evangelist/architecture-pattern) | architecture-pattern | Moved to Topics | yes |  |
-| [arthur-ventures](https://github.com/api-evangelist/arthur-ventures) | arthur-ventures | not built | yes |  |
 | [async-apis](https://github.com/api-evangelist/async-apis) | async-apis | Moved to Topics | yes |  |
-| [atomico](https://github.com/api-evangelist/atomico) | atomico | not built | yes |  |
 | [authentication](https://github.com/api-evangelist/authentication) | authentication | Moved to Areas | yes |  |
 | [authors-md](https://github.com/api-evangelist/authors-md) | authors-md | Moved to Topics | yes |  |
 | [automated-sorting-systems](https://github.com/api-evangelist/automated-sorting-systems) | automated-sorting-systems | Moved to Topics | yes |  |
@@ -67,19 +56,14 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [aws-logo](https://github.com/api-evangelist/aws-logo) | aws-logo | not built | yes |  |
 | [axfood](https://github.com/api-evangelist/axfood) | axfood | not built | yes |  |
 | [backups](https://github.com/api-evangelist/backups) | backups | Moved to Areas | yes |  |
-| [bain-capital-ventures](https://github.com/api-evangelist/bain-capital-ventures) | bain-capital-ventures | not built | yes |  |
-| [balderton-capital](https://github.com/api-evangelist/balderton-capital) | balderton-capital | not built | yes |  |
 | [banco-galicia](https://github.com/api-evangelist/banco-galicia) | banco-galicia | not built | yes |  |
 | [banking-regulation](https://github.com/api-evangelist/banking-regulation) | banking-regulation | Moved to Topics | yes |  |
 | [barcode-scanners](https://github.com/api-evangelist/barcode-scanners) | barcode-scanners | Moved to Topics | yes |  |
 | [basel-compliance](https://github.com/api-evangelist/basel-compliance) | basel-compliance | Moved to Topics | yes |  |
 | [basel-iii](https://github.com/api-evangelist/basel-iii) | basel-iii | Moved to Topics | yes |  |
 | [basis-set-ventures](https://github.com/api-evangelist/basis-set-ventures) | basis-set-ventures | Moved to /vcs/basis-set-ventures/ | yes |  |
-| [battery-ventures](https://github.com/api-evangelist/battery-ventures) | battery-ventures | not built | yes |  |
 | [bdd](https://github.com/api-evangelist/bdd) | bdd | Moved to Topics | yes |  |
 | [belts](https://github.com/api-evangelist/belts) | belts | Moved to Topics | yes |  |
-| [benchmark](https://github.com/api-evangelist/benchmark) | benchmark | not built | yes |  |
-| [bessemer-venture-partners](https://github.com/api-evangelist/bessemer-venture-partners) | bessemer-venture-partners | not built | yes |  |
 | [bev-buyer-ai](https://github.com/api-evangelist/bev-buyer-ai) | bev-buyer-ai | not built | yes |  |
 | [bevel-software](https://github.com/api-evangelist/bevel-software) | bevel-software | not built | yes |  |
 | [bewary](https://github.com/api-evangelist/bewary) | bewary | not built | yes |  |
@@ -151,7 +135,6 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [bloki-si](https://github.com/api-evangelist/bloki-si) | bloki-si | not built | yes |  |
 | [bloodpanel-ie](https://github.com/api-evangelist/bloodpanel-ie) | bloodpanel-ie | not built | yes |  |
 | [bloodyhopes-com](https://github.com/api-evangelist/bloodyhopes-com) | bloodyhopes-com | not built | yes |  |
-| [bloomberg-beta](https://github.com/api-evangelist/bloomberg-beta) | bloomberg-beta | not built | yes |  |
 | [bloomfire](https://github.com/api-evangelist/bloomfire) | bloomfire | not built | yes |  |
 | [bloomyesim-com](https://github.com/api-evangelist/bloomyesim-com) | bloomyesim-com | not built | yes |  |
 | [bloopo-ai](https://github.com/api-evangelist/bloopo-ai) | bloopo-ai | not built | yes |  |
@@ -185,8 +168,6 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [bodylab-lol](https://github.com/api-evangelist/bodylab-lol) | bodylab-lol | not built | yes |  |
 | [boekenbase-nl](https://github.com/api-evangelist/boekenbase-nl) | boekenbase-nl | not built | yes |  |
 | [boldstart-ventures](https://github.com/api-evangelist/boldstart-ventures) | boldstart-ventures | not built | yes |  |
-| [bond-capital](https://github.com/api-evangelist/bond-capital) | bond-capital | not built | yes |  |
-| [bonfire-ventures](https://github.com/api-evangelist/bonfire-ventures) | bonfire-ventures | not built | yes |  |
 | [boreholedrillingcost-co-uk](https://github.com/api-evangelist/boreholedrillingcost-co-uk) | boreholedrillingcost-co-uk | not built | yes |  |
 | [bot-trade-org](https://github.com/api-evangelist/bot-trade-org) | bot-trade-org | not built | yes |  |
 | [bota-chat-com](https://github.com/api-evangelist/bota-chat-com) | bota-chat-com | not built | yes |  |
@@ -284,7 +265,6 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [btcdecoded-org](https://github.com/api-evangelist/btcdecoded-org) | btcdecoded-org | not built | yes |  |
 | [btlabs-dev](https://github.com/api-evangelist/btlabs-dev) | btlabs-dev | not built | yes |  |
 | [btw-space](https://github.com/api-evangelist/btw-space) | btw-space | not built | yes |  |
-| [bullpen-capital](https://github.com/api-evangelist/bullpen-capital) | bullpen-capital | not built | yes |  |
 | [businessmcp-com](https://github.com/api-evangelist/businessmcp-com) | businessmcp-com | not built | yes |  |
 | [businessvaluationcost-co-uk](https://github.com/api-evangelist/businessvaluationcost-co-uk) | businessvaluationcost-co-uk | not built | yes |  |
 | [businessvaluenow-com](https://github.com/api-evangelist/businessvaluenow-com) | businessvaluenow-com | not built | yes |  |
@@ -380,7 +360,6 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [campervanconversioncost-co-uk](https://github.com/api-evangelist/campervanconversioncost-co-uk) | campervanconversioncost-co-uk | not built | yes |  |
 | [campiamo-com](https://github.com/api-evangelist/campiamo-com) | campiamo-com | not built | yes |  |
 | [can-tap-verified-com](https://github.com/api-evangelist/can-tap-verified-com) | can-tap-verified-com | not built | yes |  |
-| [canaan-partners](https://github.com/api-evangelist/canaan-partners) | canaan-partners | not built | yes |  |
 | [canada-payroll-ca](https://github.com/api-evangelist/canada-payroll-ca) | canada-payroll-ca | not built | yes |  |
 | [canadapayrollcalculator-com](https://github.com/api-evangelist/canadapayrollcalculator-com) | canadapayrollcalculator-com | not built | yes |  |
 | [canairecommendmybusiness-com](https://github.com/api-evangelist/canairecommendmybusiness-com) | canairecommendmybusiness-com | not built | yes |  |
@@ -511,7 +490,6 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [cloud-storage](https://github.com/api-evangelist/cloud-storage) | cloud-storage | Moved to Topics | yes |  |
 | [cloud-storage-and-data-acquisition](https://github.com/api-evangelist/cloud-storage-and-data-acquisition) | cloud-storage-and-data-acquisition | Moved to Topics | yes |  |
 | [cloudlabworks](https://github.com/api-evangelist/cloudlabworks) | cloudlabworks | not built | yes |  |
-| [coatue](https://github.com/api-evangelist/coatue) | coatue | not built | yes |  |
 | [code-first](https://github.com/api-evangelist/code-first) | code-first | Moved to Topics | yes |  |
 | [command-line-interface](https://github.com/api-evangelist/command-line-interface) | command-line-interface | Moved to Topics | yes |  |
 | [communication-protocols](https://github.com/api-evangelist/communication-protocols) | communication-protocols | Moved to Topics | yes |  |
@@ -566,13 +544,9 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [conventions-md](https://github.com/api-evangelist/conventions-md) | conventions-md | Moved to Topics | yes |  |
 | [conviction](https://github.com/api-evangelist/conviction) | conviction | not built | yes |  |
 | [copilot-instructions-md](https://github.com/api-evangelist/copilot-instructions-md) | copilot-instructions-md | Moved to Topics | yes |  |
-| [costanoa-ventures](https://github.com/api-evangelist/costanoa-ventures) | costanoa-ventures | not built | yes |  |
-| [cowboy-ventures](https://github.com/api-evangelist/cowboy-ventures) | cowboy-ventures | not built | yes |  |
 | [cplusplus](https://github.com/api-evangelist/cplusplus) | cplusplus | Moved to Topics | yes |  |
 | [cqrs](https://github.com/api-evangelist/cqrs) | cqrs | Moved to Topics | yes |  |
-| [craft-ventures](https://github.com/api-evangelist/craft-ventures) | craft-ventures | not built | yes |  |
 | [crane-venture-partners](https://github.com/api-evangelist/crane-venture-partners) | crane-venture-partners | not built | yes |  |
-| [creandum](https://github.com/api-evangelist/creandum) | creandum | not built | yes |  |
 | [creavily](https://github.com/api-evangelist/creavily) | creavily | not built | yes |  |
 | [crelvo-dev](https://github.com/api-evangelist/crelvo-dev) | crelvo-dev | not built | yes |  |
 | [crescendo-magazine-be](https://github.com/api-evangelist/crescendo-magazine-be) | crescendo-magazine-be | not built | yes |  |
@@ -597,7 +571,6 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [cross-deck-com](https://github.com/api-evangelist/cross-deck-com) | cross-deck-com | not built | yes |  |
 | [crossave-com](https://github.com/api-evangelist/crossave-com) | crossave-com | not built | yes |  |
 | [croxy](https://github.com/api-evangelist/croxy) | croxy | not built | yes |  |
-| [crv](https://github.com/api-evangelist/crv) | crv | not built | yes |  |
 | [cryptoexchangecomparehq-com](https://github.com/api-evangelist/cryptoexchangecomparehq-com) | cryptoexchangecomparehq-com | not built | yes |  |
 | [csp](https://github.com/api-evangelist/csp) | csp | not built | yes |  |
 | [css](https://github.com/api-evangelist/css) | css | Moved to Topics | yes |  |
@@ -609,7 +582,6 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [customs-forms](https://github.com/api-evangelist/customs-forms) | customs-forms | Moved to Topics | yes |  |
 | [customs-procedures](https://github.com/api-evangelist/customs-procedures) | customs-procedures | Moved to Topics | yes |  |
 | [cybersecurity-standards](https://github.com/api-evangelist/cybersecurity-standards) | cybersecurity-standards | Moved to Topics | yes |  |
-| [d1-capital](https://github.com/api-evangelist/d1-capital) | d1-capital | not built | yes |  |
 | [dailystudio-app](https://github.com/api-evangelist/dailystudio-app) | dailystudio-app | not built | yes |  |
 | [dajsve-com](https://github.com/api-evangelist/dajsve-com) | dajsve-com | not built | yes |  |
 | [dalalos-in](https://github.com/api-evangelist/dalalos-in) | dalalos-in | not built | yes |  |
@@ -711,8 +683,6 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [dbtrail-com](https://github.com/api-evangelist/dbtrail-com) | dbtrail-com | not built | yes |  |
 | [dcamethod-com](https://github.com/api-evangelist/dcamethod-com) | dcamethod-com | not built | yes |  |
 | [dcisionai-com](https://github.com/api-evangelist/dcisionai-com) | dcisionai-com | not built | yes |  |
-| [dcm-ventures](https://github.com/api-evangelist/dcm-ventures) | dcm-ventures | not built | yes |  |
-| [dcvc](https://github.com/api-evangelist/dcvc) | dcvc | not built | yes |  |
 | [deadbrands-co](https://github.com/api-evangelist/deadbrands-co) | deadbrands-co | not built | yes |  |
 | [deadends-dev](https://github.com/api-evangelist/deadends-dev) | deadends-dev | not built | yes |  |
 | [deadsimple-email](https://github.com/api-evangelist/deadsimple-email) | deadsimple-email | not built | yes |  |
@@ -966,7 +936,6 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [drafters-kr](https://github.com/api-evangelist/drafters-kr) | drafters-kr | not built | yes |  |
 | [draftly-blog](https://github.com/api-evangelist/draftly-blog) | draftly-blog | not built | yes |  |
 | [drafto-eu](https://github.com/api-evangelist/drafto-eu) | drafto-eu | not built | yes |  |
-| [dragoneer](https://github.com/api-evangelist/dragoneer) | dragoneer | not built | yes |  |
 | [drainprices-co-uk](https://github.com/api-evangelist/drainprices-co-uk) | drainprices-co-uk | not built | yes |  |
 | [drapecut-com](https://github.com/api-evangelist/drapecut-com) | drapecut-com | not built | yes |  |
 | [drawcall-ai](https://github.com/api-evangelist/drawcall-ai) | drawcall-ai | not built | yes |  |
@@ -1048,7 +1017,6 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [e-vignettes-eu](https://github.com/api-evangelist/e-vignettes-eu) | e-vignettes-eu | not built | yes |  |
 | [e18e-dev](https://github.com/api-evangelist/e18e-dev) | e18e-dev | not built | yes |  |
 | [e2llm-com](https://github.com/api-evangelist/e2llm-com) | e2llm-com | not built | yes |  |
-| [earlybird](https://github.com/api-evangelist/earlybird) | earlybird | not built | yes |  |
 | [earlyfra-me](https://github.com/api-evangelist/earlyfra-me) | earlyfra-me | not built | yes |  |
 | [earmarkiq-app](https://github.com/api-evangelist/earmarkiq-app) | earmarkiq-app | not built | yes |  |
 | [earningsfeed-com](https://github.com/api-evangelist/earningsfeed-com) | earningsfeed-com | not built | yes |  |
@@ -1126,7 +1094,6 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [eldercareresourceplanning-org](https://github.com/api-evangelist/eldercareresourceplanning-org) | eldercareresourceplanning-org | not built | yes |  |
 | [electionindex-org](https://github.com/api-evangelist/electionindex-org) | electionindex-org | not built | yes |  |
 | [electionsmcp-com](https://github.com/api-evangelist/electionsmcp-com) | electionsmcp-com | not built | yes |  |
-| [electric-capital](https://github.com/api-evangelist/electric-capital) | electric-capital | not built | yes |  |
 | [electricityfinder-online](https://github.com/api-evangelist/electricityfinder-online) | electricityfinder-online | not built | yes |  |
 | [electricskateboard-com](https://github.com/api-evangelist/electricskateboard-com) | electricskateboard-com | not built | yes |  |
 | [electrik-dev](https://github.com/api-evangelist/electrik-dev) | electrik-dev | not built | yes |  |
@@ -1164,7 +1131,6 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [emberverse-ai](https://github.com/api-evangelist/emberverse-ai) | emberverse-ai | not built | yes |  |
 | [emdly-com](https://github.com/api-evangelist/emdly-com) | emdly-com | not built | yes |  |
 | [ementai-com-br](https://github.com/api-evangelist/ementai-com-br) | ementai-com-br | not built | yes |  |
-| [emergence-capital](https://github.com/api-evangelist/emergence-capital) | emergence-capital | not built | yes |  |
 | [emergingtechcenter-com](https://github.com/api-evangelist/emergingtechcenter-com) | emergingtechcenter-com | not built | yes |  |
 | [emidlabs-com](https://github.com/api-evangelist/emidlabs-com) | emidlabs-com | not built | yes |  |
 | [emile-wine](https://github.com/api-evangelist/emile-wine) | emile-wine | not built | yes |  |
@@ -1189,7 +1155,6 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [energy-utilities](https://github.com/api-evangelist/energy-utilities) | energy-utilities | Moved to Topics | yes |  |
 | [enterprise-wikimedia-com](https://github.com/api-evangelist/enterprise-wikimedia-com) | enterprise-wikimedia-com | not built | yes |  |
 | [entity-relationship](https://github.com/api-evangelist/entity-relationship) | entity-relationship | Moved to Topics | yes |  |
-| [eqt-ventures](https://github.com/api-evangelist/eqt-ventures) | eqt-ventures | not built | yes |  |
 | [equator-principles](https://github.com/api-evangelist/equator-principles) | equator-principles | Moved to Topics | yes |  |
 | [essence-vc](https://github.com/api-evangelist/essence-vc) | essence-vc | not built | yes |  |
 | [event-driven-architecture](https://github.com/api-evangelist/event-driven-architecture) | event-driven-architecture | Moved to Topics | yes |  |
@@ -1198,30 +1163,22 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [extreme-programming](https://github.com/api-evangelist/extreme-programming) | extreme-programming | Moved to Topics | yes |  |
 | [fashion-ai](https://github.com/api-evangelist/fashion-ai) | fashion-ai | Moved to Topics | yes |  |
 | [fda-regulations](https://github.com/api-evangelist/fda-regulations) | fda-regulations | Moved to Topics | yes |  |
-| [felicis](https://github.com/api-evangelist/felicis) | felicis | not built | yes |  |
-| [fifth-wall](https://github.com/api-evangelist/fifth-wall) | fifth-wall | not built | yes |  |
 | [file-format](https://github.com/api-evangelist/file-format) | file-format | Moved to Topics | yes |  |
 | [financial-regulation](https://github.com/api-evangelist/financial-regulation) | financial-regulation | Moved to Topics | yes |  |
 | [finops](https://github.com/api-evangelist/finops) | finops | Moved to Areas | yes |  |
-| [first-round-capital](https://github.com/api-evangelist/first-round-capital) | first-round-capital | not built | yes |  |
 | [fixed-format](https://github.com/api-evangelist/fixed-format) | fixed-format | Moved to Topics | yes |  |
 | [flowcharts](https://github.com/api-evangelist/flowcharts) | flowcharts | Moved to Topics | yes |  |
 | [fluxapay-xyz](https://github.com/api-evangelist/fluxapay-xyz) | fluxapay-xyz | not built | yes |  |
 | [footer](https://github.com/api-evangelist/footer) | footer | not built | yes |  |
-| [forerunner-ventures](https://github.com/api-evangelist/forerunner-ventures) | forerunner-ventures | not built | yes |  |
 | [forgegui-net](https://github.com/api-evangelist/forgegui-net) | forgegui-net | not built | yes |  |
 | [founder-collective](https://github.com/api-evangelist/founder-collective) | founder-collective | Moved to /vcs/founder-collective/ | yes |  |
-| [founders-fund](https://github.com/api-evangelist/founders-fund) | founders-fund | not built | yes |  |
-| [foundry-group](https://github.com/api-evangelist/foundry-group) | foundry-group | not built | yes |  |
 | [ftp](https://github.com/api-evangelist/ftp) | ftp | Moved to Topics | yes |  |
 | [functional-programming](https://github.com/api-evangelist/functional-programming) | functional-programming | Moved to Topics | yes |  |
 | [gantt-charts](https://github.com/api-evangelist/gantt-charts) | gantt-charts | Moved to Topics | yes |  |
 | [gateway](https://github.com/api-evangelist/gateway) | gateway | Moved to Areas | yes |  |
 | [gateways](https://github.com/api-evangelist/gateways) | gateways | Moved to Topics | yes |  |
 | [gdpr](https://github.com/api-evangelist/gdpr) | gdpr | Moved to Topics | yes |  |
-| [general-catalyst](https://github.com/api-evangelist/general-catalyst) | general-catalyst | not built | yes |  |
 | [getfilmcraft-org](https://github.com/api-evangelist/getfilmcraft-org) | getfilmcraft-org | not built | yes |  |
-| [ggv-capital](https://github.com/api-evangelist/ggv-capital) | ggv-capital | not built | yes |  |
 | [gherkin](https://github.com/api-evangelist/gherkin) | gherkin | Moved to Topics | yes |  |
 | [global-system-integrators](https://github.com/api-evangelist/global-system-integrators) | global-system-integrators | not built | yes |  |
 | [google-cloud-logo](https://github.com/api-evangelist/google-cloud-logo) | google-cloud-logo | not built | yes |  |
@@ -1229,39 +1186,28 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [governance](https://github.com/api-evangelist/governance) | governance | Moved to Topics | yes |  |
 | [gradient-ventures](https://github.com/api-evangelist/gradient-ventures) | gradient-ventures | not built | yes |  |
 | [graph-query-language-gql](https://github.com/api-evangelist/graph-query-language-gql) | graph-query-language-gql | Moved to Topics | yes |  |
-| [greylock](https://github.com/api-evangelist/greylock) | greylock.com | not built | yes |  |
 | [gsi](https://github.com/api-evangelist/gsi) | gsi | not built | yes |  |
 | [guardrails](https://github.com/api-evangelist/guardrails) | guardrails | Moved to Topics | yes |  |
-| [gv](https://github.com/api-evangelist/gv) | gv | not built | yes |  |
 | [heavybit](https://github.com/api-evangelist/heavybit) | heavybit | not built | yes |  |
 | [help-center](https://github.com/api-evangelist/help-center) | help-center | not built | yes |  |
 | [hifrank-ai](https://github.com/api-evangelist/hifrank-ai) | hifrank-ai | not built | yes |  |
 | [high-tech](https://github.com/api-evangelist/high-tech) | high-tech | Moved to Topics | yes |  |
-| [hillhouse](https://github.com/api-evangelist/hillhouse) | hillhouse | not built | yes |  |
 | [hipaa](https://github.com/api-evangelist/hipaa) | hipaa | Moved to Topics | yes |  |
-| [homebrew](https://github.com/api-evangelist/homebrew) | homebrew | not built | yes |  |
-| [hongshan](https://github.com/api-evangelist/hongshan) | hongshan | not built | yes |  |
 | [hoplix-com](https://github.com/api-evangelist/hoplix-com) | hoplix-com | not built | yes |  |
 | [hostdefi-token-risk-api](https://github.com/api-evangelist/hostdefi-token-risk-api) | hostdefi-token-risk-api | not built | yes |  |
 | [hoursquare](https://github.com/api-evangelist/hoursquare) | hoursquare | not built | yes |  |
 | [http](https://github.com/api-evangelist/http) | http | Moved to Topics | yes |  |
 | [https-mcp-cables-live-openapi-json](https://github.com/api-evangelist/https-mcp-cables-live-openapi-json) | https-mcp-cables-live-openapi-json | not built | yes |  |
-| [hv-capital](https://github.com/api-evangelist/hv-capital) | hv-capital | not built | yes |  |
 | [hypermedia](https://github.com/api-evangelist/hypermedia) | hypermedia | Moved to Areas | yes |  |
 | [iam](https://github.com/api-evangelist/iam) | iam | Moved to Topics | yes |  |
-| [iconiq-capital](https://github.com/api-evangelist/iconiq-capital) | iconiq-capital | not built | yes |  |
 | [ide](https://github.com/api-evangelist/ide) | ide | Moved to Areas | yes |  |
-| [idg-capital](https://github.com/api-evangelist/idg-capital) | idg-capital | not built | yes |  |
 | [ilang-ai](https://github.com/api-evangelist/ilang-ai) | ilang-ai | not built | yes |  |
 | [image3d-io](https://github.com/api-evangelist/image3d-io) | image3d-io | not built | yes |  |
 | [imap](https://github.com/api-evangelist/imap) | imap | Moved to Topics | yes |  |
 | [inbox](https://github.com/api-evangelist/inbox) | inbox | Moved to Topics | yes |  |
-| [index-ventures](https://github.com/api-evangelist/index-ventures) | index-ventures | not built | yes |  |
 | [industrial](https://github.com/api-evangelist/industrial) | industrial | Moved to Areas | yes |  |
 | [informatics](https://github.com/api-evangelist/informatics) | informatics | Moved to Topics | yes |  |
 | [infranest](https://github.com/api-evangelist/infranest) | infranest | not built | yes |  |
-| [initialized-capital](https://github.com/api-evangelist/initialized-capital) | initialized-capital | not built | yes |  |
-| [insight-partners](https://github.com/api-evangelist/insight-partners) | insight-partners | not built | yes |  |
 | [integration-patterns](https://github.com/api-evangelist/integration-patterns) | integration-patterns | Moved to Topics | yes |  |
 | [integrations](https://github.com/api-evangelist/integrations) | integrations | Moved to Areas | yes |  |
 | [integrations-and-connectors](https://github.com/api-evangelist/integrations-and-connectors) | integrations-and-connectors | not built | yes |  |
@@ -1277,7 +1223,6 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [it-standards](https://github.com/api-evangelist/it-standards) | it-standards | Moved to Topics | yes |  |
 | [itil](https://github.com/api-evangelist/itil) | itil | Moved to Topics | yes |  |
 | [itsm](https://github.com/api-evangelist/itsm) | itsm | Moved to Topics | yes |  |
-| [ivp](https://github.com/api-evangelist/ivp) | ivp | not built | yes |  |
 | [javascript](https://github.com/api-evangelist/javascript) | javascript | Moved to Topics | yes |  |
 | [jax-ws](https://github.com/api-evangelist/jax-ws) | jax-ws | Moved to Topics | yes |  |
 | [jcr](https://github.com/api-evangelist/jcr) | jcr | Moved to Topics | yes |  |
@@ -1286,22 +1231,17 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [json-schema](https://github.com/api-evangelist/json-schema) | json-schema | Moved to Topics | yes |  |
 | [jules-md](https://github.com/api-evangelist/jules-md) | jules-md | Moved to Topics | yes |  |
 | [kerberos](https://github.com/api-evangelist/kerberos) | kerberos | Moved to Topics | yes |  |
-| [khosla-ventures](https://github.com/api-evangelist/khosla-ventures) | khosla-ventures | not built | yes |  |
-| [kindred-ventures](https://github.com/api-evangelist/kindred-ventures) | kindred-ventures | not built | yes |  |
-| [kleiner-perkins](https://github.com/api-evangelist/kleiner-perkins) | kleiner-perkins | not built | yes |  |
 | [knowledge](https://github.com/api-evangelist/knowledge) | knowledge | Moved to Topics | yes |  |
 | [kubernetes-operators](https://github.com/api-evangelist/kubernetes-operators) | kubernetes-operators | Moved to Topics | yes |  |
 | [lakehouse-architecture](https://github.com/api-evangelist/lakehouse-architecture) | lakehouse-architecture | Moved to Topics | yes |  |
 | [laminarforge-dev](https://github.com/api-evangelist/laminarforge-dev) | laminarforge-dev | not built | yes |  |
 | [lapis](https://github.com/api-evangelist/lapis) | lapis | Moved to Topics | yes |  |
 | [ldap](https://github.com/api-evangelist/ldap) | ldap | Moved to Topics | yes |  |
-| [leadout-capital](https://github.com/api-evangelist/leadout-capital) | leadout-capital | not built | yes |  |
 | [lean-manufacturing](https://github.com/api-evangelist/lean-manufacturing) | lean-manufacturing | Moved to Topics | yes |  |
 | [lean-operations](https://github.com/api-evangelist/lean-operations) | lean-operations | Moved to Topics | yes |  |
 | [lean-six-sigma](https://github.com/api-evangelist/lean-six-sigma) | lean-six-sigma | Moved to Topics | yes |  |
 | [lean-six-sigma-black-belt](https://github.com/api-evangelist/lean-six-sigma-black-belt) | lean-six-sigma-black-belt | Moved to Topics | yes |  |
 | [licensing](https://github.com/api-evangelist/licensing) | licensing | Moved to Areas | yes |  |
-| [lightspeed-venture-partners](https://github.com/api-evangelist/lightspeed-venture-partners) | lightspeed-venture-partners | not built | yes |  |
 | [linting](https://github.com/api-evangelist/linting) | linting | Moved to Topics | yes |  |
 | [linux-server](https://github.com/api-evangelist/linux-server) | linux-server | Moved to Topics | yes |  |
 | [linuxunix](https://github.com/api-evangelist/linuxunix) | linuxunix | Moved to Topics | yes |  |
@@ -1318,7 +1258,6 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [logo-7](https://github.com/api-evangelist/logo-7) | logo-7 | not built | yes |  |
 | [low-hanging-fruit](https://github.com/api-evangelist/low-hanging-fruit) | low-hanging-fruit | Moved to Areas | yes |  |
 | [lurkapi](https://github.com/api-evangelist/lurkapi) | lurkapi | not built | yes |  |
-| [lux-capital](https://github.com/api-evangelist/lux-capital) | lux-capital | not built | yes |  |
 | [machine-learning](https://github.com/api-evangelist/machine-learning) | machine-learning | Moved to Areas | yes |  |
 | [magic-hour-api](https://github.com/api-evangelist/magic-hour-api) | magic-hour-api | not built | yes |  |
 | [mailfloss](https://github.com/api-evangelist/mailfloss) | mailfloss | not built | yes |  |
@@ -1327,10 +1266,7 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [mandatory-reserves-requirement](https://github.com/api-evangelist/mandatory-reserves-requirement) | mandatory-reserves-requirement | Moved to Topics | yes |  |
 | [mapreduce](https://github.com/api-evangelist/mapreduce) | mapreduce | Moved to Topics | yes |  |
 | [markup-language](https://github.com/api-evangelist/markup-language) | markup-language | Moved to Topics | yes |  |
-| [matrix-partners](https://github.com/api-evangelist/matrix-partners) | matrix-partners | not built | yes |  |
-| [mayfield](https://github.com/api-evangelist/mayfield) | mayfield | not built | yes |  |
 | [med-reveal-com](https://github.com/api-evangelist/med-reveal-com) | med-reveal-com | not built | yes |  |
-| [menlo-ventures](https://github.com/api-evangelist/menlo-ventures) | menlo-ventures | not built | yes |  |
 | [methodology](https://github.com/api-evangelist/methodology) | methodology | Moved to Areas | yes |  |
 | [microservice-architecture](https://github.com/api-evangelist/microservice-architecture) | microservice-architecture | Moved to Topics | yes |  |
 | [microservice-architecture-patterns](https://github.com/api-evangelist/microservice-architecture-patterns) | microservice-architecture-patterns | Moved to Topics | yes |  |
@@ -1349,22 +1285,17 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [monolithic-architecture](https://github.com/api-evangelist/monolithic-architecture) | monolithic-architecture | Moved to Topics | yes |  |
 | [mssp](https://github.com/api-evangelist/mssp) | mssp | not built | yes |  |
 | [multi-tier-architecture](https://github.com/api-evangelist/multi-tier-architecture) | multi-tier-architecture | Moved to Topics | yes |  |
-| [multicoin-capital](https://github.com/api-evangelist/multicoin-capital) | multicoin-capital | not built | yes |  |
 | [mvc](https://github.com/api-evangelist/mvc) | mvc | Moved to Topics | yes |  |
 | [mxml](https://github.com/api-evangelist/mxml) | mxml | Moved to Topics | yes |  |
-| [nea](https://github.com/api-evangelist/nea) | nea | not built | yes |  |
 | [network-protocols](https://github.com/api-evangelist/network-protocols) | network-protocols | Moved to Topics | yes |  |
 | [nfc](https://github.com/api-evangelist/nfc) | nfc | Moved to Topics | yes |  |
 | [nizlo-com](https://github.com/api-evangelist/nizlo-com) | nizlo-com | not built | yes |  |
 | [nocthost](https://github.com/api-evangelist/nocthost) | nocthost | not built | yes |  |
 | [normalization](https://github.com/api-evangelist/normalization) | normalization | Moved to Topics | yes |  |
-| [northzone](https://github.com/api-evangelist/northzone) | northzone | not built | yes |  |
-| [norwest-venture-partners](https://github.com/api-evangelist/norwest-venture-partners) | norwest-venture-partners | not built | yes |  |
 | [nostro](https://github.com/api-evangelist/nostro) | nostro | Moved to Topics | yes |  |
 | [oauth](https://github.com/api-evangelist/oauth) | oauth | Moved to Topics | yes |  |
 | [object-oriented-programming](https://github.com/api-evangelist/object-oriented-programming) | object-oriented-programming | Moved to Topics | yes |  |
 | [observability](https://github.com/api-evangelist/observability) | observability | Moved to Areas | yes |  |
-| [obvious-ventures](https://github.com/api-evangelist/obvious-ventures) | obvious-ventures | not built | yes |  |
 | [ocra](https://github.com/api-evangelist/ocra) | ocra | Moved to Topics | yes |  |
 | [onlinealarmkur-com](https://github.com/api-evangelist/onlinealarmkur-com) | onlinealarmkur-com | not built | yes |  |
 | [openany](https://github.com/api-evangelist/openany) | openany | not built | yes |  |
@@ -1377,9 +1308,6 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [others](https://github.com/api-evangelist/others) | others | not built | yes |  |
 | [outcrawl](https://github.com/api-evangelist/outcrawl) | outcrawl | not built | yes |  |
 | [p4](https://github.com/api-evangelist/p4) | p4 | Moved to Topics | yes |  |
-| [pantera-capital](https://github.com/api-evangelist/pantera-capital) | pantera-capital | not built | yes |  |
-| [paradigm](https://github.com/api-evangelist/paradigm) | paradigm | not built | yes |  |
-| [partech](https://github.com/api-evangelist/partech) | partech | not built | yes |  |
 | [partitioning](https://github.com/api-evangelist/partitioning) | partitioning | Moved to Topics | yes |  |
 | [partner-login](https://github.com/api-evangelist/partner-login) | partner-login | not built | yes |  |
 | [payments-api](https://github.com/api-evangelist/payments-api) | payments-api | Moved to Topics | yes |  |
@@ -1387,10 +1315,7 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [performance](https://github.com/api-evangelist/performance) | performance | Moved to Areas | yes |  |
 | [persons-api](https://github.com/api-evangelist/persons-api) | persons-api | Moved to Topics | yes |  |
 | [pig-latin](https://github.com/api-evangelist/pig-latin) | pig-latin | Moved to Topics | yes |  |
-| [playground-global](https://github.com/api-evangelist/playground-global) | playground-global | not built | yes |  |
 | [plugin](https://github.com/api-evangelist/plugin) | plugin | Moved to Areas | yes |  |
-| [point-nine](https://github.com/api-evangelist/point-nine) | point-nine | not built | yes |  |
-| [polychain](https://github.com/api-evangelist/polychain) | polychain | not built | yes |  |
 | [portal](https://github.com/api-evangelist/portal) | portal | Moved to Areas | yes |  |
 | [posix](https://github.com/api-evangelist/posix) | posix | Moved to Topics | yes |  |
 | [postnl](https://github.com/api-evangelist/postnl) | postnl | not built | yes |  |
@@ -1408,12 +1333,9 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [programming-paradigm](https://github.com/api-evangelist/programming-paradigm) | programming-paradigm | Moved to Topics | yes |  |
 | [project-management-methodology](https://github.com/api-evangelist/project-management-methodology) | project-management-methodology | Moved to Topics | yes |  |
 | [prostitutionlaws](https://github.com/api-evangelist/prostitutionlaws) | prostitutionlaws | not built | yes |  |
-| [prosus-ventures](https://github.com/api-evangelist/prosus-ventures) | prosus-ventures | not built | yes |  |
 | [prototypes](https://github.com/api-evangelist/prototypes) | prototypes | Moved to Topics | yes |  |
 | [provecart-com](https://github.com/api-evangelist/provecart-com) | provecart-com | not built | yes |  |
 | [pub-sub](https://github.com/api-evangelist/pub-sub) | pub-sub | Moved to Topics | yes |  |
-| [qed-investors](https://github.com/api-evangelist/qed-investors) | qed-investors | not built | yes |  |
-| [qiming](https://github.com/api-evangelist/qiming) | qiming | not built | yes |  |
 | [qos](https://github.com/api-evangelist/qos) | qos | Moved to Topics | yes |  |
 | [quady3d-com](https://github.com/api-evangelist/quady3d-com) | quady3d-com | not built | yes |  |
 | [quality-of-service](https://github.com/api-evangelist/quality-of-service) | quality-of-service | Moved to Topics | yes |  |
@@ -1427,7 +1349,6 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [realtime](https://github.com/api-evangelist/realtime) | realtime | Moved to Topics | yes |  |
 | [reddit-api](https://github.com/api-evangelist/reddit-api) | reddit-api | not built | yes |  |
 | [redis-streams](https://github.com/api-evangelist/redis-streams) | redis-streams | Moved to Topics | yes |  |
-| [redpoint-ventures](https://github.com/api-evangelist/redpoint-ventures) | redpoint-ventures | not built | yes |  |
 | [refract-social](https://github.com/api-evangelist/refract-social) | refract-social | not built | yes |  |
 | [regulation](https://github.com/api-evangelist/regulation) | regulation | Moved to Areas | yes |  |
 | [regulatory](https://github.com/api-evangelist/regulatory) | regulatory | Moved to Topics | yes |  |
@@ -1442,7 +1363,6 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [restful-microservices](https://github.com/api-evangelist/restful-microservices) | restful-microservices | Moved to Topics | yes |  |
 | [restful-web-services](https://github.com/api-evangelist/restful-web-services) | restful-web-services | Moved to Topics | yes |  |
 | [rfid](https://github.com/api-evangelist/rfid) | rfid | Moved to Topics | yes |  |
-| [ribbit-capital](https://github.com/api-evangelist/ribbit-capital) | ribbit-capital | not built | yes |  |
 | [road-map](https://github.com/api-evangelist/road-map) | road-map | Moved to Areas | yes |  |
 | [roorules](https://github.com/api-evangelist/roorules) | roorules | Moved to Topics | yes |  |
 | [routemux-com](https://github.com/api-evangelist/routemux-com) | routemux-com | not built | yes |  |
@@ -1450,7 +1370,6 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [ryvit](https://github.com/api-evangelist/ryvit) | ryvit | Moved to /providers/ | no |  |
 | [saas-management](https://github.com/api-evangelist/saas-management) | saas-management | Moved to Areas | yes |  |
 | [safe-agile](https://github.com/api-evangelist/safe-agile) | safe-agile | Moved to Topics | yes |  |
-| [sapphire-ventures](https://github.com/api-evangelist/sapphire-ventures) | sapphire-ventures | not built | yes |  |
 | [scala](https://github.com/api-evangelist/scala) | scala | Moved to Topics | yes |  |
 | [scalability](https://github.com/api-evangelist/scalability) | scalability | Moved to Topics | yes |  |
 | [scalable-architecture](https://github.com/api-evangelist/scalable-architecture) | scalable-architecture | Moved to Topics | yes |  |
@@ -1459,7 +1378,6 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [scalable-services](https://github.com/api-evangelist/scalable-services) | scalable-services | Moved to Topics | yes |  |
 | [scalable-software-and-systems](https://github.com/api-evangelist/scalable-software-and-systems) | scalable-software-and-systems | Moved to Topics | yes |  |
 | [scalable-systems](https://github.com/api-evangelist/scalable-systems) | scalable-systems | Moved to Topics | yes |  |
-| [scale-venture-partners](https://github.com/api-evangelist/scale-venture-partners) | scale-venture-partners | not built | yes |  |
 | [schema-design](https://github.com/api-evangelist/schema-design) | schema-design | Moved to Topics | yes |  |
 | [schema-evolution](https://github.com/api-evangelist/schema-evolution) | schema-evolution | Moved to Topics | yes |  |
 | [schema-free](https://github.com/api-evangelist/schema-free) | schema-free | Moved to Topics | yes |  |
@@ -1477,27 +1395,19 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [security-by-design](https://github.com/api-evangelist/security-by-design) | security-by-design | Moved to Topics | yes |  |
 | [security-protocols](https://github.com/api-evangelist/security-protocols) | security-protocols | Moved to Topics | yes |  |
 | [security-standards](https://github.com/api-evangelist/security-standards) | security-standards | Moved to Topics | yes |  |
-| [seedcamp](https://github.com/api-evangelist/seedcamp) | seedcamp | not built | yes |  |
 | [seeddance-io](https://github.com/api-evangelist/seeddance-io) | seeddance-io | not built | yes |  |
-| [sequoia-capital](https://github.com/api-evangelist/sequoia-capital) | sequoia-capital | not built | yes |  |
-| [serena](https://github.com/api-evangelist/serena) | serena | not built | yes |  |
 | [serverless-patterns](https://github.com/api-evangelist/serverless-patterns) | serverless-patterns | Moved to Topics | yes |  |
 | [service-mesh](https://github.com/api-evangelist/service-mesh) | service-mesh | Moved to Areas | yes |  |
 | [service-mesh-interface](https://github.com/api-evangelist/service-mesh-interface) | service-mesh-interface | Moved to Topics | yes |  |
 | [service-oriented-architecture](https://github.com/api-evangelist/service-oriented-architecture) | service-oriented-architecture | Moved to Topics | yes |  |
 | [sfxmint-com](https://github.com/api-evangelist/sfxmint-com) | sfxmint-com | not built | yes |  |
 | [sharding](https://github.com/api-evangelist/sharding) | sharding | Moved to Topics | yes |  |
-| [shasta-ventures](https://github.com/api-evangelist/shasta-ventures) | shasta-ventures | not built | yes |  |
 | [siebly](https://github.com/api-evangelist/siebly) | siebly | not built | yes |  |
-| [sierra-ventures](https://github.com/api-evangelist/sierra-ventures) | sierra-ventures | not built | yes |  |
 | [simpleverifier-com](https://github.com/api-evangelist/simpleverifier-com) | simpleverifier-com | not built | yes |  |
 | [single-sign-on](https://github.com/api-evangelist/single-sign-on) | single-sign-on | not built | yes |  |
 | [six-sigma](https://github.com/api-evangelist/six-sigma) | six-sigma | Moved to Topics | yes |  |
 | [sketches](https://github.com/api-evangelist/sketches) | sketches | Moved to Topics | yes |  |
-| [slow-ventures](https://github.com/api-evangelist/slow-ventures) | slow-ventures | not built | yes |  |
 | [soc2](https://github.com/api-evangelist/soc2) | soc2 | not built | yes |  |
-| [social-capital](https://github.com/api-evangelist/social-capital) | social-capital | not built | yes |  |
-| [softbank-vision-fund](https://github.com/api-evangelist/softbank-vision-fund) | softbank-vision-fund | not built | yes |  |
 | [softsync-ai](https://github.com/api-evangelist/softsync-ai) | softsync-ai | not built | yes |  |
 | [software-defined-networking](https://github.com/api-evangelist/software-defined-networking) | software-defined-networking | Moved to Topics | yes |  |
 | [software-design-architectural-patterns](https://github.com/api-evangelist/software-design-architectural-patterns) | software-design-architectural-patterns | Moved to Topics | yes |  |
@@ -1505,16 +1415,12 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [software-development-lifecycle](https://github.com/api-evangelist/software-development-lifecycle) | software-development-lifecycle | Moved to Topics | yes |  |
 | [southend-now-public-data-api](https://github.com/api-evangelist/southend-now-public-data-api) | southend-now-public-data-api | not built | yes |  |
 | [sp](https://github.com/api-evangelist/sp) | sp | not built | yes |  |
-| [spark-capital](https://github.com/api-evangelist/spark-capital) | spark-capital | not built | yes |  |
 | [specification](https://github.com/api-evangelist/specification) | specification | Moved to Topics | yes |  |
 | [specifications](https://github.com/api-evangelist/specifications) | specifications | Moved to Topics | yes |  |
-| [speedinvest](https://github.com/api-evangelist/speedinvest) | speedinvest | not built | yes |  |
 | [spinner](https://github.com/api-evangelist/spinner) | spinner | not built | yes |  |
 | [spreadsheets](https://github.com/api-evangelist/spreadsheets) | spreadsheets | Moved to Topics | yes |  |
 | [standard-operating-procedures](https://github.com/api-evangelist/standard-operating-procedures) | standard-operating-procedures | Moved to Topics | yes |  |
 | [standardization](https://github.com/api-evangelist/standardization) | standardization | Moved to Topics | yes |  |
-| [starting-line-vc](https://github.com/api-evangelist/starting-line-vc) | starting-line-vc | not built | yes |  |
-| [stellation](https://github.com/api-evangelist/stellation) | stellation | not built | yes |  |
 | [stock-market-api](https://github.com/api-evangelist/stock-market-api) | stock-market-api | not built | yes |  |
 | [stock-options-scanner-apis-for-intraday-and-end-of-day-stock](https://github.com/api-evangelist/stock-options-scanner-apis-for-intraday-and-end-of-day-stock) | stock-options-scanner-apis-for-intraday-and-end-of-day-stock | not built | yes |  |
 | [streaming](https://github.com/api-evangelist/streaming) | streaming | Moved to Topics | yes |  |
@@ -1522,8 +1428,6 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [sunset-header](https://github.com/api-evangelist/sunset-header) | sunset-header | Moved to Topics | yes |  |
 | [support](https://github.com/api-evangelist/support) | support | Moved to Areas | yes |  |
 | [support-md](https://github.com/api-evangelist/support-md) | support-md | Moved to Topics | yes |  |
-| [susa-ventures](https://github.com/api-evangelist/susa-ventures) | susa-ventures | not built | yes |  |
-| [sv-angel](https://github.com/api-evangelist/sv-angel) | sv-angel | not built | yes |  |
 | [swagger](https://github.com/api-evangelist/swagger) | swagger | Moved to Topics | yes |  |
 | [synento-com](https://github.com/api-evangelist/synento-com) | synento-com | not built | yes |  |
 | [tax-reporting-templates](https://github.com/api-evangelist/tax-reporting-templates) | tax-reporting-templates | Moved to Topics | yes |  |
@@ -1531,7 +1435,6 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [tcp-ip](https://github.com/api-evangelist/tcp-ip) | tcp-ip | Moved to Topics | yes |  |
 | [technical-specifications](https://github.com/api-evangelist/technical-specifications) | technical-specifications | Moved to Topics | yes |  |
 | [technology-standards](https://github.com/api-evangelist/technology-standards) | technology-standards | Moved to Topics | yes |  |
-| [techstars](https://github.com/api-evangelist/techstars) | techstars | not built | yes |  |
 | [templates](https://github.com/api-evangelist/templates) | templates | Moved to Topics | yes |  |
 | [test-cases](https://github.com/api-evangelist/test-cases) | test-cases | Moved to Topics | yes |  |
 | [test-driven-development](https://github.com/api-evangelist/test-driven-development) | test-driven-development | Moved to Topics | yes |  |
@@ -1542,19 +1445,12 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [test-specifications](https://github.com/api-evangelist/test-specifications) | test-specifications | Moved to Topics | yes |  |
 | [test-suites](https://github.com/api-evangelist/test-suites) | test-suites | Moved to Topics | yes |  |
 | [testing](https://github.com/api-evangelist/testing) | testing | Moved to Areas | yes |  |
-| [threshold-ventures](https://github.com/api-evangelist/threshold-ventures) | threshold-ventures | not built | yes |  |
-| [thrive-capital](https://github.com/api-evangelist/thrive-capital) | thrive-capital | not built | yes |  |
-| [tiger-global](https://github.com/api-evangelist/tiger-global) | tiger-global | not built | yes |  |
 | [tomsshitjokes-com](https://github.com/api-evangelist/tomsshitjokes-com) | tomsshitjokes-com | not built | yes |  |
 | [transparency](https://github.com/api-evangelist/transparency) | transparency | Moved to Areas | yes |  |
-| [trinity-ventures](https://github.com/api-evangelist/trinity-ventures) | trinity-ventures | not built | yes |  |
-| [true-ventures](https://github.com/api-evangelist/true-ventures) | true-ventures | not built | yes |  |
 | [uetr-ai](https://github.com/api-evangelist/uetr-ai) | uetr-ai | not built | yes |  |
 | [uml](https://github.com/api-evangelist/uml) | uml | Moved to Topics | yes |  |
-| [uncork-capital](https://github.com/api-evangelist/uncork-capital) | uncork-capital | not built | yes |  |
 | [underwriting-standards](https://github.com/api-evangelist/underwriting-standards) | underwriting-standards | Moved to Topics | yes |  |
 | [unified-apis](https://github.com/api-evangelist/unified-apis) | unified-apis | Moved to Areas | yes |  |
-| [union-square-ventures](https://github.com/api-evangelist/union-square-ventures) | union-square-ventures | not built | yes |  |
 | [united-states-flag](https://github.com/api-evangelist/united-states-flag) | united-states-flag | not built | yes |  |
 | [unusual-ventures](https://github.com/api-evangelist/unusual-ventures) | unusual-ventures | not built | yes |  |
 | [us-government](https://github.com/api-evangelist/us-government) | us-government | not built | yes |  |
@@ -1565,7 +1461,6 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [usewheelhouse](https://github.com/api-evangelist/usewheelhouse) | usewheelhouse | not built | yes |  |
 | [valjeanspecialty](https://github.com/api-evangelist/valjeanspecialty) | valjeanspecialty | not built | yes |  |
 | [valotcg](https://github.com/api-evangelist/valotcg) | valotcg | not built | yes |  |
-| [version-one-ventures](https://github.com/api-evangelist/version-one-ventures) | version-one-ventures | not built | yes |  |
 | [versioning](https://github.com/api-evangelist/versioning) | versioning | Moved to Areas | yes |  |
 | [viewmax-studio](https://github.com/api-evangelist/viewmax-studio) | viewmax-studio | not built | yes |  |
 | [virtualization](https://github.com/api-evangelist/virtualization) | virtualization | Moved to Areas | yes |  |
@@ -1577,7 +1472,6 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [web-standards](https://github.com/api-evangelist/web-standards) | web-standards | Moved to Topics | yes |  |
 | [webhooks](https://github.com/api-evangelist/webhooks) | webhooks | Moved to Areas | yes |  |
 | [webinars](https://github.com/api-evangelist/webinars) | webinars | not built | yes |  |
-| [wing-venture-capital](https://github.com/api-evangelist/wing-venture-capital) | wing-venture-capital | not built | yes |  |
 | [wireframes](https://github.com/api-evangelist/wireframes) | wireframes | Moved to Topics | yes |  |
 | [wisprflow-ai](https://github.com/api-evangelist/wisprflow-ai) | wispr-ai | Moved to wisprflow-ai | yes |  |
 | [work-bench](https://github.com/api-evangelist/work-bench) | work-bench | not built | yes |  |
@@ -1588,7 +1482,6 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [xml](https://github.com/api-evangelist/xml) | xml | Moved to Topics | yes |  |
 | [xoomar-com](https://github.com/api-evangelist/xoomar-com) | xoomar-com | not built | yes |  |
 | [xslt](https://github.com/api-evangelist/xslt) | xslt | Moved to Topics | yes |  |
-| [y-combinator](https://github.com/api-evangelist/y-combinator) | y-combinator | not built | yes |  |
 | [zero-trust](https://github.com/api-evangelist/zero-trust) | zero-trust | Moved to Topics | yes |  |
 
 ## Never profiled (0)
