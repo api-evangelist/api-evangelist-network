@@ -80,6 +80,8 @@ _tools/collect.sh          # gather the inputs (gh, aws s3api, the local apis.io
 _tools/build.py --write    # regenerate apis.yml, network/, providers/, unlisted.md, README.md
 ```
 
+Refreshed every Sunday by a scheduled job (`_tools/refresh.sh`, launchd `net.kinlane.network-index-refresh`), which pulls, collects, rebuilds and pushes only when something changed. The *Last built* date above is the proof it ran. The repository is infrastructure, not a provider: the enrichment, stale-reprofile, provenance and strip pipelines refuse it by name (`lib_core.core_repo` in the engine), and the APIs.io build gives it no provider page.
+
 ## Corrections
 
 A provider missing here, listed wrongly, or pointing at the wrong page: [open an issue](https://github.com/api-evangelist/api-evangelist-network/issues/new). Anything about a single provider's profile or rating belongs on that provider's own repository, which every row links. Removal requests are honored; see [where our data comes from](https://apievangelist.com/about/where-our-data-comes-from).

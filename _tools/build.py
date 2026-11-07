@@ -379,6 +379,11 @@ def main():
         "_tools/build.py --write    # regenerate apis.yml, network/, providers/, unlisted.md, README.md",
         "```",
         "",
+        "Refreshed every Sunday by a scheduled job (`_tools/refresh.sh`, launchd `net.kinlane.network-index-refresh`), which "
+        "pulls, collects, rebuilds and pushes only when something changed. The *Last built* date above is the proof it ran. "
+        "The repository is infrastructure, not a provider: the enrichment, stale-reprofile, provenance and strip pipelines "
+        "refuse it by name (`lib_core.core_repo` in the engine), and the APIs.io build gives it no provider page.",
+        "",
         "## Corrections",
         "",
         "A provider missing here, listed wrongly, or pointing at the wrong page: "
