@@ -528,7 +528,7 @@
 | Ancorabiotechllc | [ancorabiotechllc](https://apis.io/providers/ancorabiotechllc/) | [ancorabiotechllc](https://github.com/api-evangelist/ancorabiotechllc) |
 | Ancsonic | [ancsonic](https://apis.io/providers/ancsonic/) | [ancsonic](https://github.com/api-evangelist/ancsonic) |
 | AND Global | [and-global](https://apis.io/providers/and-global/) | [and-global](https://github.com/api-evangelist/and-global) |
-| '&Volume' | [and-volume](https://apis.io/providers/and-volume/) | [and-volume](https://github.com/api-evangelist/and-volume) |
+| &Volume | [and-volume](https://apis.io/providers/and-volume/) | [and-volume](https://github.com/api-evangelist/and-volume) |
 | Anda | [anda](https://apis.io/providers/anda/) | [anda](https://github.com/api-evangelist/anda) |
 | Andalin | [andalin](https://apis.io/providers/andalin/) | [andalin](https://github.com/api-evangelist/andalin) |
 | Andalusia Labs | [andalusia-labs](https://apis.io/providers/andalusia-labs/) | [andalusia-labs](https://github.com/api-evangelist/andalusia-labs) |
@@ -612,7 +612,7 @@
 | Animab | [animab](https://apis.io/providers/animab/) | [animab](https://github.com/api-evangelist/animab) |
 | Animaj | [animaj](https://apis.io/providers/animaj/) | [animaj](https://github.com/api-evangelist/animaj) |
 | Animal and Plant Health Inspection Service | [animal-and-plant-health-inspection-service](https://apis.io/providers/animal-and-plant-health-inspection-service/) | [animal-and-plant-health-inspection-service](https://github.com/api-evangelist/animal-and-plant-health-inspection-service) |
-| 'Animal Crossing: New Horizons' | [animal-crossing-new-horizons](https://apis.io/providers/animal-crossing-new-horizons/) | [animal-crossing-new-horizons](https://github.com/api-evangelist/animal-crossing-new-horizons) |
+| Animal Crossing: New Horizons | [animal-crossing-new-horizons](https://apis.io/providers/animal-crossing-new-horizons/) | [animal-crossing-new-horizons](https://github.com/api-evangelist/animal-crossing-new-horizons) |
 | AnimalBiome | [animalbiome](https://apis.io/providers/animalbiome/) | [animalbiome](https://github.com/api-evangelist/animalbiome) |
 | animalchecklist-com | [animalchecklist-com](https://apis.io/providers/animalchecklist-com/) | [animalchecklist-com](https://github.com/api-evangelist/animalchecklist-com) |
 | AnimalHouse.ai | [animalhouse-ai](https://apis.io/providers/animalhouse-ai/) | [animalhouse-ai](https://github.com/api-evangelist/animalhouse-ai) |

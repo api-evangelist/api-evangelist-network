@@ -525,7 +525,7 @@ include:
   url: https://artifacts.apis.io/oferteo/apis.yml
   x-apis-io: https://apis.io/providers/oferteo/
   x-github: https://github.com/api-evangelist/oferteo
-- name: '''OFF'''
+- name: 'OFF'
   url: https://artifacts.apis.io/off/apis.yml
   x-apis-io: https://apis.io/providers/off/
   x-github: https://github.com/api-evangelist/off
@@ -1137,7 +1137,7 @@ include:
   url: https://artifacts.apis.io/omvana/apis.yml
   x-apis-io: https://apis.io/providers/omvana/
   x-github: https://github.com/api-evangelist/omvana
-- name: '''On'''
+- name: 'On'
   url: https://artifacts.apis.io/on/apis.yml
   x-apis-io: https://apis.io/providers/on/
   x-github: https://github.com/api-evangelist/on

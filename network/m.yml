@@ -69,7 +69,7 @@ include:
   url: https://artifacts.apis.io/macabacus/apis.yml
   x-apis-io: https://apis.io/providers/macabacus/
   x-github: https://github.com/api-evangelist/macabacus
-- name: '''MAC Address Lookup: Find Vendor, OUI & Device Type'''
+- name: 'MAC Address Lookup: Find Vendor, OUI & Device Type'
   url: https://artifacts.apis.io/macadress/apis.yml
   x-apis-io: https://apis.io/providers/macadress/
   x-github: https://github.com/api-evangelist/macadress

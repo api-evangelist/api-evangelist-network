@@ -209,7 +209,7 @@ include:
   url: https://artifacts.apis.io/1200pharma/apis.yml
   x-apis-io: https://apis.io/providers/1200pharma/
   x-github: https://github.com/api-evangelist/1200pharma
-- name: '''1211'''
+- name: '1211'
   url: https://artifacts.apis.io/1211holding-com/apis.yml
   x-apis-io: https://apis.io/providers/1211holding-com/
   x-github: https://github.com/api-evangelist/1211holding-com
@@ -281,7 +281,7 @@ include:
   url: https://artifacts.apis.io/1910genetics-com/apis.yml
   x-apis-io: https://apis.io/providers/1910genetics-com/
   x-github: https://github.com/api-evangelist/1910genetics-com
-- name: '''1919'''
+- name: '1919'
   url: https://artifacts.apis.io/1919/apis.yml
   x-apis-io: https://apis.io/providers/1919/
   x-github: https://github.com/api-evangelist/1919
@@ -485,7 +485,7 @@ include:
   url: https://artifacts.apis.io/21vianet/apis.yml
   x-apis-io: https://apis.io/providers/21vianet/
   x-github: https://github.com/api-evangelist/21vianet
-- name: '''222'''
+- name: '222'
   url: https://artifacts.apis.io/222/apis.yml
   x-apis-io: https://apis.io/providers/222/
   x-github: https://github.com/api-evangelist/222
@@ -501,7 +501,7 @@ include:
   url: https://artifacts.apis.io/24-pull-requests/apis.yml
   x-apis-io: https://apis.io/providers/24-pull-requests/
   x-github: https://github.com/api-evangelist/24-pull-requests
-- name: '''[24]7.ai'''
+- name: '[24]7.ai'
   url: https://artifacts.apis.io/247-ai/apis.yml
   x-apis-io: https://apis.io/providers/247-ai/
   x-github: https://github.com/api-evangelist/247-ai
@@ -1105,7 +1105,7 @@ include:
   url: https://artifacts.apis.io/60db/apis.yml
   x-apis-io: https://apis.io/providers/60db/
   x-github: https://github.com/api-evangelist/60db
-- name: '''61'''
+- name: '61'
   url: https://artifacts.apis.io/61/apis.yml
   x-apis-io: https://apis.io/providers/61/
   x-github: https://github.com/api-evangelist/61

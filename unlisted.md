@@ -2,7 +2,7 @@
 
 Repositories in the `api-evangelist` GitHub organization that are named for a provider but have no live provider page on APIs.io as of 2026-11-06. They are not in the index until a page exists. Infrastructure repositories (the sites, tools and data that run the network) and retired or delisted companies are excluded here and from the index.
 
-## Profiled, but no live page (1,535)
+## Profiled, but no live page (1,582)
 
 Artifacts exist in the profile store or a page was built once, but the page is missing or now redirects.
 
@@ -1136,8 +1136,55 @@ Artifacts exist in the profile store or a page was built once, but the page is m
 | [elevai-ch](https://github.com/api-evangelist/elevai-ch) | elevai-ch | not built | yes |  |
 | [elevaredigital-io](https://github.com/api-evangelist/elevaredigital-io) | elevaredigital-io | not built | yes |  |
 | [elevenflo-com](https://github.com/api-evangelist/elevenflo-com) | elevenflo-com | not built | yes |  |
+| [eleyed-com](https://github.com/api-evangelist/eleyed-com) | eleyed-com | not built | yes |  |
+| [elfsight-com](https://github.com/api-evangelist/elfsight-com) | elfsight-com | not built | yes |  |
+| [elfy-life](https://github.com/api-evangelist/elfy-life) | elfy-life | not built | yes |  |
+| [elijahdesent-com](https://github.com/api-evangelist/elijahdesent-com) | elijahdesent-com | not built | yes |  |
+| [elixirconf-com](https://github.com/api-evangelist/elixirconf-com) | elixirconf-com | not built | yes |  |
+| [ellomind-com](https://github.com/api-evangelist/ellomind-com) | ellomind-com | not built | yes |  |
+| [elmah-io](https://github.com/api-evangelist/elmah-io) | elmah-io | not built | yes |  |
+| [elnora-ai](https://github.com/api-evangelist/elnora-ai) | elnora-ai | not built | yes |  |
+| [elocuenti-com](https://github.com/api-evangelist/elocuenti-com) | elocuenti-com | not built | yes |  |
+| [elopstudio-com](https://github.com/api-evangelist/elopstudio-com) | elopstudio-com | not built | yes |  |
+| [elron-club](https://github.com/api-evangelist/elron-club) | elron-club | not built | yes |  |
+| [elsas-it](https://github.com/api-evangelist/elsas-it) | elsas-it | not built | yes |  |
+| [elsewhereagents-com](https://github.com/api-evangelist/elsewhereagents-com) | elsewhereagents-com | not built | yes |  |
+| [eltablero-ar](https://github.com/api-evangelist/eltablero-ar) | eltablero-ar | not built | yes |  |
+| [elysiatools-com](https://github.com/api-evangelist/elysiatools-com) | elysiatools-com | not built | yes |  |
+| [emadibrahim-com](https://github.com/api-evangelist/emadibrahim-com) | emadibrahim-com | not built | yes |  |
+| [email-spam-tester-com](https://github.com/api-evangelist/email-spam-tester-com) | email-spam-tester-com | not built | yes |  |
+| [emailchaser-com](https://github.com/api-evangelist/emailchaser-com) | emailchaser-com | not built | yes |  |
+| [emailkind-com](https://github.com/api-evangelist/emailkind-com) | emailkind-com | not built | yes |  |
+| [emaillistchecker-io](https://github.com/api-evangelist/emaillistchecker-io) | emaillistchecker-io | not built | yes |  |
+| [emaillistvalidation-com](https://github.com/api-evangelist/emaillistvalidation-com) | emaillistvalidation-com | not built | yes |  |
+| [emailmd-dev](https://github.com/api-evangelist/emailmd-dev) | emailmd-dev | not built | yes |  |
+| [embals-es](https://github.com/api-evangelist/embals-es) | embals-es | not built | yes |  |
 | [embedded-ipaas](https://github.com/api-evangelist/embedded-ipaas) | embedded-ipaas | Moved to Areas | yes |  |
+| [embersds-com](https://github.com/api-evangelist/embersds-com) | embersds-com | not built | yes |  |
+| [emberverse-ai](https://github.com/api-evangelist/emberverse-ai) | emberverse-ai | not built | yes |  |
+| [emdly-com](https://github.com/api-evangelist/emdly-com) | emdly-com | not built | yes |  |
+| [ementai-com-br](https://github.com/api-evangelist/ementai-com-br) | ementai-com-br | not built | yes |  |
 | [emergence-capital](https://github.com/api-evangelist/emergence-capital) | emergence-capital | not built | yes |  |
+| [emergingtechcenter-com](https://github.com/api-evangelist/emergingtechcenter-com) | emergingtechcenter-com | not built | yes |  |
+| [emidlabs-com](https://github.com/api-evangelist/emidlabs-com) | emidlabs-com | not built | yes |  |
+| [emile-wine](https://github.com/api-evangelist/emile-wine) | emile-wine | not built | yes |  |
+| [emisar-dev](https://github.com/api-evangelist/emisar-dev) | emisar-dev | not built | yes |  |
+| [emisorasdecolombia-com](https://github.com/api-evangelist/emisorasdecolombia-com) | emisorasdecolombia-com | not built | yes |  |
+| [emisso-ai](https://github.com/api-evangelist/emisso-ai) | emisso-ai | not built | yes |  |
+| [eml-ai](https://github.com/api-evangelist/eml-ai) | eml-ai | not built | yes |  |
+| [emmanuelbenami-com](https://github.com/api-evangelist/emmanuelbenami-com) | emmanuelbenami-com | not built | yes |  |
+| [emorahealth-com](https://github.com/api-evangelist/emorahealth-com) | emorahealth-com | not built | yes |  |
+| [emotioninside-org](https://github.com/api-evangelist/emotioninside-org) | emotioninside-org | not built | yes |  |
+| [employeecostaustralia-com](https://github.com/api-evangelist/employeecostaustralia-com) | employeecostaustralia-com | not built | yes |  |
+| [employeecostcalculator-co-nz](https://github.com/api-evangelist/employeecostcalculator-co-nz) | employeecostcalculator-co-nz | not built | yes |  |
+| [employeedeskhq-com](https://github.com/api-evangelist/employeedeskhq-com) | employeedeskhq-com | not built | yes |  |
+| [employercostcalculator-co-uk](https://github.com/api-evangelist/employercostcalculator-co-uk) | employercostcalculator-co-uk | not built | yes |  |
+| [employmentcontractgenerator-co-uk](https://github.com/api-evangelist/employmentcontractgenerator-co-uk) | employmentcontractgenerator-co-uk | not built | yes |  |
+| [employmentrightschecker-co-uk](https://github.com/api-evangelist/employmentrightschecker-co-uk) | employmentrightschecker-co-uk | not built | yes |  |
+| [emplusx-com](https://github.com/api-evangelist/emplusx-com) | emplusx-com | not built | yes |  |
+| [emprego-com](https://github.com/api-evangelist/emprego-com) | emprego-com | not built | yes |  |
+| [empresskorea-com](https://github.com/api-evangelist/empresskorea-com) | empresskorea-com | not built | yes |  |
+| [empryo-com](https://github.com/api-evangelist/empryo-com) | empryo-com | not built | yes |  |
 | [encryption](https://github.com/api-evangelist/encryption) | encryption | Moved to Areas | yes |  |
 | [energy-utilities](https://github.com/api-evangelist/energy-utilities) | energy-utilities | Moved to Topics | yes |  |
 | [enterprise-wikimedia-com](https://github.com/api-evangelist/enterprise-wikimedia-com) | enterprise-wikimedia-com | not built | yes |  |

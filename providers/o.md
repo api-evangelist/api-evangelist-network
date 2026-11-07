@@ -135,7 +135,7 @@
 | Ofbusiness | [ofbusiness](https://apis.io/providers/ofbusiness/) | [ofbusiness](https://github.com/api-evangelist/ofbusiness) |
 | Ofcom | [ofcom](https://apis.io/providers/ofcom/) | [ofcom](https://github.com/api-evangelist/ofcom) |
 | Oferteo | [oferteo](https://apis.io/providers/oferteo/) | [oferteo](https://github.com/api-evangelist/oferteo) |
-| 'OFF' | [off](https://apis.io/providers/off/) | [off](https://github.com/api-evangelist/off) |
+| OFF | [off](https://apis.io/providers/off/) | [off](https://github.com/api-evangelist/off) |
 | Offcall | [offcall](https://apis.io/providers/offcall/) | [offcall](https://github.com/api-evangelist/offcall) |
 | Offchain Labs | [offchain-labs](https://apis.io/providers/offchain-labs/) | [offchain-labs](https://github.com/api-evangelist/offchain-labs) |
 | Offchain Labs (Arbitrum) | [offchain-labs-arbitrum](https://apis.io/providers/offchain-labs-arbitrum/) | [offchain-labs-arbitrum](https://github.com/api-evangelist/offchain-labs-arbitrum) |
@@ -288,7 +288,7 @@
 | OMOPHub | [omophub](https://apis.io/providers/omophub/) | [omophub](https://github.com/api-evangelist/omophub) |
 | OMsignal | [omsignal](https://apis.io/providers/omsignal/) | [omsignal](https://github.com/api-evangelist/omsignal) |
 | Omvana | [omvana](https://apis.io/providers/omvana/) | [omvana](https://github.com/api-evangelist/omvana) |
-| 'On' | [on](https://apis.io/providers/on/) | [on](https://github.com/api-evangelist/on) |
+| On | [on](https://apis.io/providers/on/) | [on](https://github.com/api-evangelist/on) |
 | On Me | [on-me](https://apis.io/providers/on-me/) | [on-me](https://github.com/api-evangelist/on-me) |
 | onsemi | [on-semiconductor](https://apis.io/providers/on-semiconductor/) | [on-semiconductor](https://github.com/api-evangelist/on-semiconductor) |
 | On the Beach | [on-the-beach](https://apis.io/providers/on-the-beach/) | [on-the-beach](https://github.com/api-evangelist/on-the-beach) |

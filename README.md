@@ -6,10 +6,10 @@ The index of every API provider in the [`api-evangelist`](https://github.com/api
 
 | | |
 |---|---:|
-| Public repositories in the organization | 41,249 |
+| Public repositories in the organization | 41,296 |
 | Providers in this index (live APIs.io page) | **38,087** |
 | … of which the store copy of apis.yml is still syncing (`x-store: pending`) | 185 |
-| Profiled, but no live APIs.io page | 1,535 |
+| Profiled, but no live APIs.io page | 1,582 |
 | Never profiled | 0 |
 | Retired into another provider, or delisted on request | 1,589 |
 | Infrastructure repositories (not providers) | 38 |

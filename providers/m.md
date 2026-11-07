@@ -21,7 +21,7 @@
 | Mabl | [mabl](https://apis.io/providers/mabl/) | [mabl](https://github.com/api-evangelist/mabl) |
 | Mable | [mable-com-au](https://apis.io/providers/mable-com-au/) | [mable-com-au](https://github.com/api-evangelist/mable-com-au) |
 | Macabacus | [macabacus](https://apis.io/providers/macabacus/) | [macabacus](https://github.com/api-evangelist/macabacus) |
-| 'MAC Address Lookup: Find Vendor, OUI & Device Type' | [macadress](https://apis.io/providers/macadress/) | [macadress](https://github.com/api-evangelist/macadress) |
+| MAC Address Lookup: Find Vendor, OUI & Device Type | [macadress](https://apis.io/providers/macadress/) | [macadress](https://github.com/api-evangelist/macadress) |
 | Macaroon Network | [macaroonnetwork-com](https://apis.io/providers/macaroonnetwork-com/) | [macaroonnetwork-com](https://github.com/api-evangelist/macaroonnetwork-com) |
 | Mach Industries | [mach-industries](https://apis.io/providers/mach-industries/) | [mach-industries](https://github.com/api-evangelist/mach-industries) |
 | Macheye | [macheye](https://apis.io/providers/macheye/) | [macheye](https://github.com/api-evangelist/macheye) |

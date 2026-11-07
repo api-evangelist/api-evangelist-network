@@ -2097,7 +2097,7 @@ include:
   url: https://artifacts.apis.io/and-global/apis.yml
   x-apis-io: https://apis.io/providers/and-global/
   x-github: https://github.com/api-evangelist/and-global
-- name: '''&Volume'''
+- name: '&Volume'
   url: https://artifacts.apis.io/and-volume/apis.yml
   x-apis-io: https://apis.io/providers/and-volume/
   x-github: https://github.com/api-evangelist/and-volume
@@ -2433,7 +2433,7 @@ include:
   url: https://artifacts.apis.io/animal-and-plant-health-inspection-service/apis.yml
   x-apis-io: https://apis.io/providers/animal-and-plant-health-inspection-service/
   x-github: https://github.com/api-evangelist/animal-and-plant-health-inspection-service
-- name: '''Animal Crossing: New Horizons'''
+- name: 'Animal Crossing: New Horizons'
   url: https://artifacts.apis.io/animal-crossing-new-horizons/apis.yml
   x-apis-io: https://apis.io/providers/animal-crossing-new-horizons/
   x-github: https://github.com/api-evangelist/animal-crossing-new-horizons
