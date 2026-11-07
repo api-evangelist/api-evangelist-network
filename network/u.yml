@@ -1,0 +1,2699 @@
+name: API Evangelist Network — providers U
+description: 'The 672 API providers in the API Evangelist network whose repository name begins with U. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
+url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/u.yml
+created: '2026-02-27'
+modified: '2026-11-06'
+specificationVersion: '0.23'
+tags:
+- Directory
+- Index
+- Network
+include:
+- name: U.S. Access Board
+  url: https://artifacts.apis.io/u-s-access-board/apis.yml
+  x-apis-io: https://apis.io/providers/u-s-access-board/
+  x-github: https://github.com/api-evangelist/u-s-access-board
+- name: U.S. Agency for Global Media
+  url: https://artifacts.apis.io/u-s-agency-for-global-media/apis.yml
+  x-apis-io: https://apis.io/providers/u-s-agency-for-global-media/
+  x-github: https://github.com/api-evangelist/u-s-agency-for-global-media
+- name: U.S. Geological Survey
+  url: https://artifacts.apis.io/u-s-geological-survey/apis.yml
+  x-apis-io: https://apis.io/providers/u-s-geological-survey/
+  x-github: https://github.com/api-evangelist/u-s-geological-survey
+- name: U.S. Geospatial Intelligence Foundation (USGIF)
+  url: https://artifacts.apis.io/u-s-geospatial-intelligence-foundation-usgif/apis.yml
+  x-apis-io: https://apis.io/providers/u-s-geospatial-intelligence-foundation-usgif/
+  x-github: https://github.com/api-evangelist/u-s-geospatial-intelligence-foundation-usgif
+- name: Autonomous University of Barcelona
+  url: https://artifacts.apis.io/uab/apis.yml
+  x-apis-io: https://apis.io/providers/uab/
+  x-github: https://github.com/api-evangelist/uab
+- name: UAE PASS
+  url: https://artifacts.apis.io/uae-pass/apis.yml
+  x-apis-io: https://apis.io/providers/uae-pass/
+  x-github: https://github.com/api-evangelist/uae-pass
+- name: 'Ualá'
+  url: https://artifacts.apis.io/ual/apis.yml
+  x-apis-io: https://apis.io/providers/ual/
+  x-github: https://github.com/api-evangelist/ual
+- name: Autonomous University of Madrid
+  url: https://artifacts.apis.io/uam/apis.yml
+  x-apis-io: https://apis.io/providers/uam/
+  x-github: https://github.com/api-evangelist/uam
+- name: Uanataca
+  url: https://artifacts.apis.io/uanataca/apis.yml
+  x-apis-io: https://apis.io/providers/uanataca/
+  x-github: https://github.com/api-evangelist/uanataca
+- name: Uare.ai
+  url: https://artifacts.apis.io/uare-ai/apis.yml
+  x-apis-io: https://apis.io/providers/uare-ai/
+  x-github: https://github.com/api-evangelist/uare-ai
+- name: ubank
+  url: https://artifacts.apis.io/ubank/apis.yml
+  x-apis-io: https://apis.io/providers/ubank/
+  x-github: https://github.com/api-evangelist/ubank
+- name: Ubble
+  url: https://artifacts.apis.io/ubble/apis.yml
+  x-apis-io: https://apis.io/providers/ubble/
+  x-github: https://github.com/api-evangelist/ubble
+- name: University of British Columbia
+  url: https://artifacts.apis.io/ubc/apis.yml
+  x-apis-io: https://apis.io/providers/ubc/
+  x-github: https://github.com/api-evangelist/ubc
+- name: uBEAM
+  url: https://artifacts.apis.io/ubeam/apis.yml
+  x-apis-io: https://apis.io/providers/ubeam/
+  x-github: https://github.com/api-evangelist/ubeam
+- name: Uber
+  url: https://artifacts.apis.io/uber/apis.yml
+  x-apis-io: https://apis.io/providers/uber/
+  x-github: https://github.com/api-evangelist/uber
+- name: Uber Direct
+  url: https://artifacts.apis.io/uber-direct/apis.yml
+  x-apis-io: https://apis.io/providers/uber-direct/
+  x-github: https://github.com/api-evangelist/uber-direct
+- name: Uber Eats
+  url: https://artifacts.apis.io/uber-eats/apis.yml
+  x-apis-io: https://apis.io/providers/uber-eats/
+  x-github: https://github.com/api-evangelist/uber-eats
+- name: Uber Freight
+  url: https://artifacts.apis.io/uber-freight/apis.yml
+  x-apis-io: https://apis.io/providers/uber-freight/
+  x-github: https://github.com/api-evangelist/uber-freight
+- name: Uberduck
+  url: https://artifacts.apis.io/uberduck/apis.yml
+  x-apis-io: https://apis.io/providers/uberduck/
+  x-github: https://github.com/api-evangelist/uberduck
+- name: UberSense
+  url: https://artifacts.apis.io/ubersense/apis.yml
+  x-apis-io: https://apis.io/providers/ubersense/
+  x-github: https://github.com/api-evangelist/ubersense
+- name: uberVU
+  url: https://artifacts.apis.io/ubervu/apis.yml
+  x-apis-io: https://apis.io/providers/ubervu/
+  x-github: https://github.com/api-evangelist/ubervu
+- name: Ubeya
+  url: https://artifacts.apis.io/ubeya/apis.yml
+  x-apis-io: https://apis.io/providers/ubeya/
+  x-github: https://github.com/api-evangelist/ubeya
+- name: Ubicloud
+  url: https://artifacts.apis.io/ubicloud/apis.yml
+  x-apis-io: https://apis.io/providers/ubicloud/
+  x-github: https://github.com/api-evangelist/ubicloud
+- name: Ubicquia
+  url: https://artifacts.apis.io/ubicquia/apis.yml
+  x-apis-io: https://apis.io/providers/ubicquia/
+  x-github: https://github.com/api-evangelist/ubicquia
+- name: Ubidots
+  url: https://artifacts.apis.io/ubidots/apis.yml
+  x-apis-io: https://apis.io/providers/ubidots/
+  x-github: https://github.com/api-evangelist/ubidots
+- name: UBIO Automation Cloud
+  url: https://artifacts.apis.io/ubio-automation-cloud/apis.yml
+  x-apis-io: https://apis.io/providers/ubio-automation-cloud/
+  x-github: https://github.com/api-evangelist/ubio-automation-cloud
+- name: uBiome
+  url: https://artifacts.apis.io/ubiome/apis.yml
+  x-apis-io: https://apis.io/providers/ubiome/
+  x-github: https://github.com/api-evangelist/ubiome
+- name: Ubiq (now NECTURE)
+  url: https://artifacts.apis.io/ubiq/apis.yml
+  x-apis-io: https://apis.io/providers/ubiq/
+  x-github: https://github.com/api-evangelist/ubiq
+- name: Ubiquisys
+  url: https://artifacts.apis.io/ubiquisys/apis.yml
+  x-apis-io: https://apis.io/providers/ubiquisys/
+  x-github: https://github.com/api-evangelist/ubiquisys
+- name: Ubiquiti
+  url: https://artifacts.apis.io/ubiquiti/apis.yml
+  x-apis-io: https://apis.io/providers/ubiquiti/
+  x-github: https://github.com/api-evangelist/ubiquiti
+- name: Ubiquitous Energy
+  url: https://artifacts.apis.io/ubiquitous-energy/apis.yml
+  x-apis-io: https://apis.io/providers/ubiquitous-energy/
+  x-github: https://github.com/api-evangelist/ubiquitous-energy
+- name: Ubiquitous Influence
+  url: https://artifacts.apis.io/ubiquitous-influence/apis.yml
+  x-apis-io: https://apis.io/providers/ubiquitous-influence/
+  x-github: https://github.com/api-evangelist/ubiquitous-influence
+- name: Ubiquity6
+  url: https://artifacts.apis.io/ubiquity6/apis.yml
+  x-apis-io: https://apis.io/providers/ubiquity6/
+  x-github: https://github.com/api-evangelist/ubiquity6
+- name: Ubitricity
+  url: https://artifacts.apis.io/ubitricity/apis.yml
+  x-apis-io: https://apis.io/providers/ubitricity/
+  x-github: https://github.com/api-evangelist/ubitricity
+- name: UBIX Labs
+  url: https://artifacts.apis.io/ubix/apis.yml
+  x-apis-io: https://apis.io/providers/ubix/
+  x-github: https://github.com/api-evangelist/ubix
+- name: Ubooly
+  url: https://artifacts.apis.io/ubooly/apis.yml
+  x-apis-io: https://apis.io/providers/ubooly/
+  x-github: https://github.com/api-evangelist/ubooly
+- name: UBQ Materials
+  url: https://artifacts.apis.io/ubq-materials/apis.yml
+  x-apis-io: https://apis.io/providers/ubq-materials/
+  x-github: https://github.com/api-evangelist/ubq-materials
+- name: Ubras
+  url: https://artifacts.apis.io/ubras/apis.yml
+  x-apis-io: https://apis.io/providers/ubras/
+  x-github: https://github.com/api-evangelist/ubras
+- name: UBS
+  url: https://artifacts.apis.io/ubs/apis.yml
+  x-apis-io: https://apis.io/providers/ubs/
+  x-github: https://github.com/api-evangelist/ubs
+- name: UBS Bank USA
+  url: https://artifacts.apis.io/ubs-bank-usa/apis.yml
+  x-apis-io: https://apis.io/providers/ubs-bank-usa/
+  x-github: https://github.com/api-evangelist/ubs-bank-usa
+- name: UBTech
+  url: https://artifacts.apis.io/ubtech/apis.yml
+  x-apis-io: https://apis.io/providers/ubtech/
+  x-github: https://github.com/api-evangelist/ubtech
+- name: Ubuntu
+  url: https://artifacts.apis.io/ubuntu/apis.yml
+  x-apis-io: https://apis.io/providers/ubuntu/
+  x-github: https://github.com/api-evangelist/ubuntu
+- name: 'University of California, Davis'
+  url: https://artifacts.apis.io/uc-davis/apis.yml
+  x-apis-io: https://apis.io/providers/uc-davis/
+  x-github: https://github.com/api-evangelist/uc-davis
+- name: 'University of California, Berkeley'
+  url: https://artifacts.apis.io/ucb/apis.yml
+  x-apis-io: https://apis.io/providers/ucb/
+  x-github: https://github.com/api-evangelist/ucb
+- name: University College Dublin
+  url: https://artifacts.apis.io/ucd/apis.yml
+  x-apis-io: https://apis.io/providers/ucd/
+  x-github: https://github.com/api-evangelist/ucd
+- name: UCEPROTECT
+  url: https://artifacts.apis.io/uceprotect/apis.yml
+  x-apis-io: https://apis.io/providers/uceprotect/
+  x-github: https://github.com/api-evangelist/uceprotect
+- name: uChecker
+  url: https://artifacts.apis.io/uchecker/apis.yml
+  x-apis-io: https://apis.io/providers/uchecker/
+  x-github: https://github.com/api-evangelist/uchecker
+- name: UCL
+  url: https://artifacts.apis.io/ucl/apis.yml
+  x-apis-io: https://apis.io/providers/ucl/
+  x-github: https://github.com/api-evangelist/ucl
+- name: 'University of California, Los Angeles'
+  url: https://artifacts.apis.io/ucla/apis.yml
+  x-apis-io: https://apis.io/providers/ucla/
+  x-github: https://github.com/api-evangelist/ucla
+- name: UCloud
+  url: https://artifacts.apis.io/ucloud/apis.yml
+  x-apis-io: https://apis.io/providers/ucloud/
+  x-github: https://github.com/api-evangelist/ucloud
+- name: UCLouvain
+  url: https://artifacts.apis.io/uclouvain/apis.yml
+  x-apis-io: https://apis.io/providers/uclouvain/
+  x-github: https://github.com/api-evangelist/uclouvain
+- name: UCode
+  url: https://artifacts.apis.io/ucode/apis.yml
+  x-apis-io: https://apis.io/providers/ucode/
+  x-github: https://github.com/api-evangelist/ucode
+- name: 'University of California, Santa Barbara'
+  url: https://artifacts.apis.io/ucsb/apis.yml
+  x-apis-io: https://apis.io/providers/ucsb/
+  x-github: https://github.com/api-evangelist/ucsb
+- name: UCSC Genomic Data
+  url: https://artifacts.apis.io/ucsc-genomic-data/apis.yml
+  x-apis-io: https://apis.io/providers/ucsc-genomic-data/
+  x-github: https://github.com/api-evangelist/ucsc-genomic-data
+- name: 'University of California, San Diego'
+  url: https://artifacts.apis.io/ucsd/apis.yml
+  x-apis-io: https://apis.io/providers/ucsd/
+  x-github: https://github.com/api-evangelist/ucsd
+- name: 'University of California, San Francisco'
+  url: https://artifacts.apis.io/ucsf/apis.yml
+  x-apis-io: https://apis.io/providers/ucsf/
+  x-github: https://github.com/api-evangelist/ucsf
+- name: UCSI University
+  url: https://artifacts.apis.io/ucsi/apis.yml
+  x-apis-io: https://apis.io/providers/ucsi/
+  x-github: https://github.com/api-evangelist/ucsi
+- name: uctomost-sk
+  url: https://artifacts.apis.io/uctomost-sk/apis.yml
+  x-apis-io: https://apis.io/providers/uctomost-sk/
+  x-github: https://github.com/api-evangelist/uctomost-sk
+- name: Udaan
+  url: https://artifacts.apis.io/udaan/apis.yml
+  x-apis-io: https://apis.io/providers/udaan/
+  x-github: https://github.com/api-evangelist/udaan
+- name: Udacity
+  url: https://artifacts.apis.io/udacity/apis.yml
+  x-apis-io: https://apis.io/providers/udacity/
+  x-github: https://github.com/api-evangelist/udacity
+- name: Udemy
+  url: https://artifacts.apis.io/udemy/apis.yml
+  x-apis-io: https://apis.io/providers/udemy/
+  x-github: https://github.com/api-evangelist/udemy
+- name: Udemy(instructor)
+  url: https://artifacts.apis.io/udemy-instructor/apis.yml
+  x-apis-io: https://apis.io/providers/udemy-instructor/
+  x-github: https://github.com/api-evangelist/udemy-instructor
+- name: Udesk
+  url: https://artifacts.apis.io/udesk/apis.yml
+  x-apis-io: https://apis.io/providers/udesk/
+  x-github: https://github.com/api-evangelist/udesk
+- name: Udio
+  url: https://artifacts.apis.io/udio/apis.yml
+  x-apis-io: https://apis.io/providers/udio/
+  x-github: https://github.com/api-evangelist/udio
+- name: Uebermaps
+  url: https://artifacts.apis.io/uebermaps/apis.yml
+  x-apis-io: https://apis.io/providers/uebermaps/
+  x-github: https://github.com/api-evangelist/uebermaps
+- name: UEFA
+  url: https://artifacts.apis.io/uefa/apis.yml
+  x-apis-io: https://apis.io/providers/uefa/
+  x-github: https://github.com/api-evangelist/uefa
+- name: ugc-fans
+  url: https://artifacts.apis.io/ugc-fans/apis.yml
+  x-apis-io: https://apis.io/providers/ugc-fans/
+  x-github: https://github.com/api-evangelist/ugc-fans
+- name: UGC Agent
+  url: https://artifacts.apis.io/ugcagent/apis.yml
+  x-apis-io: https://apis.io/providers/ugcagent/
+  x-github: https://github.com/api-evangelist/ugcagent
+- name: UGI
+  url: https://artifacts.apis.io/ugi/apis.yml
+  x-apis-io: https://apis.io/providers/ugi/
+  x-github: https://github.com/api-evangelist/ugi
+- name: 'UGIX Programme Unit, Foundation for Science and Development (FSID)'
+  url: https://artifacts.apis.io/ugix-programme-unit-foundation-for-science-and-development-fsid/apis.yml
+  x-apis-io: https://apis.io/providers/ugix-programme-unit-foundation-for-science-and-development-fsid/
+  x-github: https://github.com/api-evangelist/ugix-programme-unit-foundation-for-science-and-development-fsid
+- name: Uhnder
+  url: https://artifacts.apis.io/uhnder/apis.yml
+  x-apis-io: https://apis.io/providers/uhnder/
+  x-github: https://github.com/api-evangelist/uhnder
+- name: Uhura Solutions
+  url: https://artifacts.apis.io/uhura-solutions/apis.yml
+  x-apis-io: https://apis.io/providers/uhura-solutions/
+  x-github: https://github.com/api-evangelist/uhura-solutions
+- name: Aadhaar eSign (UIDAI)
+  url: https://artifacts.apis.io/uidai/apis.yml
+  x-apis-io: https://apis.io/providers/uidai/
+  x-github: https://github.com/api-evangelist/uidai
+- name: UiPath
+  url: https://artifacts.apis.io/uipath/apis.yml
+  x-apis-io: https://apis.io/providers/uipath/
+  x-github: https://github.com/api-evangelist/uipath
+- name: Uizard Technologies
+  url: https://artifacts.apis.io/uizard-technologies/apis.yml
+  x-apis-io: https://apis.io/providers/uizard-technologies/
+  x-github: https://github.com/api-evangelist/uizard-technologies
+- name: ujeebu-com
+  url: https://artifacts.apis.io/ujeebu-com/apis.yml
+  x-apis-io: https://apis.io/providers/ujeebu-com/
+  x-github: https://github.com/api-evangelist/ujeebu-com
+- name: UJET
+  url: https://artifacts.apis.io/ujet/apis.yml
+  x-apis-io: https://apis.io/providers/ujet/
+  x-github: https://github.com/api-evangelist/ujet
+- name: Ujoin Advocacy
+  url: https://artifacts.apis.io/ujoin/apis.yml
+  x-apis-io: https://apis.io/providers/ujoin/
+  x-github: https://github.com/api-evangelist/ujoin
+- name: UK Bank Holidays
+  url: https://artifacts.apis.io/uk-bank-holidays/apis.yml
+  x-apis-io: https://apis.io/providers/uk-bank-holidays/
+  x-github: https://github.com/api-evangelist/uk-bank-holidays
+- name: UK Civil Aviation Authority
+  url: https://artifacts.apis.io/uk-caa/apis.yml
+  x-apis-io: https://apis.io/providers/uk-caa/
+  x-github: https://github.com/api-evangelist/uk-caa
+- name: UK Carbon Intensity
+  url: https://artifacts.apis.io/uk-carbon-intensity/apis.yml
+  x-apis-io: https://apis.io/providers/uk-carbon-intensity/
+  x-github: https://github.com/api-evangelist/uk-carbon-intensity
+- name: UK Companies House
+  url: https://artifacts.apis.io/uk-companies-house/apis.yml
+  x-apis-io: https://apis.io/providers/uk-companies-house/
+  x-github: https://github.com/api-evangelist/uk-companies-house
+- name: UK Data Service
+  url: https://artifacts.apis.io/uk-data-service/apis.yml
+  x-apis-io: https://apis.io/providers/uk-data-service/
+  x-github: https://github.com/api-evangelist/uk-data-service
+- name: UK Met Office
+  url: https://artifacts.apis.io/uk-met-office/apis.yml
+  x-apis-io: https://apis.io/providers/uk-met-office/
+  x-github: https://github.com/api-evangelist/uk-met-office
+- name: UK Police
+  url: https://artifacts.apis.io/uk-police/apis.yml
+  x-apis-io: https://apis.io/providers/uk-police/
+  x-github: https://github.com/api-evangelist/uk-police
+- name: UK Power Networks
+  url: https://artifacts.apis.io/uk-power-networks/apis.yml
+  x-apis-io: https://apis.io/providers/uk-power-networks/
+  x-github: https://github.com/api-evangelist/uk-power-networks
+- name: UKG
+  url: https://artifacts.apis.io/ukg/apis.yml
+  x-apis-io: https://apis.io/providers/ukg/
+  x-github: https://github.com/api-evangelist/ukg
+- name: UKG Pro
+  url: https://artifacts.apis.io/ukg-pro/apis.yml
+  x-apis-io: https://apis.io/providers/ukg-pro/
+  x-github: https://github.com/api-evangelist/ukg-pro
+- name: UKG Ready
+  url: https://artifacts.apis.io/ukg-ready/apis.yml
+  x-apis-io: https://apis.io/providers/ukg-ready/
+  x-github: https://github.com/api-evangelist/ukg-ready
+- name: Ukio
+  url: https://artifacts.apis.io/ukio/apis.yml
+  x-apis-io: https://apis.io/providers/ukio/
+  x-github: https://github.com/api-evangelist/ukio
+- name: Universiti Kebangsaan Malaysia
+  url: https://artifacts.apis.io/ukm/apis.yml
+  x-apis-io: https://apis.io/providers/ukm/
+  x-github: https://github.com/api-evangelist/ukm
+- name: ukrdigital-org
+  url: https://artifacts.apis.io/ukrdigital-org/apis.yml
+  x-apis-io: https://apis.io/providers/ukrdigital-org/
+  x-github: https://github.com/api-evangelist/ukrdigital-org
+- name: UL Solutions
+  url: https://artifacts.apis.io/ul-solutions/apis.yml
+  x-apis-io: https://apis.io/providers/ul-solutions/
+  x-github: https://github.com/api-evangelist/ul-solutions
+- name: Ula
+  url: https://artifacts.apis.io/ula/apis.yml
+  x-apis-io: https://apis.io/providers/ula/
+  x-github: https://github.com/api-evangelist/ula
+- name: 'Université libre de Bruxelles'
+  url: https://artifacts.apis.io/ulb/apis.yml
+  x-apis-io: https://apis.io/providers/ulb/
+  x-github: https://github.com/api-evangelist/ulb
+- name: ulehla-dev
+  url: https://artifacts.apis.io/ulehla-dev/apis.yml
+  x-apis-io: https://apis.io/providers/ulehla-dev/
+  x-github: https://github.com/api-evangelist/ulehla-dev
+- name: 'Ulta Salon, Cosmetics & Fragrance'
+  url: https://artifacts.apis.io/ulta-salon-cosmetics-and-fragrance/apis.yml
+  x-apis-io: https://apis.io/providers/ulta-salon-cosmetics-and-fragrance/
+  x-github: https://github.com/api-evangelist/ulta-salon-cosmetics-and-fragrance
+- name: Ulthera
+  url: https://artifacts.apis.io/ulthera/apis.yml
+  x-apis-io: https://apis.io/providers/ulthera/
+  x-github: https://github.com/api-evangelist/ulthera
+- name: Ultimagenomics
+  url: https://artifacts.apis.io/ultimagenomics/apis.yml
+  x-apis-io: https://apis.io/providers/ultimagenomics/
+  x-github: https://github.com/api-evangelist/ultimagenomics
+- name: Ultimate.ai
+  url: https://artifacts.apis.io/ultimateai/apis.yml
+  x-apis-io: https://apis.io/providers/ultimateai/
+  x-github: https://github.com/api-evangelist/ultimateai
+- name: Ultra Safe Nuclear
+  url: https://artifacts.apis.io/ultra-safe-nuclear/apis.yml
+  x-apis-io: https://apis.io/providers/ultra-safe-nuclear/
+  x-github: https://github.com/api-evangelist/ultra-safe-nuclear
+- name: Ultrahuman
+  url: https://artifacts.apis.io/ultrahuman/apis.yml
+  x-apis-io: https://apis.io/providers/ultrahuman/
+  x-github: https://github.com/api-evangelist/ultrahuman
+- name: Ultraleap
+  url: https://artifacts.apis.io/ultraleap/apis.yml
+  x-apis-io: https://apis.io/providers/ultraleap/
+  x-github: https://github.com/api-evangelist/ultraleap
+- name: Ultralight
+  url: https://artifacts.apis.io/ultralight/apis.yml
+  x-apis-io: https://apis.io/providers/ultralight/
+  x-github: https://github.com/api-evangelist/ultralight
+- name: Ultralytics
+  url: https://artifacts.apis.io/ultralytics/apis.yml
+  x-apis-io: https://apis.io/providers/ultralytics/
+  x-github: https://github.com/api-evangelist/ultralytics
+- name: Ultromics
+  url: https://artifacts.apis.io/ultromics/apis.yml
+  x-apis-io: https://apis.io/providers/ultromics/
+  x-github: https://github.com/api-evangelist/ultromics
+- name: Ulu Ventures
+  url: https://artifacts.apis.io/ulu-ventures/apis.yml
+  x-apis-io: https://apis.io/providers/ulu-ventures/
+  x-github: https://github.com/api-evangelist/ulu-ventures
+- name: Ulysses (Kaminashi)
+  url: https://artifacts.apis.io/ulysses/apis.yml
+  x-apis-io: https://apis.io/providers/ulysses/
+  x-github: https://github.com/api-evangelist/ulysses
+- name: Umami
+  url: https://artifacts.apis.io/umami/apis.yml
+  x-apis-io: https://apis.io/providers/umami/
+  x-github: https://github.com/api-evangelist/umami
+- name: Umami Cart
+  url: https://artifacts.apis.io/umami-cart/apis.yml
+  x-apis-io: https://apis.io/providers/umami-cart/
+  x-github: https://github.com/api-evangelist/umami-cart
+- name: UMB Bank
+  url: https://artifacts.apis.io/umb-financial/apis.yml
+  x-apis-io: https://apis.io/providers/umb-financial/
+  x-github: https://github.com/api-evangelist/umb-financial
+- name: Umbala
+  url: https://artifacts.apis.io/umbala/apis.yml
+  x-apis-io: https://apis.io/providers/umbala/
+  x-github: https://github.com/api-evangelist/umbala
+- name: umbhost-net
+  url: https://artifacts.apis.io/umbhost-net/apis.yml
+  x-apis-io: https://apis.io/providers/umbhost-net/
+  x-github: https://github.com/api-evangelist/umbhost-net
+- name: Umbra
+  url: https://artifacts.apis.io/umbra/apis.yml
+  x-apis-io: https://apis.io/providers/umbra/
+  x-github: https://github.com/api-evangelist/umbra
+- name: 'Umeå Open Data'
+  url: https://artifacts.apis.io/ume-open-data/apis.yml
+  x-apis-io: https://apis.io/providers/ume-open-data/
+  x-github: https://github.com/api-evangelist/ume-open-data
+- name: umesh-malik-com
+  url: https://artifacts.apis.io/umesh-malik-com/apis.yml
+  x-apis-io: https://apis.io/providers/umesh-malik-com/
+  x-github: https://github.com/api-evangelist/umesh-malik-com
+- name: Ummeed Housing Finance
+  url: https://artifacts.apis.io/ummeedhfc/apis.yml
+  x-apis-io: https://apis.io/providers/ummeedhfc/
+  x-github: https://github.com/api-evangelist/ummeedhfc
+- name: umnify
+  url: https://artifacts.apis.io/umnify/apis.yml
+  x-apis-io: https://apis.io/providers/umnify/
+  x-github: https://github.com/api-evangelist/umnify
+- name: Umoja Biopharma
+  url: https://artifacts.apis.io/umoja/apis.yml
+  x-apis-io: https://apis.io/providers/umoja/
+  x-github: https://github.com/api-evangelist/umoja
+- name: Umoja Labs
+  url: https://artifacts.apis.io/umoja-labs/apis.yml
+  x-apis-io: https://apis.io/providers/umoja-labs/
+  x-github: https://github.com/api-evangelist/umoja-labs
+- name: Umony
+  url: https://artifacts.apis.io/umony/apis.yml
+  x-apis-io: https://apis.io/providers/umony/
+  x-github: https://github.com/api-evangelist/umony
+- name: Umrahme
+  url: https://artifacts.apis.io/umrahme/apis.yml
+  x-apis-io: https://apis.io/providers/umrahme/
+  x-github: https://github.com/api-evangelist/umrahme
+- name: UN Comtrade
+  url: https://artifacts.apis.io/un-comtrade/apis.yml
+  x-apis-io: https://apis.io/providers/un-comtrade/
+  x-github: https://github.com/api-evangelist/un-comtrade
+- name: Una Brands
+  url: https://artifacts.apis.io/una-brands/apis.yml
+  x-apis-io: https://apis.io/providers/una-brands/
+  x-github: https://github.com/api-evangelist/una-brands
+- name: Unacademy
+  url: https://artifacts.apis.io/unacademy/apis.yml
+  x-apis-io: https://apis.io/providers/unacademy/
+  x-github: https://github.com/api-evangelist/unacademy
+- name: Unamo
+  url: https://artifacts.apis.io/unamo/apis.yml
+  x-apis-io: https://apis.io/providers/unamo/
+  x-github: https://github.com/api-evangelist/unamo
+- name: Unbabel
+  url: https://artifacts.apis.io/unbabel/apis.yml
+  x-apis-io: https://apis.io/providers/unbabel/
+  x-github: https://github.com/api-evangelist/unbabel
+- name: Unblocked
+  url: https://artifacts.apis.io/unblocked/apis.yml
+  x-apis-io: https://apis.io/providers/unblocked/
+  x-github: https://github.com/api-evangelist/unblocked
+- name: Unbounce
+  url: https://artifacts.apis.io/unbounce/apis.yml
+  x-apis-io: https://apis.io/providers/unbounce/
+  x-github: https://github.com/api-evangelist/unbounce
+- name: Unbound
+  url: https://artifacts.apis.io/unbound/apis.yml
+  x-apis-io: https://apis.io/providers/unbound/
+  x-github: https://github.com/api-evangelist/unbound
+- name: unboxapi-pro
+  url: https://artifacts.apis.io/unboxapi-pro/apis.yml
+  x-apis-io: https://apis.io/providers/unboxapi-pro/
+  x-github: https://github.com/api-evangelist/unboxapi-pro
+- name: unbrowse-ai
+  url: https://artifacts.apis.io/unbrowse-ai/apis.yml
+  x-apis-io: https://apis.io/providers/unbrowse-ai/
+  x-github: https://github.com/api-evangelist/unbrowse-ai
+- name: Uncapped
+  url: https://artifacts.apis.io/uncapped/apis.yml
+  x-apis-io: https://apis.io/providers/uncapped/
+  x-github: https://github.com/api-evangelist/uncapped
+- name: Unchained Capital
+  url: https://artifacts.apis.io/unchained-capital/apis.yml
+  x-apis-io: https://apis.io/providers/unchained-capital/
+  x-github: https://github.com/api-evangelist/unchained-capital
+- name: Unchained Capital
+  url: https://artifacts.apis.io/unchained-capital-com/apis.yml
+  x-apis-io: https://apis.io/providers/unchained-capital-com/
+  x-github: https://github.com/api-evangelist/unchained-capital-com
+- name: Unchained Labs
+  url: https://artifacts.apis.io/unchained-labs/apis.yml
+  x-apis-io: https://apis.io/providers/unchained-labs/
+  x-github: https://github.com/api-evangelist/unchained-labs
+- name: Uncle Nearest
+  url: https://artifacts.apis.io/uncle-nearest/apis.yml
+  x-apis-io: https://apis.io/providers/uncle-nearest/
+  x-github: https://github.com/api-evangelist/uncle-nearest
+- name: Uncodie (now Makinari)
+  url: https://artifacts.apis.io/uncodie/apis.yml
+  x-apis-io: https://apis.io/providers/uncodie/
+  x-github: https://github.com/api-evangelist/uncodie
+- name: uncommonbio
+  url: https://artifacts.apis.io/uncommonbio/apis.yml
+  x-apis-io: https://apis.io/providers/uncommonbio/
+  x-github: https://github.com/api-evangelist/uncommonbio
+- name: Unconventional AI
+  url: https://artifacts.apis.io/unconv/apis.yml
+  x-apis-io: https://apis.io/providers/unconv/
+  x-github: https://github.com/api-evangelist/unconv
+- name: Uncountable
+  url: https://artifacts.apis.io/uncountable/apis.yml
+  x-apis-io: https://apis.io/providers/uncountable/
+  x-github: https://github.com/api-evangelist/uncountable
+- name: Uncovr
+  url: https://artifacts.apis.io/uncovr/apis.yml
+  x-apis-io: https://apis.io/providers/uncovr/
+  x-github: https://github.com/api-evangelist/uncovr
+- name: Under Armour
+  url: https://artifacts.apis.io/under-armour/apis.yml
+  x-apis-io: https://apis.io/providers/under-armour/
+  x-github: https://github.com/api-evangelist/under-armour
+- name: Underdog
+  url: https://artifacts.apis.io/underdog/apis.yml
+  x-apis-io: https://apis.io/providers/underdog/
+  x-github: https://github.com/api-evangelist/underdog
+- name: Underdog Fantasy
+  url: https://artifacts.apis.io/underdog-fantasy/apis.yml
+  x-apis-io: https://apis.io/providers/underdog-fantasy/
+  x-github: https://github.com/api-evangelist/underdog-fantasy
+- name: underlayerhq-com
+  url: https://artifacts.apis.io/underlayerhq-com/apis.yml
+  x-apis-io: https://apis.io/providers/underlayerhq-com/
+  x-github: https://github.com/api-evangelist/underlayerhq-com
+- name: Underly
+  url: https://artifacts.apis.io/underly/apis.yml
+  x-apis-io: https://apis.io/providers/underly/
+  x-github: https://github.com/api-evangelist/underly
+- name: Understory
+  url: https://artifacts.apis.io/understory/apis.yml
+  x-apis-io: https://apis.io/providers/understory/
+  x-github: https://github.com/api-evangelist/understory
+- name: Understudy Labs
+  url: https://artifacts.apis.io/understudy-labs/apis.yml
+  x-apis-io: https://apis.io/providers/understudy-labs/
+  x-github: https://github.com/api-evangelist/understudy-labs
+- name: une-education
+  url: https://artifacts.apis.io/une-education/apis.yml
+  x-apis-io: https://apis.io/providers/une-education/
+  x-github: https://github.com/api-evangelist/une-education
+- name: UNest
+  url: https://artifacts.apis.io/unest/apis.yml
+  x-apis-io: https://apis.io/providers/unest/
+  x-github: https://github.com/api-evangelist/unest
+- name: FAO FAOSTAT
+  url: https://artifacts.apis.io/unfao/apis.yml
+  x-apis-io: https://apis.io/providers/unfao/
+  x-github: https://github.com/api-evangelist/unfao
+- name: Unframe AI
+  url: https://artifacts.apis.io/unframe-ai/apis.yml
+  x-apis-io: https://apis.io/providers/unframe-ai/
+  x-github: https://github.com/api-evangelist/unframe-ai
+- name: Uni
+  url: https://artifacts.apis.io/uni/apis.yml
+  x-apis-io: https://apis.io/providers/uni/
+  x-github: https://github.com/api-evangelist/uni
+- name: uni-msg-com
+  url: https://artifacts.apis.io/uni-msg-com/apis.yml
+  x-apis-io: https://apis.io/providers/uni-msg-com/
+  x-github: https://github.com/api-evangelist/uni-msg-com
+- name: UniBit
+  url: https://artifacts.apis.io/unibit/apis.yml
+  x-apis-io: https://apis.io/providers/unibit/
+  x-github: https://github.com/api-evangelist/unibit
+- name: Uniblock
+  url: https://artifacts.apis.io/uniblock/apis.yml
+  x-apis-io: https://apis.io/providers/uniblock/
+  x-github: https://github.com/api-evangelist/uniblock
+- name: University of Campinas
+  url: https://artifacts.apis.io/unicamp/apis.yml
+  x-apis-io: https://apis.io/providers/unicamp/
+  x-github: https://github.com/api-evangelist/unicamp
+- name: UNICEF Data
+  url: https://artifacts.apis.io/unicef-data/apis.yml
+  x-apis-io: https://apis.io/providers/unicef-data/
+  x-github: https://github.com/api-evangelist/unicef-data
+- name: Unico
+  url: https://artifacts.apis.io/unico/apis.yml
+  x-apis-io: https://apis.io/providers/unico/
+  x-github: https://github.com/api-evangelist/unico
+- name: Unicommerce
+  url: https://artifacts.apis.io/unicommerce/apis.yml
+  x-apis-io: https://apis.io/providers/unicommerce/
+  x-github: https://github.com/api-evangelist/unicommerce
+- name: Unicorn Auctions
+  url: https://artifacts.apis.io/unicorn-auctions/apis.yml
+  x-apis-io: https://apis.io/providers/unicorn-auctions/
+  x-github: https://github.com/api-evangelist/unicorn-auctions
+- name: Unicorn Screener
+  url: https://artifacts.apis.io/unicorn-screener/apis.yml
+  x-apis-io: https://apis.io/providers/unicorn-screener/
+  x-github: https://github.com/api-evangelist/unicorn-screener
+- name: UniCourt
+  url: https://artifacts.apis.io/unicourt/apis.yml
+  x-apis-io: https://apis.io/providers/unicourt/
+  x-github: https://github.com/api-evangelist/unicourt
+- name: UniCredit
+  url: https://artifacts.apis.io/unicredit/apis.yml
+  x-apis-io: https://apis.io/providers/unicredit/
+  x-github: https://github.com/api-evangelist/unicredit
+- name: unicum.gg
+  url: https://artifacts.apis.io/unicum-gg/apis.yml
+  x-apis-io: https://apis.io/providers/unicum-gg/
+  x-github: https://github.com/api-evangelist/unicum-gg
+- name: Unidesk
+  url: https://artifacts.apis.io/unidesk/apis.yml
+  x-apis-io: https://apis.io/providers/unidesk/
+  x-github: https://github.com/api-evangelist/unidesk
+- name: Unifa
+  url: https://artifacts.apis.io/unifa/apis.yml
+  x-apis-io: https://apis.io/providers/unifa/
+  x-github: https://github.com/api-evangelist/unifa
+- name: Unifi
+  url: https://artifacts.apis.io/unifi/apis.yml
+  x-apis-io: https://apis.io/providers/unifi/
+  x-github: https://github.com/api-evangelist/unifi
+- name: unifically-com
+  url: https://artifacts.apis.io/unifically-com/apis.yml
+  x-apis-io: https://apis.io/providers/unifically-com/
+  x-github: https://github.com/api-evangelist/unifically-com
+- name: Unified
+  url: https://artifacts.apis.io/unified/apis.yml
+  x-apis-io: https://apis.io/providers/unified/
+  x-github: https://github.com/api-evangelist/unified
+- name: Unified Grocers
+  url: https://artifacts.apis.io/unified-grocers/apis.yml
+  x-apis-io: https://apis.io/providers/unified-grocers/
+  x-github: https://github.com/api-evangelist/unified-grocers
+- name: Unified.to
+  url: https://artifacts.apis.io/unified-to/apis.yml
+  x-apis-io: https://apis.io/providers/unified-to/
+  x-github: https://github.com/api-evangelist/unified-to
+- name: UnifiedCRM
+  url: https://artifacts.apis.io/unifiedcrm/apis.yml
+  x-apis-io: https://apis.io/providers/unifiedcrm/
+  x-github: https://github.com/api-evangelist/unifiedcrm
+- name: Unifold
+  url: https://artifacts.apis.io/unifold/apis.yml
+  x-apis-io: https://apis.io/providers/unifold/
+  x-github: https://github.com/api-evangelist/unifold
+- name: Unifonic
+  url: https://artifacts.apis.io/unifonic/apis.yml
+  x-apis-io: https://apis.io/providers/unifonic/
+  x-github: https://github.com/api-evangelist/unifonic
+- name: Uniform
+  url: https://artifacts.apis.io/uniform/apis.yml
+  x-apis-io: https://apis.io/providers/uniform/
+  x-github: https://github.com/api-evangelist/uniform
+- name: Uniform Teeth
+  url: https://artifacts.apis.io/uniform-teeth/apis.yml
+  x-apis-io: https://apis.io/providers/uniform-teeth/
+  x-github: https://github.com/api-evangelist/uniform-teeth
+- name: Unify
+  url: https://artifacts.apis.io/unify/apis.yml
+  x-apis-io: https://apis.io/providers/unify/
+  x-github: https://github.com/api-evangelist/unify
+- name: Unify
+  url: https://artifacts.apis.io/unify-ai/apis.yml
+  x-apis-io: https://apis.io/providers/unify-ai/
+  x-github: https://github.com/api-evangelist/unify-ai
+- name: Unify AI Business
+  url: https://artifacts.apis.io/unify-ai-business/apis.yml
+  x-apis-io: https://apis.io/providers/unify-ai-business/
+  x-github: https://github.com/api-evangelist/unify-ai-business
+- name: UnifyApps
+  url: https://artifacts.apis.io/unifyapps/apis.yml
+  x-apis-io: https://apis.io/providers/unifyapps/
+  x-github: https://github.com/api-evangelist/unifyapps
+- name: UnifyID
+  url: https://artifacts.apis.io/unifyid/apis.yml
+  x-apis-io: https://apis.io/providers/unifyid/
+  x-github: https://github.com/api-evangelist/unifyid
+- name: Unigrid
+  url: https://artifacts.apis.io/unigrid/apis.yml
+  x-apis-io: https://apis.io/providers/unigrid/
+  x-github: https://github.com/api-evangelist/unigrid
+- name: Uniko
+  url: https://artifacts.apis.io/uniko/apis.yml
+  x-apis-io: https://apis.io/providers/uniko/
+  x-github: https://github.com/api-evangelist/uniko
+- name: Unikraft
+  url: https://artifacts.apis.io/unikraft/apis.yml
+  x-apis-io: https://apis.io/providers/unikraft/
+  x-github: https://github.com/api-evangelist/unikraft
+- name: Unikrn
+  url: https://artifacts.apis.io/unikrn/apis.yml
+  x-apis-io: https://apis.io/providers/unikrn/
+  x-github: https://github.com/api-evangelist/unikrn
+- name: Unilever
+  url: https://artifacts.apis.io/unilever/apis.yml
+  x-apis-io: https://apis.io/providers/unilever/
+  x-github: https://github.com/api-evangelist/unilever
+- name: Uninstall
+  url: https://artifacts.apis.io/uninstall/apis.yml
+  x-apis-io: https://apis.io/providers/uninstall/
+  x-github: https://github.com/api-evangelist/uninstall
+- name: Union Pacific
+  url: https://artifacts.apis.io/union-pacific/apis.yml
+  x-apis-io: https://apis.io/providers/union-pacific/
+  x-github: https://github.com/api-evangelist/union-pacific
+- name: Union.ai
+  url: https://artifacts.apis.io/unionai/apis.yml
+  x-apis-io: https://apis.io/providers/unionai/
+  x-github: https://github.com/api-evangelist/unionai
+- name: Uniphore
+  url: https://artifacts.apis.io/uniphore/apis.yml
+  x-apis-io: https://apis.io/providers/uniphore/
+  x-github: https://github.com/api-evangelist/uniphore
+- name: unipile-com
+  url: https://artifacts.apis.io/unipile-com/apis.yml
+  x-apis-io: https://apis.io/providers/unipile-com/
+  x-github: https://github.com/api-evangelist/unipile-com
+- name: UniProt
+  url: https://artifacts.apis.io/uniprot/apis.yml
+  x-apis-io: https://apis.io/providers/uniprot/
+  x-github: https://github.com/api-evangelist/uniprot
+- name: Uniqode
+  url: https://artifacts.apis.io/uniqode/apis.yml
+  x-apis-io: https://apis.io/providers/uniqode/
+  x-github: https://github.com/api-evangelist/uniqode
+- name: UniRate API
+  url: https://artifacts.apis.io/unirateapi/apis.yml
+  x-apis-io: https://apis.io/providers/unirateapi/
+  x-github: https://github.com/api-evangelist/unirateapi
+- name: UNIsite
+  url: https://artifacts.apis.io/unisite/apis.yml
+  x-apis-io: https://apis.io/providers/unisite/
+  x-github: https://github.com/api-evangelist/unisite
+- name: Unison
+  url: https://artifacts.apis.io/unison/apis.yml
+  x-apis-io: https://apis.io/providers/unison/
+  x-github: https://github.com/api-evangelist/unison
+- name: Unison Computing
+  url: https://artifacts.apis.io/unison-computing/apis.yml
+  x-apis-io: https://apis.io/providers/unison-computing/
+  x-github: https://github.com/api-evangelist/unison-computing
+- name: Unisound
+  url: https://artifacts.apis.io/unisound/apis.yml
+  x-apis-io: https://apis.io/providers/unisound/
+  x-github: https://github.com/api-evangelist/unisound
+- name: Unisson
+  url: https://artifacts.apis.io/unisson/apis.yml
+  x-apis-io: https://apis.io/providers/unisson/
+  x-github: https://github.com/api-evangelist/unisson
+- name: Unisub
+  url: https://artifacts.apis.io/unisub-llc/apis.yml
+  x-apis-io: https://apis.io/providers/unisub-llc/
+  x-github: https://github.com/api-evangelist/unisub-llc
+- name: UniSuper
+  url: https://artifacts.apis.io/unisuper/apis.yml
+  x-apis-io: https://apis.io/providers/unisuper/
+  x-github: https://github.com/api-evangelist/unisuper
+- name: Uniswap
+  url: https://artifacts.apis.io/uniswap/apis.yml
+  x-apis-io: https://apis.io/providers/uniswap/
+  x-github: https://github.com/api-evangelist/uniswap
+- name: Unisys
+  url: https://artifacts.apis.io/unisys/apis.yml
+  x-apis-io: https://apis.io/providers/unisys/
+  x-github: https://github.com/api-evangelist/unisys
+- name: Unit
+  url: https://artifacts.apis.io/unit-co/apis.yml
+  x-apis-io: https://apis.io/providers/unit-co/
+  x-github: https://github.com/api-evangelist/unit-co
+- name: Unit21
+  url: https://artifacts.apis.io/unit21/apis.yml
+  x-apis-io: https://apis.io/providers/unit21/
+  x-github: https://github.com/api-evangelist/unit21
+- name: Unit4
+  url: https://artifacts.apis.io/unit4/apis.yml
+  x-apis-io: https://apis.io/providers/unit4/
+  x-github: https://github.com/api-evangelist/unit4
+- name: Unitary AI
+  url: https://artifacts.apis.io/unitary-ai/apis.yml
+  x-apis-io: https://apis.io/providers/unitary-ai/
+  x-github: https://github.com/api-evangelist/unitary-ai
+- name: Unite Us
+  url: https://artifacts.apis.io/unite-us/apis.yml
+  x-apis-io: https://apis.io/providers/unite-us/
+  x-github: https://github.com/api-evangelist/unite-us
+- name: United Airlines
+  url: https://artifacts.apis.io/united-airlines/apis.yml
+  x-apis-io: https://apis.io/providers/united-airlines/
+  x-github: https://github.com/api-evangelist/united-airlines
+- name: United Arab Emirates University
+  url: https://artifacts.apis.io/united-arab-emirates-university/apis.yml
+  x-apis-io: https://apis.io/providers/united-arab-emirates-university/
+  x-github: https://github.com/api-evangelist/united-arab-emirates-university
+- name: United Capital
+  url: https://artifacts.apis.io/united-capital/apis.yml
+  x-apis-io: https://apis.io/providers/united-capital/
+  x-github: https://github.com/api-evangelist/united-capital
+- name: United Continental Holdings
+  url: https://artifacts.apis.io/united-continental-holdings/apis.yml
+  x-apis-io: https://apis.io/providers/united-continental-holdings/
+  x-github: https://github.com/api-evangelist/united-continental-holdings
+- name: United Dwelling
+  url: https://artifacts.apis.io/united-dwelling/apis.yml
+  x-apis-io: https://apis.io/providers/united-dwelling/
+  x-github: https://github.com/api-evangelist/united-dwelling
+- name: United Kingdom Hydrographic Office (UKHO)
+  url: https://artifacts.apis.io/united-kingdom-hydrographic-office-ukho/apis.yml
+  x-apis-io: https://apis.io/providers/united-kingdom-hydrographic-office-ukho/
+  x-github: https://github.com/api-evangelist/united-kingdom-hydrographic-office-ukho
+- name: United Natural Foods (UNFI)
+  url: https://artifacts.apis.io/united-natural-foods/apis.yml
+  x-apis-io: https://apis.io/providers/united-natural-foods/
+  x-github: https://github.com/api-evangelist/united-natural-foods
+- name: United Refining Company
+  url: https://artifacts.apis.io/united-refining/apis.yml
+  x-apis-io: https://apis.io/providers/united-refining/
+  x-github: https://github.com/api-evangelist/united-refining
+- name: United Rentals
+  url: https://artifacts.apis.io/united-rentals/apis.yml
+  x-apis-io: https://apis.io/providers/united-rentals/
+  x-github: https://github.com/api-evangelist/united-rentals
+- name: United Solar
+  url: https://artifacts.apis.io/united-solar/apis.yml
+  x-apis-io: https://apis.io/providers/united-solar/
+  x-github: https://github.com/api-evangelist/united-solar
+- name: United States Africa Command
+  url: https://artifacts.apis.io/united-states-africa-command/apis.yml
+  x-apis-io: https://apis.io/providers/united-states-africa-command/
+  x-github: https://github.com/api-evangelist/united-states-africa-command
+- name: United States Army Corps of Engineers
+  url: https://artifacts.apis.io/united-states-army-corps-of-engineers/apis.yml
+  x-apis-io: https://apis.io/providers/united-states-army-corps-of-engineers/
+  x-github: https://github.com/api-evangelist/united-states-army-corps-of-engineers
+- name: United States Botanic Garden
+  url: https://artifacts.apis.io/united-states-botanic-garden/apis.yml
+  x-apis-io: https://apis.io/providers/united-states-botanic-garden/
+  x-github: https://github.com/api-evangelist/united-states-botanic-garden
+- name: United States Capitol Police
+  url: https://artifacts.apis.io/united-states-capitol-police/apis.yml
+  x-apis-io: https://apis.io/providers/united-states-capitol-police/
+  x-github: https://github.com/api-evangelist/united-states-capitol-police
+- name: United States Coast Guard
+  url: https://artifacts.apis.io/united-states-coast-guard/apis.yml
+  x-apis-io: https://apis.io/providers/united-states-coast-guard/
+  x-github: https://github.com/api-evangelist/united-states-coast-guard
+- name: United States Department of Agriculture
+  url: https://artifacts.apis.io/united-states-department-of-agriculture/apis.yml
+  x-apis-io: https://apis.io/providers/united-states-department-of-agriculture/
+  x-github: https://github.com/api-evangelist/united-states-department-of-agriculture
+- name: United States European Command
+  url: https://artifacts.apis.io/united-states-european-command/apis.yml
+  x-apis-io: https://apis.io/providers/united-states-european-command/
+  x-github: https://github.com/api-evangelist/united-states-european-command
+- name: United States Fire Administration
+  url: https://artifacts.apis.io/united-states-fire-administration/apis.yml
+  x-apis-io: https://apis.io/providers/united-states-fire-administration/
+  x-github: https://github.com/api-evangelist/united-states-fire-administration
+- name: United States National Library of Medicine
+  url: https://artifacts.apis.io/united-states-national-library-of-medicine/apis.yml
+  x-apis-io: https://apis.io/providers/united-states-national-library-of-medicine/
+  x-github: https://github.com/api-evangelist/united-states-national-library-of-medicine
+- name: United States Steel
+  url: https://artifacts.apis.io/united-states-steel/apis.yml
+  x-apis-io: https://apis.io/providers/united-states-steel/
+  x-github: https://github.com/api-evangelist/united-states-steel
+- name: United Technologies
+  url: https://artifacts.apis.io/united-technologies/apis.yml
+  x-apis-io: https://apis.io/providers/united-technologies/
+  x-github: https://github.com/api-evangelist/united-technologies
+- name: UnitedHealth Group
+  url: https://artifacts.apis.io/unitedhealth/apis.yml
+  x-apis-io: https://apis.io/providers/unitedhealth/
+  x-github: https://github.com/api-evangelist/unitedhealth
+- name: UnitedHealthcare
+  url: https://artifacts.apis.io/unitedhealthcare/apis.yml
+  x-apis-io: https://apis.io/providers/unitedhealthcare/
+  x-github: https://github.com/api-evangelist/unitedhealthcare
+- name: UnitedMasters
+  url: https://artifacts.apis.io/unitedmasters/apis.yml
+  x-apis-io: https://apis.io/providers/unitedmasters/
+  x-github: https://github.com/api-evangelist/unitedmasters
+- name: Unitlab AI
+  url: https://artifacts.apis.io/unitlab-ai/apis.yml
+  x-apis-io: https://apis.io/providers/unitlab-ai/
+  x-github: https://github.com/api-evangelist/unitlab-ai
+- name: Unito
+  url: https://artifacts.apis.io/unito/apis.yml
+  x-apis-io: https://apis.io/providers/unito/
+  x-github: https://github.com/api-evangelist/unito
+- name: unitQ
+  url: https://artifacts.apis.io/unitq/apis.yml
+  x-apis-io: https://apis.io/providers/unitq/
+  x-github: https://github.com/api-evangelist/unitq
+- name: Unitree Robotics
+  url: https://artifacts.apis.io/unitree/apis.yml
+  x-apis-io: https://apis.io/providers/unitree/
+  x-github: https://github.com/api-evangelist/unitree
+- name: Unitrends
+  url: https://artifacts.apis.io/unitrends/apis.yml
+  x-apis-io: https://apis.io/providers/unitrends/
+  x-github: https://github.com/api-evangelist/unitrends
+- name: Unity
+  url: https://artifacts.apis.io/unity/apis.yml
+  x-apis-io: https://apis.io/providers/unity/
+  x-github: https://github.com/api-evangelist/unity
+- name: Unity Bank
+  url: https://artifacts.apis.io/unity-bank/apis.yml
+  x-apis-io: https://apis.io/providers/unity-bank/
+  x-github: https://github.com/api-evangelist/unity-bank
+- name: Unity Catalog
+  url: https://artifacts.apis.io/unity-catalog/apis.yml
+  x-apis-io: https://apis.io/providers/unity-catalog/
+  x-github: https://github.com/api-evangelist/unity-catalog
+- name: UniUni
+  url: https://artifacts.apis.io/uniuni/apis.yml
+  x-apis-io: https://apis.io/providers/uniuni/
+  x-github: https://github.com/api-evangelist/uniuni
+- name: Univers
+  url: https://artifacts.apis.io/univers/apis.yml
+  x-apis-io: https://apis.io/providers/univers/
+  x-github: https://github.com/api-evangelist/univers
+- name: Universal Corporation
+  url: https://artifacts.apis.io/universal/apis.yml
+  x-apis-io: https://apis.io/providers/universal/
+  x-github: https://github.com/api-evangelist/universal
+- name: Universal American
+  url: https://artifacts.apis.io/universal-american/apis.yml
+  x-apis-io: https://apis.io/providers/universal-american/
+  x-github: https://github.com/api-evangelist/universal-american
+- name: Universal Electronics
+  url: https://artifacts.apis.io/universal-electronics/apis.yml
+  x-apis-io: https://apis.io/providers/universal-electronics/
+  x-github: https://github.com/api-evangelist/universal-electronics
+- name: Universal Forest Products
+  url: https://artifacts.apis.io/universal-forest-products/apis.yml
+  x-apis-io: https://apis.io/providers/universal-forest-products/
+  x-github: https://github.com/api-evangelist/universal-forest-products
+- name: Universal Health Services
+  url: https://artifacts.apis.io/universal-health-services/apis.yml
+  x-apis-io: https://apis.io/providers/universal-health-services/
+  x-github: https://github.com/api-evangelist/universal-health-services
+- name: Universal Hydrogen
+  url: https://artifacts.apis.io/universal-hydrogen/apis.yml
+  x-apis-io: https://apis.io/providers/universal-hydrogen/
+  x-github: https://github.com/api-evangelist/universal-hydrogen
+- name: Universal Music Group
+  url: https://artifacts.apis.io/universal-music-group/apis.yml
+  x-apis-io: https://apis.io/providers/universal-music-group/
+  x-github: https://github.com/api-evangelist/universal-music-group
+- name: Universal Robots
+  url: https://artifacts.apis.io/universal-robots/apis.yml
+  x-apis-io: https://apis.io/providers/universal-robots/
+  x-github: https://github.com/api-evangelist/universal-robots
+- name: Universalis
+  url: https://artifacts.apis.io/universalis/apis.yml
+  x-apis-io: https://apis.io/providers/universalis/
+  x-github: https://github.com/api-evangelist/universalis
+- name: Universe
+  url: https://artifacts.apis.io/universe/apis.yml
+  x-apis-io: https://apis.io/providers/universe/
+  x-github: https://github.com/api-evangelist/universe
+- name: Universidad Politecnica de Madrid (Grupo Mercator)
+  url: https://artifacts.apis.io/universidad-politecnica-de-madrid-grupo-mercator/apis.yml
+  x-apis-io: https://apis.io/providers/universidad-politecnica-de-madrid-grupo-mercator/
+  x-github: https://github.com/api-evangelist/universidad-politecnica-de-madrid-grupo-mercator
+- name: 'Universitat Autònoma de Barcelona (CREAF)'
+  url: https://artifacts.apis.io/universitat-aut-noma-de-barcelona-creaf/apis.yml
+  x-apis-io: https://apis.io/providers/universitat-aut-noma-de-barcelona-creaf/
+  x-github: https://github.com/api-evangelist/universitat-aut-noma-de-barcelona-creaf
+- name: 'Universität Hamburg'
+  url: https://artifacts.apis.io/universitat-hamburg/apis.yml
+  x-apis-io: https://apis.io/providers/universitat-hamburg/
+  x-github: https://github.com/api-evangelist/universitat-hamburg
+- name: Universitat Pompeu Fabra
+  url: https://artifacts.apis.io/universitat-pompeu-fabra/apis.yml
+  x-apis-io: https://apis.io/providers/universitat-pompeu-fabra/
+  x-github: https://github.com/api-evangelist/universitat-pompeu-fabra
+- name: 'Université de Montréal'
+  url: https://artifacts.apis.io/universite-de-montreal/apis.yml
+  x-apis-io: https://apis.io/providers/universite-de-montreal/
+  x-github: https://github.com/api-evangelist/universite-de-montreal
+- name: Universiti Teknologi PETRONAS
+  url: https://artifacts.apis.io/universiti-teknologi-petronas/apis.yml
+  x-apis-io: https://apis.io/providers/universiti-teknologi-petronas/
+  x-github: https://github.com/api-evangelist/universiti-teknologi-petronas
+- name: Universities List
+  url: https://artifacts.apis.io/universities-list/apis.yml
+  x-apis-io: https://apis.io/providers/universities-list/
+  x-github: https://github.com/api-evangelist/universities-list
+- name: University Corporation for Atmospheric Research (UCAR)
+  url: https://artifacts.apis.io/university-corporation-for-atmospheric-research-ucar/apis.yml
+  x-apis-io: https://apis.io/providers/university-corporation-for-atmospheric-research-ucar/
+  x-github: https://github.com/api-evangelist/university-corporation-for-atmospheric-research-ucar
+- name: University of Aberdeen
+  url: https://artifacts.apis.io/university-of-aberdeen/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-aberdeen/
+  x-github: https://github.com/api-evangelist/university-of-aberdeen
+- name: University of Adelaide
+  url: https://artifacts.apis.io/university-of-adelaide/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-adelaide/
+  x-github: https://github.com/api-evangelist/university-of-adelaide
+- name: University of Alberta
+  url: https://artifacts.apis.io/university-of-alberta/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-alberta/
+  x-github: https://github.com/api-evangelist/university-of-alberta
+- name: University of Amsterdam
+  url: https://artifacts.apis.io/university-of-amsterdam/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-amsterdam/
+  x-github: https://github.com/api-evangelist/university-of-amsterdam
+- name: University of Antwerp
+  url: https://artifacts.apis.io/university-of-antwerp/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-antwerp/
+  x-github: https://github.com/api-evangelist/university-of-antwerp
+- name: 'University of Applied Sciences, Western Switzerland, School of Business & Engineering Vaud (HEIG-VD)'
+  url: https://artifacts.apis.io/university-of-applied-sciences-western-switzerland-school-of-business-engineering-vaud-heig-vd/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-applied-sciences-western-switzerland-school-of-business-engineering-vaud-heig-vd/
+  x-github: https://github.com/api-evangelist/university-of-applied-sciences-western-switzerland-school-of-business-engineering-vaud-heig-vd
+- name: University of Arizona
+  url: https://artifacts.apis.io/university-of-arizona/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-arizona/
+  x-github: https://github.com/api-evangelist/university-of-arizona
+- name: University of Auckland
+  url: https://artifacts.apis.io/university-of-auckland/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-auckland/
+  x-github: https://github.com/api-evangelist/university-of-auckland
+- name: University of Barcelona
+  url: https://artifacts.apis.io/university-of-barcelona/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-barcelona/
+  x-github: https://github.com/api-evangelist/university-of-barcelona
+- name: University of Basel
+  url: https://artifacts.apis.io/university-of-basel/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-basel/
+  x-github: https://github.com/api-evangelist/university-of-basel
+- name: University of Bath
+  url: https://artifacts.apis.io/university-of-bath/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-bath/
+  x-github: https://github.com/api-evangelist/university-of-bath
+- name: University of Bern
+  url: https://artifacts.apis.io/university-of-bern/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-bern/
+  x-github: https://github.com/api-evangelist/university-of-bern
+- name: University of Birmingham
+  url: https://artifacts.apis.io/university-of-birmingham/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-birmingham/
+  x-github: https://github.com/api-evangelist/university-of-birmingham
+- name: University of Bologna
+  url: https://artifacts.apis.io/university-of-bologna/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-bologna/
+  x-github: https://github.com/api-evangelist/university-of-bologna
+- name: University of Bonn
+  url: https://artifacts.apis.io/university-of-bonn/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-bonn/
+  x-github: https://github.com/api-evangelist/university-of-bonn
+- name: University of Bristol
+  url: https://artifacts.apis.io/university-of-bristol/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-bristol/
+  x-github: https://github.com/api-evangelist/university-of-bristol
+- name: University of Calgary
+  url: https://artifacts.apis.io/university-of-calgary/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-calgary/
+  x-github: https://github.com/api-evangelist/university-of-calgary
+- name: University of Cambridge
+  url: https://artifacts.apis.io/university-of-cambridge/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-cambridge/
+  x-github: https://github.com/api-evangelist/university-of-cambridge
+- name: University of Canterbury
+  url: https://artifacts.apis.io/university-of-canterbury/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-canterbury/
+  x-github: https://github.com/api-evangelist/university-of-canterbury
+- name: University of Cape Town
+  url: https://artifacts.apis.io/university-of-cape-town/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-cape-town/
+  x-github: https://github.com/api-evangelist/university-of-cape-town
+- name: University of Chicago
+  url: https://artifacts.apis.io/university-of-chicago/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-chicago/
+  x-github: https://github.com/api-evangelist/university-of-chicago
+- name: University of Chile
+  url: https://artifacts.apis.io/university-of-chile/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-chile/
+  x-github: https://github.com/api-evangelist/university-of-chile
+- name: University of Copenhagen
+  url: https://artifacts.apis.io/university-of-copenhagen/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-copenhagen/
+  x-github: https://github.com/api-evangelist/university-of-copenhagen
+- name: University of Edinburgh
+  url: https://artifacts.apis.io/university-of-edinburgh/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-edinburgh/
+  x-github: https://github.com/api-evangelist/university-of-edinburgh
+- name: University of Exeter
+  url: https://artifacts.apis.io/university-of-exeter/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-exeter/
+  x-github: https://github.com/api-evangelist/university-of-exeter
+- name: University of Florida
+  url: https://artifacts.apis.io/university-of-florida/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-florida/
+  x-github: https://github.com/api-evangelist/university-of-florida
+- name: 'University of Florida, Florida Institute for Built Environment Resilience'
+  url: https://artifacts.apis.io/university-of-florida-florida-institute-for-built-environment-resilience/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-florida-florida-institute-for-built-environment-resilience/
+  x-github: https://github.com/api-evangelist/university-of-florida-florida-institute-for-built-environment-resilience
+- name: University of Freiburg
+  url: https://artifacts.apis.io/university-of-freiburg/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-freiburg/
+  x-github: https://github.com/api-evangelist/university-of-freiburg
+- name: University of Geneva
+  url: https://artifacts.apis.io/university-of-geneva/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-geneva/
+  x-github: https://github.com/api-evangelist/university-of-geneva
+- name: University of Glasgow
+  url: https://artifacts.apis.io/university-of-glasgow/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-glasgow/
+  x-github: https://github.com/api-evangelist/university-of-glasgow
+- name: University of Gothenburg
+  url: https://artifacts.apis.io/university-of-gothenburg/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-gothenburg/
+  x-github: https://github.com/api-evangelist/university-of-gothenburg
+- name: 'University of Göttingen'
+  url: https://artifacts.apis.io/university-of-gottingen/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-gottingen/
+  x-github: https://github.com/api-evangelist/university-of-gottingen
+- name: University of Groningen
+  url: https://artifacts.apis.io/university-of-groningen/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-groningen/
+  x-github: https://github.com/api-evangelist/university-of-groningen
+- name: University of Helsinki
+  url: https://artifacts.apis.io/university-of-helsinki/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-helsinki/
+  x-github: https://github.com/api-evangelist/university-of-helsinki
+- name: University of Illinois Urbana-Champaign
+  url: https://artifacts.apis.io/university-of-illinois-urbana-champaign/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-illinois-urbana-champaign/
+  x-github: https://github.com/api-evangelist/university-of-illinois-urbana-champaign
+- name: University of Indonesia
+  url: https://artifacts.apis.io/university-of-indonesia/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-indonesia/
+  x-github: https://github.com/api-evangelist/university-of-indonesia
+- name: University of Lausanne
+  url: https://artifacts.apis.io/university-of-lausanne/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-lausanne/
+  x-github: https://github.com/api-evangelist/university-of-lausanne
+- name: University of Leeds
+  url: https://artifacts.apis.io/university-of-leeds/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-leeds/
+  x-github: https://github.com/api-evangelist/university-of-leeds
+- name: University of Lisbon
+  url: https://artifacts.apis.io/university-of-lisbon/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-lisbon/
+  x-github: https://github.com/api-evangelist/university-of-lisbon
+- name: University of Liverpool
+  url: https://artifacts.apis.io/university-of-liverpool/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-liverpool/
+  x-github: https://github.com/api-evangelist/university-of-liverpool
+- name: 'University of Ljubljana, Faculty of Civil and Geodetic Engineering'
+  url: https://artifacts.apis.io/university-of-ljubljana-faculty-of-civil-and-geodetic-engineering/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-ljubljana-faculty-of-civil-and-geodetic-engineering/
+  x-github: https://github.com/api-evangelist/university-of-ljubljana-faculty-of-civil-and-geodetic-engineering
+- name: University of Los Andes Colombia
+  url: https://artifacts.apis.io/university-of-los-andes-colombia/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-los-andes-colombia/
+  x-github: https://github.com/api-evangelist/university-of-los-andes-colombia
+- name: University of Macau
+  url: https://artifacts.apis.io/university-of-macau/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-macau/
+  x-github: https://github.com/api-evangelist/university-of-macau
+- name: University of Manchester
+  url: https://artifacts.apis.io/university-of-manchester/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-manchester/
+  x-github: https://github.com/api-evangelist/university-of-manchester
+- name: University of Maryland College Park
+  url: https://artifacts.apis.io/university-of-maryland-college-park/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-maryland-college-park/
+  x-github: https://github.com/api-evangelist/university-of-maryland-college-park
+- name: University of Maryland Dept. of Geographical Sciences
+  url: https://artifacts.apis.io/university-of-maryland-dept-of-geographical-sciences/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-maryland-dept-of-geographical-sciences/
+  x-github: https://github.com/api-evangelist/university-of-maryland-dept-of-geographical-sciences
+- name: University of Melbourne
+  url: https://artifacts.apis.io/university-of-melbourne/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-melbourne/
+  x-github: https://github.com/api-evangelist/university-of-melbourne
+- name: University of Michigan-Ann Arbor
+  url: https://artifacts.apis.io/university-of-michigan-ann-arbor/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-michigan-ann-arbor/
+  x-github: https://github.com/api-evangelist/university-of-michigan-ann-arbor
+- name: University of Minnesota
+  url: https://artifacts.apis.io/university-of-minnesota/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-minnesota/
+  x-github: https://github.com/api-evangelist/university-of-minnesota
+- name: University of Muenster - Institute for Geoinformatics
+  url: https://artifacts.apis.io/university-of-muenster-institute-for-geoinformatics/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-muenster-institute-for-geoinformatics/
+  x-github: https://github.com/api-evangelist/university-of-muenster-institute-for-geoinformatics
+- name: University of Navarra
+  url: https://artifacts.apis.io/university-of-navarra/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-navarra/
+  x-github: https://github.com/api-evangelist/university-of-navarra
+- name: University of North Carolina at Chapel Hill
+  url: https://artifacts.apis.io/university-of-north-carolina-at-chapel-hill/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-north-carolina-at-chapel-hill/
+  x-github: https://github.com/api-evangelist/university-of-north-carolina-at-chapel-hill
+- name: University of Nottingham
+  url: https://artifacts.apis.io/university-of-nottingham/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-nottingham/
+  x-github: https://github.com/api-evangelist/university-of-nottingham
+- name: University of Oslo
+  url: https://artifacts.apis.io/university-of-oslo/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-oslo/
+  x-github: https://github.com/api-evangelist/university-of-oslo
+- name: University of Otago
+  url: https://artifacts.apis.io/university-of-otago/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-otago/
+  x-github: https://github.com/api-evangelist/university-of-otago
+- name: University of Ottawa
+  url: https://artifacts.apis.io/university-of-ottawa/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-ottawa/
+  x-github: https://github.com/api-evangelist/university-of-ottawa
+- name: University of Oxford
+  url: https://artifacts.apis.io/university-of-oxford/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-oxford/
+  x-github: https://github.com/api-evangelist/university-of-oxford
+- name: University of Padua
+  url: https://artifacts.apis.io/university-of-padua/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-padua/
+  x-github: https://github.com/api-evangelist/university-of-padua
+- name: University of Pennsylvania
+  url: https://artifacts.apis.io/university-of-pennsylvania/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-pennsylvania/
+  x-github: https://github.com/api-evangelist/university-of-pennsylvania
+- name: University of Pittsburgh
+  url: https://artifacts.apis.io/university-of-pittsburgh/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-pittsburgh/
+  x-github: https://github.com/api-evangelist/university-of-pittsburgh
+- name: University of Reading
+  url: https://artifacts.apis.io/university-of-reading/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-reading/
+  x-github: https://github.com/api-evangelist/university-of-reading
+- name: University of Rochester
+  url: https://artifacts.apis.io/university-of-rochester/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-rochester/
+  x-github: https://github.com/api-evangelist/university-of-rochester
+- name: University of Salzburg
+  url: https://artifacts.apis.io/university-of-salzburg/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-salzburg/
+  x-github: https://github.com/api-evangelist/university-of-salzburg
+- name: University of Sheffield
+  url: https://artifacts.apis.io/university-of-sheffield/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-sheffield/
+  x-github: https://github.com/api-evangelist/university-of-sheffield
+- name: University of Southampton
+  url: https://artifacts.apis.io/university-of-southampton/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-southampton/
+  x-github: https://github.com/api-evangelist/university-of-southampton
+- name: University of St Andrews
+  url: https://artifacts.apis.io/university-of-st-andrews/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-st-andrews/
+  x-github: https://github.com/api-evangelist/university-of-st-andrews
+- name: University of Sussex
+  url: https://artifacts.apis.io/university-of-sussex/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-sussex/
+  x-github: https://github.com/api-evangelist/university-of-sussex
+- name: University of Sydney
+  url: https://artifacts.apis.io/university-of-sydney/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-sydney/
+  x-github: https://github.com/api-evangelist/university-of-sydney
+- name: University of Tartu
+  url: https://artifacts.apis.io/university-of-tartu/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-tartu/
+  x-github: https://github.com/api-evangelist/university-of-tartu
+- name: University of Technology Sydney
+  url: https://artifacts.apis.io/university-of-technology-sydney/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-technology-sydney/
+  x-github: https://github.com/api-evangelist/university-of-technology-sydney
+- name: University of Texas at Austin
+  url: https://artifacts.apis.io/university-of-texas-at-austin/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-texas-at-austin/
+  x-github: https://github.com/api-evangelist/university-of-texas-at-austin
+- name: University of the Witwatersrand
+  url: https://artifacts.apis.io/university-of-the-witwatersrand/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-the-witwatersrand/
+  x-github: https://github.com/api-evangelist/university-of-the-witwatersrand
+- name: University of Tokyo
+  url: https://artifacts.apis.io/university-of-tokyo/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-tokyo/
+  x-github: https://github.com/api-evangelist/university-of-tokyo
+- name: University of Toronto
+  url: https://artifacts.apis.io/university-of-toronto/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-toronto/
+  x-github: https://github.com/api-evangelist/university-of-toronto
+- name: 'University of Tübingen'
+  url: https://artifacts.apis.io/university-of-tubingen/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-tubingen/
+  x-github: https://github.com/api-evangelist/university-of-tubingen
+- name: University of Twente
+  url: https://artifacts.apis.io/university-of-twente/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-twente/
+  x-github: https://github.com/api-evangelist/university-of-twente
+- name: University of Vienna
+  url: https://artifacts.apis.io/university-of-vienna/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-vienna/
+  x-github: https://github.com/api-evangelist/university-of-vienna
+- name: University of Waikato
+  url: https://artifacts.apis.io/university-of-waikato/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-waikato/
+  x-github: https://github.com/api-evangelist/university-of-waikato
+- name: University of Warsaw
+  url: https://artifacts.apis.io/university-of-warsaw/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-warsaw/
+  x-github: https://github.com/api-evangelist/university-of-warsaw
+- name: University of Warwick
+  url: https://artifacts.apis.io/university-of-warwick/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-warwick/
+  x-github: https://github.com/api-evangelist/university-of-warwick
+- name: University of Washington
+  url: https://artifacts.apis.io/university-of-washington/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-washington/
+  x-github: https://github.com/api-evangelist/university-of-washington
+- name: University of Waterloo
+  url: https://artifacts.apis.io/university-of-waterloo/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-waterloo/
+  x-github: https://github.com/api-evangelist/university-of-waterloo
+- name: University of Wisconsin-Madison
+  url: https://artifacts.apis.io/university-of-wisconsin-madison/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-wisconsin-madison/
+  x-github: https://github.com/api-evangelist/university-of-wisconsin-madison
+- name: University of Wollongong
+  url: https://artifacts.apis.io/university-of-wollongong/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-wollongong/
+  x-github: https://github.com/api-evangelist/university-of-wollongong
+- name: University of York
+  url: https://artifacts.apis.io/university-of-york/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-york/
+  x-github: https://github.com/api-evangelist/university-of-york
+- name: University of Zurich
+  url: https://artifacts.apis.io/university-of-zurich/apis.yml
+  x-apis-io: https://apis.io/providers/university-of-zurich/
+  x-github: https://github.com/api-evangelist/university-of-zurich
+- name: University Startups
+  url: https://artifacts.apis.io/university-startups/apis.yml
+  x-apis-io: https://apis.io/providers/university-startups/
+  x-github: https://github.com/api-evangelist/university-startups
+- name: TelevisaUnivision (Univision Communications)
+  url: https://artifacts.apis.io/univision-communications/apis.yml
+  x-apis-io: https://apis.io/providers/univision-communications/
+  x-github: https://github.com/api-evangelist/univision-communications
+- name: UNIX System Call
+  url: https://artifacts.apis.io/unix/apis.yml
+  x-apis-io: https://apis.io/providers/unix/
+  x-github: https://github.com/api-evangelist/unix
+- name: Unizo
+  url: https://artifacts.apis.io/unizo/apis.yml
+  x-apis-io: https://apis.io/providers/unizo/
+  x-github: https://github.com/api-evangelist/unizo
+- name: Unkey
+  url: https://artifacts.apis.io/unkey/apis.yml
+  x-apis-io: https://apis.io/providers/unkey/
+  x-github: https://github.com/api-evangelist/unkey
+- name: Unlearn
+  url: https://artifacts.apis.io/unlearn/apis.yml
+  x-apis-io: https://apis.io/providers/unlearn/
+  x-github: https://github.com/api-evangelist/unlearn
+- name: Unleash
+  url: https://artifacts.apis.io/unleash/apis.yml
+  x-apis-io: https://apis.io/providers/unleash/
+  x-github: https://github.com/api-evangelist/unleash
+- name: Unleashed Games
+  url: https://artifacts.apis.io/unleashed-games/apis.yml
+  x-apis-io: https://apis.io/providers/unleashed-games/
+  x-github: https://github.com/api-evangelist/unleashed-games
+- name: Unlock
+  url: https://artifacts.apis.io/unlock/apis.yml
+  x-apis-io: https://apis.io/providers/unlock/
+  x-github: https://github.com/api-evangelist/unlock
+- name: Unlock Protocol
+  url: https://artifacts.apis.io/unlock-protocol/apis.yml
+  x-apis-io: https://apis.io/providers/unlock-protocol/
+  x-github: https://github.com/api-evangelist/unlock-protocol
+- name: Unlonely
+  url: https://artifacts.apis.io/unlonely/apis.yml
+  x-apis-io: https://apis.io/providers/unlonely/
+  x-github: https://github.com/api-evangelist/unlonely
+- name: Unmade
+  url: https://artifacts.apis.io/unmade/apis.yml
+  x-apis-io: https://apis.io/providers/unmade/
+  x-github: https://github.com/api-evangelist/unmade
+- name: Unmanic
+  url: https://artifacts.apis.io/unmanic/apis.yml
+  x-apis-io: https://apis.io/providers/unmanic/
+  x-github: https://github.com/api-evangelist/unmanic
+- name: Unmannd
+  url: https://artifacts.apis.io/unmannd/apis.yml
+  x-apis-io: https://apis.io/providers/unmannd/
+  x-github: https://github.com/api-evangelist/unmannd
+- name: Unmind
+  url: https://artifacts.apis.io/unmind/apis.yml
+  x-apis-io: https://apis.io/providers/unmind/
+  x-github: https://github.com/api-evangelist/unmind
+- name: Unnatural Products
+  url: https://artifacts.apis.io/unnatural-products/apis.yml
+  x-apis-io: https://apis.io/providers/unnatural-products/
+  x-github: https://github.com/api-evangelist/unnatural-products
+- name: Uno Health
+  url: https://artifacts.apis.io/uno-health/apis.yml
+  x-apis-io: https://apis.io/providers/uno-health/
+  x-github: https://github.com/api-evangelist/uno-health
+- name: Uno Wallet
+  url: https://artifacts.apis.io/uno-wallet/apis.yml
+  x-apis-io: https://apis.io/providers/uno-wallet/
+  x-github: https://github.com/api-evangelist/uno-wallet
+- name: Unobravo
+  url: https://artifacts.apis.io/unobravo/apis.yml
+  x-apis-io: https://apis.io/providers/unobravo/
+  x-github: https://github.com/api-evangelist/unobravo
+- name: uNow (UniversityNow)
+  url: https://artifacts.apis.io/unow/apis.yml
+  x-apis-io: https://apis.io/providers/unow/
+  x-github: https://github.com/api-evangelist/unow
+- name: Unpaywall
+  url: https://artifacts.apis.io/unpaywall/apis.yml
+  x-apis-io: https://apis.io/providers/unpaywall/
+  x-github: https://github.com/api-evangelist/unpaywall
+- name: unplain-io
+  url: https://artifacts.apis.io/unplain-io/apis.yml
+  x-apis-io: https://apis.io/providers/unplain-io/
+  x-github: https://github.com/api-evangelist/unplain-io
+- name: Unplugg
+  url: https://artifacts.apis.io/unplugg/apis.yml
+  x-apis-io: https://apis.io/providers/unplugg/
+  x-github: https://github.com/api-evangelist/unplugg
+- name: unprofane-com
+  url: https://artifacts.apis.io/unprofane-com/apis.yml
+  x-apis-io: https://apis.io/providers/unprofane-com/
+  x-github: https://github.com/api-evangelist/unprofane-com
+- name: Unqork
+  url: https://artifacts.apis.io/unqork/apis.yml
+  x-apis-io: https://apis.io/providers/unqork/
+  x-github: https://github.com/api-evangelist/unqork
+- name: Unraid
+  url: https://artifacts.apis.io/unraid/apis.yml
+  x-apis-io: https://apis.io/providers/unraid/
+  x-github: https://github.com/api-evangelist/unraid
+- name: Unravel
+  url: https://artifacts.apis.io/unravel/apis.yml
+  x-apis-io: https://apis.io/providers/unravel/
+  x-github: https://github.com/api-evangelist/unravel
+- name: Unravel Data Systems
+  url: https://artifacts.apis.io/unravel-data-systems/apis.yml
+  x-apis-io: https://apis.io/providers/unravel-data-systems/
+  x-github: https://github.com/api-evangelist/unravel-data-systems
+- name: Unreal Engine
+  url: https://artifacts.apis.io/unreal-engine/apis.yml
+  x-apis-io: https://apis.io/providers/unreal-engine/
+  x-github: https://github.com/api-evangelist/unreal-engine
+- name: Unreal Estate
+  url: https://artifacts.apis.io/unreal-estate/apis.yml
+  x-apis-io: https://apis.io/providers/unreal-estate/
+  x-github: https://github.com/api-evangelist/unreal-estate
+- name: Unreal Speech
+  url: https://artifacts.apis.io/unrealspeech/apis.yml
+  x-apis-io: https://apis.io/providers/unrealspeech/
+  x-github: https://github.com/api-evangelist/unrealspeech
+- name: unremind-me
+  url: https://artifacts.apis.io/unremind-me/apis.yml
+  x-apis-io: https://apis.io/providers/unremind-me/
+  x-github: https://github.com/api-evangelist/unremind-me
+- name: Unrivaled Basketball
+  url: https://artifacts.apis.io/unrivaled-basketball/apis.yml
+  x-apis-io: https://apis.io/providers/unrivaled-basketball/
+  x-github: https://github.com/api-evangelist/unrivaled-basketball
+- name: Unrivaled Sports
+  url: https://artifacts.apis.io/unrivaled-sports/apis.yml
+  x-apis-io: https://apis.io/providers/unrivaled-sports/
+  x-github: https://github.com/api-evangelist/unrivaled-sports
+- name: Unruly Studios
+  url: https://artifacts.apis.io/unruly-studios/apis.yml
+  x-apis-io: https://apis.io/providers/unruly-studios/
+  x-github: https://github.com/api-evangelist/unruly-studios
+- name: Unshackled Ventures I
+  url: https://artifacts.apis.io/unshackled-ventures-i/apis.yml
+  x-apis-io: https://apis.io/providers/unshackled-ventures-i/
+  x-github: https://github.com/api-evangelist/unshackled-ventures-i
+- name: Unsloth
+  url: https://artifacts.apis.io/unsloth/apis.yml
+  x-apis-io: https://apis.io/providers/unsloth/
+  x-github: https://github.com/api-evangelist/unsloth
+- name: Unsplash
+  url: https://artifacts.apis.io/unsplash/apis.yml
+  x-apis-io: https://apis.io/providers/unsplash/
+  x-github: https://github.com/api-evangelist/unsplash
+- name: Unspun
+  url: https://artifacts.apis.io/unspun/apis.yml
+  x-apis-io: https://apis.io/providers/unspun/
+  x-github: https://github.com/api-evangelist/unspun
+- name: Unstoppable Domains
+  url: https://artifacts.apis.io/unstoppable-domains/apis.yml
+  x-apis-io: https://apis.io/providers/unstoppable-domains/
+  x-github: https://github.com/api-evangelist/unstoppable-domains
+- name: Unstoppable Finance (Iron)
+  url: https://artifacts.apis.io/unstoppable-finance/apis.yml
+  x-apis-io: https://apis.io/providers/unstoppable-finance/
+  x-github: https://github.com/api-evangelist/unstoppable-finance
+- name: Unstructured
+  url: https://artifacts.apis.io/unstructured/apis.yml
+  x-apis-io: https://apis.io/providers/unstructured/
+  x-github: https://github.com/api-evangelist/unstructured
+- name: University of New South Wales
+  url: https://artifacts.apis.io/unsw-sydney/apis.yml
+  x-apis-io: https://apis.io/providers/unsw-sydney/
+  x-github: https://github.com/api-evangelist/unsw-sydney
+- name: Untappd
+  url: https://artifacts.apis.io/untappd/apis.yml
+  x-apis-io: https://apis.io/providers/untappd/
+  x-github: https://github.com/api-evangelist/untappd
+- name: Until
+  url: https://artifacts.apis.io/until/apis.yml
+  x-apis-io: https://apis.io/providers/until/
+  x-github: https://github.com/api-evangelist/until
+- name: Unto Labs
+  url: https://artifacts.apis.io/unto-labs/apis.yml
+  x-apis-io: https://apis.io/providers/unto-labs/
+  x-github: https://github.com/api-evangelist/unto-labs
+- name: UNTUCKit
+  url: https://artifacts.apis.io/untuckit/apis.yml
+  x-apis-io: https://apis.io/providers/untuckit/
+  x-github: https://github.com/api-evangelist/untuckit
+- name: unulu-ai
+  url: https://artifacts.apis.io/unulu-ai/apis.yml
+  x-apis-io: https://apis.io/providers/unulu-ai/
+  x-github: https://github.com/api-evangelist/unulu-ai
+- name: Unum
+  url: https://artifacts.apis.io/unum/apis.yml
+  x-apis-io: https://apis.io/providers/unum/
+  x-github: https://github.com/api-evangelist/unum
+- name: Unweave
+  url: https://artifacts.apis.io/unweave/apis.yml
+  x-apis-io: https://apis.io/providers/unweave/
+  x-github: https://github.com/api-evangelist/unweave
+- name: Unwind Me
+  url: https://artifacts.apis.io/unwind/apis.yml
+  x-apis-io: https://apis.io/providers/unwind/
+  x-github: https://github.com/api-evangelist/unwind
+- name: Unwired Labs (incl. OpenCelliD)
+  url: https://artifacts.apis.io/unwired-labs/apis.yml
+  x-apis-io: https://apis.io/providers/unwired-labs/
+  x-github: https://github.com/api-evangelist/unwired-labs
+- name: Unwrap
+  url: https://artifacts.apis.io/unwrap/apis.yml
+  x-apis-io: https://apis.io/providers/unwrap/
+  x-github: https://github.com/api-evangelist/unwrap
+- name: University of Newcastle Australia
+  url: https://artifacts.apis.io/uon/apis.yml
+  x-apis-io: https://apis.io/providers/uon/
+  x-github: https://github.com/api-evangelist/uon
+- name: Up
+  url: https://artifacts.apis.io/up-bank/apis.yml
+  x-apis-io: https://apis.io/providers/up-bank/
+  x-github: https://github.com/api-evangelist/up-bank
+- name: UP42
+  url: https://artifacts.apis.io/up42/apis.yml
+  x-apis-io: https://apis.io/providers/up42/
+  x-github: https://github.com/api-evangelist/up42
+- name: Up&Up
+  url: https://artifacts.apis.io/upandup/apis.yml
+  x-apis-io: https://apis.io/providers/upandup/
+  x-github: https://github.com/api-evangelist/upandup
+- name: upapi-io
+  url: https://artifacts.apis.io/upapi-io/apis.yml
+  x-apis-io: https://apis.io/providers/upapi-io/
+  x-github: https://github.com/api-evangelist/upapi-io
+- name: Upbit
+  url: https://artifacts.apis.io/upbit/apis.yml
+  x-apis-io: https://apis.io/providers/upbit/
+  x-github: https://github.com/api-evangelist/upbit
+- name: Upbound
+  url: https://artifacts.apis.io/upbound/apis.yml
+  x-apis-io: https://apis.io/providers/upbound/
+  x-github: https://github.com/api-evangelist/upbound
+- name: UPC database
+  url: https://artifacts.apis.io/upc-database/apis.yml
+  x-apis-io: https://apis.io/providers/upc-database/
+  x-github: https://github.com/api-evangelist/upc-database
+- name: Upciti
+  url: https://artifacts.apis.io/upciti/apis.yml
+  x-apis-io: https://apis.io/providers/upciti/
+  x-github: https://github.com/api-evangelist/upciti
+- name: UpCloud
+  url: https://artifacts.apis.io/upcloud/apis.yml
+  x-apis-io: https://apis.io/providers/upcloud/
+  x-github: https://github.com/api-evangelist/upcloud
+- name: Upcode Academy
+  url: https://artifacts.apis.io/upcode-academy/apis.yml
+  x-apis-io: https://apis.io/providers/upcode-academy/
+  x-github: https://github.com/api-evangelist/upcode-academy
+- name: UpCodes
+  url: https://artifacts.apis.io/upcodes/apis.yml
+  x-apis-io: https://apis.io/providers/upcodes/
+  x-github: https://github.com/api-evangelist/upcodes
+- name: Updox
+  url: https://artifacts.apis.io/updox/apis.yml
+  x-apis-io: https://apis.io/providers/updox/
+  x-github: https://github.com/api-evangelist/updox
+- name: UpEquity
+  url: https://artifacts.apis.io/upequity/apis.yml
+  x-apis-io: https://apis.io/providers/upequity/
+  x-github: https://github.com/api-evangelist/upequity
+- name: Upfluence
+  url: https://artifacts.apis.io/upfluence/apis.yml
+  x-apis-io: https://apis.io/providers/upfluence/
+  x-github: https://github.com/api-evangelist/upfluence
+- name: upGrad
+  url: https://artifacts.apis.io/upgrad/apis.yml
+  x-apis-io: https://apis.io/providers/upgrad/
+  x-github: https://github.com/api-evangelist/upgrad
+- name: Upgrade
+  url: https://artifacts.apis.io/upgrade/apis.yml
+  x-apis-io: https://apis.io/providers/upgrade/
+  x-github: https://github.com/api-evangelist/upgrade
+- name: UpGuard
+  url: https://artifacts.apis.io/upguard/apis.yml
+  x-apis-io: https://apis.io/providers/upguard/
+  x-github: https://github.com/api-evangelist/upguard
+- name: Uphold
+  url: https://artifacts.apis.io/uphold/apis.yml
+  x-apis-io: https://apis.io/providers/uphold/
+  x-github: https://github.com/api-evangelist/uphold
+- name: UpKeep
+  url: https://artifacts.apis.io/upkeep/apis.yml
+  x-apis-io: https://apis.io/providers/upkeep/
+  x-github: https://github.com/api-evangelist/upkeep
+- name: Upkid
+  url: https://artifacts.apis.io/upkid/apis.yml
+  x-apis-io: https://apis.io/providers/upkid/
+  x-github: https://github.com/api-evangelist/upkid
+- name: Upland
+  url: https://artifacts.apis.io/upland/apis.yml
+  x-apis-io: https://apis.io/providers/upland/
+  x-github: https://github.com/api-evangelist/upland
+- name: UpLead
+  url: https://artifacts.apis.io/uplead/apis.yml
+  x-apis-io: https://apis.io/providers/uplead/
+  x-github: https://github.com/api-evangelist/uplead
+- name: Uplevel
+  url: https://artifacts.apis.io/uplevelteam/apis.yml
+  x-apis-io: https://apis.io/providers/uplevelteam/
+  x-github: https://github.com/api-evangelist/uplevelteam
+- name: Uplight
+  url: https://artifacts.apis.io/uplight/apis.yml
+  x-apis-io: https://apis.io/providers/uplight/
+  x-github: https://github.com/api-evangelist/uplight
+- name: uplika-com
+  url: https://artifacts.apis.io/uplika-com/apis.yml
+  x-apis-io: https://apis.io/providers/uplika-com/
+  x-github: https://github.com/api-evangelist/uplika-com
+- name: Uplimit
+  url: https://artifacts.apis.io/uplimit/apis.yml
+  x-apis-io: https://apis.io/providers/uplimit/
+  x-github: https://github.com/api-evangelist/uplimit
+- name: UplinkSwitch
+  url: https://artifacts.apis.io/uplinkswitch/apis.yml
+  x-apis-io: https://apis.io/providers/uplinkswitch/
+  x-github: https://github.com/api-evangelist/uplinkswitch
+- name: Uplisting
+  url: https://artifacts.apis.io/uplisting/apis.yml
+  x-apis-io: https://apis.io/providers/uplisting/
+  x-github: https://github.com/api-evangelist/uplisting
+- name: Upload-Post
+  url: https://artifacts.apis.io/upload-post/apis.yml
+  x-apis-io: https://apis.io/providers/upload-post/
+  x-github: https://github.com/api-evangelist/upload-post
+- name: Uploadcare
+  url: https://artifacts.apis.io/uploadcare/apis.yml
+  x-apis-io: https://apis.io/providers/uploadcare/
+  x-github: https://github.com/api-evangelist/uploadcare
+- name: Universiti Putra Malaysia
+  url: https://artifacts.apis.io/upm/apis.yml
+  x-apis-io: https://apis.io/providers/upm/
+  x-github: https://github.com/api-evangelist/upm
+- name: UPMC
+  url: https://artifacts.apis.io/upmc/apis.yml
+  x-apis-io: https://apis.io/providers/upmc/
+  x-github: https://github.com/api-evangelist/upmc
+- name: Upmem
+  url: https://artifacts.apis.io/upmem/apis.yml
+  x-apis-io: https://apis.io/providers/upmem/
+  x-github: https://github.com/api-evangelist/upmem
+- name: Upollo
+  url: https://artifacts.apis.io/upollo/apis.yml
+  x-apis-io: https://apis.io/providers/upollo/
+  x-github: https://github.com/api-evangelist/upollo
+- name: Upp.
+  url: https://artifacts.apis.io/upp/apis.yml
+  x-apis-io: https://apis.io/providers/upp/
+  x-github: https://github.com/api-evangelist/upp
+- name: Uppercase
+  url: https://artifacts.apis.io/uppercase/apis.yml
+  x-apis-io: https://apis.io/providers/uppercase/
+  x-github: https://github.com/api-evangelist/uppercase
+- name: Uppsala University
+  url: https://artifacts.apis.io/uppsala/apis.yml
+  x-apis-io: https://apis.io/providers/uppsala/
+  x-github: https://github.com/api-evangelist/uppsala
+- name: upriver-ai
+  url: https://artifacts.apis.io/upriver-ai/apis.yml
+  x-apis-io: https://apis.io/providers/upriver-ai/
+  x-github: https://github.com/api-evangelist/upriver-ai
+- name: UPS
+  url: https://artifacts.apis.io/ups/apis.yml
+  x-apis-io: https://apis.io/providers/ups/
+  x-github: https://github.com/api-evangelist/ups
+- name: Upsales
+  url: https://artifacts.apis.io/upsales/apis.yml
+  x-apis-io: https://apis.io/providers/upsales/
+  x-github: https://github.com/api-evangelist/upsales
+- name: Upscale AI
+  url: https://artifacts.apis.io/upscale-ai/apis.yml
+  x-apis-io: https://apis.io/providers/upscale-ai/
+  x-github: https://github.com/api-evangelist/upscale-ai
+- name: Upscale Ai
+  url: https://artifacts.apis.io/upscaleai-com/apis.yml
+  x-apis-io: https://apis.io/providers/upscaleai-com/
+  x-github: https://github.com/api-evangelist/upscaleai-com
+- name: upscrape-com
+  url: https://artifacts.apis.io/upscrape-com/apis.yml
+  x-apis-io: https://apis.io/providers/upscrape-com/
+  x-github: https://github.com/api-evangelist/upscrape-com
+- name: Upshift
+  url: https://artifacts.apis.io/upshiftcars/apis.yml
+  x-apis-io: https://apis.io/providers/upshiftcars/
+  x-github: https://github.com/api-evangelist/upshiftcars
+- name: UPSIDE Foods
+  url: https://artifacts.apis.io/upside-foods/apis.yml
+  x-apis-io: https://apis.io/providers/upside-foods/
+  x-github: https://github.com/api-evangelist/upside-foods
+- name: Upside Services
+  url: https://artifacts.apis.io/upside-services/apis.yml
+  x-apis-io: https://apis.io/providers/upside-services/
+  x-github: https://github.com/api-evangelist/upside-services
+- name: UpsideHoM
+  url: https://artifacts.apis.io/upsidehom/apis.yml
+  x-apis-io: https://apis.io/providers/upsidehom/
+  x-github: https://github.com/api-evangelist/upsidehom
+- name: Upsie
+  url: https://artifacts.apis.io/upsie/apis.yml
+  x-apis-io: https://apis.io/providers/upsie/
+  x-github: https://github.com/api-evangelist/upsie
+- name: Upsight
+  url: https://artifacts.apis.io/upsight/apis.yml
+  x-apis-io: https://apis.io/providers/upsight/
+  x-github: https://github.com/api-evangelist/upsight
+- name: UpSlide
+  url: https://artifacts.apis.io/upslide/apis.yml
+  x-apis-io: https://apis.io/providers/upslide/
+  x-github: https://github.com/api-evangelist/upslide
+- name: UpSmith
+  url: https://artifacts.apis.io/upsmith/apis.yml
+  x-apis-io: https://apis.io/providers/upsmith/
+  x-github: https://github.com/api-evangelist/upsmith
+- name: Upsolver
+  url: https://artifacts.apis.io/upsolver/apis.yml
+  x-apis-io: https://apis.io/providers/upsolver/
+  x-github: https://github.com/api-evangelist/upsolver
+- name: upspring-ai
+  url: https://artifacts.apis.io/upspring-ai/apis.yml
+  x-apis-io: https://apis.io/providers/upspring-ai/
+  x-github: https://github.com/api-evangelist/upspring-ai
+- name: Upstage
+  url: https://artifacts.apis.io/upstage-ai/apis.yml
+  x-apis-io: https://apis.io/providers/upstage-ai/
+  x-github: https://github.com/api-evangelist/upstage-ai
+- name: Upstart
+  url: https://artifacts.apis.io/upstart/apis.yml
+  x-apis-io: https://apis.io/providers/upstart/
+  x-github: https://github.com/api-evangelist/upstart
+- name: Upstash
+  url: https://artifacts.apis.io/upstash/apis.yml
+  x-apis-io: https://apis.io/providers/upstash/
+  x-github: https://github.com/api-evangelist/upstash
+- name: Upstox
+  url: https://artifacts.apis.io/upstox/apis.yml
+  x-apis-io: https://apis.io/providers/upstox/
+  x-github: https://github.com/api-evangelist/upstox
+- name: Upstream
+  url: https://artifacts.apis.io/upstream/apis.yml
+  x-apis-io: https://apis.io/providers/upstream/
+  x-github: https://github.com/api-evangelist/upstream
+- name: Upstream Bio
+  url: https://artifacts.apis.io/upstream-bio/apis.yml
+  x-apis-io: https://apis.io/providers/upstream-bio/
+  x-github: https://github.com/api-evangelist/upstream-bio
+- name: Upstream Security
+  url: https://artifacts.apis.io/upstream-security/apis.yml
+  x-apis-io: https://apis.io/providers/upstream-security/
+  x-github: https://github.com/api-evangelist/upstream-security
+- name: Upsun
+  url: https://artifacts.apis.io/upsun/apis.yml
+  x-apis-io: https://apis.io/providers/upsun/
+  x-github: https://github.com/api-evangelist/upsun
+- name: Upswing
+  url: https://artifacts.apis.io/upswing/apis.yml
+  x-apis-io: https://apis.io/providers/upswing/
+  x-github: https://github.com/api-evangelist/upswing
+- name: Uptake
+  url: https://artifacts.apis.io/uptake/apis.yml
+  x-apis-io: https://apis.io/providers/uptake/
+  x-github: https://github.com/api-evangelist/uptake
+- name: Upteam
+  url: https://artifacts.apis.io/upteam/apis.yml
+  x-apis-io: https://apis.io/providers/upteam/
+  x-github: https://github.com/api-evangelist/upteam
+- name: Upthere
+  url: https://artifacts.apis.io/upthere/apis.yml
+  x-apis-io: https://apis.io/providers/upthere/
+  x-github: https://github.com/api-evangelist/upthere
+- name: Uptime
+  url: https://artifacts.apis.io/uptime/apis.yml
+  x-apis-io: https://apis.io/providers/uptime/
+  x-github: https://github.com/api-evangelist/uptime
+- name: Uptime.com
+  url: https://artifacts.apis.io/uptime-com/apis.yml
+  x-apis-io: https://apis.io/providers/uptime-com/
+  x-github: https://github.com/api-evangelist/uptime-com
+- name: Uptime Kuma
+  url: https://artifacts.apis.io/uptime-kuma/apis.yml
+  x-apis-io: https://apis.io/providers/uptime-kuma/
+  x-github: https://github.com/api-evangelist/uptime-kuma
+- name: UptimeHealth
+  url: https://artifacts.apis.io/uptimehealth/apis.yml
+  x-apis-io: https://apis.io/providers/uptimehealth/
+  x-github: https://github.com/api-evangelist/uptimehealth
+- name: Monitive
+  url: https://artifacts.apis.io/uptimemonitoring-com/apis.yml
+  x-apis-io: https://apis.io/providers/uptimemonitoring-com/
+  x-github: https://github.com/api-evangelist/uptimemonitoring-com
+- name: UptimeRobot
+  url: https://artifacts.apis.io/uptimerobot/apis.yml
+  x-apis-io: https://apis.io/providers/uptimerobot/
+  x-github: https://github.com/api-evangelist/uptimerobot
+- name: Uptrace
+  url: https://artifacts.apis.io/uptrace/apis.yml
+  x-apis-io: https://apis.io/providers/uptrace/
+  x-github: https://github.com/api-evangelist/uptrace
+- name: UpTrain
+  url: https://artifacts.apis.io/uptrain/apis.yml
+  x-apis-io: https://apis.io/providers/uptrain/
+  x-github: https://github.com/api-evangelist/uptrain
+- name: uptybots-com
+  url: https://artifacts.apis.io/uptybots-com/apis.yml
+  x-apis-io: https://apis.io/providers/uptybots-com/
+  x-github: https://github.com/api-evangelist/uptybots-com
+- name: Uptycs
+  url: https://artifacts.apis.io/uptycs/apis.yml
+  x-apis-io: https://apis.io/providers/uptycs/
+  x-github: https://github.com/api-evangelist/uptycs
+- name: Upverter
+  url: https://artifacts.apis.io/upverter/apis.yml
+  x-apis-io: https://apis.io/providers/upverter/
+  x-github: https://github.com/api-evangelist/upverter
+- name: Upvest
+  url: https://artifacts.apis.io/upvest/apis.yml
+  x-apis-io: https://apis.io/providers/upvest/
+  x-github: https://github.com/api-evangelist/upvest
+- name: Upwage
+  url: https://artifacts.apis.io/upwage/apis.yml
+  x-apis-io: https://apis.io/providers/upwage/
+  x-github: https://github.com/api-evangelist/upwage
+- name: Upward Financial
+  url: https://artifacts.apis.io/upward-financial/apis.yml
+  x-apis-io: https://apis.io/providers/upward-financial/
+  x-github: https://github.com/api-evangelist/upward-financial
+- name: Upwave
+  url: https://artifacts.apis.io/upwave/apis.yml
+  x-apis-io: https://apis.io/providers/upwave/
+  x-github: https://github.com/api-evangelist/upwave
+- name: Upway
+  url: https://artifacts.apis.io/upway/apis.yml
+  x-apis-io: https://apis.io/providers/upway/
+  x-github: https://github.com/api-evangelist/upway
+- name: Upwind
+  url: https://artifacts.apis.io/upwind/apis.yml
+  x-apis-io: https://apis.io/providers/upwind/
+  x-github: https://github.com/api-evangelist/upwind
+- name: Upwing Energy
+  url: https://artifacts.apis.io/upwing-energy/apis.yml
+  x-apis-io: https://apis.io/providers/upwing-energy/
+  x-github: https://github.com/api-evangelist/upwing-energy
+- name: Upwork
+  url: https://artifacts.apis.io/upwork/apis.yml
+  x-apis-io: https://apis.io/providers/upwork/
+  x-github: https://github.com/api-evangelist/upwork
+- name: Upworthy
+  url: https://artifacts.apis.io/upworthy/apis.yml
+  x-apis-io: https://apis.io/providers/upworthy/
+  x-github: https://github.com/api-evangelist/upworthy
+- name: University of Queensland
+  url: https://artifacts.apis.io/uq/apis.yml
+  x-apis-io: https://apis.io/providers/uq/
+  x-github: https://github.com/api-evangelist/uq
+- name: Urantia Papers
+  url: https://artifacts.apis.io/urantia-papers/apis.yml
+  x-apis-io: https://apis.io/providers/urantia-papers/
+  x-github: https://github.com/api-evangelist/urantia-papers
+- name: UrBackup
+  url: https://artifacts.apis.io/urbackup/apis.yml
+  x-apis-io: https://apis.io/providers/urbackup/
+  x-github: https://github.com/api-evangelist/urbackup
+- name: Urban Engines
+  url: https://artifacts.apis.io/urban-engines/apis.yml
+  x-apis-io: https://apis.io/providers/urban-engines/
+  x-github: https://github.com/api-evangelist/urban-engines
+- name: Urban Jungle
+  url: https://artifacts.apis.io/urban-jungle/apis.yml
+  x-apis-io: https://apis.io/providers/urban-jungle/
+  x-github: https://github.com/api-evangelist/urban-jungle
+- name: Urban Machine
+  url: https://artifacts.apis.io/urban-machine/apis.yml
+  x-apis-io: https://apis.io/providers/urban-machine/
+  x-github: https://github.com/api-evangelist/urban-machine
+- name: Urban Observatory
+  url: https://artifacts.apis.io/urban-observatory/apis.yml
+  x-apis-io: https://apis.io/providers/urban-observatory/
+  x-github: https://github.com/api-evangelist/urban-observatory
+- name: Urban Outfitters
+  url: https://artifacts.apis.io/urban-outfitters/apis.yml
+  x-apis-io: https://apis.io/providers/urban-outfitters/
+  x-github: https://github.com/api-evangelist/urban-outfitters
+- name: Urban Revivo
+  url: https://artifacts.apis.io/urban-revivo/apis.yml
+  x-apis-io: https://apis.io/providers/urban-revivo/
+  x-github: https://github.com/api-evangelist/urban-revivo
+- name: Urban SDK
+  url: https://artifacts.apis.io/urban-sdk/apis.yml
+  x-apis-io: https://apis.io/providers/urban-sdk/
+  x-github: https://github.com/api-evangelist/urban-sdk
+- name: Urban Sky
+  url: https://artifacts.apis.io/urban-sky/apis.yml
+  x-apis-io: https://apis.io/providers/urban-sky/
+  x-github: https://github.com/api-evangelist/urban-sky
+- name: Urban Sports Club
+  url: https://artifacts.apis.io/urban-sports-club/apis.yml
+  x-apis-io: https://apis.io/providers/urban-sports-club/
+  x-github: https://github.com/api-evangelist/urban-sports-club
+- name: Urban Structure Visualization Promotion Organization
+  url: https://artifacts.apis.io/urban-structure-visualization-promotion-organization/apis.yml
+  x-apis-io: https://apis.io/providers/urban-structure-visualization-promotion-organization/
+  x-github: https://github.com/api-evangelist/urban-structure-visualization-promotion-organization
+- name: UrbanCompany
+  url: https://artifacts.apis.io/urbancompany/apis.yml
+  x-apis-io: https://apis.io/providers/urbancompany/
+  x-github: https://github.com/api-evangelist/urbancompany
+- name: UrbanFootprint
+  url: https://artifacts.apis.io/urbanfootprint/apis.yml
+  x-apis-io: https://apis.io/providers/urbanfootprint/
+  x-github: https://github.com/api-evangelist/urbanfootprint
+- name: UrbanFox
+  url: https://artifacts.apis.io/urbanfox/apis.yml
+  x-apis-io: https://apis.io/providers/urbanfox/
+  x-github: https://github.com/api-evangelist/urbanfox
+- name: UrbanHire
+  url: https://artifacts.apis.io/urbanhire/apis.yml
+  x-apis-io: https://apis.io/providers/urbanhire/
+  x-github: https://github.com/api-evangelist/urbanhire
+- name: Urbanic
+  url: https://artifacts.apis.io/urbanic/apis.yml
+  x-apis-io: https://apis.io/providers/urbanic/
+  x-github: https://github.com/api-evangelist/urbanic
+- name: UrbanLogiq
+  url: https://artifacts.apis.io/urbanlogiq/apis.yml
+  x-apis-io: https://apis.io/providers/urbanlogiq/
+  x-github: https://github.com/api-evangelist/urbanlogiq
+- name: UrbanMetry
+  url: https://artifacts.apis.io/urbanmetry/apis.yml
+  x-apis-io: https://apis.io/providers/urbanmetry/
+  x-github: https://github.com/api-evangelist/urbanmetry
+- name: UrbanPiper
+  url: https://artifacts.apis.io/urbanpiper/apis.yml
+  x-apis-io: https://apis.io/providers/urbanpiper/
+  x-github: https://github.com/api-evangelist/urbanpiper
+- name: Urban Remedy
+  url: https://artifacts.apis.io/urbanremedy/apis.yml
+  x-apis-io: https://apis.io/providers/urbanremedy/
+  x-github: https://github.com/api-evangelist/urbanremedy
+- name: UrbanSitter
+  url: https://artifacts.apis.io/urbansitter/apis.yml
+  x-apis-io: https://apis.io/providers/urbansitter/
+  x-github: https://github.com/api-evangelist/urbansitter
+- name: UrbanStems
+  url: https://artifacts.apis.io/urbanstems/apis.yml
+  x-apis-io: https://apis.io/providers/urbanstems/
+  x-github: https://github.com/api-evangelist/urbanstems
+- name: Urbia
+  url: https://artifacts.apis.io/urbia/apis.yml
+  x-apis-io: https://apis.io/providers/urbia/
+  x-github: https://github.com/api-evangelist/urbia
+- name: Urbint
+  url: https://artifacts.apis.io/urbint/apis.yml
+  x-apis-io: https://apis.io/providers/urbint/
+  x-github: https://github.com/api-evangelist/urbint
+- name: Urbit
+  url: https://artifacts.apis.io/urbit/apis.yml
+  x-apis-io: https://apis.io/providers/urbit/
+  x-github: https://github.com/api-evangelist/urbit
+- name: Ureeka
+  url: https://artifacts.apis.io/ureeka/apis.yml
+  x-apis-io: https://apis.io/providers/ureeka/
+  x-github: https://github.com/api-evangelist/ureeka
+- name: Urjanet
+  url: https://artifacts.apis.io/urjanet/apis.yml
+  x-apis-io: https://apis.io/providers/urjanet/
+  x-github: https://github.com/api-evangelist/urjanet
+- name: UrlBae
+  url: https://artifacts.apis.io/urlbae/apis.yml
+  x-apis-io: https://apis.io/providers/urlbae/
+  x-github: https://github.com/api-evangelist/urlbae
+- name: Urlbox
+  url: https://artifacts.apis.io/urlbox/apis.yml
+  x-apis-io: https://apis.io/providers/urlbox/
+  x-github: https://github.com/api-evangelist/urlbox
+- name: URLhaus
+  url: https://artifacts.apis.io/urlhaus/apis.yml
+  x-apis-io: https://apis.io/providers/urlhaus/
+  x-github: https://github.com/api-evangelist/urlhaus
+- name: urlpipe-dev
+  url: https://artifacts.apis.io/urlpipe-dev/apis.yml
+  x-apis-io: https://apis.io/providers/urlpipe-dev/
+  x-github: https://github.com/api-evangelist/urlpipe-dev
+- name: URLScan.io
+  url: https://artifacts.apis.io/urlscan-io/apis.yml
+  x-apis-io: https://apis.io/providers/urlscan-io/
+  x-github: https://github.com/api-evangelist/urlscan-io
+- name: Uroam
+  url: https://artifacts.apis.io/uroam/apis.yml
+  x-apis-io: https://apis.io/providers/uroam/
+  x-github: https://github.com/api-evangelist/uroam
+- name: Ursa Computing
+  url: https://artifacts.apis.io/ursa-computing/apis.yml
+  x-apis-io: https://apis.io/providers/ursa-computing/
+  x-github: https://github.com/api-evangelist/ursa-computing
+- name: Ursa Major Technologies
+  url: https://artifacts.apis.io/ursa-major-technologies/apis.yml
+  x-apis-io: https://apis.io/providers/ursa-major-technologies/
+  x-github: https://github.com/api-evangelist/ursa-major-technologies
+- name: Ursa Space Systems
+  url: https://artifacts.apis.io/ursa-space-systems/apis.yml
+  x-apis-io: https://apis.io/providers/ursa-space-systems/
+  x-github: https://github.com/api-evangelist/ursa-space-systems
+- name: Ursula
+  url: https://artifacts.apis.io/ursula/apis.yml
+  x-apis-io: https://apis.io/providers/ursula/
+  x-github: https://github.com/api-evangelist/ursula
+- name: Urtopia
+  url: https://artifacts.apis.io/urtopia/apis.yml
+  x-apis-io: https://apis.io/providers/urtopia/
+  x-github: https://github.com/api-evangelist/urtopia
+- name: 'URX *'
+  url: https://artifacts.apis.io/urx/apis.yml
+  x-apis-io: https://apis.io/providers/urx/
+  x-github: https://github.com/api-evangelist/urx
+- name: US AbilityOne Commission
+  url: https://artifacts.apis.io/us-abilityone-commission/apis.yml
+  x-apis-io: https://apis.io/providers/us-abilityone-commission/
+  x-github: https://github.com/api-evangelist/us-abilityone-commission
+- name: US African Development Foundation
+  url: https://artifacts.apis.io/us-african-development-foundation/apis.yml
+  x-apis-io: https://apis.io/providers/us-african-development-foundation/
+  x-github: https://github.com/api-evangelist/us-african-development-foundation
+- name: US Air Force
+  url: https://artifacts.apis.io/us-air-force/apis.yml
+  x-apis-io: https://apis.io/providers/us-air-force/
+  x-github: https://github.com/api-evangelist/us-air-force
+- name: US Arctic Research Commission
+  url: https://artifacts.apis.io/us-arctic-research-commission/apis.yml
+  x-apis-io: https://apis.io/providers/us-arctic-research-commission/
+  x-github: https://github.com/api-evangelist/us-arctic-research-commission
+- name: US Army
+  url: https://artifacts.apis.io/us-army/apis.yml
+  x-apis-io: https://apis.io/providers/us-army/
+  x-github: https://github.com/api-evangelist/us-army
+- name: US Army Corps of Engineers
+  url: https://artifacts.apis.io/us-army-corps-of-engineers/apis.yml
+  x-apis-io: https://apis.io/providers/us-army-corps-of-engineers/
+  x-github: https://github.com/api-evangelist/us-army-corps-of-engineers
+- name: US Army Geospatial Center
+  url: https://artifacts.apis.io/us-army-geospatial-center/apis.yml
+  x-apis-io: https://apis.io/providers/us-army-geospatial-center/
+  x-github: https://github.com/api-evangelist/us-army-geospatial-center
+- name: US Autocomplete
+  url: https://artifacts.apis.io/us-autocomplete/apis.yml
+  x-apis-io: https://apis.io/providers/us-autocomplete/
+  x-github: https://github.com/api-evangelist/us-autocomplete
+- name: US Bancorp
+  url: https://artifacts.apis.io/us-bancorp/apis.yml
+  x-apis-io: https://apis.io/providers/us-bancorp/
+  x-github: https://github.com/api-evangelist/us-bancorp
+- name: US Capitol Visitor Center
+  url: https://artifacts.apis.io/us-capitol-visitor-center/apis.yml
+  x-apis-io: https://apis.io/providers/us-capitol-visitor-center/
+  x-github: https://github.com/api-evangelist/us-capitol-visitor-center
+- name: US Census Bureau
+  url: https://artifacts.apis.io/us-census-bureau/apis.yml
+  x-apis-io: https://apis.io/providers/us-census-bureau/
+  x-github: https://github.com/api-evangelist/us-census-bureau
+- name: US Central Command
+  url: https://artifacts.apis.io/us-central-command/apis.yml
+  x-apis-io: https://apis.io/providers/us-central-command/
+  x-github: https://github.com/api-evangelist/us-central-command
+- name: US Chemical Safety and Hazard Investigation Board
+  url: https://artifacts.apis.io/us-chemical-safety-and-hazard-investigation-board/apis.yml
+  x-apis-io: https://apis.io/providers/us-chemical-safety-and-hazard-investigation-board/
+  x-github: https://github.com/api-evangelist/us-chemical-safety-and-hazard-investigation-board
+- name: US Citizenship and Immigration Services
+  url: https://artifacts.apis.io/us-citizenship-and-immigration-services/apis.yml
+  x-apis-io: https://apis.io/providers/us-citizenship-and-immigration-services/
+  x-github: https://github.com/api-evangelist/us-citizenship-and-immigration-services
+- name: US Commission on Civil Rights
+  url: https://artifacts.apis.io/us-commission-on-civil-rights/apis.yml
+  x-apis-io: https://apis.io/providers/us-commission-on-civil-rights/
+  x-github: https://github.com/api-evangelist/us-commission-on-civil-rights
+- name: US Commission on International Religious Freedom
+  url: https://artifacts.apis.io/us-commission-on-international-religious-freedom/apis.yml
+  x-apis-io: https://apis.io/providers/us-commission-on-international-religious-freedom/
+  x-github: https://github.com/api-evangelist/us-commission-on-international-religious-freedom
+- name: US Copyright Office
+  url: https://artifacts.apis.io/us-copyright-office/apis.yml
+  x-apis-io: https://apis.io/providers/us-copyright-office/
+  x-github: https://github.com/api-evangelist/us-copyright-office
+- name: US Court of Appeals for the Federal Circuit
+  url: https://artifacts.apis.io/us-court-of-appeals-for-the-federal-circuit/apis.yml
+  x-apis-io: https://apis.io/providers/us-court-of-appeals-for-the-federal-circuit/
+  x-github: https://github.com/api-evangelist/us-court-of-appeals-for-the-federal-circuit
+- name: US Cyber Command
+  url: https://artifacts.apis.io/us-cyber-command/apis.yml
+  x-apis-io: https://apis.io/providers/us-cyber-command/
+  x-github: https://github.com/api-evangelist/us-cyber-command
+- name: US Department of Commerce
+  url: https://artifacts.apis.io/us-department-of-commerce/apis.yml
+  x-apis-io: https://apis.io/providers/us-department-of-commerce/
+  x-github: https://github.com/api-evangelist/us-department-of-commerce
+- name: US Department of Defense
+  url: https://artifacts.apis.io/us-department-of-defense/apis.yml
+  x-apis-io: https://apis.io/providers/us-department-of-defense/
+  x-github: https://github.com/api-evangelist/us-department-of-defense
+- name: US Dept. of Defense/DISA
+  url: https://artifacts.apis.io/us-dept-of-defense-disa/apis.yml
+  x-apis-io: https://apis.io/providers/us-dept-of-defense-disa/
+  x-github: https://github.com/api-evangelist/us-dept-of-defense-disa
+- name: U.S. Department of Transportation
+  url: https://artifacts.apis.io/us-dot/apis.yml
+  x-apis-io: https://apis.io/providers/us-dot/
+  x-github: https://github.com/api-evangelist/us-dot
+- name: US Extract
+  url: https://artifacts.apis.io/us-extract/apis.yml
+  x-apis-io: https://apis.io/providers/us-extract/
+  x-github: https://github.com/api-evangelist/us-extract
+- name: US Foods
+  url: https://artifacts.apis.io/us-foods/apis.yml
+  x-apis-io: https://apis.io/providers/us-foods/
+  x-github: https://github.com/api-evangelist/us-foods
+- name: US Health Partners
+  url: https://artifacts.apis.io/us-health-partners-llc/apis.yml
+  x-apis-io: https://apis.io/providers/us-health-partners-llc/
+  x-github: https://github.com/api-evangelist/us-health-partners-llc
+- name: US House of Representatives
+  url: https://artifacts.apis.io/us-house-of-representatives/apis.yml
+  x-apis-io: https://apis.io/providers/us-house-of-representatives/
+  x-github: https://github.com/api-evangelist/us-house-of-representatives
+- name: US Patent and Trademark Office
+  url: https://artifacts.apis.io/us-patent-and-trademark-office/apis.yml
+  x-apis-io: https://apis.io/providers/us-patent-and-trademark-office/
+  x-github: https://github.com/api-evangelist/us-patent-and-trademark-office
+- name: US Presidential Election Data by TogaTech
+  url: https://artifacts.apis.io/us-presidential-election-data-by-togatech/apis.yml
+  x-apis-io: https://apis.io/providers/us-presidential-election-data-by-togatech/
+  x-github: https://github.com/api-evangelist/us-presidential-election-data-by-togatech
+- name: US Senate
+  url: https://artifacts.apis.io/us-senate/apis.yml
+  x-apis-io: https://apis.io/providers/us-senate/
+  x-github: https://github.com/api-evangelist/us-senate
+- name: US Space Command
+  url: https://artifacts.apis.io/us-space-comman/apis.yml
+  x-apis-io: https://apis.io/providers/us-space-comman/
+  x-github: https://github.com/api-evangelist/us-space-comman
+- name: US Street Address
+  url: https://artifacts.apis.io/us-street-address/apis.yml
+  x-apis-io: https://apis.io/providers/us-street-address/
+  x-github: https://github.com/api-evangelist/us-street-address
+- name: US ZipCode
+  url: https://artifacts.apis.io/us-zipcode/apis.yml
+  x-apis-io: https://apis.io/providers/us-zipcode/
+  x-github: https://github.com/api-evangelist/us-zipcode
+- name: Us2.ai
+  url: https://artifacts.apis.io/us2ai/apis.yml
+  x-apis-io: https://apis.io/providers/us2ai/
+  x-github: https://github.com/api-evangelist/us2ai
+- name: USA.gov
+  url: https://artifacts.apis.io/usa-gov/apis.yml
+  x-apis-io: https://apis.io/providers/usa-gov/
+  x-github: https://github.com/api-evangelist/usa-gov
+- name: USA Rare Earth
+  url: https://artifacts.apis.io/usa-rare-earth/apis.yml
+  x-apis-io: https://apis.io/providers/usa-rare-earth/
+  x-github: https://github.com/api-evangelist/usa-rare-earth
+- name: USA TODAY
+  url: https://artifacts.apis.io/usa-today/apis.yml
+  x-apis-io: https://apis.io/providers/usa-today/
+  x-github: https://github.com/api-evangelist/usa-today
+- name: USAA
+  url: https://artifacts.apis.io/usaa/apis.yml
+  x-apis-io: https://apis.io/providers/usaa/
+  x-github: https://github.com/api-evangelist/usaa
+- name: USACallerLookup
+  url: https://artifacts.apis.io/usacallerlookup/apis.yml
+  x-apis-io: https://apis.io/providers/usacallerlookup/
+  x-github: https://github.com/api-evangelist/usacallerlookup
+- name: USADATA
+  url: https://artifacts.apis.io/usadata-inc/apis.yml
+  x-apis-io: https://apis.io/providers/usadata-inc/
+  x-github: https://github.com/api-evangelist/usadata-inc
+- name: USAID
+  url: https://artifacts.apis.io/usaid/apis.yml
+  x-apis-io: https://apis.io/providers/usaid/
+  x-github: https://github.com/api-evangelist/usaid
+- name: USAJOBS
+  url: https://artifacts.apis.io/usajobs/apis.yml
+  x-apis-io: https://apis.io/providers/usajobs/
+  x-github: https://github.com/api-evangelist/usajobs
+- name: USAspending.gov
+  url: https://artifacts.apis.io/usaspending/apis.yml
+  x-apis-io: https://apis.io/providers/usaspending/
+  x-github: https://github.com/api-evangelist/usaspending
+- name: University of Southern California
+  url: https://artifacts.apis.io/usc/apis.yml
+  x-apis-io: https://apis.io/providers/usc/
+  x-github: https://github.com/api-evangelist/usc
+- name: uScoop
+  url: https://artifacts.apis.io/uscoop/apis.yml
+  x-apis-io: https://apis.io/providers/uscoop/
+  x-github: https://github.com/api-evangelist/uscoop
+- name: Uscreen
+  url: https://artifacts.apis.io/uscreen/apis.yml
+  x-apis-io: https://apis.io/providers/uscreen/
+  x-github: https://github.com/api-evangelist/uscreen
+- name: USDA
+  url: https://artifacts.apis.io/usda/apis.yml
+  x-apis-io: https://apis.io/providers/usda/
+  x-github: https://github.com/api-evangelist/usda
+- name: USDA Agricultural Research Service (ARS)
+  url: https://artifacts.apis.io/usda-agricultural-research-service-ars-/apis.yml
+  x-apis-io: https://apis.io/providers/usda-agricultural-research-service-ars-/
+  x-github: https://github.com/api-evangelist/usda-agricultural-research-service-ars-
+- name: USDA SNAP Retailer Locator
+  url: https://artifacts.apis.io/usda-snap/apis.yml
+  x-apis-io: https://apis.io/providers/usda-snap/
+  x-github: https://github.com/api-evangelist/usda-snap
+- name: AgentBank
+  url: https://artifacts.apis.io/useagentbank/apis.yml
+  x-apis-io: https://apis.io/providers/useagentbank/
+  x-github: https://github.com/api-evangelist/useagentbank
+- name: Useanything
+  url: https://artifacts.apis.io/useanything/apis.yml
+  x-apis-io: https://apis.io/providers/useanything/
+  x-github: https://github.com/api-evangelist/useanything
+- name: useapi.net
+  url: https://artifacts.apis.io/useapi/apis.yml
+  x-apis-io: https://apis.io/providers/useapi/
+  x-github: https://github.com/api-evangelist/useapi
+- name: Beam
+  url: https://artifacts.apis.io/usebeam-co/apis.yml
+  x-apis-io: https://apis.io/providers/usebeam-co/
+  x-github: https://github.com/api-evangelist/usebeam-co
+- name: Bounce
+  url: https://artifacts.apis.io/usebounce-com/apis.yml
+  x-apis-io: https://apis.io/providers/usebounce-com/
+  x-github: https://github.com/api-evangelist/usebounce-com
+- name: Braintrust (Talent Network)
+  url: https://artifacts.apis.io/usebraintrust/apis.yml
+  x-apis-io: https://apis.io/providers/usebraintrust/
+  x-github: https://github.com/api-evangelist/usebraintrust
+- name: Button
+  url: https://artifacts.apis.io/usebutton/apis.yml
+  x-apis-io: https://apis.io/providers/usebutton/
+  x-github: https://github.com/api-evangelist/usebutton
+- name: Clad Labs
+  url: https://artifacts.apis.io/useclad-ai/apis.yml
+  x-apis-io: https://apis.io/providers/useclad-ai/
+  x-github: https://github.com/api-evangelist/useclad-ai
+- name: Commune
+  url: https://artifacts.apis.io/usecommune/apis.yml
+  x-apis-io: https://apis.io/providers/usecommune/
+  x-github: https://github.com/api-evangelist/usecommune
+- name: Definite
+  url: https://artifacts.apis.io/usedefinite-com/apis.yml
+  x-apis-io: https://apis.io/providers/usedefinite-com/
+  x-github: https://github.com/api-evangelist/usedefinite-com
+- name: FOMO
+  url: https://artifacts.apis.io/usefomo/apis.yml
+  x-apis-io: https://apis.io/providers/usefomo/
+  x-github: https://github.com/api-evangelist/usefomo
+- name: ForgeKit
+  url: https://artifacts.apis.io/useforgekit/apis.yml
+  x-apis-io: https://apis.io/providers/useforgekit/
+  x-github: https://github.com/api-evangelist/useforgekit
+- name: Useful Sensors
+  url: https://artifacts.apis.io/useful-sensors/apis.yml
+  x-apis-io: https://apis.io/providers/useful-sensors/
+  x-github: https://github.com/api-evangelist/useful-sensors
+- name: usefulapi-io
+  url: https://artifacts.apis.io/usefulapi-io/apis.yml
+  x-apis-io: https://apis.io/providers/usefulapi-io/
+  x-github: https://github.com/api-evangelist/usefulapi-io
+- name: Haystack Analytics
+  url: https://artifacts.apis.io/usehaystack/apis.yml
+  x-apis-io: https://apis.io/providers/usehaystack/
+  x-github: https://github.com/api-evangelist/usehaystack
+- name: Hyphen
+  url: https://artifacts.apis.io/usehyphen-com/apis.yml
+  x-apis-io: https://apis.io/providers/usehyphen-com/
+  x-github: https://github.com/api-evangelist/usehyphen-com
+- name: Lemma
+  url: https://artifacts.apis.io/uselemma/apis.yml
+  x-apis-io: https://apis.io/providers/uselemma/
+  x-github: https://github.com/api-evangelist/uselemma
+- name: Meteor (usemeteor.ai)
+  url: https://artifacts.apis.io/usemeteor-ai/apis.yml
+  x-apis-io: https://apis.io/providers/usemeteor-ai/
+  x-github: https://github.com/api-evangelist/usemeteor-ai
+- name: usemip.com
+  url: https://artifacts.apis.io/usemip/apis.yml
+  x-apis-io: https://apis.io/providers/usemip/
+  x-github: https://github.com/api-evangelist/usemip
+- name: Motion
+  url: https://artifacts.apis.io/usemotion-com/apis.yml
+  x-apis-io: https://apis.io/providers/usemotion-com/
+  x-github: https://github.com/api-evangelist/usemotion-com
+- name: Narrative Sports
+  url: https://artifacts.apis.io/usenarrative/apis.yml
+  x-apis-io: https://apis.io/providers/usenarrative/
+  x-github: https://github.com/api-evangelist/usenarrative
+- name: Usenarrative
+  url: https://artifacts.apis.io/usenarrative-ai/apis.yml
+  x-apis-io: https://apis.io/providers/usenarrative-ai/
+  x-github: https://github.com/api-evangelist/usenarrative-ai
+- name: Origin Financial
+  url: https://artifacts.apis.io/useorigin/apis.yml
+  x-apis-io: https://apis.io/providers/useorigin/
+  x-github: https://github.com/api-evangelist/useorigin
+- name: Paragon
+  url: https://artifacts.apis.io/useparagon/apis.yml
+  x-apis-io: https://apis.io/providers/useparagon/
+  x-github: https://github.com/api-evangelist/useparagon
+- name: Parrot
+  url: https://artifacts.apis.io/useparrot/apis.yml
+  x-apis-io: https://apis.io/providers/useparrot/
+  x-github: https://github.com/api-evangelist/useparrot
+- name: User1st
+  url: https://artifacts.apis.io/user1st/apis.yml
+  x-apis-io: https://apis.io/providers/user1st/
+  x-github: https://github.com/api-evangelist/user1st
+- name: Rainbow
+  url: https://artifacts.apis.io/userainbow-com/apis.yml
+  x-apis-io: https://apis.io/providers/userainbow-com/
+  x-github: https://github.com/api-evangelist/userainbow-com
+- name: Userback
+  url: https://artifacts.apis.io/userback/apis.yml
+  x-apis-io: https://apis.io/providers/userback/
+  x-github: https://github.com/api-evangelist/userback
+- name: Usercentrics
+  url: https://artifacts.apis.io/usercentrics/apis.yml
+  x-apis-io: https://apis.io/providers/usercentrics/
+  x-github: https://github.com/api-evangelist/usercentrics
+- name: UserClouds
+  url: https://artifacts.apis.io/userclouds/apis.yml
+  x-apis-io: https://apis.io/providers/userclouds/
+  x-github: https://github.com/api-evangelist/userclouds
+- name: Reframe
+  url: https://artifacts.apis.io/usereframe/apis.yml
+  x-apis-io: https://apis.io/providers/usereframe/
+  x-github: https://github.com/api-evangelist/usereframe
+- name: Userflow
+  url: https://artifacts.apis.io/userflow/apis.yml
+  x-apis-io: https://apis.io/providers/userflow/
+  x-github: https://github.com/api-evangelist/userflow
+- name: UserGems
+  url: https://artifacts.apis.io/usergems/apis.yml
+  x-apis-io: https://apis.io/providers/usergems/
+  x-github: https://github.com/api-evangelist/usergems
+- name: Rig
+  url: https://artifacts.apis.io/userig/apis.yml
+  x-apis-io: https://apis.io/providers/userig/
+  x-github: https://github.com/api-evangelist/userig
+- name: Sprig
+  url: https://artifacts.apis.io/userleap-com/apis.yml
+  x-apis-io: https://apis.io/providers/userleap-com/
+  x-github: https://github.com/api-evangelist/userleap-com
+- name: Userlens
+  url: https://artifacts.apis.io/userlens/apis.yml
+  x-apis-io: https://apis.io/providers/userlens/
+  x-github: https://github.com/api-evangelist/userlens
+- name: Usermind
+  url: https://artifacts.apis.io/usermind/apis.yml
+  x-apis-io: https://apis.io/providers/usermind/
+  x-github: https://github.com/api-evangelist/usermind
+- name: Rocket
+  url: https://artifacts.apis.io/userocket-app/apis.yml
+  x-apis-io: https://apis.io/providers/userocket-app/
+  x-github: https://github.com/api-evangelist/userocket-app
+- name: Userpilot
+  url: https://artifacts.apis.io/userpilot/apis.yml
+  x-apis-io: https://apis.io/providers/userpilot/
+  x-github: https://github.com/api-evangelist/userpilot
+- name: Usersnap
+  url: https://artifacts.apis.io/usersnap/apis.yml
+  x-apis-io: https://apis.io/providers/usersnap/
+  x-github: https://github.com/api-evangelist/usersnap
+- name: Userstack
+  url: https://artifacts.apis.io/userstack/apis.yml
+  x-apis-io: https://apis.io/providers/userstack/
+  x-github: https://github.com/api-evangelist/userstack
+- name: UserTesting
+  url: https://artifacts.apis.io/usertesting/apis.yml
+  x-apis-io: https://apis.io/providers/usertesting/
+  x-github: https://github.com/api-evangelist/usertesting
+- name: UserVoice
+  url: https://artifacts.apis.io/uservoice/apis.yml
+  x-apis-io: https://apis.io/providers/uservoice/
+  x-github: https://github.com/api-evangelist/uservoice
+- name: usesignal-dev
+  url: https://artifacts.apis.io/usesignal-dev/apis.yml
+  x-apis-io: https://apis.io/providers/usesignal-dev/
+  x-github: https://github.com/api-evangelist/usesignal-dev
+- name: usestring-ai
+  url: https://artifacts.apis.io/usestring-ai/apis.yml
+  x-apis-io: https://apis.io/providers/usestring-ai/
+  x-github: https://github.com/api-evangelist/usestring-ai
+- name: Tapestry
+  url: https://artifacts.apis.io/usetapestry-dev/apis.yml
+  x-apis-io: https://apis.io/providers/usetapestry-dev/
+  x-github: https://github.com/api-evangelist/usetapestry-dev
+- name: Tola
+  url: https://artifacts.apis.io/usetola-com/apis.yml
+  x-apis-io: https://apis.io/providers/usetola-com/
+  x-github: https://github.com/api-evangelist/usetola-com
+- name: Shoppr
+  url: https://artifacts.apis.io/usetrace-com/apis.yml
+  x-apis-io: https://apis.io/providers/usetrace-com/
+  x-github: https://github.com/api-evangelist/usetrace-com
+- name: usetyton-com
+  url: https://artifacts.apis.io/usetyton-com/apis.yml
+  x-apis-io: https://apis.io/providers/usetyton-com/
+  x-github: https://github.com/api-evangelist/usetyton-com
+- name: usewire-io
+  url: https://artifacts.apis.io/usewire-io/apis.yml
+  x-apis-io: https://apis.io/providers/usewire-io/
+  x-github: https://github.com/api-evangelist/usewire-io
+- name: usewrit-app
+  url: https://artifacts.apis.io/usewrit-app/apis.yml
+  x-apis-io: https://apis.io/providers/usewrit-app/
+  x-github: https://github.com/api-evangelist/usewrit-app
+- name: USG
+  url: https://artifacts.apis.io/usg/apis.yml
+  x-apis-io: https://apis.io/providers/usg/
+  x-github: https://github.com/api-evangelist/usg
+- name: USgeocoder
+  url: https://artifacts.apis.io/usgeocoder/apis.yml
+  x-apis-io: https://apis.io/providers/usgeocoder/
+  x-github: https://github.com/api-evangelist/usgeocoder
+- name: US Grow Zones
+  url: https://artifacts.apis.io/usgrowzones-com/apis.yml
+  x-apis-io: https://apis.io/providers/usgrowzones-com/
+  x-github: https://github.com/api-evangelist/usgrowzones-com
+- name: USGS Earthquake Hazards Program
+  url: https://artifacts.apis.io/usgs-earthquake-hazards-program/apis.yml
+  x-apis-io: https://apis.io/providers/usgs-earthquake-hazards-program/
+  x-github: https://github.com/api-evangelist/usgs-earthquake-hazards-program
+- name: USGS Water Services
+  url: https://artifacts.apis.io/usgs-water/apis.yml
+  x-apis-io: https://apis.io/providers/usgs-water/
+  x-github: https://github.com/api-evangelist/usgs-water
+- name: uShip
+  url: https://artifacts.apis.io/uship/apis.yml
+  x-apis-io: https://apis.io/providers/uship/
+  x-github: https://github.com/api-evangelist/uship
+- name: Ushur
+  url: https://artifacts.apis.io/ushur/apis.yml
+  x-apis-io: https://apis.io/providers/ushur/
+  x-github: https://github.com/api-evangelist/ushur
+- name: Universiti Sains Malaysia
+  url: https://artifacts.apis.io/usm/apis.yml
+  x-apis-io: https://apis.io/providers/usm/
+  x-github: https://github.com/api-evangelist/usm
+- name: USPL Wrogn
+  url: https://artifacts.apis.io/uspl-wrogn/apis.yml
+  x-apis-io: https://apis.io/providers/uspl-wrogn/
+  x-github: https://github.com/api-evangelist/uspl-wrogn
+- name: USPL Wrogn
+  url: https://artifacts.apis.io/usplworld-com/apis.yml
+  x-apis-io: https://apis.io/providers/usplworld-com/
+  x-github: https://github.com/api-evangelist/usplworld-com
+- name: United States Postal Service
+  url: https://artifacts.apis.io/usps/apis.yml
+  x-apis-io: https://apis.io/providers/usps/
+  x-github: https://github.com/api-evangelist/usps
+- name: USPTO
+  url: https://artifacts.apis.io/uspto-gov/apis.yml
+  x-apis-io: https://apis.io/providers/uspto-gov/
+  x-github: https://github.com/api-evangelist/uspto-gov
+- name: University of Science and Technology of China
+  url: https://artifacts.apis.io/ustc/apis.yml
+  x-apis-io: https://apis.io/providers/ustc/
+  x-github: https://github.com/api-evangelist/ustc
+- name: Usul
+  url: https://artifacts.apis.io/usul/apis.yml
+  x-apis-io: https://apis.io/providers/usul/
+  x-github: https://github.com/api-evangelist/usul
+- name: Utah AGRC
+  url: https://artifacts.apis.io/utah-agrc/apis.yml
+  x-apis-io: https://apis.io/providers/utah-agrc/
+  x-github: https://github.com/api-evangelist/utah-agrc
+- name: Uteach
+  url: https://artifacts.apis.io/uteach-inc/apis.yml
+  x-apis-io: https://apis.io/providers/uteach-inc/
+  x-github: https://github.com/api-evangelist/uteach-inc
+- name: Uthana
+  url: https://artifacts.apis.io/uthana/apis.yml
+  x-apis-io: https://apis.io/providers/uthana/
+  x-github: https://github.com/api-evangelist/uthana
+- name: Utila
+  url: https://artifacts.apis.io/utila/apis.yml
+  x-apis-io: https://apis.io/providers/utila/
+  x-github: https://github.com/api-evangelist/utila
+- name: Utilidata
+  url: https://artifacts.apis.io/utilidata/apis.yml
+  x-apis-io: https://apis.io/providers/utilidata/
+  x-github: https://github.com/api-evangelist/utilidata
+- name: Utilita
+  url: https://artifacts.apis.io/utilita/apis.yml
+  x-apis-io: https://apis.io/providers/utilita/
+  x-github: https://github.com/api-evangelist/utilita
+- name: Utility Global
+  url: https://artifacts.apis.io/utility-global/apis.yml
+  x-apis-io: https://apis.io/providers/utility-global/
+  x-github: https://github.com/api-evangelist/utility-global
+- name: UtilityAPI
+  url: https://artifacts.apis.io/utilityapi/apis.yml
+  x-apis-io: https://apis.io/providers/utilityapi/
+  x-github: https://github.com/api-evangelist/utilityapi
+- name: utilityhouse-xyz
+  url: https://artifacts.apis.io/utilityhouse-xyz/apis.yml
+  x-apis-io: https://apis.io/providers/utilityhouse-xyz/
+  x-github: https://github.com/api-evangelist/utilityhouse-xyz
+- name: Utkarsh Gupta
+  url: https://artifacts.apis.io/utkarshgupta-org/apis.yml
+  x-apis-io: https://apis.io/providers/utkarshgupta-org/
+  x-github: https://github.com/api-evangelist/utkarshgupta-org
+- name: Universiti Teknologi Malaysia
+  url: https://artifacts.apis.io/utm/apis.yml
+  x-apis-io: https://apis.io/providers/utm/
+  x-github: https://github.com/api-evangelist/utm
+- name: Utopia
+  url: https://artifacts.apis.io/utopia/apis.yml
+  x-apis-io: https://apis.io/providers/utopia/
+  x-github: https://github.com/api-evangelist/utopia
+- name: Utopia Labs
+  url: https://artifacts.apis.io/utopia-labs/apis.yml
+  x-apis-io: https://apis.io/providers/utopia-labs/
+  x-github: https://github.com/api-evangelist/utopia-labs
+- name: Utopia Technology Partners
+  url: https://artifacts.apis.io/utopia-technology-partners/apis.yml
+  x-apis-io: https://apis.io/providers/utopia-technology-partners/
+  x-github: https://github.com/api-evangelist/utopia-technology-partners
+- name: Utrecht University
+  url: https://artifacts.apis.io/utrecht/apis.yml
+  x-apis-io: https://apis.io/providers/utrecht/
+  x-github: https://github.com/api-evangelist/utrecht
+- name: Ubuntu
+  url: https://artifacts.apis.io/utribe-one/apis.yml
+  x-apis-io: https://apis.io/providers/utribe-one/
+  x-github: https://github.com/api-evangelist/utribe-one
+- name: uttera-ai
+  url: https://artifacts.apis.io/uttera-ai/apis.yml
+  x-apis-io: https://apis.io/providers/uttera-ai/
+  x-github: https://github.com/api-evangelist/uttera-ai
+- name: UTURN
+  url: https://artifacts.apis.io/uturn/apis.yml
+  x-apis-io: https://apis.io/providers/uturn/
+  x-github: https://github.com/api-evangelist/uturn
+- name: UUID Generator
+  url: https://artifacts.apis.io/uuid-generator/apis.yml
+  x-apis-io: https://apis.io/providers/uuid-generator/
+  x-github: https://github.com/api-evangelist/uuid-generator
+- name: UUNET Technologies
+  url: https://artifacts.apis.io/uunet-technologies/apis.yml
+  x-apis-io: https://apis.io/providers/uunet-technologies/
+  x-github: https://github.com/api-evangelist/uunet-technologies
+- name: UUSEC Technology
+  url: https://artifacts.apis.io/uusec/apis.yml
+  x-apis-io: https://apis.io/providers/uusec/
+  x-github: https://github.com/api-evangelist/uusec
+- name: UVeye
+  url: https://artifacts.apis.io/uveye/apis.yml
+  x-apis-io: https://apis.io/providers/uveye/
+  x-github: https://github.com/api-evangelist/uveye
+- name: University of Western Australia
+  url: https://artifacts.apis.io/uwa/apis.yml
+  x-apis-io: https://apis.io/providers/uwa/
+  x-github: https://github.com/api-evangelist/uwa
+- name: UX Magic AI
+  url: https://artifacts.apis.io/ux-magic-ai/apis.yml
+  x-apis-io: https://apis.io/providers/ux-magic-ai/
+  x-github: https://github.com/api-evangelist/ux-magic-ai
+- name: UXCam
+  url: https://artifacts.apis.io/uxcam/apis.yml
+  x-apis-io: https://apis.io/providers/uxcam/
+  x-github: https://github.com/api-evangelist/uxcam
+- name: uxcontinuum-com
+  url: https://artifacts.apis.io/uxcontinuum-com/apis.yml
+  x-apis-io: https://apis.io/providers/uxcontinuum-com/
+  x-github: https://github.com/api-evangelist/uxcontinuum-com
+- name: UXD Protocol
+  url: https://artifacts.apis.io/uxd-protocol/apis.yml
+  x-apis-io: https://apis.io/providers/uxd-protocol/
+  x-github: https://github.com/api-evangelist/uxd-protocol
+- name: Uxin
+  url: https://artifacts.apis.io/uxin/apis.yml
+  x-apis-io: https://apis.io/providers/uxin/
+  x-github: https://github.com/api-evangelist/uxin
+- name: UXPin
+  url: https://artifacts.apis.io/uxpin/apis.yml
+  x-apis-io: https://apis.io/providers/uxpin/
+  x-github: https://github.com/api-evangelist/uxpin
+- name: Uzum
+  url: https://artifacts.apis.io/uzum/apis.yml
+  x-apis-io: https://apis.io/providers/uzum/
+  x-github: https://github.com/api-evangelist/uzum

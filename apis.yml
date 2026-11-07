@@ -1,0 +1,82 @@
+name: API Evangelist Network
+description: 'The network index of every API provider profiled by API Evangelist: 38087 providers, one GitHub repository each in the api-evangelist organization, published on APIs.io. The index is sharded by the first letter of the repository name; each include below is an apis.yml that in turn includes every provider apis.yml in its range.'
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/apis.yml
+created: '2026-02-27'
+modified: '2026-11-06'
+specificationVersion: '0.23'
+tags:
+- Directory
+- Index
+- Network
+maintainers:
+- FN: API Evangelist
+  email: info@apievangelist.com
+  url: https://apievangelist.com
+include:
+- name: Providers 0-9
+  url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/0-9.yml
+- name: Providers A0-Al
+  url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/a-0-l.yml
+- name: Providers Am-As
+  url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/a-m-s.yml
+- name: Providers At-Az
+  url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/a-t-z.yml
+- name: Providers B0-Bp
+  url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/b-0-p.yml
+- name: Providers Br-Bz
+  url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/b-r-z.yml
+- name: Providers C0-Ck
+  url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/c-0-k.yml
+- name: Providers Cl-Ct
+  url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/c-l-t.yml
+- name: Providers Cu-Cz
+  url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/c-u-z.yml
+- name: Providers D
+  url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/d.yml
+- name: Providers E
+  url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/e.yml
+- name: Providers F
+  url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/f.yml
+- name: Providers G
+  url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/g.yml
+- name: Providers H
+  url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/h.yml
+- name: Providers I
+  url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/i.yml
+- name: Providers J
+  url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/j.yml
+- name: Providers K
+  url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/k.yml
+- name: Providers L
+  url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/l.yml
+- name: Providers M
+  url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/m.yml
+- name: Providers N
+  url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/n.yml
+- name: Providers O
+  url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/o.yml
+- name: Providers P
+  url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/p.yml
+- name: Providers Q
+  url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/q.yml
+- name: Providers R
+  url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/r.yml
+- name: Providers S0-So
+  url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/s-0-o.yml
+- name: Providers Sp-Sy
+  url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/s-p-y.yml
+- name: Providers T
+  url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/t.yml
+- name: Providers U
+  url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/u.yml
+- name: Providers V
+  url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/v.yml
+- name: Providers W
+  url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/w.yml
+- name: Providers X
+  url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/x.yml
+- name: Providers Y
+  url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/y.yml
+- name: Providers Z
+  url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/z.yml

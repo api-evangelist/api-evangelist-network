@@ -1,101 +1,85 @@
 # API Evangelist Network
 
-<!-- API-EVANGELIST-PROVENANCE:BEGIN -->
-> ### About this repository
->
-> **This is not our API.** This repository is an independent, third-party profile of a company's
-> **publicly available** API surface, maintained by [API Evangelist](https://apievangelist.com).
-> API Evangelist does not operate, host, resell, or support this company's APIs, and is not
-> affiliated with or endorsed by the company unless stated on the profile.
->
-> **Where the information came from.** Everything here is assembled from material a member of the
-> public can reach with a browser and no credentials — the company's own website, developer portal
-> and documentation, the specifications it publishes for public use (OpenAPI, AsyncAPI, JSON Schema,
-> `apis.json`, `llms.txt` and similar), its public repositories, and its public status, pricing and
-> changelog pages. **Nothing here is obtained by breaching a system, defeating an access control, or
-> using credentials of any kind.**
->
-> **The rating is an independent assessment.** The Kin Score and Agent Readiness rating are
-> independently calculated scores of a company's *public* API artifacts, produced by API Evangelist
-> against a published rubric. They are not certifications, endorsements, security assessments, or
-> audits, and they score published artifacts — not the quality, safety, or security of the software.
->
-> **Corrections, re-scores, and removal are free.** No partnership, contract, or purchase is
-> required, and you do not need to justify the request.
->
-> - **Something wrong?** Open an issue on this repository, or email
->   [info@apievangelist.com](mailto:info@apievangelist.com).
-> - **Published something new?** Ask for a re-score and we will re-run the rating.
-> - **Want the listing taken down?** Say so and we will honor it. The profile is reduced to your
->   company name, a factual description, and a link to your own site, and the company is recorded as
->   **unrated** — never scored zero for having asked.
->
-> **Response times.** Acknowledgement within **one business day**; removal or restriction within
-> **two business days**; corrections and re-scores within **five business days**.
->
-> **Not from the company, and here with a question?** You are welcome here — we would rather be the
-> front line and point you the right way than have a good report go nowhere. What this repository
-> can answer is narrow, though, so it is worth knowing who you are actually looking for:
->
-> - **A question about how the API works, an account, billing, or a bug in the service** — that is
->   the company's own support, not us. We profile this API; we do not operate it and cannot see
->   your account.
-> - **A bug in an open-source project we only catalog** — file it on that project's own repository.
->   This has happened with a real and correct bug report that reached us instead of the people who
->   could fix it, which helped nobody.
-> - **Anything about this listing itself** — the description, the tags, the rating, a missing or
->   wrong artifact — is ours. Open an issue here.
-> - **Not sure, or something general about API Evangelist or APIs.io** — open an issue on the
->   [APIs.io Inbox](https://github.com/api-search/inbox) and we will route it.
->
-> **This repository contains no software, and we will never ask you to download anything.** There is
-> no build, release, installer, or binary here — only text and machine-readable API descriptions, so
-> there is nothing here that can be "corrupt" or need "repairing". Any issue, comment, or email
-> claiming otherwise and offering a download link is not from us and is hostile. Do not follow the
-> link; it is a lure. Report it to GitHub and, if you like, tell us at
-> [info@apievangelist.com](mailto:info@apievangelist.com) so we can take it down.
->
-> **On a security or compliance team?** Email
-> [info@apievangelist.com](mailto:info@apievangelist.com) with *security* in the subject line and
-> you will get a person, not a form. We will tell you exactly which public URLs this profile was
-> built from so your team can see the same surface we did, and we will take the listing down on
-> request while you work through it.
->
-> Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
-<!-- API-EVANGELIST-PROVENANCE:END -->
+The index of every API provider in the [`api-evangelist`](https://github.com/api-evangelist) GitHub organization. Each provider has one repository here, named for its slug, and one page on [APIs.io](https://apis.io) where the profile, the Kin Score and every artifact are published. This repository is the directory that ties the two together, as an [APIs.json](https://apisjson.org) network index and as a readable listing.
 
-A network index of all APIs.json files maintained by the API Evangelist organization, providing a comprehensive directory of API definitions across the network.
+## The numbers
 
-**Areas:** Directory · Index · Networks
+| | |
+|---|---:|
+| Public repositories in the organization | 41,249 |
+| Providers in this index (live APIs.io page) | **38,087** |
+| … of which the store copy of apis.yml is still syncing (`x-store: pending`) | 185 |
+| Profiled, but no live APIs.io page | 1,535 |
+| Never profiled | 0 |
+| Retired into another provider, or delisted on request | 1,589 |
+| Infrastructure repositories (not providers) | 38 |
+| Last built | 2026-11-06 |
 
-## API Evangelist Network on APIs.io
+The two gap rows are itemized in [unlisted.md](unlisted.md).
 
-Everything profiled for API Evangelist Network is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/api-evangelist-network/](https://apis.io/providers/api-evangelist-network/)** — or go straight to one of the APIs or properties below.
+## Machine-readable index
 
-### Published properties
+[`apis.yml`](apis.yml) is an APIs.json index whose `include` list points at one shard per letter under [`network/`](network/). Each shard `include`s every provider's own `apis.yml` in the profile store at `https://artifacts.apis.io/<slug>/apis.yml`, with `x-apis-io` (the provider page) and `x-github` (the repository) on every entry. Resolve the root, then the shards, and you have every provider's APIs.json.
 
-Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+```
+https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/apis.yml
+```
 
-#### GraphQL (1)
+## Every provider
 
-GraphQL schemas.
+38,087 providers, listed by the first letter of the repository name. GitHub will not render a single file that long, so the listing is one page per letter; together they are the complete list.
 
-- [Moved to /providers/api-evangelist-network/](https://apis.io/graphqls/api-evangelist-network/api-evangelist-network-graphql/)
+| Letter | Providers | Listing | APIs.json |
+|---|---:|---|---|
+| 0-9 | 346 | [providers/0-9.md](providers/0-9.md) | [network/0-9.yml](network/0-9.yml) |
+| A0-Al | 2,200 | [providers/a-0-l.md](providers/a-0-l.md) | [network/a-0-l.yml](network/a-0-l.yml) |
+| Am-As | 2,076 | [providers/a-m-s.md](providers/a-m-s.md) | [network/a-m-s.yml](network/a-m-s.yml) |
+| At-Az | 920 | [providers/a-t-z.md](providers/a-t-z.md) | [network/a-t-z.yml](network/a-t-z.yml) |
+| B0-Bp | 2,063 | [providers/b-0-p.md](providers/b-0-p.md) | [network/b-0-p.yml](network/b-0-p.yml) |
+| Br-Bz | 648 | [providers/b-r-z.md](providers/b-r-z.md) | [network/b-r-z.yml](network/b-r-z.yml) |
+| C0-Ck | 1,823 | [providers/c-0-k.md](providers/c-0-k.md) | [network/c-0-k.yml](network/c-0-k.yml) |
+| Cl-Ct | 2,156 | [providers/c-l-t.md](providers/c-l-t.md) | [network/c-l-t.yml](network/c-l-t.yml) |
+| Cu-Cz | 298 | [providers/c-u-z.md](providers/c-u-z.md) | [network/c-u-z.yml](network/c-u-z.yml) |
+| D | 1,584 | [providers/d.md](providers/d.md) | [network/d.yml](network/d.yml) |
+| E | 1,208 | [providers/e.md](providers/e.md) | [network/e.yml](network/e.yml) |
+| F | 1,288 | [providers/f.md](providers/f.md) | [network/f.yml](network/f.yml) |
+| G | 1,299 | [providers/g.md](providers/g.md) | [network/g.yml](network/g.yml) |
+| H | 1,042 | [providers/h.md](providers/h.md) | [network/h.yml](network/h.yml) |
+| I | 1,031 | [providers/i.md](providers/i.md) | [network/i.yml](network/i.yml) |
+| J | 407 | [providers/j.md](providers/j.md) | [network/j.yml](network/j.yml) |
+| K | 760 | [providers/k.md](providers/k.md) | [network/k.yml](network/k.yml) |
+| L | 1,168 | [providers/l.md](providers/l.md) | [network/l.yml](network/l.yml) |
+| M | 1,897 | [providers/m.md](providers/m.md) | [network/m.yml](network/m.yml) |
+| N | 1,031 | [providers/n.md](providers/n.md) | [network/n.yml](network/n.yml) |
+| O | 1,148 | [providers/o.md](providers/o.md) | [network/o.yml](network/o.yml) |
+| P | 2,036 | [providers/p.md](providers/p.md) | [network/p.yml](network/p.yml) |
+| Q | 295 | [providers/q.md](providers/q.md) | [network/q.yml](network/q.yml) |
+| R | 1,312 | [providers/r.md](providers/r.md) | [network/r.yml](network/r.yml) |
+| S0-So | 1,965 | [providers/s-0-o.md](providers/s-0-o.md) | [network/s-0-o.yml](network/s-0-o.yml) |
+| Sp-Sy | 1,225 | [providers/s-p-y.md](providers/s-p-y.md) | [network/s-p-y.yml](network/s-p-y.yml) |
+| T | 1,867 | [providers/t.md](providers/t.md) | [network/t.yml](network/t.yml) |
+| U | 672 | [providers/u.md](providers/u.md) | [network/u.yml](network/u.yml) |
+| V | 821 | [providers/v.md](providers/v.md) | [network/v.yml](network/v.yml) |
+| W | 787 | [providers/w.md](providers/w.md) | [network/w.yml](network/w.yml) |
+| X | 142 | [providers/x.md](providers/x.md) | [network/x.yml](network/x.yml) |
+| Y | 182 | [providers/y.md](providers/y.md) | [network/y.yml](network/y.yml) |
+| Z | 390 | [providers/z.md](providers/z.md) | [network/z.yml](network/z.yml) |
 
-## API Evangelist rating
+## How this is built
 
-**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
+Three sources, each the authority for one thing, and nothing is listed unless all three agree:
 
-This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
+- **GitHub** says which repositories exist. The organization listing is the membership.
+- **The profile store** (`artifacts.apis.io`) holds each provider's artifacts; the entry's `url` points there.
+- **APIs.io** publishes the page. A provider is listed only when its page exists in the APIs.io build, under its `aid`, which is the page slug. The build runs ahead of the deploy, so about one page in a hundred may return 404 until the next site push.
 
-## How this profile is made
+Retired slugs (merged into a survivor) and companies delisted at their own request are never listed. Infrastructure repositories in the organization are excluded by name.
 
-API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+```
+_tools/collect.sh          # gather the inputs (gh, aws s3api, the local apis.io build)
+_tools/build.py --write    # regenerate apis.yml, network/, providers/, unlisted.md, README.md
+```
 
-The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for API Evangelist Network: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+## Corrections
 
-## Open an issue
-
-- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/api-evangelist-network/issues/new).
-- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
-- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
+A provider missing here, listed wrongly, or pointing at the wrong page: [open an issue](https://github.com/api-evangelist/api-evangelist-network/issues/new). Anything about a single provider's profile or rating belongs on that provider's own repository, which every row links. Removal requests are honored; see [where our data comes from](https://apievangelist.com/about/where-our-data-comes-from).
