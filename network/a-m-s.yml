@@ -1,8 +1,8 @@
 name: API Evangelist Network — providers Am-As
-description: 'The 2076 API providers in the API Evangelist network whose repository name begins with Am-As. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
+description: 'The 2058 API providers in the API Evangelist network whose repository name begins with Am-As. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
 url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/a-m-s.yml
 created: '2026-02-27'
-modified: '2026-11-06'
+modified: '2026-11-15'
 specificationVersion: '0.23'
 tags:
 - Directory
@@ -253,18 +253,10 @@ include:
   url: https://artifacts.apis.io/amazon-codeguru-reviewer/apis.yml
   x-apis-io: https://apis.io/providers/amazon-codeguru-reviewer/
   x-github: https://github.com/api-evangelist/amazon-codeguru-reviewer
-- name: Amazon CodeGuru Security
-  url: https://artifacts.apis.io/amazon-codeguru-security/apis.yml
-  x-apis-io: https://apis.io/providers/amazon-codeguru-security/
-  x-github: https://github.com/api-evangelist/amazon-codeguru-security
 - name: Amazon CodePipeline
   url: https://artifacts.apis.io/amazon-codepipeline/apis.yml
   x-apis-io: https://apis.io/providers/amazon-codepipeline/
   x-github: https://github.com/api-evangelist/amazon-codepipeline
-- name: Amazon CodeStar
-  url: https://artifacts.apis.io/amazon-codestar/apis.yml
-  x-apis-io: https://apis.io/providers/amazon-codestar/
-  x-github: https://github.com/api-evangelist/amazon-codestar
 - name: Amazon Cognito
   url: https://artifacts.apis.io/amazon-cognito/apis.yml
   x-apis-io: https://apis.io/providers/amazon-cognito/
@@ -313,10 +305,6 @@ include:
   url: https://artifacts.apis.io/amazon-deadline-cloud/apis.yml
   x-apis-io: https://apis.io/providers/amazon-deadline-cloud/
   x-github: https://github.com/api-evangelist/amazon-deadline-cloud
-- name: Amazon DeepRacer
-  url: https://artifacts.apis.io/amazon-deepracer/apis.yml
-  x-apis-io: https://apis.io/providers/amazon-deepracer/
-  x-github: https://github.com/api-evangelist/amazon-deepracer
 - name: Amazon Detective
   url: https://artifacts.apis.io/amazon-detective/apis.yml
   x-apis-io: https://apis.io/providers/amazon-detective/
@@ -385,10 +373,6 @@ include:
   url: https://artifacts.apis.io/amazon-elastic-load-balancing/apis.yml
   x-apis-io: https://apis.io/providers/amazon-elastic-load-balancing/
   x-github: https://github.com/api-evangelist/amazon-elastic-load-balancing
-- name: Amazon Elastic Transcoder
-  url: https://artifacts.apis.io/amazon-elastic-transcoder/apis.yml
-  x-apis-io: https://apis.io/providers/amazon-elastic-transcoder/
-  x-github: https://github.com/api-evangelist/amazon-elastic-transcoder
 - name: Amazon ElastiCache
   url: https://artifacts.apis.io/amazon-elasticache/apis.yml
   x-apis-io: https://apis.io/providers/amazon-elasticache/
@@ -421,10 +405,6 @@ include:
   url: https://artifacts.apis.io/amazon-fault-injection-simulator/apis.yml
   x-apis-io: https://apis.io/providers/amazon-fault-injection-simulator/
   x-github: https://github.com/api-evangelist/amazon-fault-injection-simulator
-- name: Amazon FinSpace
-  url: https://artifacts.apis.io/amazon-finspace/apis.yml
-  x-apis-io: https://apis.io/providers/amazon-finspace/
-  x-github: https://github.com/api-evangelist/amazon-finspace
 - name: Amazon Firewall Manager
   url: https://artifacts.apis.io/amazon-firewall-manager/apis.yml
   x-apis-io: https://apis.io/providers/amazon-firewall-manager/
@@ -513,10 +493,6 @@ include:
   url: https://artifacts.apis.io/amazon-iot-device-management/apis.yml
   x-apis-io: https://apis.io/providers/amazon-iot-device-management/
   x-github: https://github.com/api-evangelist/amazon-iot-device-management
-- name: Amazon IoT Events
-  url: https://artifacts.apis.io/amazon-iot-events/apis.yml
-  x-apis-io: https://apis.io/providers/amazon-iot-events/
-  x-github: https://github.com/api-evangelist/amazon-iot-events
 - name: Amazon IoT FleetWise
   url: https://artifacts.apis.io/amazon-iot-fleetwise/apis.yml
   x-apis-io: https://apis.io/providers/amazon-iot-fleetwise/
@@ -577,18 +553,6 @@ include:
   url: https://artifacts.apis.io/amazon-location-service/apis.yml
   x-apis-io: https://apis.io/providers/amazon-location-service/
   x-github: https://github.com/api-evangelist/amazon-location-service
-- name: Amazon Lookout for Equipment
-  url: https://artifacts.apis.io/amazon-lookout-for-equipment/apis.yml
-  x-apis-io: https://apis.io/providers/amazon-lookout-for-equipment/
-  x-github: https://github.com/api-evangelist/amazon-lookout-for-equipment
-- name: Amazon Lookout for Metrics
-  url: https://artifacts.apis.io/amazon-lookout-for-metrics/apis.yml
-  x-apis-io: https://apis.io/providers/amazon-lookout-for-metrics/
-  x-github: https://github.com/api-evangelist/amazon-lookout-for-metrics
-- name: Amazon Lookout for Vision
-  url: https://artifacts.apis.io/amazon-lookout-for-vision/apis.yml
-  x-apis-io: https://apis.io/providers/amazon-lookout-for-vision/
-  x-github: https://github.com/api-evangelist/amazon-lookout-for-vision
 - name: Amazon Macie
   url: https://artifacts.apis.io/amazon-macie/apis.yml
   x-apis-io: https://apis.io/providers/amazon-macie/
@@ -613,10 +577,6 @@ include:
   url: https://artifacts.apis.io/amazon-managed-prometheus/apis.yml
   x-apis-io: https://apis.io/providers/amazon-managed-prometheus/
   x-github: https://github.com/api-evangelist/amazon-managed-prometheus
-- name: Amazon Mechanical Turk
-  url: https://artifacts.apis.io/amazon-mechanical-turk/apis.yml
-  x-apis-io: https://apis.io/providers/amazon-mechanical-turk/
-  x-github: https://github.com/api-evangelist/amazon-mechanical-turk
 - name: Amazon MediaConnect
   url: https://artifacts.apis.io/amazon-mediaconnect/apis.yml
   x-apis-io: https://apis.io/providers/amazon-mediaconnect/
@@ -633,10 +593,6 @@ include:
   url: https://artifacts.apis.io/amazon-mediapackage/apis.yml
   x-apis-io: https://apis.io/providers/amazon-mediapackage/
   x-github: https://github.com/api-evangelist/amazon-mediapackage
-- name: Amazon MediaStore
-  url: https://artifacts.apis.io/amazon-mediastore/apis.yml
-  x-apis-io: https://apis.io/providers/amazon-mediastore/
-  x-github: https://github.com/api-evangelist/amazon-mediastore
 - name: Amazon MediaTailor
   url: https://artifacts.apis.io/amazon-mediatailor/apis.yml
   x-apis-io: https://apis.io/providers/amazon-mediatailor/
@@ -689,10 +645,6 @@ include:
   url: https://artifacts.apis.io/amazon-outposts/apis.yml
   x-apis-io: https://apis.io/providers/amazon-outposts/
   x-github: https://github.com/api-evangelist/amazon-outposts
-- name: Amazon Panorama
-  url: https://artifacts.apis.io/amazon-panorama/apis.yml
-  x-apis-io: https://apis.io/providers/amazon-panorama/
-  x-github: https://github.com/api-evangelist/amazon-panorama
 - name: Amazon Parallel Computing Service
   url: https://artifacts.apis.io/amazon-parallel-computing-service/apis.yml
   x-apis-io: https://apis.io/providers/amazon-parallel-computing-service/
@@ -709,10 +661,6 @@ include:
   url: https://artifacts.apis.io/amazon-personalize/apis.yml
   x-apis-io: https://apis.io/providers/amazon-personalize/
   x-github: https://github.com/api-evangelist/amazon-personalize
-- name: Amazon Pinpoint
-  url: https://artifacts.apis.io/amazon-pinpoint/apis.yml
-  x-apis-io: https://apis.io/providers/amazon-pinpoint/
-  x-github: https://github.com/api-evangelist/amazon-pinpoint
 - name: Amazon Polly
   url: https://artifacts.apis.io/amazon-polly/apis.yml
   x-apis-io: https://apis.io/providers/amazon-polly/
@@ -725,18 +673,10 @@ include:
   url: https://artifacts.apis.io/amazon-privatelink/apis.yml
   x-apis-io: https://apis.io/providers/amazon-privatelink/
   x-github: https://github.com/api-evangelist/amazon-privatelink
-- name: Amazon Proton
-  url: https://artifacts.apis.io/amazon-proton/apis.yml
-  x-apis-io: https://apis.io/providers/amazon-proton/
-  x-github: https://github.com/api-evangelist/amazon-proton
 - name: Amazon Q
   url: https://artifacts.apis.io/amazon-q/apis.yml
   x-apis-io: https://apis.io/providers/amazon-q/
   x-github: https://github.com/api-evangelist/amazon-q
-- name: Amazon QLDB
-  url: https://artifacts.apis.io/amazon-qldb/apis.yml
-  x-apis-io: https://apis.io/providers/amazon-qldb/
-  x-github: https://github.com/api-evangelist/amazon-qldb
 - name: Amazon QuickSight
   url: https://artifacts.apis.io/amazon-quicksight/apis.yml
   x-apis-io: https://apis.io/providers/amazon-quicksight/
@@ -761,10 +701,6 @@ include:
   url: https://artifacts.apis.io/amazon-resource-explorer/apis.yml
   x-apis-io: https://apis.io/providers/amazon-resource-explorer/
   x-github: https://github.com/api-evangelist/amazon-resource-explorer
-- name: Amazon RoboMaker
-  url: https://artifacts.apis.io/amazon-robomaker/apis.yml
-  x-apis-io: https://apis.io/providers/amazon-robomaker/
-  x-github: https://github.com/api-evangelist/amazon-robomaker
 - name: Amazon Route 53
   url: https://artifacts.apis.io/amazon-route-53/apis.yml
   x-apis-io: https://apis.io/providers/amazon-route-53/
@@ -825,14 +761,6 @@ include:
   url: https://artifacts.apis.io/amazon-simpledb/apis.yml
   x-apis-io: https://apis.io/providers/amazon-simpledb/
   x-github: https://github.com/api-evangelist/amazon-simpledb
-- name: Amazon SimSpace Weaver
-  url: https://artifacts.apis.io/amazon-simspace-weaver/apis.yml
-  x-apis-io: https://apis.io/providers/amazon-simspace-weaver/
-  x-github: https://github.com/api-evangelist/amazon-simspace-weaver
-- name: Amazon Snow Family
-  url: https://artifacts.apis.io/amazon-snow-family/apis.yml
-  x-apis-io: https://apis.io/providers/amazon-snow-family/
-  x-github: https://github.com/api-evangelist/amazon-snow-family
 - name: Amazon SNS
   url: https://artifacts.apis.io/amazon-sns/apis.yml
   x-apis-io: https://apis.io/providers/amazon-sns/
@@ -1189,10 +1117,6 @@ include:
   url: https://artifacts.apis.io/amentum/apis.yml
   x-apis-io: https://apis.io/providers/amentum/
   x-github: https://github.com/api-evangelist/amentum
-- name: Daniel Amer
-  url: https://artifacts.apis.io/amer-daniel-com/apis.yml
-  x-apis-io: https://apis.io/providers/amer-daniel-com/
-  x-github: https://github.com/api-evangelist/amer-daniel-com
 - name: Amer Sports
   url: https://artifacts.apis.io/amer-sports/apis.yml
   x-apis-io: https://apis.io/providers/amer-sports/
@@ -1793,6 +1717,10 @@ include:
   url: https://artifacts.apis.io/amsciences/apis.yml
   x-apis-io: https://apis.io/providers/amsciences/
   x-github: https://github.com/api-evangelist/amsciences
+- name: Gemeente Amsterdam
+  url: https://artifacts.apis.io/amsterdam-nl/apis.yml
+  x-apis-io: https://apis.io/providers/amsterdam-nl/
+  x-github: https://github.com/api-evangelist/amsterdam-nl
 - name: Amtc73f
   url: https://artifacts.apis.io/amtc73f/apis.yml
   x-apis-io: https://apis.io/providers/amtc73f/
@@ -2709,6 +2637,10 @@ include:
   url: https://artifacts.apis.io/another/apis.yml
   x-apis-io: https://apis.io/providers/another/
   x-github: https://github.com/api-evangelist/another
+- name: Another Directory
+  url: https://artifacts.apis.io/another-directory/apis.yml
+  x-apis-io: https://apis.io/providers/another-directory/
+  x-github: https://github.com/api-evangelist/another-directory
 - name: ANOTS
   url: https://artifacts.apis.io/anots-com/apis.yml
   x-apis-io: https://apis.io/providers/anots-com/
@@ -2993,10 +2925,6 @@ include:
   url: https://artifacts.apis.io/antofagasta/apis.yml
   x-apis-io: https://apis.io/providers/antofagasta/
   x-github: https://github.com/api-evangelist/antofagasta
-- name: Anto Joel
-  url: https://artifacts.apis.io/antojoel-com/apis.yml
-  x-apis-io: https://apis.io/providers/antojoel-com/
-  x-github: https://github.com/api-evangelist/antojoel-com
 - name: Antora Energy
   url: https://artifacts.apis.io/antora-energy/apis.yml
   x-apis-io: https://apis.io/providers/antora-energy/
@@ -3017,6 +2945,10 @@ include:
   url: https://artifacts.apis.io/antway65dc/apis.yml
   x-apis-io: https://apis.io/providers/antway65dc/
   x-github: https://github.com/api-evangelist/antway65dc
+- name: Stad Antwerpen
+  url: https://artifacts.apis.io/antwerpen-be/apis.yml
+  x-apis-io: https://apis.io/providers/antwerpen-be/
+  x-github: https://github.com/api-evangelist/antwerpen-be
 - name: Antwork
   url: https://artifacts.apis.io/antwork-io/apis.yml
   x-apis-io: https://apis.io/providers/antwork-io/
@@ -3881,6 +3813,14 @@ include:
   url: https://artifacts.apis.io/api-fortress/apis.yml
   x-apis-io: https://apis.io/providers/api-fortress/
   x-github: https://github.com/api-evangelist/api-fortress
+- name: api.gouv.fr
+  url: https://artifacts.apis.io/api-gouv-fr/apis.yml
+  x-apis-io: https://apis.io/providers/api-gouv-fr/
+  x-github: https://github.com/api-evangelist/api-gouv-fr
+- name: UK Government API Catalogue
+  url: https://artifacts.apis.io/api-gov-uk/apis.yml
+  x-apis-io: https://apis.io/providers/api-gov-uk/
+  x-github: https://github.com/api-evangelist/api-gov-uk
 - name: 'API Grátis'
   url: https://artifacts.apis.io/api-gr-tis/apis.yml
   x-apis-io: https://apis.io/providers/api-gr-tis/
@@ -3897,6 +3837,10 @@ include:
   url: https://artifacts.apis.io/api-insights/apis.yml
   x-apis-io: https://apis.io/providers/api-insights/
   x-github: https://github.com/api-evangelist/api-insights
+- name: 'Krajowy Rejestr Sądowy (National Court Register), Poland'
+  url: https://artifacts.apis.io/api-krs-ms-gov-pl/apis.yml
+  x-apis-io: https://apis.io/providers/api-krs-ms-gov-pl/
+  x-github: https://github.com/api-evangelist/api-krs-ms-gov-pl
 - name: API League
   url: https://artifacts.apis.io/api-league/apis.yml
   x-apis-io: https://apis.io/providers/api-league/
@@ -3977,6 +3921,10 @@ include:
   url: https://artifacts.apis.io/apiary/apis.yml
   x-apis-io: https://apis.io/providers/apiary/
   x-github: https://github.com/api-evangelist/apiary
+- name: Apiauto Space
+  url: https://artifacts.apis.io/apiauto-space/apis.yml
+  x-apis-io: https://apis.io/providers/apiauto-space/
+  x-github: https://github.com/api-evangelist/apiauto-space
 - name: Apibara.tech
   url: https://artifacts.apis.io/apibara-tech/apis.yml
   x-apis-io: https://apis.io/providers/apibara-tech/
@@ -4489,7 +4437,7 @@ include:
   url: https://artifacts.apis.io/apollomicsinc/apis.yml
   x-apis-io: https://apis.io/providers/apollomicsinc/
   x-github: https://github.com/api-evangelist/apollomicsinc
-- name: Apollo Project Cloud
+- name: apolloproject-cloud
   url: https://artifacts.apis.io/apolloproject-cloud/apis.yml
   x-apis-io: https://apis.io/providers/apolloproject-cloud/
   x-github: https://github.com/api-evangelist/apolloproject-cloud
@@ -6081,6 +6029,10 @@ include:
   url: https://artifacts.apis.io/arenacx/apis.yml
   x-apis-io: https://apis.io/providers/arenacx/
   x-github: https://github.com/api-evangelist/arenacx
+- name: ARES (Czech business register)
+  url: https://artifacts.apis.io/ares-gov-cz/apis.yml
+  x-apis-io: https://apis.io/providers/ares-gov-cz/
+  x-github: https://github.com/api-evangelist/ares-gov-cz
 - name: Ares Interactive
   url: https://artifacts.apis.io/ares-interactive/apis.yml
   x-apis-io: https://apis.io/providers/ares-interactive/
@@ -6305,6 +6257,10 @@ include:
   url: https://artifacts.apis.io/ario/apis.yml
   x-apis-io: https://apis.io/providers/ario/
   x-github: https://github.com/api-evangelist/ario
+- name: Estonian e-Business Register (RIK)
+  url: https://artifacts.apis.io/ariregister-rik-ee/apis.yml
+  x-apis-io: https://apis.io/providers/ariregister-rik-ee/
+  x-github: https://github.com/api-evangelist/ariregister-rik-ee
 - name: Aris Machina
   url: https://artifacts.apis.io/aris-machina/apis.yml
   x-apis-io: https://apis.io/providers/aris-machina/
@@ -6377,10 +6333,6 @@ include:
   url: https://artifacts.apis.io/arizonaroofreplacementcost-com/apis.yml
   x-apis-io: https://apis.io/providers/arizonaroofreplacementcost-com/
   x-github: https://github.com/api-evangelist/arizonaroofreplacementcost-com
-- name: Arizona Solar Cost Calculator
-  url: https://artifacts.apis.io/arizonasolarcostcalculator-com/apis.yml
-  x-apis-io: https://apis.io/providers/arizonasolarcostcalculator-com/
-  x-github: https://github.com/api-evangelist/arizonasolarcostcalculator-com
 - name: Arka
   url: https://artifacts.apis.io/arka/apis.yml
   x-apis-io: https://apis.io/providers/arka/
@@ -6569,10 +6521,6 @@ include:
   url: https://artifacts.apis.io/army-national-guard/apis.yml
   x-apis-io: https://apis.io/providers/army-national-guard/
   x-github: https://github.com/api-evangelist/army-national-guard
-- name: Arne Kellmann
-  url: https://artifacts.apis.io/arnekellmann-de/apis.yml
-  x-apis-io: https://apis.io/providers/arnekellmann-de/
-  x-github: https://github.com/api-evangelist/arnekellmann-de
 - name: Arnousedigitaldevices
   url: https://artifacts.apis.io/arnousedigitaldevices/apis.yml
   x-apis-io: https://apis.io/providers/arnousedigitaldevices/
@@ -7233,22 +7181,10 @@ include:
   url: https://artifacts.apis.io/asato/apis.yml
   x-apis-io: https://apis.io/providers/asato/
   x-github: https://github.com/api-evangelist/asato
-- name: Asbestos Disposal Cost
-  url: https://artifacts.apis.io/asbestosdisposalcost-co-uk/apis.yml
-  x-apis-io: https://apis.io/providers/asbestosdisposalcost-co-uk/
-  x-github: https://github.com/api-evangelist/asbestosdisposalcost-co-uk
-- name: Asbestos Removal Costs
-  url: https://artifacts.apis.io/asbestosremovalcosts-co-uk/apis.yml
-  x-apis-io: https://apis.io/providers/asbestosremovalcosts-co-uk/
-  x-github: https://github.com/api-evangelist/asbestosremovalcosts-co-uk
 - name: Asbestos Survey Cost UK
   url: https://artifacts.apis.io/asbestossurveycost-co-uk/apis.yml
   x-apis-io: https://apis.io/providers/asbestossurveycost-co-uk/
   x-github: https://github.com/api-evangelist/asbestossurveycost-co-uk
-- name: Asbestos Survey Quotes
-  url: https://artifacts.apis.io/asbestossurveyquotes-co-uk/apis.yml
-  x-apis-io: https://apis.io/providers/asbestossurveyquotes-co-uk/
-  x-github: https://github.com/api-evangelist/asbestossurveyquotes-co-uk
 - name: Asbury Automotive Group
   url: https://artifacts.apis.io/asbury-automotive/apis.yml
   x-apis-io: https://apis.io/providers/asbury-automotive/
@@ -7397,10 +7333,6 @@ include:
   url: https://artifacts.apis.io/ashland/apis.yml
   x-apis-io: https://apis.io/providers/ashland/
   x-github: https://github.com/api-evangelist/ashland
-- name: Ashley Payne
-  url: https://artifacts.apis.io/ashleypayne-co-uk/apis.yml
-  x-apis-io: https://apis.io/providers/ashleypayne-co-uk/
-  x-github: https://github.com/api-evangelist/ashleypayne-co-uk
 - name: Ashocbeverage
   url: https://artifacts.apis.io/ashocbeverage/apis.yml
   x-apis-io: https://apis.io/providers/ashocbeverage/
@@ -7417,10 +7349,6 @@ include:
   url: https://artifacts.apis.io/ashvattha-therapeutics/apis.yml
   x-apis-io: https://apis.io/providers/ashvattha-therapeutics/
   x-github: https://github.com/api-evangelist/ashvattha-therapeutics
-- name: Ashwin Sathian
-  url: https://artifacts.apis.io/ashwinsathian-com/apis.yml
-  x-apis-io: https://apis.io/providers/ashwinsathian-com/
-  x-github: https://github.com/api-evangelist/ashwinsathian-com
 - name: 'Asia Air Survey Co., Ltd.'
   url: https://artifacts.apis.io/asia-air-survey-co-ltd/apis.yml
   x-apis-io: https://apis.io/providers/asia-air-survey-co-ltd/
@@ -8181,7 +8109,7 @@ include:
   url: https://artifacts.apis.io/astrodigital/apis.yml
   x-apis-io: https://apis.io/providers/astrodigital/
   x-github: https://github.com/api-evangelist/astrodigital
-- name: Astrofabric AI
+- name: astrofabric-ai
   url: https://artifacts.apis.io/astrofabric-ai/apis.yml
   x-apis-io: https://apis.io/providers/astrofabric-ai/
   x-github: https://github.com/api-evangelist/astrofabric-ai

@@ -1,8 +1,8 @@
 name: API Evangelist Network — providers T
-description: 'The 1867 API providers in the API Evangelist network whose repository name begins with T. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
+description: 'The 1871 API providers in the API Evangelist network whose repository name begins with T. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
 url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/t.yml
 created: '2026-02-27'
-modified: '2026-11-06'
+modified: '2026-11-15'
 specificationVersion: '0.23'
 tags:
 - Directory
@@ -473,6 +473,10 @@ include:
   url: https://artifacts.apis.io/tallan/apis.yml
   x-apis-io: https://apis.io/providers/tallan/
   x-github: https://github.com/api-evangelist/tallan
+- name: Tallinn
+  url: https://artifacts.apis.io/tallinn-ee/apis.yml
+  x-apis-io: https://apis.io/providers/tallinn-ee/
+  x-github: https://github.com/api-evangelist/tallinn-ee
 - name: Tally
   url: https://artifacts.apis.io/tally/apis.yml
   x-apis-io: https://apis.io/providers/tally/
@@ -4477,6 +4481,10 @@ include:
   url: https://artifacts.apis.io/tomorrowlives-com/apis.yml
   x-apis-io: https://apis.io/providers/tomorrowlives-com/
   x-github: https://github.com/api-evangelist/tomorrowlives-com
+- name: 'Tom''s Shit Jokes'
+  url: https://artifacts.apis.io/tomsshitjokes-com/apis.yml
+  x-apis-io: https://apis.io/providers/tomsshitjokes-com/
+  x-github: https://github.com/api-evangelist/tomsshitjokes-com
 - name: TomTom
   url: https://artifacts.apis.io/tomtom/apis.yml
   x-apis-io: https://apis.io/providers/tomtom/
@@ -5341,6 +5349,10 @@ include:
   url: https://artifacts.apis.io/transcript-yt-com/apis.yml
   x-apis-io: https://apis.io/providers/transcript-yt-com/
   x-github: https://github.com/api-evangelist/transcript-yt-com
+- name: transcript1-com
+  url: https://artifacts.apis.io/transcript1-com/apis.yml
+  x-apis-io: https://apis.io/providers/transcript1-com/
+  x-github: https://github.com/api-evangelist/transcript1-com
 - name: transcriptapi-com
   url: https://artifacts.apis.io/transcriptapi-com/apis.yml
   x-apis-io: https://apis.io/providers/transcriptapi-com/
@@ -5413,6 +5425,10 @@ include:
   url: https://artifacts.apis.io/transitland/apis.yml
   x-apis-io: https://apis.io/providers/transitland/
   x-github: https://github.com/api-evangelist/transitland
+- name: TranslateManga
+  url: https://artifacts.apis.io/translatemanga/apis.yml
+  x-apis-io: https://apis.io/providers/translatemanga/
+  x-github: https://github.com/api-evangelist/translatemanga
 - name: TranslateMyImage
   url: https://artifacts.apis.io/translatemyimage/apis.yml
   x-apis-io: https://apis.io/providers/translatemyimage/
@@ -6713,10 +6729,6 @@ include:
   url: https://artifacts.apis.io/tryasimov-ai/apis.yml
   x-apis-io: https://apis.io/providers/tryasimov-ai/
   x-github: https://github.com/api-evangelist/tryasimov-ai
-- name: Bloom
-  url: https://artifacts.apis.io/trybloom/apis.yml
-  x-apis-io: https://apis.io/providers/trybloom/
-  x-github: https://github.com/api-evangelist/trybloom
 - name: Cardinal
   url: https://artifacts.apis.io/trycardinal-ai/apis.yml
   x-apis-io: https://apis.io/providers/trycardinal-ai/
@@ -7265,6 +7277,10 @@ include:
   url: https://artifacts.apis.io/twentyci/apis.yml
   x-apis-io: https://apis.io/providers/twentyci/
   x-github: https://github.com/api-evangelist/twentyci
+- name: twexapi-io
+  url: https://artifacts.apis.io/twexapi-io/apis.yml
+  x-apis-io: https://apis.io/providers/twexapi-io/
+  x-github: https://github.com/api-evangelist/twexapi-io
 - name: Twice
   url: https://artifacts.apis.io/twice/apis.yml
   x-apis-io: https://apis.io/providers/twice/

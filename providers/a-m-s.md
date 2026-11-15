@@ -1,6 +1,6 @@
 # API Evangelist Network — providers Am-As
 
-2,076 providers whose repository name begins with **Am-As**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/a-m-s.yml](../network/a-m-s.yml).
+2,058 providers whose repository name begins with **Am-As**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/a-m-s.yml](../network/a-m-s.yml).
 
 [← All providers](../README.md)
 
@@ -67,9 +67,7 @@
 | Amazon CodeDeploy | [amazon-codedeploy](https://apis.io/providers/amazon-codedeploy/) | [amazon-codedeploy](https://github.com/api-evangelist/amazon-codedeploy) |
 | Amazon CodeGuru Profiler | [amazon-codeguru-profiler](https://apis.io/providers/amazon-codeguru-profiler/) | [amazon-codeguru-profiler](https://github.com/api-evangelist/amazon-codeguru-profiler) |
 | Amazon CodeGuru Reviewer | [amazon-codeguru-reviewer](https://apis.io/providers/amazon-codeguru-reviewer/) | [amazon-codeguru-reviewer](https://github.com/api-evangelist/amazon-codeguru-reviewer) |
-| Amazon CodeGuru Security | [amazon-codeguru-security](https://apis.io/providers/amazon-codeguru-security/) | [amazon-codeguru-security](https://github.com/api-evangelist/amazon-codeguru-security) |
 | Amazon CodePipeline | [amazon-codepipeline](https://apis.io/providers/amazon-codepipeline/) | [amazon-codepipeline](https://github.com/api-evangelist/amazon-codepipeline) |
-| Amazon CodeStar | [amazon-codestar](https://apis.io/providers/amazon-codestar/) | [amazon-codestar](https://github.com/api-evangelist/amazon-codestar) |
 | Amazon Cognito | [amazon-cognito](https://apis.io/providers/amazon-cognito/) | [amazon-cognito](https://github.com/api-evangelist/amazon-cognito) |
 | Amazon Comprehend | [amazon-comprehend](https://apis.io/providers/amazon-comprehend/) | [amazon-comprehend](https://github.com/api-evangelist/amazon-comprehend) |
 | Amazon Compute Optimizer | [amazon-compute-optimizer](https://apis.io/providers/amazon-compute-optimizer/) | [amazon-compute-optimizer](https://github.com/api-evangelist/amazon-compute-optimizer) |
@@ -82,7 +80,6 @@
 | Amazon DataSync | [amazon-datasync](https://apis.io/providers/amazon-datasync/) | [amazon-datasync](https://github.com/api-evangelist/amazon-datasync) |
 | Amazon DataZone | [amazon-datazone](https://apis.io/providers/amazon-datazone/) | [amazon-datazone](https://github.com/api-evangelist/amazon-datazone) |
 | Amazon Deadline Cloud | [amazon-deadline-cloud](https://apis.io/providers/amazon-deadline-cloud/) | [amazon-deadline-cloud](https://github.com/api-evangelist/amazon-deadline-cloud) |
-| Amazon DeepRacer | [amazon-deepracer](https://apis.io/providers/amazon-deepracer/) | [amazon-deepracer](https://github.com/api-evangelist/amazon-deepracer) |
 | Amazon Detective | [amazon-detective](https://apis.io/providers/amazon-detective/) | [amazon-detective](https://github.com/api-evangelist/amazon-detective) |
 | Amazon Device Farm | [amazon-device-farm](https://apis.io/providers/amazon-device-farm/) | [amazon-device-farm](https://github.com/api-evangelist/amazon-device-farm) |
 | Amazon DevOps Guru | [amazon-devops-guru](https://apis.io/providers/amazon-devops-guru/) | [amazon-devops-guru](https://github.com/api-evangelist/amazon-devops-guru) |
@@ -100,7 +97,6 @@
 | Amazon EFS | [amazon-efs](https://apis.io/providers/amazon-efs/) | [amazon-efs](https://github.com/api-evangelist/amazon-efs) |
 | Amazon EKS | [amazon-eks](https://apis.io/providers/amazon-eks/) | [amazon-eks](https://github.com/api-evangelist/amazon-eks) |
 | Amazon Elastic Load Balancing | [amazon-elastic-load-balancing](https://apis.io/providers/amazon-elastic-load-balancing/) | [amazon-elastic-load-balancing](https://github.com/api-evangelist/amazon-elastic-load-balancing) |
-| Amazon Elastic Transcoder | [amazon-elastic-transcoder](https://apis.io/providers/amazon-elastic-transcoder/) | [amazon-elastic-transcoder](https://github.com/api-evangelist/amazon-elastic-transcoder) |
 | Amazon ElastiCache | [amazon-elasticache](https://apis.io/providers/amazon-elasticache/) | [amazon-elasticache](https://github.com/api-evangelist/amazon-elasticache) |
 | Amazon EMR | [amazon-emr](https://apis.io/providers/amazon-emr/) | [amazon-emr](https://github.com/api-evangelist/amazon-emr) |
 | Amazon Entity Resolution | [amazon-entity-resolution](https://apis.io/providers/amazon-entity-resolution/) | [amazon-entity-resolution](https://github.com/api-evangelist/amazon-entity-resolution) |
@@ -109,7 +105,6 @@
 | Amazon EventBridge Scheduler | [amazon-eventbridge-scheduler](https://apis.io/providers/amazon-eventbridge-scheduler/) | [amazon-eventbridge-scheduler](https://github.com/api-evangelist/amazon-eventbridge-scheduler) |
 | Amazon Fargate | [amazon-fargate](https://apis.io/providers/amazon-fargate/) | [amazon-fargate](https://github.com/api-evangelist/amazon-fargate) |
 | Amazon Fault Injection Simulator | [amazon-fault-injection-simulator](https://apis.io/providers/amazon-fault-injection-simulator/) | [amazon-fault-injection-simulator](https://github.com/api-evangelist/amazon-fault-injection-simulator) |
-| Amazon FinSpace | [amazon-finspace](https://apis.io/providers/amazon-finspace/) | [amazon-finspace](https://github.com/api-evangelist/amazon-finspace) |
 | Amazon Firewall Manager | [amazon-firewall-manager](https://apis.io/providers/amazon-firewall-manager/) | [amazon-firewall-manager](https://github.com/api-evangelist/amazon-firewall-manager) |
 | Amazon Forecast | [amazon-forecast](https://apis.io/providers/amazon-forecast/) | [amazon-forecast](https://github.com/api-evangelist/amazon-forecast) |
 | Amazon Fraud Detector | [amazon-fraud-detector](https://apis.io/providers/amazon-fraud-detector/) | [amazon-fraud-detector](https://github.com/api-evangelist/amazon-fraud-detector) |
@@ -132,7 +127,6 @@
 | Amazon IoT Core | [amazon-iot-core](https://apis.io/providers/amazon-iot-core/) | [amazon-iot-core](https://github.com/api-evangelist/amazon-iot-core) |
 | Amazon IoT Device Defender | [amazon-iot-device-defender](https://apis.io/providers/amazon-iot-device-defender/) | [amazon-iot-device-defender](https://github.com/api-evangelist/amazon-iot-device-defender) |
 | Amazon IoT Device Management | [amazon-iot-device-management](https://apis.io/providers/amazon-iot-device-management/) | [amazon-iot-device-management](https://github.com/api-evangelist/amazon-iot-device-management) |
-| Amazon IoT Events | [amazon-iot-events](https://apis.io/providers/amazon-iot-events/) | [amazon-iot-events](https://github.com/api-evangelist/amazon-iot-events) |
 | Amazon IoT FleetWise | [amazon-iot-fleetwise](https://apis.io/providers/amazon-iot-fleetwise/) | [amazon-iot-fleetwise](https://github.com/api-evangelist/amazon-iot-fleetwise) |
 | Amazon IoT Greengrass | [amazon-iot-greengrass](https://apis.io/providers/amazon-iot-greengrass/) | [amazon-iot-greengrass](https://github.com/api-evangelist/amazon-iot-greengrass) |
 | Amazon IoT SiteWise | [amazon-iot-sitewise](https://apis.io/providers/amazon-iot-sitewise/) | [amazon-iot-sitewise](https://github.com/api-evangelist/amazon-iot-sitewise) |
@@ -148,21 +142,16 @@
 | Amazon License Manager | [amazon-license-manager](https://apis.io/providers/amazon-license-manager/) | [amazon-license-manager](https://github.com/api-evangelist/amazon-license-manager) |
 | Amazon Lightsail | [amazon-lightsail](https://apis.io/providers/amazon-lightsail/) | [amazon-lightsail](https://github.com/api-evangelist/amazon-lightsail) |
 | Amazon Location Service | [amazon-location-service](https://apis.io/providers/amazon-location-service/) | [amazon-location-service](https://github.com/api-evangelist/amazon-location-service) |
-| Amazon Lookout for Equipment | [amazon-lookout-for-equipment](https://apis.io/providers/amazon-lookout-for-equipment/) | [amazon-lookout-for-equipment](https://github.com/api-evangelist/amazon-lookout-for-equipment) |
-| Amazon Lookout for Metrics | [amazon-lookout-for-metrics](https://apis.io/providers/amazon-lookout-for-metrics/) | [amazon-lookout-for-metrics](https://github.com/api-evangelist/amazon-lookout-for-metrics) |
-| Amazon Lookout for Vision | [amazon-lookout-for-vision](https://apis.io/providers/amazon-lookout-for-vision/) | [amazon-lookout-for-vision](https://github.com/api-evangelist/amazon-lookout-for-vision) |
 | Amazon Macie | [amazon-macie](https://apis.io/providers/amazon-macie/) | [amazon-macie](https://github.com/api-evangelist/amazon-macie) |
 | Amazon Mainframe Modernization | [amazon-mainframe-modernization](https://apis.io/providers/amazon-mainframe-modernization/) | [amazon-mainframe-modernization](https://github.com/api-evangelist/amazon-mainframe-modernization) |
 | Amazon Managed Service for Apache Flink | [amazon-managed-apache-flink](https://apis.io/providers/amazon-managed-apache-flink/) | [amazon-managed-apache-flink](https://github.com/api-evangelist/amazon-managed-apache-flink) |
 | Amazon Managed Blockchain | [amazon-managed-blockchain](https://apis.io/providers/amazon-managed-blockchain/) | [amazon-managed-blockchain](https://github.com/api-evangelist/amazon-managed-blockchain) |
 | Amazon Managed Grafana | [amazon-managed-grafana](https://apis.io/providers/amazon-managed-grafana/) | [amazon-managed-grafana](https://github.com/api-evangelist/amazon-managed-grafana) |
 | Amazon Managed Service for Prometheus | [amazon-managed-prometheus](https://apis.io/providers/amazon-managed-prometheus/) | [amazon-managed-prometheus](https://github.com/api-evangelist/amazon-managed-prometheus) |
-| Amazon Mechanical Turk | [amazon-mechanical-turk](https://apis.io/providers/amazon-mechanical-turk/) | [amazon-mechanical-turk](https://github.com/api-evangelist/amazon-mechanical-turk) |
 | Amazon MediaConnect | [amazon-mediaconnect](https://apis.io/providers/amazon-mediaconnect/) | [amazon-mediaconnect](https://github.com/api-evangelist/amazon-mediaconnect) |
 | Amazon MediaConvert | [amazon-mediaconvert](https://apis.io/providers/amazon-mediaconvert/) | [amazon-mediaconvert](https://github.com/api-evangelist/amazon-mediaconvert) |
 | Amazon MediaLive | [amazon-medialive](https://apis.io/providers/amazon-medialive/) | [amazon-medialive](https://github.com/api-evangelist/amazon-medialive) |
 | Amazon MediaPackage | [amazon-mediapackage](https://apis.io/providers/amazon-mediapackage/) | [amazon-mediapackage](https://github.com/api-evangelist/amazon-mediapackage) |
-| Amazon MediaStore | [amazon-mediastore](https://apis.io/providers/amazon-mediastore/) | [amazon-mediastore](https://github.com/api-evangelist/amazon-mediastore) |
 | Amazon MediaTailor | [amazon-mediatailor](https://apis.io/providers/amazon-mediatailor/) | [amazon-mediatailor](https://github.com/api-evangelist/amazon-mediatailor) |
 | Amazon MemoryDB | [amazon-memorydb](https://apis.io/providers/amazon-memorydb/) | [amazon-memorydb](https://github.com/api-evangelist/amazon-memorydb) |
 | Amazon Migration Hub | [amazon-migration-hub](https://apis.io/providers/amazon-migration-hub/) | [amazon-migration-hub](https://github.com/api-evangelist/amazon-migration-hub) |
@@ -176,25 +165,20 @@
 | Amazon OpenSearch Service API | [amazon-opensearch](https://apis.io/providers/amazon-opensearch/) | [amazon-opensearch](https://github.com/api-evangelist/amazon-opensearch) |
 | Amazon Organizations | [amazon-organizations](https://apis.io/providers/amazon-organizations/) | [amazon-organizations](https://github.com/api-evangelist/amazon-organizations) |
 | Amazon Outposts | [amazon-outposts](https://apis.io/providers/amazon-outposts/) | [amazon-outposts](https://github.com/api-evangelist/amazon-outposts) |
-| Amazon Panorama | [amazon-panorama](https://apis.io/providers/amazon-panorama/) | [amazon-panorama](https://github.com/api-evangelist/amazon-panorama) |
 | Amazon Parallel Computing Service | [amazon-parallel-computing-service](https://apis.io/providers/amazon-parallel-computing-service/) | [amazon-parallel-computing-service](https://github.com/api-evangelist/amazon-parallel-computing-service) |
 | Amazon Payment Cryptography | [amazon-payment-cryptography](https://apis.io/providers/amazon-payment-cryptography/) | [amazon-payment-cryptography](https://github.com/api-evangelist/amazon-payment-cryptography) |
 | Amazon Payment Services | [amazon-payment-services](https://apis.io/providers/amazon-payment-services/) | [amazon-payment-services](https://github.com/api-evangelist/amazon-payment-services) |
 | Amazon Personalize | [amazon-personalize](https://apis.io/providers/amazon-personalize/) | [amazon-personalize](https://github.com/api-evangelist/amazon-personalize) |
-| Amazon Pinpoint | [amazon-pinpoint](https://apis.io/providers/amazon-pinpoint/) | [amazon-pinpoint](https://github.com/api-evangelist/amazon-pinpoint) |
 | Amazon Polly | [amazon-polly](https://apis.io/providers/amazon-polly/) | [amazon-polly](https://github.com/api-evangelist/amazon-polly) |
 | Amazon Private CA | [amazon-private-ca](https://apis.io/providers/amazon-private-ca/) | [amazon-private-ca](https://github.com/api-evangelist/amazon-private-ca) |
 | Amazon PrivateLink | [amazon-privatelink](https://apis.io/providers/amazon-privatelink/) | [amazon-privatelink](https://github.com/api-evangelist/amazon-privatelink) |
-| Amazon Proton | [amazon-proton](https://apis.io/providers/amazon-proton/) | [amazon-proton](https://github.com/api-evangelist/amazon-proton) |
 | Amazon Q | [amazon-q](https://apis.io/providers/amazon-q/) | [amazon-q](https://github.com/api-evangelist/amazon-q) |
-| Amazon QLDB | [amazon-qldb](https://apis.io/providers/amazon-qldb/) | [amazon-qldb](https://github.com/api-evangelist/amazon-qldb) |
 | Amazon QuickSight | [amazon-quicksight](https://apis.io/providers/amazon-quicksight/) | [amazon-quicksight](https://github.com/api-evangelist/amazon-quicksight) |
 | Amazon RDS | [amazon-rds](https://apis.io/providers/amazon-rds/) | [amazon-rds](https://github.com/api-evangelist/amazon-rds) |
 | Amazon Redshift | [amazon-redshift](https://apis.io/providers/amazon-redshift/) | [amazon-redshift](https://github.com/api-evangelist/amazon-redshift) |
 | Amazon Rekognition | [amazon-rekognition](https://apis.io/providers/amazon-rekognition/) | [amazon-rekognition](https://github.com/api-evangelist/amazon-rekognition) |
 | Amazon Resilience Hub | [amazon-resilience-hub](https://apis.io/providers/amazon-resilience-hub/) | [amazon-resilience-hub](https://github.com/api-evangelist/amazon-resilience-hub) |
 | Amazon Resource Explorer | [amazon-resource-explorer](https://apis.io/providers/amazon-resource-explorer/) | [amazon-resource-explorer](https://github.com/api-evangelist/amazon-resource-explorer) |
-| Amazon RoboMaker | [amazon-robomaker](https://apis.io/providers/amazon-robomaker/) | [amazon-robomaker](https://github.com/api-evangelist/amazon-robomaker) |
 | Amazon Route 53 | [amazon-route-53](https://apis.io/providers/amazon-route-53/) | [amazon-route-53](https://github.com/api-evangelist/amazon-route-53) |
 | Amazon Route 53 Resolver | [amazon-route53-resolver](https://apis.io/providers/amazon-route53-resolver/) | [amazon-route53-resolver](https://github.com/api-evangelist/amazon-route53-resolver) |
 | Amazon S3 | [amazon-s3](https://apis.io/providers/amazon-s3/) | [amazon-s3](https://github.com/api-evangelist/amazon-s3) |
@@ -210,8 +194,6 @@
 | Amazon Shield | [amazon-shield](https://apis.io/providers/amazon-shield/) | [amazon-shield](https://github.com/api-evangelist/amazon-shield) |
 | Amazon Signer | [amazon-signer](https://apis.io/providers/amazon-signer/) | [amazon-signer](https://github.com/api-evangelist/amazon-signer) |
 | Amazon SimpleDB | [amazon-simpledb](https://apis.io/providers/amazon-simpledb/) | [amazon-simpledb](https://github.com/api-evangelist/amazon-simpledb) |
-| Amazon SimSpace Weaver | [amazon-simspace-weaver](https://apis.io/providers/amazon-simspace-weaver/) | [amazon-simspace-weaver](https://github.com/api-evangelist/amazon-simspace-weaver) |
-| Amazon Snow Family | [amazon-snow-family](https://apis.io/providers/amazon-snow-family/) | [amazon-snow-family](https://github.com/api-evangelist/amazon-snow-family) |
 | Amazon SNS | [amazon-sns](https://apis.io/providers/amazon-sns/) | [amazon-sns](https://github.com/api-evangelist/amazon-sns) |
 | Amazon SQS | [amazon-sqs](https://apis.io/providers/amazon-sqs/) | [amazon-sqs](https://github.com/api-evangelist/amazon-sqs) |
 | Amazon Storage Gateway | [amazon-storage-gateway](https://apis.io/providers/amazon-storage-gateway/) | [amazon-storage-gateway](https://github.com/api-evangelist/amazon-storage-gateway) |
@@ -301,7 +283,6 @@
 | aMember | [amember](https://apis.io/providers/amember/) | [amember](https://github.com/api-evangelist/amember) |
 | Amenitiz | [amenitiz](https://apis.io/providers/amenitiz/) | [amenitiz](https://github.com/api-evangelist/amenitiz) |
 | Amentum | [amentum](https://apis.io/providers/amentum/) | [amentum](https://github.com/api-evangelist/amentum) |
-| Daniel Amer | [amer-daniel-com](https://apis.io/providers/amer-daniel-com/) | [amer-daniel-com](https://github.com/api-evangelist/amer-daniel-com) |
 | Amer Sports | [amer-sports](https://apis.io/providers/amer-sports/) | [amer-sports](https://github.com/api-evangelist/amer-sports) |
 | Amera | [amera](https://apis.io/providers/amera/) | [amera](https://github.com/api-evangelist/amera) |
 | AMERCO | [amerco](https://apis.io/providers/amerco/) | [amerco](https://github.com/api-evangelist/amerco) |
@@ -452,6 +433,7 @@
 | AMSimpkins & Associates | [amsa-consulting](https://apis.io/providers/amsa-consulting/) | [amsa-consulting](https://github.com/api-evangelist/amsa-consulting) |
 | AMSC | [amsc](https://apis.io/providers/amsc/) | [amsc](https://github.com/api-evangelist/amsc) |
 | Amsciences | [amsciences](https://apis.io/providers/amsciences/) | [amsciences](https://github.com/api-evangelist/amsciences) |
+| Gemeente Amsterdam | [amsterdam-nl](https://apis.io/providers/amsterdam-nl/) | [amsterdam-nl](https://github.com/api-evangelist/amsterdam-nl) |
 | Amtc73f | [amtc73f](https://apis.io/providers/amtc73f/) | [amtc73f](https://github.com/api-evangelist/amtc73f) |
 | Amteclinksinternational | [amteclinksinternational](https://apis.io/providers/amteclinksinternational/) | [amteclinksinternational](https://github.com/api-evangelist/amteclinksinternational) |
 | Amtixbio | [amtixbio](https://apis.io/providers/amtixbio/) | [amtixbio](https://github.com/api-evangelist/amtixbio) |
@@ -681,6 +663,7 @@
 | Anoria | [anoria](https://apis.io/providers/anoria/) | [anoria](https://github.com/api-evangelist/anoria) |
 | Anotepad | [anotepad-com](https://apis.io/providers/anotepad-com/) | [anotepad-com](https://github.com/api-evangelist/anotepad-com) |
 | Another | [another](https://apis.io/providers/another/) | [another](https://github.com/api-evangelist/another) |
+| Another Directory | [another-directory](https://apis.io/providers/another-directory/) | [another-directory](https://github.com/api-evangelist/another-directory) |
 | ANOTS | [anots-com](https://apis.io/providers/anots-com/) | [anots-com](https://github.com/api-evangelist/anots-com) |
 | ANP2 | [anp2-com](https://apis.io/providers/anp2-com/) | [anp2-com](https://github.com/api-evangelist/anp2-com) |
 | anpheros-com | [anpheros-com](https://apis.io/providers/anpheros-com/) | [anpheros-com](https://github.com/api-evangelist/anpheros-com) |
@@ -752,12 +735,12 @@
 | Antiva Biosciences | [antiva-biosciences](https://apis.io/providers/antiva-biosciences/) | [antiva-biosciences](https://github.com/api-evangelist/antiva-biosciences) |
 | Anto Biosciences | [anto-biosciences](https://apis.io/providers/anto-biosciences/) | [anto-biosciences](https://github.com/api-evangelist/anto-biosciences) |
 | Antofagasta PLC | [antofagasta](https://apis.io/providers/antofagasta/) | [antofagasta](https://github.com/api-evangelist/antofagasta) |
-| Anto Joel | [antojoel-com](https://apis.io/providers/antojoel-com/) | [antojoel-com](https://github.com/api-evangelist/antojoel-com) |
 | Antora Energy | [antora-energy](https://apis.io/providers/antora-energy/) | [antora-energy](https://github.com/api-evangelist/antora-energy) |
 | Antrieb | [antrieb-sh](https://apis.io/providers/antrieb-sh/) | [antrieb-sh](https://github.com/api-evangelist/antrieb-sh) |
 | Ants2 | [ants2](https://apis.io/providers/ants2/) | [ants2](https://github.com/api-evangelist/ants2) |
 | Antwakfa07 | [antwakfa07](https://apis.io/providers/antwakfa07/) | [antwakfa07](https://github.com/api-evangelist/antwakfa07) |
 | Antway65dc | [antway65dc](https://apis.io/providers/antway65dc/) | [antway65dc](https://github.com/api-evangelist/antway65dc) |
+| Stad Antwerpen | [antwerpen-be](https://apis.io/providers/antwerpen-be/) | [antwerpen-be](https://github.com/api-evangelist/antwerpen-be) |
 | Antwork | [antwork-io](https://apis.io/providers/antwork-io/) | [antwork-io](https://github.com/api-evangelist/antwork-io) |
 | Antworkshop60ff | [antworkshop60ff](https://apis.io/providers/antworkshop60ff/) | [antworkshop60ff](https://github.com/api-evangelist/antworkshop60ff) |
 | Australian National University | [anu](https://apis.io/providers/anu/) | [anu](https://github.com/api-evangelist/anu) |
@@ -974,10 +957,13 @@
 | API-Fiddle | [api-fiddle](https://apis.io/providers/api-fiddle/) | [api-fiddle](https://github.com/api-evangelist/api-fiddle) |
 | API Football | [api-football](https://apis.io/providers/api-football/) | [api-football](https://github.com/api-evangelist/api-football) |
 | API Fortress | [api-fortress](https://apis.io/providers/api-fortress/) | [api-fortress](https://github.com/api-evangelist/api-fortress) |
+| api.gouv.fr | [api-gouv-fr](https://apis.io/providers/api-gouv-fr/) | [api-gouv-fr](https://github.com/api-evangelist/api-gouv-fr) |
+| UK Government API Catalogue | [api-gov-uk](https://apis.io/providers/api-gov-uk/) | [api-gov-uk](https://github.com/api-evangelist/api-gov-uk) |
 | API Grátis | [api-gr-tis](https://apis.io/providers/api-gr-tis/) | [api-gr-tis](https://github.com/api-evangelist/api-gr-tis) |
 | APi Group | [api-group](https://apis.io/providers/api-group/) | [api-group](https://github.com/api-evangelist/api-group) |
 | API Harmony | [api-harmony](https://apis.io/providers/api-harmony/) | [api-harmony](https://github.com/api-evangelist/api-harmony) |
 | API Insights | [api-insights](https://apis.io/providers/api-insights/) | [api-insights](https://github.com/api-evangelist/api-insights) |
+| Krajowy Rejestr Sądowy (National Court Register), Poland | [api-krs-ms-gov-pl](https://apis.io/providers/api-krs-ms-gov-pl/) | [api-krs-ms-gov-pl](https://github.com/api-evangelist/api-krs-ms-gov-pl) |
 | API League | [api-league](https://apis.io/providers/api-league/) | [api-league](https://github.com/api-evangelist/api-league) |
 | API.market | [api-market](https://apis.io/providers/api-market/) | [api-market](https://github.com/api-evangelist/api-market) |
 | api-ninjas-com | [api-ninjas-com](https://apis.io/providers/api-ninjas-com/) | [api-ninjas-com](https://github.com/api-evangelist/api-ninjas-com) |
@@ -998,6 +984,7 @@
 | apiai-me | [apiai-me](https://apis.io/providers/apiai-me/) | [apiai-me](https://github.com/api-evangelist/apiai-me) |
 | APIANT | [apiant](https://apis.io/providers/apiant/) | [apiant](https://github.com/api-evangelist/apiant) |
 | Apiary | [apiary](https://apis.io/providers/apiary/) | [apiary](https://github.com/api-evangelist/apiary) |
+| Apiauto Space | [apiauto-space](https://apis.io/providers/apiauto-space/) | [apiauto-space](https://github.com/api-evangelist/apiauto-space) |
 | Apibara.tech | [apibara-tech](https://apis.io/providers/apibara-tech/) | [apibara-tech](https://github.com/api-evangelist/apibara-tech) |
 | APIbase | [apibase-pro](https://apis.io/providers/apibase-pro/) | [apibase-pro](https://github.com/api-evangelist/apibase-pro) |
 | Apiboost Developer Portals | [apiboost](https://apis.io/providers/apiboost/) | [apiboost](https://github.com/api-evangelist/apiboost) |
@@ -1126,7 +1113,7 @@
 | Apollomedicaloptics | [apollomedicaloptics](https://apis.io/providers/apollomedicaloptics/) | [apollomedicaloptics](https://github.com/api-evangelist/apollomedicaloptics) |
 | Apollomics | [apollomics](https://apis.io/providers/apollomics/) | [apollomics](https://github.com/api-evangelist/apollomics) |
 | Apollomics | [apollomicsinc](https://apis.io/providers/apollomicsinc/) | [apollomicsinc](https://github.com/api-evangelist/apollomicsinc) |
-| Apollo Project Cloud | [apolloproject-cloud](https://apis.io/providers/apolloproject-cloud/) | [apolloproject-cloud](https://github.com/api-evangelist/apolloproject-cloud) |
+| apolloproject-cloud | [apolloproject-cloud](https://apis.io/providers/apolloproject-cloud/) | [apolloproject-cloud](https://github.com/api-evangelist/apolloproject-cloud) |
 | Apollotherapeutics | [apollotherapeutics](https://apis.io/providers/apollotherapeutics/) | [apollotherapeutics](https://github.com/api-evangelist/apollotherapeutics) |
 | Apono | [apono](https://apis.io/providers/apono/) | [apono](https://github.com/api-evangelist/apono) |
 | Aporeto | [aporeto](https://apis.io/providers/aporeto/) | [aporeto](https://github.com/api-evangelist/aporeto) |
@@ -1524,6 +1511,7 @@
 | Arena | [arena-predictions-com](https://apis.io/providers/arena-predictions-com/) | [arena-predictions-com](https://github.com/api-evangelist/arena-predictions-com) |
 | Arenac37f | [arenac37f](https://apis.io/providers/arenac37f/) | [arenac37f](https://github.com/api-evangelist/arenac37f) |
 | ArenaCX | [arenacx](https://apis.io/providers/arenacx/) | [arenacx](https://github.com/api-evangelist/arenacx) |
+| ARES (Czech business register) | [ares-gov-cz](https://apis.io/providers/ares-gov-cz/) | [ares-gov-cz](https://github.com/api-evangelist/ares-gov-cz) |
 | Ares Interactive | [ares-interactive](https://apis.io/providers/ares-interactive/) | [ares-interactive](https://github.com/api-evangelist/ares-interactive) |
 | Ares Management | [ares-management](https://apis.io/providers/ares-management/) | [ares-management](https://github.com/api-evangelist/ares-management) |
 | Aresmaterials | [aresmaterials](https://apis.io/providers/aresmaterials/) | [aresmaterials](https://github.com/api-evangelist/aresmaterials) |
@@ -1580,6 +1568,7 @@
 | Arincare | [arincare](https://apis.io/providers/arincare/) | [arincare](https://github.com/api-evangelist/arincare) |
 | Arine | [arine](https://apis.io/providers/arine/) | [arine](https://github.com/api-evangelist/arine) |
 | Ario | [ario](https://apis.io/providers/ario/) | [ario](https://github.com/api-evangelist/ario) |
+| Estonian e-Business Register (RIK) | [ariregister-rik-ee](https://apis.io/providers/ariregister-rik-ee/) | [ariregister-rik-ee](https://github.com/api-evangelist/ariregister-rik-ee) |
 | Aris Machina | [aris-machina](https://apis.io/providers/aris-machina/) | [aris-machina](https://github.com/api-evangelist/aris-machina) |
 | ARISON8 | [arison8-com](https://apis.io/providers/arison8-com/) | [arison8-com](https://github.com/api-evangelist/arison8-com) |
 | Arist | [arist](https://apis.io/providers/arist/) | [arist](https://github.com/api-evangelist/arist) |
@@ -1598,7 +1587,6 @@
 | Arize AI | [arize-ai](https://apis.io/providers/arize-ai/) | [arize-ai](https://github.com/api-evangelist/arize-ai) |
 | Arizona State University | [arizona-state-university](https://apis.io/providers/arizona-state-university/) | [arizona-state-university](https://github.com/api-evangelist/arizona-state-university) |
 | Arizona Roof Replacement Cost | [arizonaroofreplacementcost-com](https://apis.io/providers/arizonaroofreplacementcost-com/) | [arizonaroofreplacementcost-com](https://github.com/api-evangelist/arizonaroofreplacementcost-com) |
-| Arizona Solar Cost Calculator | [arizonasolarcostcalculator-com](https://apis.io/providers/arizonasolarcostcalculator-com/) | [arizonasolarcostcalculator-com](https://github.com/api-evangelist/arizonasolarcostcalculator-com) |
 | Arka | [arka](https://apis.io/providers/arka/) | [arka](https://github.com/api-evangelist/arka) |
 | Arkbio | [arkbio](https://apis.io/providers/arkbio/) | [arkbio](https://github.com/api-evangelist/arkbio) |
 | Ark Biopharmaceutical | [arkbiosciences](https://apis.io/providers/arkbiosciences/) | [arkbiosciences](https://github.com/api-evangelist/arkbiosciences) |
@@ -1646,7 +1634,6 @@
 | Armstrong Robotics | [armstrong-robotics](https://apis.io/providers/armstrong-robotics/) | [armstrong-robotics](https://github.com/api-evangelist/armstrong-robotics) |
 | Armstrong World Industries | [armstrong-world-industries](https://apis.io/providers/armstrong-world-industries/) | [armstrong-world-industries](https://github.com/api-evangelist/armstrong-world-industries) |
 | Army National Guard | [army-national-guard](https://apis.io/providers/army-national-guard/) | [army-national-guard](https://github.com/api-evangelist/army-national-guard) |
-| Arne Kellmann | [arnekellmann-de](https://apis.io/providers/arnekellmann-de/) | [arnekellmann-de](https://github.com/api-evangelist/arnekellmann-de) |
 | Arnousedigitaldevices | [arnousedigitaldevices](https://apis.io/providers/arnousedigitaldevices/) | [arnousedigitaldevices](https://github.com/api-evangelist/arnousedigitaldevices) |
 | Aro Biotherapeutics | [aro-biotherapeutics](https://apis.io/providers/aro-biotherapeutics/) | [aro-biotherapeutics](https://github.com/api-evangelist/aro-biotherapeutics) |
 | Aro Homes | [aro-homes](https://apis.io/providers/aro-homes/) | [aro-homes](https://github.com/api-evangelist/aro-homes) |
@@ -1812,10 +1799,7 @@
 | ASAPP | [asapp](https://apis.io/providers/asapp/) | [asapp](https://github.com/api-evangelist/asapp) |
 | Asapp3 | [asapp3](https://apis.io/providers/asapp3/) | [asapp3](https://github.com/api-evangelist/asapp3) |
 | Asato | [asato](https://apis.io/providers/asato/) | [asato](https://github.com/api-evangelist/asato) |
-| Asbestos Disposal Cost | [asbestosdisposalcost-co-uk](https://apis.io/providers/asbestosdisposalcost-co-uk/) | [asbestosdisposalcost-co-uk](https://github.com/api-evangelist/asbestosdisposalcost-co-uk) |
-| Asbestos Removal Costs | [asbestosremovalcosts-co-uk](https://apis.io/providers/asbestosremovalcosts-co-uk/) | [asbestosremovalcosts-co-uk](https://github.com/api-evangelist/asbestosremovalcosts-co-uk) |
 | Asbestos Survey Cost UK | [asbestossurveycost-co-uk](https://apis.io/providers/asbestossurveycost-co-uk/) | [asbestossurveycost-co-uk](https://github.com/api-evangelist/asbestossurveycost-co-uk) |
-| Asbestos Survey Quotes | [asbestossurveyquotes-co-uk](https://apis.io/providers/asbestossurveyquotes-co-uk/) | [asbestossurveyquotes-co-uk](https://github.com/api-evangelist/asbestossurveyquotes-co-uk) |
 | Asbury Automotive Group | [asbury-automotive](https://apis.io/providers/asbury-automotive/) | [asbury-automotive](https://github.com/api-evangelist/asbury-automotive) |
 | ASCAP | [ascap](https://apis.io/providers/ascap/) | [ascap](https://github.com/api-evangelist/ascap) |
 | ASCE Amplify | [asce-amplify](https://apis.io/providers/asce-amplify/) | [asce-amplify](https://github.com/api-evangelist/asce-amplify) |
@@ -1853,12 +1837,10 @@
 | Asher Biotherapeutics | [asher-biotherapeutics](https://apis.io/providers/asher-biotherapeutics/) | [asher-biotherapeutics](https://github.com/api-evangelist/asher-biotherapeutics) |
 | Asherbio | [asherbio](https://apis.io/providers/asherbio/) | [asherbio](https://github.com/api-evangelist/asherbio) |
 | Ashland | [ashland](https://apis.io/providers/ashland/) | [ashland](https://github.com/api-evangelist/ashland) |
-| Ashley Payne | [ashleypayne-co-uk](https://apis.io/providers/ashleypayne-co-uk/) | [ashleypayne-co-uk](https://github.com/api-evangelist/ashleypayne-co-uk) |
 | Ashocbeverage | [ashocbeverage](https://apis.io/providers/ashocbeverage/) | [ashocbeverage](https://github.com/api-evangelist/ashocbeverage) |
 | Ashr | [ashr](https://apis.io/providers/ashr/) | [ashr](https://github.com/api-evangelist/ashr) |
 | Ashton & Forge | [ashtonforge-com](https://apis.io/providers/ashtonforge-com/) | [ashtonforge-com](https://github.com/api-evangelist/ashtonforge-com) |
 | Ashvattha Therapeutics | [ashvattha-therapeutics](https://apis.io/providers/ashvattha-therapeutics/) | [ashvattha-therapeutics](https://github.com/api-evangelist/ashvattha-therapeutics) |
-| Ashwin Sathian | [ashwinsathian-com](https://apis.io/providers/ashwinsathian-com/) | [ashwinsathian-com](https://github.com/api-evangelist/ashwinsathian-com) |
 | Asia Air Survey Co., Ltd. | [asia-air-survey-co-ltd](https://apis.io/providers/asia-air-survey-co-ltd/) | [asia-air-survey-co-ltd](https://github.com/api-evangelist/asia-air-survey-co-ltd) |
 | Asia Pulse | [asia-pulse-com](https://apis.io/providers/asia-pulse-com/) | [asia-pulse-com](https://github.com/api-evangelist/asia-pulse-com) |
 | Asiabiome | [asiabiome](https://apis.io/providers/asiabiome/) | [asiabiome](https://github.com/api-evangelist/asiabiome) |
@@ -2049,7 +2031,7 @@
 | Astroclaw | [astroclaw-xyz](https://apis.io/providers/astroclaw-xyz/) | [astroclaw-xyz](https://github.com/api-evangelist/astroclaw-xyz) |
 | Astrocytepharmaceuticals | [astrocytepharmaceuticals](https://apis.io/providers/astrocytepharmaceuticals/) | [astrocytepharmaceuticals](https://github.com/api-evangelist/astrocytepharmaceuticals) |
 | Astrodigital | [astrodigital](https://apis.io/providers/astrodigital/) | [astrodigital](https://github.com/api-evangelist/astrodigital) |
-| Astrofabric AI | [astrofabric-ai](https://apis.io/providers/astrofabric-ai/) | [astrofabric-ai](https://github.com/api-evangelist/astrofabric-ai) |
+| astrofabric-ai | [astrofabric-ai](https://apis.io/providers/astrofabric-ai/) | [astrofabric-ai](https://github.com/api-evangelist/astrofabric-ai) |
 | AstroForge | [astroforge](https://apis.io/providers/astroforge/) | [astroforge](https://github.com/api-evangelist/astroforge) |
 | Astrog | [astrog](https://apis.io/providers/astrog/) | [astrog](https://github.com/api-evangelist/astrog) |
 | Astrogen | [astrogen](https://apis.io/providers/astrogen/) | [astrogen](https://github.com/api-evangelist/astrogen) |

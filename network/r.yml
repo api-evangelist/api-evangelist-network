@@ -1,8 +1,8 @@
 name: API Evangelist Network — providers R
-description: 'The 1312 API providers in the API Evangelist network whose repository name begins with R. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
+description: 'The 1314 API providers in the API Evangelist network whose repository name begins with R. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
 url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/r.yml
 created: '2026-02-27'
-modified: '2026-11-06'
+modified: '2026-11-15'
 specificationVersion: '0.23'
 tags:
 - Directory
@@ -1849,6 +1849,10 @@ include:
   url: https://artifacts.apis.io/reform/apis.yml
   x-apis-io: https://apis.io/providers/reform/
   x-github: https://github.com/api-evangelist/reform
+- name: Refract
+  url: https://artifacts.apis.io/refract-social/apis.yml
+  x-apis-io: https://apis.io/providers/refract-social/
+  x-github: https://github.com/api-evangelist/refract-social
 - name: refresh
   url: https://artifacts.apis.io/refresh/apis.yml
   x-apis-io: https://apis.io/providers/refresh/
@@ -2121,7 +2125,7 @@ include:
   url: https://artifacts.apis.io/relay-therapeutics/apis.yml
   x-apis-io: https://apis.io/providers/relay-therapeutics/
   x-github: https://github.com/api-evangelist/relay-therapeutics
-- name: relayger-com
+- name: Relayger
   url: https://artifacts.apis.io/relayger-com/apis.yml
   x-apis-io: https://apis.io/providers/relayger-com/
   x-github: https://github.com/api-evangelist/relayger-com
@@ -4669,6 +4673,10 @@ include:
   url: https://artifacts.apis.io/routefusion/apis.yml
   x-apis-io: https://apis.io/providers/routefusion/
   x-github: https://github.com/api-evangelist/routefusion
+- name: RouteMux
+  url: https://artifacts.apis.io/routemux-com/apis.yml
+  x-apis-io: https://apis.io/providers/routemux-com/
+  x-github: https://github.com/api-evangelist/routemux-com
 - name: RouterOS
   url: https://artifacts.apis.io/routeros/apis.yml
   x-apis-io: https://apis.io/providers/routeros/

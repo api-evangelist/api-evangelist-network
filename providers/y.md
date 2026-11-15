@@ -1,6 +1,6 @@
 # API Evangelist Network — providers Y
 
-182 providers whose repository name begins with **Y**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/y.yml](../network/y.yml).
+181 providers whose repository name begins with **Y**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/y.yml](../network/y.yml).
 
 [← All providers](../README.md)
 
@@ -169,7 +169,6 @@
 | YubHub | [yubhub](https://apis.io/providers/yubhub/) | [yubhub](https://github.com/api-evangelist/yubhub) |
 | Yubi | [yubi](https://apis.io/providers/yubi/) | [yubi](https://github.com/api-evangelist/yubi) |
 | Yubico | [yubico](https://apis.io/providers/yubico/) | [yubico](https://github.com/api-evangelist/yubico) |
-| Sunny Yuen | [yuens-me](https://apis.io/providers/yuens-me/) | [yuens-me](https://github.com/api-evangelist/yuens-me) |
 | Yuga Labs | [yuga-labs](https://apis.io/providers/yuga-labs/) | [yuga-labs](https://github.com/api-evangelist/yuga-labs) |
 | Yugabyte | [yugabyte](https://apis.io/providers/yugabyte/) | [yugabyte](https://github.com/api-evangelist/yugabyte) |
 | Yuhu | [yuhu](https://apis.io/providers/yuhu/) | [yuhu](https://github.com/api-evangelist/yuhu) |

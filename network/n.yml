@@ -1,8 +1,8 @@
 name: API Evangelist Network — providers N
-description: 'The 1031 API providers in the API Evangelist network whose repository name begins with N. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
+description: 'The 1032 API providers in the API Evangelist network whose repository name begins with N. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
 url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/n.yml
 created: '2026-02-27'
-modified: '2026-11-06'
+modified: '2026-11-15'
 specificationVersion: '0.23'
 tags:
 - Directory
@@ -741,6 +741,10 @@ include:
   url: https://artifacts.apis.io/nav/apis.yml
   x-apis-io: https://apis.io/providers/nav/
   x-github: https://github.com/api-evangelist/nav
+- name: NAV (Norwegian Labour and Welfare Administration)
+  url: https://artifacts.apis.io/nav-no/apis.yml
+  x-apis-io: https://apis.io/providers/nav-no/
+  x-github: https://github.com/api-evangelist/nav-no
 - name: Nava Benefits
   url: https://artifacts.apis.io/nava-benefits/apis.yml
   x-apis-io: https://apis.io/providers/nava-benefits/
@@ -1209,10 +1213,6 @@ include:
   url: https://artifacts.apis.io/neso/apis.yml
   x-apis-io: https://apis.io/providers/neso/
   x-github: https://github.com/api-evangelist/neso
-- name: Nest
-  url: https://artifacts.apis.io/nest/apis.yml
-  x-apis-io: https://apis.io/providers/nest/
-  x-github: https://github.com/api-evangelist/nest
 - name: Nestcoin
   url: https://artifacts.apis.io/nestcoin/apis.yml
   x-apis-io: https://apis.io/providers/nestcoin/
@@ -1945,10 +1945,6 @@ include:
   url: https://artifacts.apis.io/nexla/apis.yml
   x-apis-io: https://apis.io/providers/nexla/
   x-github: https://github.com/api-evangelist/nexla
-- name: nexlab-net
-  url: https://artifacts.apis.io/nexlab-net/apis.yml
-  x-apis-io: https://apis.io/providers/nexlab-net/
-  x-github: https://github.com/api-evangelist/nexlab-net
 - name: NexLP
   url: https://artifacts.apis.io/nexlp/apis.yml
   x-apis-io: https://apis.io/providers/nexlp/
@@ -2165,6 +2161,10 @@ include:
   url: https://artifacts.apis.io/ngcash/apis.yml
   x-apis-io: https://apis.io/providers/ngcash/
   x-github: https://github.com/api-evangelist/ngcash
+- name: National Geographic Institute (NGI)
+  url: https://artifacts.apis.io/ngi-be/apis.yml
+  x-apis-io: https://apis.io/providers/ngi-be/
+  x-github: https://github.com/api-evangelist/ngi-be
 - name: NGINX
   url: https://artifacts.apis.io/nginx/apis.yml
   x-apis-io: https://apis.io/providers/nginx/
@@ -2245,7 +2245,7 @@ include:
   url: https://artifacts.apis.io/nibrascom/apis.yml
   x-apis-io: https://apis.io/providers/nibrascom/
   x-github: https://github.com/api-evangelist/nibrascom
-- name: NICE
+- name: NiCE
   url: https://artifacts.apis.io/nice/apis.yml
   x-apis-io: https://apis.io/providers/nice/
   x-github: https://github.com/api-evangelist/nice
@@ -2577,6 +2577,10 @@ include:
   url: https://artifacts.apis.io/niyo-solutions/apis.yml
   x-apis-io: https://apis.io/providers/niyo-solutions/
   x-github: https://github.com/api-evangelist/niyo-solutions
+- name: Nizlo
+  url: https://artifacts.apis.io/nizlo-com/apis.yml
+  x-apis-io: https://apis.io/providers/nizlo-com/
+  x-github: https://github.com/api-evangelist/nizlo-com
 - name: Nizthewiz
   url: https://artifacts.apis.io/nizthewiz/apis.yml
   x-apis-io: https://apis.io/providers/nizthewiz/
@@ -2693,6 +2697,10 @@ include:
   url: https://artifacts.apis.io/nocodeapi/apis.yml
   x-apis-io: https://apis.io/providers/nocodeapi/
   x-github: https://github.com/api-evangelist/nocodeapi
+- name: NoctHost
+  url: https://artifacts.apis.io/nocthost/apis.yml
+  x-apis-io: https://apis.io/providers/nocthost/
+  x-github: https://github.com/api-evangelist/nocthost
 - name: Noctrix Health
   url: https://artifacts.apis.io/noctrix-health/apis.yml
   x-apis-io: https://apis.io/providers/noctrix-health/
@@ -3221,7 +3229,7 @@ include:
   url: https://artifacts.apis.io/noteable/apis.yml
   x-apis-io: https://apis.io/providers/noteable/
   x-github: https://github.com/api-evangelist/noteable
-- name: Google NotebookLM
+- name: Gemini Notebook (NotebookLM)
   url: https://artifacts.apis.io/notebooklm/apis.yml
   x-apis-io: https://apis.io/providers/notebooklm/
   x-github: https://github.com/api-evangelist/notebooklm
@@ -3529,10 +3537,6 @@ include:
   url: https://artifacts.apis.io/npm/apis.yml
   x-apis-io: https://apis.io/providers/npm/
   x-github: https://github.com/api-evangelist/npm
-- name: npm Registry
-  url: https://artifacts.apis.io/npm-registry/apis.yml
-  x-apis-io: https://apis.io/providers/npm-registry/
-  x-github: https://github.com/api-evangelist/npm-registry
 - name: NPP Australia (AP+)
   url: https://artifacts.apis.io/npp-australia/apis.yml
   x-apis-io: https://apis.io/providers/npp-australia/
@@ -4037,7 +4041,7 @@ include:
   url: https://artifacts.apis.io/nve/apis.yml
   x-apis-io: https://apis.io/providers/nve/
   x-github: https://github.com/api-evangelist/nve
-- name: NVIDIA
+- name: Nvidia
   url: https://artifacts.apis.io/nvidia/apis.yml
   x-apis-io: https://apis.io/providers/nvidia/
   x-github: https://github.com/api-evangelist/nvidia

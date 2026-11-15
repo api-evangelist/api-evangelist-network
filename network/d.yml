@@ -1,8 +1,8 @@
 name: API Evangelist Network — providers D
-description: 'The 1584 API providers in the API Evangelist network whose repository name begins with D. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
+description: 'The 1993 API providers in the API Evangelist network whose repository name begins with D. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
 url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/d.yml
 created: '2026-02-27'
-modified: '2026-11-06'
+modified: '2026-11-15'
 specificationVersion: '0.23'
 tags:
 - Directory
@@ -281,6 +281,10 @@ include:
   url: https://artifacts.apis.io/dailypay/apis.yml
   x-apis-io: https://apis.io/providers/dailypay/
   x-github: https://github.com/api-evangelist/dailypay
+- name: Daily Studio
+  url: https://artifacts.apis.io/dailystudio-app/apis.yml
+  x-apis-io: https://apis.io/providers/dailystudio-app/
+  x-github: https://github.com/api-evangelist/dailystudio-app
 - name: Dairyqueen
   url: https://artifacts.apis.io/dairyqueen/apis.yml
   x-apis-io: https://apis.io/providers/dairyqueen/
@@ -305,10 +309,18 @@ include:
   url: https://artifacts.apis.io/dajiabao/apis.yml
   x-apis-io: https://apis.io/providers/dajiabao/
   x-github: https://github.com/api-evangelist/dajiabao
+- name: dajsve-com
+  url: https://artifacts.apis.io/dajsve-com/apis.yml
+  x-apis-io: https://apis.io/providers/dajsve-com/
+  x-github: https://github.com/api-evangelist/dajsve-com
 - name: Dakelaser
   url: https://artifacts.apis.io/dakelaser/apis.yml
   x-apis-io: https://apis.io/providers/dakelaser/
   x-github: https://github.com/api-evangelist/dakelaser
+- name: DalalOS
+  url: https://artifacts.apis.io/dalalos-in/apis.yml
+  x-apis-io: https://apis.io/providers/dalalos-in/
+  x-github: https://github.com/api-evangelist/dalalos-in
 - name: DalCor Pharmaceuticals
   url: https://artifacts.apis.io/dalcor-pharmaceuticals/apis.yml
   x-apis-io: https://apis.io/providers/dalcor-pharmaceuticals/
@@ -337,6 +349,10 @@ include:
   url: https://artifacts.apis.io/dalton-mills/apis.yml
   x-apis-io: https://apis.io/providers/dalton-mills/
   x-github: https://github.com/api-evangelist/dalton-mills
+- name: Dalux
+  url: https://artifacts.apis.io/dalux/apis.yml
+  x-apis-io: https://apis.io/providers/dalux/
+  x-github: https://github.com/api-evangelist/dalux
 - name: Damae Medical
   url: https://artifacts.apis.io/damae-medical/apis.yml
   x-apis-io: https://apis.io/providers/damae-medical/
@@ -345,6 +361,10 @@ include:
   url: https://artifacts.apis.io/damagerestorehq-com/apis.yml
   x-apis-io: https://apis.io/providers/damagerestorehq-com/
   x-github: https://github.com/api-evangelist/damagerestorehq-com
+- name: Damaoniu
+  url: https://artifacts.apis.io/damaoniu/apis.yml
+  x-apis-io: https://apis.io/providers/damaoniu/
+  x-github: https://github.com/api-evangelist/damaoniu
 - name: damdafa-com
   url: https://artifacts.apis.io/damdafa-com/apis.yml
   x-apis-io: https://apis.io/providers/damdafa-com/
@@ -353,6 +373,10 @@ include:
   url: https://artifacts.apis.io/dameproducts/apis.yml
   x-apis-io: https://apis.io/providers/dameproducts/
   x-github: https://github.com/api-evangelist/dameproducts
+- name: DAMO
+  url: https://artifacts.apis.io/damolive-com/apis.yml
+  x-apis-io: https://apis.io/providers/damolive-com/
+  x-github: https://github.com/api-evangelist/damolive-com
 - name: Damon Motorcycles
   url: https://artifacts.apis.io/damon-motorcycles/apis.yml
   x-apis-io: https://apis.io/providers/damon-motorcycles/
@@ -385,6 +409,14 @@ include:
   url: https://artifacts.apis.io/dandy/apis.yml
   x-apis-io: https://apis.io/providers/dandy/
   x-github: https://github.com/api-evangelist/dandy
+- name: Hurtownia danych CEIDG i Biznes.gov.pl
+  url: https://artifacts.apis.io/dane-biznes-gov-pl/apis.yml
+  x-apis-io: https://apis.io/providers/dane-biznes-gov-pl/
+  x-github: https://github.com/api-evangelist/dane-biznes-gov-pl
+- name: Danfoss
+  url: https://artifacts.apis.io/danfoss/apis.yml
+  x-apis-io: https://apis.io/providers/danfoss/
+  x-github: https://github.com/api-evangelist/danfoss
 - name: Dangdang
   url: https://artifacts.apis.io/dangdang/apis.yml
   x-apis-io: https://apis.io/providers/dangdang/
@@ -397,6 +429,18 @@ include:
   url: https://artifacts.apis.io/dangerous-discord-database/apis.yml
   x-apis-io: https://apis.io/providers/dangerous-discord-database/
   x-github: https://github.com/api-evangelist/dangerous-discord-database
+- name: DANIA.AI
+  url: https://artifacts.apis.io/dania-ai/apis.yml
+  x-apis-io: https://apis.io/providers/dania-ai/
+  x-github: https://github.com/api-evangelist/dania-ai
+- name: Daniels AI Design Studio
+  url: https://artifacts.apis.io/danielsdesignstudio-com/apis.yml
+  x-apis-io: https://apis.io/providers/danielsdesignstudio-com/
+  x-github: https://github.com/api-evangelist/danielsdesignstudio-com
+- name: Daniel Suchan
+  url: https://artifacts.apis.io/danielsuchan-dev/apis.yml
+  x-apis-io: https://apis.io/providers/danielsuchan-dev/
+  x-github: https://github.com/api-evangelist/danielsuchan-dev
 - name: Danish data service Energi
   url: https://artifacts.apis.io/danish-data-service-energi/apis.yml
   x-apis-io: https://apis.io/providers/danish-data-service-energi/
@@ -409,6 +453,10 @@ include:
   url: https://artifacts.apis.io/dankkumi/apis.yml
   x-apis-io: https://apis.io/providers/dankkumi/
   x-github: https://github.com/api-evangelist/dankkumi
+- name: Danse Ici
+  url: https://artifacts.apis.io/danseici-fr/apis.yml
+  x-apis-io: https://apis.io/providers/danseici-fr/
+  x-github: https://github.com/api-evangelist/danseici-fr
 - name: Danske Bank (UK)
   url: https://artifacts.apis.io/danske-bank-uk/apis.yml
   x-apis-io: https://apis.io/providers/danske-bank-uk/
@@ -421,6 +469,14 @@ include:
   url: https://artifacts.apis.io/dantelabs/apis.yml
   x-apis-io: https://apis.io/providers/dantelabs/
   x-github: https://github.com/api-evangelist/dantelabs
+- name: Danu
+  url: https://artifacts.apis.io/danuastrology-com/apis.yml
+  x-apis-io: https://apis.io/providers/danuastrology-com/
+  x-github: https://github.com/api-evangelist/danuastrology-com
+- name: Danube Data
+  url: https://artifacts.apis.io/danubedata-ro/apis.yml
+  x-apis-io: https://apis.io/providers/danubedata-ro/
+  x-github: https://github.com/api-evangelist/danubedata-ro
 - name: Danx
   url: https://artifacts.apis.io/danx/apis.yml
   x-apis-io: https://apis.io/providers/danx/
@@ -433,6 +489,14 @@ include:
   url: https://artifacts.apis.io/daon/apis.yml
   x-apis-io: https://apis.io/providers/daon/
   x-github: https://github.com/api-evangelist/daon
+- name: Dartmouth Advisory Partners
+  url: https://artifacts.apis.io/dap-solutions/apis.yml
+  x-apis-io: https://apis.io/providers/dap-solutions/
+  x-github: https://github.com/api-evangelist/dap-solutions
+- name: DapDip
+  url: https://artifacts.apis.io/dapdip-com/apis.yml
+  x-apis-io: https://apis.io/providers/dapdip-com/
+  x-github: https://github.com/api-evangelist/dapdip-com
 - name: Dapper
   url: https://artifacts.apis.io/dapper/apis.yml
   x-apis-io: https://apis.io/providers/dapper/
@@ -445,6 +509,10 @@ include:
   url: https://artifacts.apis.io/dapperdox/apis.yml
   x-apis-io: https://apis.io/providers/dapperdox/
   x-github: https://github.com/api-evangelist/dapperdox
+- name: Dapper
+  url: https://artifacts.apis.io/dapperglobal-com/apis.yml
+  x-apis-io: https://apis.io/providers/dapperglobal-com/
+  x-github: https://github.com/api-evangelist/dapperglobal-com
 - name: Dappier
   url: https://artifacts.apis.io/dappier/apis.yml
   x-apis-io: https://apis.io/providers/dappier/
@@ -469,6 +537,10 @@ include:
   url: https://artifacts.apis.io/daqstra/apis.yml
   x-apis-io: https://apis.io/providers/daqstra/
   x-github: https://github.com/api-evangelist/daqstra
+- name: Dardaris
+  url: https://artifacts.apis.io/dardaris-com/apis.yml
+  x-apis-io: https://apis.io/providers/dardaris-com/
+  x-github: https://github.com/api-evangelist/dardaris-com
 - name: Darden Restaurants
   url: https://artifacts.apis.io/darden-restaurants/apis.yml
   x-apis-io: https://apis.io/providers/darden-restaurants/
@@ -513,14 +585,26 @@ include:
   url: https://artifacts.apis.io/darrow/apis.yml
   x-apis-io: https://apis.io/providers/darrow/
   x-github: https://github.com/api-evangelist/darrow
+- name: dartmonitor-dev
+  url: https://artifacts.apis.io/dartmonitor-dev/apis.yml
+  x-apis-io: https://apis.io/providers/dartmonitor-dev/
+  x-github: https://github.com/api-evangelist/dartmonitor-dev
 - name: Dartmouth College
   url: https://artifacts.apis.io/dartmouth/apis.yml
   x-apis-io: https://apis.io/providers/dartmouth/
   x-github: https://github.com/api-evangelist/dartmouth
+- name: dartzdabz-com
+  url: https://artifacts.apis.io/dartzdabz-com/apis.yml
+  x-apis-io: https://apis.io/providers/dartzdabz-com/
+  x-github: https://github.com/api-evangelist/dartzdabz-com
 - name: Darwin
   url: https://artifacts.apis.io/darwin/apis.yml
   x-apis-io: https://apis.io/providers/darwin/
   x-github: https://github.com/api-evangelist/darwin
+- name: 'Darwin Technologies, Inc.'
+  url: https://artifacts.apis.io/darwin-so/apis.yml
+  x-apis-io: https://apis.io/providers/darwin-so/
+  x-github: https://github.com/api-evangelist/darwin-so
 - name: Darwinbox
   url: https://artifacts.apis.io/darwinbox/apis.yml
   x-apis-io: https://apis.io/providers/darwinbox/
@@ -557,6 +641,10 @@ include:
   url: https://artifacts.apis.io/dash0/apis.yml
   x-apis-io: https://apis.io/providers/dash0/
   x-github: https://github.com/api-evangelist/dash0
+- name: DashaMail
+  url: https://artifacts.apis.io/dashamail-ru/apis.yml
+  x-apis-io: https://apis.io/providers/dashamail-ru/
+  x-github: https://github.com/api-evangelist/dashamail-ru
 - name: Dashbase
   url: https://artifacts.apis.io/dashbase/apis.yml
   x-apis-io: https://apis.io/providers/dashbase/
@@ -577,14 +665,26 @@ include:
   url: https://artifacts.apis.io/dashlane/apis.yml
   x-apis-io: https://apis.io/providers/dashlane/
   x-github: https://github.com/api-evangelist/dashlane
+- name: Dashly
+  url: https://artifacts.apis.io/dashly-si/apis.yml
+  x-apis-io: https://apis.io/providers/dashly-si/
+  x-github: https://github.com/api-evangelist/dashly-si
 - name: dashmobile
   url: https://artifacts.apis.io/dashmobile/apis.yml
   x-apis-io: https://apis.io/providers/dashmobile/
   x-github: https://github.com/api-evangelist/dashmobile
+- name: DashThis
+  url: https://artifacts.apis.io/dashthis-com/apis.yml
+  x-apis-io: https://apis.io/providers/dashthis-com/
+  x-github: https://github.com/api-evangelist/dashthis-com
 - name: Dasient
   url: https://artifacts.apis.io/dasient/apis.yml
   x-apis-io: https://apis.io/providers/dasient/
   x-github: https://github.com/api-evangelist/dasient
+- name: Daski
+  url: https://artifacts.apis.io/daski-io/apis.yml
+  x-apis-io: https://apis.io/providers/daski-io/
+  x-github: https://github.com/api-evangelist/daski-io
 - name: 'Dassault Systèmes'
   url: https://artifacts.apis.io/dassault/apis.yml
   x-apis-io: https://apis.io/providers/dassault/
@@ -881,10 +981,26 @@ include:
   url: https://artifacts.apis.io/data-zagreb-hr/apis.yml
   x-apis-io: https://apis.io/providers/data-zagreb-hr/
   x-github: https://github.com/api-evangelist/data-zagreb-hr
+- name: Data247
+  url: https://artifacts.apis.io/data247-com/apis.yml
+  x-apis-io: https://apis.io/providers/data247-com/
+  x-github: https://github.com/api-evangelist/data247-com
+- name: Data365
+  url: https://artifacts.apis.io/data365/apis.yml
+  x-apis-io: https://apis.io/providers/data365/
+  x-github: https://github.com/api-evangelist/data365
 - name: Data.ai
   url: https://artifacts.apis.io/dataai/apis.yml
   x-apis-io: https://apis.io/providers/dataai/
   x-github: https://github.com/api-evangelist/dataai
+- name: DataArt
+  url: https://artifacts.apis.io/dataart-com/apis.yml
+  x-apis-io: https://apis.io/providers/dataart-com/
+  x-github: https://github.com/api-evangelist/dataart-com
+- name: DataAssist-IO
+  url: https://artifacts.apis.io/dataassist-io/apis.yml
+  x-apis-io: https://apis.io/providers/dataassist-io/
+  x-github: https://github.com/api-evangelist/dataassist-io
 - name: DataBahn.ai
   url: https://artifacts.apis.io/databahn-ai/apis.yml
   x-apis-io: https://apis.io/providers/databahn-ai/
@@ -897,6 +1013,10 @@ include:
   url: https://artifacts.apis.io/databand/apis.yml
   x-apis-io: https://apis.io/providers/databand/
   x-github: https://github.com/api-evangelist/databand
+- name: DataBazaar
+  url: https://artifacts.apis.io/databazaar-io/apis.yml
+  x-apis-io: https://apis.io/providers/databazaar-io/
+  x-github: https://github.com/api-evangelist/databazaar-io
 - name: Databento
   url: https://artifacts.apis.io/databento/apis.yml
   x-apis-io: https://apis.io/providers/databento/
@@ -949,6 +1069,10 @@ include:
   url: https://artifacts.apis.io/datacatalogue-gov-ie/apis.yml
   x-apis-io: https://apis.io/providers/datacatalogue-gov-ie/
   x-github: https://github.com/api-evangelist/datacatalogue-gov-ie
+- name: Data Center Index
+  url: https://artifacts.apis.io/datacenterindex-ai/apis.yml
+  x-apis-io: https://apis.io/providers/datacenterindex-ai/
+  x-github: https://github.com/api-evangelist/datacenterindex-ai
 - name: DataChain
   url: https://artifacts.apis.io/datachain/apis.yml
   x-apis-io: https://apis.io/providers/datachain/
@@ -961,6 +1085,14 @@ include:
   url: https://artifacts.apis.io/datacite/apis.yml
   x-apis-io: https://apis.io/providers/datacite/
   x-github: https://github.com/api-evangelist/datacite
+- name: DataClawe
+  url: https://artifacts.apis.io/dataclawe-com/apis.yml
+  x-apis-io: https://apis.io/providers/dataclawe-com/
+  x-github: https://github.com/api-evangelist/dataclawe-com
+- name: The Data Commenter
+  url: https://artifacts.apis.io/datacommenter-com/apis.yml
+  x-apis-io: https://apis.io/providers/datacommenter-com/
+  x-github: https://github.com/api-evangelist/datacommenter-com
 - name: Datacor
   url: https://artifacts.apis.io/datacor/apis.yml
   x-apis-io: https://apis.io/providers/datacor/
@@ -977,10 +1109,26 @@ include:
   url: https://artifacts.apis.io/datacurve/apis.yml
   x-apis-io: https://apis.io/providers/datacurve/
   x-github: https://github.com/api-evangelist/datacurve
+- name: CVR (Danish business register)
+  url: https://artifacts.apis.io/datacvr-virk-dk/apis.yml
+  x-apis-io: https://apis.io/providers/datacvr-virk-dk/
+  x-github: https://github.com/api-evangelist/datacvr-virk-dk
 - name: Dataddo
   url: https://artifacts.apis.io/dataddo/apis.yml
   x-apis-io: https://apis.io/providers/dataddo/
   x-github: https://github.com/api-evangelist/dataddo
+- name: Datadef
+  url: https://artifacts.apis.io/datadef-io/apis.yml
+  x-apis-io: https://apis.io/providers/datadef-io/
+  x-github: https://github.com/api-evangelist/datadef-io
+- name: Data Dive
+  url: https://artifacts.apis.io/datadive-tools/apis.yml
+  x-apis-io: https://apis.io/providers/datadive-tools/
+  x-github: https://github.com/api-evangelist/datadive-tools
+- name: DataDoe
+  url: https://artifacts.apis.io/datadoe-com/apis.yml
+  x-apis-io: https://apis.io/providers/datadoe-com/
+  x-github: https://github.com/api-evangelist/datadoe-com
 - name: Datadog
   url: https://artifacts.apis.io/datadog/apis.yml
   x-apis-io: https://apis.io/providers/datadog/
@@ -993,10 +1141,30 @@ include:
   url: https://artifacts.apis.io/datadome/apis.yml
   x-apis-io: https://apis.io/providers/datadome/
   x-github: https://github.com/api-evangelist/datadome
+- name: Dubai Data
+  url: https://artifacts.apis.io/datadubai-ae/apis.yml
+  x-apis-io: https://apis.io/providers/datadubai-ae/
+  x-github: https://github.com/api-evangelist/datadubai-ae
+- name: DataDyne
+  url: https://artifacts.apis.io/datadyne-dev/apis.yml
+  x-apis-io: https://apis.io/providers/datadyne-dev/
+  x-github: https://github.com/api-evangelist/datadyne-dev
+- name: DataEcho
+  url: https://artifacts.apis.io/dataecho-ai/apis.yml
+  x-apis-io: https://apis.io/providers/dataecho-ai/
+  x-github: https://github.com/api-evangelist/dataecho-ai
 - name: Dataedo
   url: https://artifacts.apis.io/dataedo/apis.yml
   x-apis-io: https://apis.io/providers/dataedo/
   x-github: https://github.com/api-evangelist/dataedo
+- name: Data Engineer Professional
+  url: https://artifacts.apis.io/dataengineerprofessional-com/apis.yml
+  x-apis-io: https://apis.io/providers/dataengineerprofessional-com/
+  x-github: https://github.com/api-evangelist/dataengineerprofessional-com
+- name: dataenrich-dev
+  url: https://artifacts.apis.io/dataenrich-dev/apis.yml
+  x-apis-io: https://apis.io/providers/dataenrich-dev/
+  x-github: https://github.com/api-evangelist/dataenrich-dev
 - name: Datafiniti
   url: https://artifacts.apis.io/datafiniti/apis.yml
   x-apis-io: https://apis.io/providers/datafiniti/
@@ -1021,6 +1189,10 @@ include:
   url: https://artifacts.apis.io/dataforb2b-ai/apis.yml
   x-apis-io: https://apis.io/providers/dataforb2b-ai/
   x-github: https://github.com/api-evangelist/dataforb2b-ai
+- name: Datafordeler
+  url: https://artifacts.apis.io/datafordeler-dk/apis.yml
+  x-apis-io: https://apis.io/providers/datafordeler-dk/
+  x-github: https://github.com/api-evangelist/datafordeler-dk
 - name: DataForSEO
   url: https://artifacts.apis.io/dataforseo/apis.yml
   x-apis-io: https://apis.io/providers/dataforseo/
@@ -1029,22 +1201,46 @@ include:
   url: https://artifacts.apis.io/datafox/apis.yml
   x-apis-io: https://apis.io/providers/datafox/
   x-github: https://github.com/api-evangelist/datafox
+- name: Dataful
+  url: https://artifacts.apis.io/dataful-in/apis.yml
+  x-apis-io: https://apis.io/providers/dataful-in/
+  x-github: https://github.com/api-evangelist/dataful-in
 - name: Datafy
   url: https://artifacts.apis.io/datafy/apis.yml
   x-apis-io: https://apis.io/providers/datafy/
   x-github: https://github.com/api-evangelist/datafy
+- name: Data Galactica
+  url: https://artifacts.apis.io/datagalactica-com/apis.yml
+  x-apis-io: https://apis.io/providers/datagalactica-com/
+  x-github: https://github.com/api-evangelist/datagalactica-com
 - name: Datagen
   url: https://artifacts.apis.io/datagen/apis.yml
   x-apis-io: https://apis.io/providers/datagen/
   x-github: https://github.com/api-evangelist/datagen
+- name: Data Goat
+  url: https://artifacts.apis.io/datagoat-io/apis.yml
+  x-apis-io: https://apis.io/providers/datagoat-io/
+  x-github: https://github.com/api-evangelist/datagoat-io
+- name: datagokr
+  url: https://artifacts.apis.io/datagokr-dev/apis.yml
+  x-apis-io: https://apis.io/providers/datagokr-dev/
+  x-github: https://github.com/api-evangelist/datagokr-dev
 - name: DataGrail
   url: https://artifacts.apis.io/datagrail/apis.yml
   x-apis-io: https://apis.io/providers/datagrail/
   x-github: https://github.com/api-evangelist/datagrail
+- name: DataGraph.city
+  url: https://artifacts.apis.io/datagraph-city/apis.yml
+  x-apis-io: https://apis.io/providers/datagraph-city/
+  x-github: https://github.com/api-evangelist/datagraph-city
 - name: DataGravity
   url: https://artifacts.apis.io/datagravity/apis.yml
   x-apis-io: https://apis.io/providers/datagravity/
   x-github: https://github.com/api-evangelist/datagravity
+- name: DataGrout
+  url: https://artifacts.apis.io/datagrout-ai/apis.yml
+  x-apis-io: https://apis.io/providers/datagrout-ai/
+  x-github: https://github.com/api-evangelist/datagrout-ai
 - name: DataHub
   url: https://artifacts.apis.io/datahub/apis.yml
   x-apis-io: https://apis.io/providers/datahub/
@@ -1061,6 +1257,10 @@ include:
   url: https://artifacts.apis.io/dataiam/apis.yml
   x-apis-io: https://apis.io/providers/dataiam/
   x-github: https://github.com/api-evangelist/dataiam
+- name: Dataify
+  url: https://artifacts.apis.io/dataify-com/apis.yml
+  x-apis-io: https://apis.io/providers/dataify-com/
+  x-github: https://github.com/api-evangelist/dataify-com
 - name: Dataiku
   url: https://artifacts.apis.io/dataiku/apis.yml
   x-apis-io: https://apis.io/providers/dataiku/
@@ -1121,10 +1321,18 @@ include:
   url: https://artifacts.apis.io/datalot/apis.yml
   x-apis-io: https://apis.io/providers/datalot/
   x-github: https://github.com/api-evangelist/datalot
+- name: datamcp
+  url: https://artifacts.apis.io/datamcp-app/apis.yml
+  x-apis-io: https://apis.io/providers/datamcp-app/
+  x-github: https://github.com/api-evangelist/datamcp-app
 - name: Datameer
   url: https://artifacts.apis.io/datameer/apis.yml
   x-apis-io: https://apis.io/providers/datameer/
   x-github: https://github.com/api-evangelist/datameer
+- name: DataMerge
+  url: https://artifacts.apis.io/datamerge-ai/apis.yml
+  x-apis-io: https://apis.io/providers/datamerge-ai/
+  x-github: https://github.com/api-evangelist/datamerge-ai
 - name: Datami
   url: https://artifacts.apis.io/datami/apis.yml
   x-apis-io: https://apis.io/providers/datami/
@@ -1145,10 +1353,18 @@ include:
   url: https://artifacts.apis.io/datamuse/apis.yml
   x-apis-io: https://apis.io/providers/datamuse/
   x-github: https://github.com/api-evangelist/datamuse
+- name: Datanem
+  url: https://artifacts.apis.io/datanem-com/apis.yml
+  x-apis-io: https://apis.io/providers/datanem-com/
+  x-github: https://github.com/api-evangelist/datanem-com
 - name: DataNeuron
   url: https://artifacts.apis.io/dataneuron/apis.yml
   x-apis-io: https://apis.io/providers/dataneuron/
   x-github: https://github.com/api-evangelist/dataneuron
+- name: DataNexus MCP
+  url: https://artifacts.apis.io/datanexusmcp-com/apis.yml
+  x-apis-io: https://apis.io/providers/datanexusmcp-com/
+  x-github: https://github.com/api-evangelist/datanexusmcp-com
 - name: Datanomik
   url: https://artifacts.apis.io/datanomik/apis.yml
   x-apis-io: https://apis.io/providers/datanomik/
@@ -1161,14 +1377,34 @@ include:
   url: https://artifacts.apis.io/datanyze/apis.yml
   x-apis-io: https://apis.io/providers/datanyze/
   x-github: https://github.com/api-evangelist/datanyze
+- name: Datao
+  url: https://artifacts.apis.io/datao-ma/apis.yml
+  x-apis-io: https://apis.io/providers/datao-ma/
+  x-github: https://github.com/api-evangelist/datao-ma
 - name: Datapad
   url: https://artifacts.apis.io/datapad/apis.yml
   x-apis-io: https://apis.io/providers/datapad/
   x-github: https://github.com/api-evangelist/datapad
+- name: Data Pad
+  url: https://artifacts.apis.io/datapad-tools/apis.yml
+  x-apis-io: https://apis.io/providers/datapad-tools/
+  x-github: https://github.com/api-evangelist/datapad-tools
+- name: Data Parrot
+  url: https://artifacts.apis.io/dataparrot-ai/apis.yml
+  x-apis-io: https://apis.io/providers/dataparrot-ai/
+  x-github: https://github.com/api-evangelist/dataparrot-ai
 - name: DataPeople
   url: https://artifacts.apis.io/datapeople/apis.yml
   x-apis-io: https://apis.io/providers/datapeople/
   x-github: https://github.com/api-evangelist/datapeople
+- name: Dataplex Consulting
+  url: https://artifacts.apis.io/dataplex-consulting-com/apis.yml
+  x-apis-io: https://apis.io/providers/dataplex-consulting-com/
+  x-github: https://github.com/api-evangelist/dataplex-consulting-com
+- name: DataQuoll
+  url: https://artifacts.apis.io/dataquoll-io/apis.yml
+  x-apis-io: https://apis.io/providers/dataquoll-io/
+  x-github: https://github.com/api-evangelist/dataquoll-io
 - name: Datarails
   url: https://artifacts.apis.io/datarails/apis.yml
   x-apis-io: https://apis.io/providers/datarails/
@@ -1181,6 +1417,14 @@ include:
   url: https://artifacts.apis.io/datarobot/apis.yml
   x-apis-io: https://apis.io/providers/datarobot/
   x-github: https://github.com/api-evangelist/datarobot
+- name: Dataroia
+  url: https://artifacts.apis.io/dataroia-com/apis.yml
+  x-apis-io: https://apis.io/providers/dataroia-com/
+  x-github: https://github.com/api-evangelist/dataroia-com
+- name: Data Room Picker
+  url: https://artifacts.apis.io/dataroompicker-com/apis.yml
+  x-apis-io: https://apis.io/providers/dataroompicker-com/
+  x-github: https://github.com/api-evangelist/dataroompicker-com
 - name: Datasaur
   url: https://artifacts.apis.io/datasaur/apis.yml
   x-apis-io: https://apis.io/providers/datasaur/
@@ -1189,6 +1433,10 @@ include:
   url: https://artifacts.apis.io/datascience/apis.yml
   x-apis-io: https://apis.io/providers/datascience/
   x-github: https://github.com/api-evangelist/datascience
+- name: DataScoop
+  url: https://artifacts.apis.io/datascoop-io/apis.yml
+  x-apis-io: https://apis.io/providers/datascoop-io/
+  x-github: https://github.com/api-evangelist/datascoop-io
 - name: Datasembly
   url: https://artifacts.apis.io/datasembly/apis.yml
   x-apis-io: https://apis.io/providers/datasembly/
@@ -1197,6 +1445,10 @@ include:
   url: https://artifacts.apis.io/dataset-gov-md/apis.yml
   x-apis-io: https://apis.io/providers/dataset-gov-md/
   x-github: https://github.com/api-evangelist/dataset-gov-md
+- name: 'コエカツ'
+  url: https://artifacts.apis.io/datasetsearch-jp/apis.yml
+  x-apis-io: https://apis.io/providers/datasetsearch-jp/
+  x-github: https://github.com/api-evangelist/datasetsearch-jp
 - name: Datasette
   url: https://artifacts.apis.io/datasette/apis.yml
   x-apis-io: https://apis.io/providers/datasette/
@@ -1217,10 +1469,22 @@ include:
   url: https://artifacts.apis.io/datasine/apis.yml
   x-apis-io: https://apis.io/providers/datasine/
   x-github: https://github.com/api-evangelist/datasine
+- name: DataSinking
+  url: https://artifacts.apis.io/datasink-ing/apis.yml
+  x-apis-io: https://apis.io/providers/datasink-ing/
+  x-github: https://github.com/api-evangelist/datasink-ing
+- name: DataSnipe
+  url: https://artifacts.apis.io/datasnipe-app/apis.yml
+  x-apis-io: https://apis.io/providers/datasnipe-app/
+  x-github: https://github.com/api-evangelist/datasnipe-app
 - name: DataSnipper
   url: https://artifacts.apis.io/datasnipper/apis.yml
   x-apis-io: https://apis.io/providers/datasnipper/
   x-github: https://github.com/api-evangelist/datasnipper
+- name: DataSocial
+  url: https://artifacts.apis.io/datasocial-ai/apis.yml
+  x-apis-io: https://apis.io/providers/datasocial-ai/
+  x-github: https://github.com/api-evangelist/datasocial-ai
 - name: DataStax
   url: https://artifacts.apis.io/datastax/apis.yml
   x-apis-io: https://apis.io/providers/datastax/
@@ -1237,6 +1501,10 @@ include:
   url: https://artifacts.apis.io/datatheorem/apis.yml
   x-apis-io: https://apis.io/providers/datatheorem/
   x-github: https://github.com/api-evangelist/datatheorem
+- name: Datatreehaus
+  url: https://artifacts.apis.io/datatreehaus-com/apis.yml
+  x-apis-io: https://apis.io/providers/datatreehaus-com/
+  x-github: https://github.com/api-evangelist/datatreehaus-com
 - name: Datavant
   url: https://artifacts.apis.io/datavant/apis.yml
   x-apis-io: https://apis.io/providers/datavant/
@@ -1245,6 +1513,14 @@ include:
   url: https://artifacts.apis.io/dataverse/apis.yml
   x-apis-io: https://apis.io/providers/dataverse/
   x-github: https://github.com/api-evangelist/dataverse
+- name: datavessel
+  url: https://artifacts.apis.io/datavessel-io/apis.yml
+  x-apis-io: https://apis.io/providers/datavessel-io/
+  x-github: https://github.com/api-evangelist/datavessel-io
+- name: Dataville
+  url: https://artifacts.apis.io/dataville-com/apis.yml
+  x-apis-io: https://apis.io/providers/dataville-com/
+  x-github: https://github.com/api-evangelist/dataville-com
 - name: DataVisor
   url: https://artifacts.apis.io/datavisor/apis.yml
   x-apis-io: https://apis.io/providers/datavisor/
@@ -1253,6 +1529,14 @@ include:
   url: https://artifacts.apis.io/datavolo/apis.yml
   x-apis-io: https://apis.io/providers/datavolo/
   x-github: https://github.com/api-evangelist/datavolo
+- name: Datavrn
+  url: https://artifacts.apis.io/datavrn-com/apis.yml
+  x-apis-io: https://apis.io/providers/datavrn-com/
+  x-github: https://github.com/api-evangelist/datavrn-com
+- name: datawebot
+  url: https://artifacts.apis.io/datawebot-com/apis.yml
+  x-apis-io: https://apis.io/providers/datawebot-com/
+  x-github: https://github.com/api-evangelist/datawebot-com
 - name: Datawisp
   url: https://artifacts.apis.io/datawisp/apis.yml
   x-apis-io: https://apis.io/providers/datawisp/
@@ -1281,6 +1565,10 @@ include:
   url: https://artifacts.apis.io/datenregister-berlin-de/apis.yml
   x-apis-io: https://apis.io/providers/datenregister-berlin-de/
   x-github: https://github.com/api-evangelist/datenregister-berlin-de
+- name: DatePhotos AI
+  url: https://artifacts.apis.io/datephotos-ai/apis.yml
+  x-apis-io: https://apis.io/providers/datephotos-ai/
+  x-github: https://github.com/api-evangelist/datephotos-ai
 - name: DATEV
   url: https://artifacts.apis.io/datev/apis.yml
   x-apis-io: https://apis.io/providers/datev/
@@ -1361,6 +1649,14 @@ include:
   url: https://artifacts.apis.io/datia/apis.yml
   x-apis-io: https://apis.io/providers/datia/
   x-github: https://github.com/api-evangelist/datia
+- name: DatiTuristici
+  url: https://artifacts.apis.io/datituristici-it/apis.yml
+  x-apis-io: https://apis.io/providers/datituristici-it/
+  x-github: https://github.com/api-evangelist/datituristici-it
+- name: Dato Capital
+  url: https://artifacts.apis.io/datocapital-com/apis.yml
+  x-apis-io: https://apis.io/providers/datocapital-com/
+  x-github: https://github.com/api-evangelist/datocapital-com
 - name: DatoCMS
   url: https://artifacts.apis.io/datocms/apis.yml
   x-apis-io: https://apis.io/providers/datocms/
@@ -1469,14 +1765,26 @@ include:
   url: https://artifacts.apis.io/datosabiertos-rivasciudad-es/apis.yml
   x-apis-io: https://apis.io/providers/datosabiertos-rivasciudad-es/
   x-github: https://github.com/api-evangelist/datosabiertos-rivasciudad-es
+- name: DatosIA
+  url: https://artifacts.apis.io/datosia-net/apis.yml
+  x-apis-io: https://apis.io/providers/datosia-net/
+  x-github: https://github.com/api-evangelist/datosia-net
 - name: Datost
   url: https://artifacts.apis.io/datost/apis.yml
   x-apis-io: https://apis.io/providers/datost/
   x-github: https://github.com/api-evangelist/datost
+- name: DATPAQ
+  url: https://artifacts.apis.io/datpaq-com/apis.yml
+  x-apis-io: https://apis.io/providers/datpaq-com/
+  x-github: https://github.com/api-evangelist/datpaq-com
 - name: Datrium
   url: https://artifacts.apis.io/datrium/apis.yml
   x-apis-io: https://apis.io/providers/datrium/
   x-github: https://github.com/api-evangelist/datrium
+- name: Datronis
+  url: https://artifacts.apis.io/datronis-com/apis.yml
+  x-apis-io: https://apis.io/providers/datronis-com/
+  x-github: https://github.com/api-evangelist/datronis-com
 - name: Datto
   url: https://artifacts.apis.io/datto/apis.yml
   x-apis-io: https://apis.io/providers/datto/
@@ -1517,6 +1825,10 @@ include:
   url: https://artifacts.apis.io/david-protein/apis.yml
   x-apis-io: https://apis.io/providers/david-protein/
   x-github: https://github.com/api-evangelist/david-protein
+- name: McGill Technologies
+  url: https://artifacts.apis.io/davidmcgill-tech/apis.yml
+  x-apis-io: https://apis.io/providers/davidmcgill-tech/
+  x-github: https://github.com/api-evangelist/davidmcgill-tech
 - name: DaVinci Micro Fulfillment
   url: https://artifacts.apis.io/davinci-micro-fulfillment/apis.yml
   x-apis-io: https://apis.io/providers/davinci-micro-fulfillment/
@@ -1557,6 +1869,10 @@ include:
   url: https://artifacts.apis.io/daxko/apis.yml
   x-apis-io: https://apis.io/providers/daxko/
   x-github: https://github.com/api-evangelist/daxko
+- name: Daxoom
+  url: https://artifacts.apis.io/daxoom-com/apis.yml
+  x-apis-io: https://apis.io/providers/daxoom-com/
+  x-github: https://github.com/api-evangelist/daxoom-com
 - name: Day One Biopharmaceuticals
   url: https://artifacts.apis.io/day-one-biopharmaceuticals/apis.yml
   x-apis-io: https://apis.io/providers/day-one-biopharmaceuticals/
@@ -1565,6 +1881,14 @@ include:
   url: https://artifacts.apis.io/day-zimmermann/apis.yml
   x-apis-io: https://apis.io/providers/day-zimmermann/
   x-github: https://github.com/api-evangelist/day-zimmermann
+- name: Day1Work
+  url: https://artifacts.apis.io/day1work-com/apis.yml
+  x-apis-io: https://apis.io/providers/day1work-com/
+  x-github: https://github.com/api-evangelist/day1work-com
+- name: day3
+  url: https://artifacts.apis.io/day3-app/apis.yml
+  x-apis-io: https://apis.io/providers/day3-app/
+  x-github: https://github.com/api-evangelist/day3-app
 - name: Daya Medika Pratama
   url: https://artifacts.apis.io/daya-medika-pratama/apis.yml
   x-apis-io: https://apis.io/providers/daya-medika-pratama/
@@ -1577,6 +1901,10 @@ include:
   url: https://artifacts.apis.io/daybreak/apis.yml
   x-apis-io: https://apis.io/providers/daybreak/
   x-github: https://github.com/api-evangelist/daybreak
+- name: Daycal
+  url: https://artifacts.apis.io/daycal-io/apis.yml
+  x-apis-io: https://apis.io/providers/daycal-io/
+  x-github: https://github.com/api-evangelist/daycal-io
 - name: DayDayCook
   url: https://artifacts.apis.io/daydaycook/apis.yml
   x-apis-io: https://apis.io/providers/daydaycook/
@@ -1617,10 +1945,26 @@ include:
   url: https://artifacts.apis.io/dayone/apis.yml
   x-apis-io: https://apis.io/providers/dayone/
   x-github: https://github.com/api-evangelist/dayone
+- name: DayOneLead
+  url: https://artifacts.apis.io/dayonelead-com/apis.yml
+  x-apis-io: https://apis.io/providers/dayonelead-com/
+  x-github: https://github.com/api-evangelist/dayonelead-com
+- name: DayPilot
+  url: https://artifacts.apis.io/daypilot-org/apis.yml
+  x-apis-io: https://apis.io/providers/daypilot-org/
+  x-github: https://github.com/api-evangelist/daypilot-org
+- name: Dayplay
+  url: https://artifacts.apis.io/dayplay-io/apis.yml
+  x-apis-io: https://apis.io/providers/dayplay-io/
+  x-github: https://github.com/api-evangelist/dayplay-io
 - name: DaySmart Vet
   url: https://artifacts.apis.io/daysmart-vet/apis.yml
   x-apis-io: https://apis.io/providers/daysmart-vet/
   x-github: https://github.com/api-evangelist/daysmart-vet
+- name: Daystruct
+  url: https://artifacts.apis.io/daystruct-ai/apis.yml
+  x-apis-io: https://apis.io/providers/daystruct-ai/
+  x-github: https://github.com/api-evangelist/daystruct-ai
 - name: Daytona
   url: https://artifacts.apis.io/daytona-io/apis.yml
   x-apis-io: https://apis.io/providers/daytona-io/
@@ -1637,10 +1981,18 @@ include:
   url: https://artifacts.apis.io/daz-3d/apis.yml
   x-apis-io: https://apis.io/providers/daz-3d/
   x-github: https://github.com/api-evangelist/daz-3d
+- name: Dazbench
+  url: https://artifacts.apis.io/dazbench-app/apis.yml
+  x-apis-io: https://apis.io/providers/dazbench-app/
+  x-github: https://github.com/api-evangelist/dazbench-app
 - name: Daze
   url: https://artifacts.apis.io/daze/apis.yml
   x-apis-io: https://apis.io/providers/daze/
   x-github: https://github.com/api-evangelist/daze
+- name: dazie
+  url: https://artifacts.apis.io/dazie-io/apis.yml
+  x-apis-io: https://apis.io/providers/dazie-io/
+  x-github: https://github.com/api-evangelist/dazie-io
 - name: DAZN
   url: https://artifacts.apis.io/dazn/apis.yml
   x-apis-io: https://apis.io/providers/dazn/
@@ -1673,6 +2025,10 @@ include:
   url: https://artifacts.apis.io/dbpedia/apis.yml
   x-apis-io: https://apis.io/providers/dbpedia/
   x-github: https://github.com/api-evangelist/dbpedia
+- name: DB Planner
+  url: https://artifacts.apis.io/dbplanner-io/apis.yml
+  x-apis-io: https://apis.io/providers/dbplanner-io/
+  x-github: https://github.com/api-evangelist/dbplanner-io
 - name: dbt
   url: https://artifacts.apis.io/dbt/apis.yml
   x-apis-io: https://apis.io/providers/dbt/
@@ -1681,6 +2037,14 @@ include:
   url: https://artifacts.apis.io/dbt-se/apis.yml
   x-apis-io: https://apis.io/providers/dbt-se/
   x-github: https://github.com/api-evangelist/dbt-se
+- name: DBTrail
+  url: https://artifacts.apis.io/dbtrail-com/apis.yml
+  x-apis-io: https://apis.io/providers/dbtrail-com/
+  x-github: https://github.com/api-evangelist/dbtrail-com
+- name: DCA Method
+  url: https://artifacts.apis.io/dcamethod-com/apis.yml
+  x-apis-io: https://apis.io/providers/dcamethod-com/
+  x-github: https://github.com/api-evangelist/dcamethod-com
 - name: DCB Technologies
   url: https://artifacts.apis.io/dcb-technologies/apis.yml
   x-apis-io: https://apis.io/providers/dcb-technologies/
@@ -1701,6 +2065,10 @@ include:
   url: https://artifacts.apis.io/dchq/apis.yml
   x-apis-io: https://apis.io/providers/dchq/
   x-github: https://github.com/api-evangelist/dchq
+- name: DcisionAI
+  url: https://artifacts.apis.io/dcisionai-com/apis.yml
+  x-apis-io: https://apis.io/providers/dcisionai-com/
+  x-github: https://github.com/api-evangelist/dcisionai-com
 - name: DCKAP
   url: https://artifacts.apis.io/dckap/apis.yml
   x-apis-io: https://apis.io/providers/dckap/
@@ -1745,6 +2113,18 @@ include:
   url: https://artifacts.apis.io/dead-drop/apis.yml
   x-apis-io: https://apis.io/providers/dead-drop/
   x-github: https://github.com/api-evangelist/dead-drop
+- name: 'Dead Brands, LLC'
+  url: https://artifacts.apis.io/deadbrands-co/apis.yml
+  x-apis-io: https://apis.io/providers/deadbrands-co/
+  x-github: https://github.com/api-evangelist/deadbrands-co
+- name: deadends.dev
+  url: https://artifacts.apis.io/deadends-dev/apis.yml
+  x-apis-io: https://apis.io/providers/deadends-dev/
+  x-github: https://github.com/api-evangelist/deadends-dev
+- name: Deadsimple Email
+  url: https://artifacts.apis.io/deadsimple-email/apis.yml
+  x-apis-io: https://apis.io/providers/deadsimple-email/
+  x-github: https://github.com/api-evangelist/deadsimple-email
 - name: Deakin University
   url: https://artifacts.apis.io/deakin/apis.yml
   x-apis-io: https://apis.io/providers/deakin/
@@ -1757,6 +2137,10 @@ include:
   url: https://artifacts.apis.io/deal-connect/apis.yml
   x-apis-io: https://apis.io/providers/deal-connect/
   x-github: https://github.com/api-evangelist/deal-connect
+- name: Deally
+  url: https://artifacts.apis.io/deal-ly/apis.yml
+  x-apis-io: https://apis.io/providers/deal-ly/
+  x-github: https://github.com/api-evangelist/deal-ly
 - name: Deal.ai
   url: https://artifacts.apis.io/dealai/apis.yml
   x-apis-io: https://apis.io/providers/dealai/
@@ -1773,10 +2157,22 @@ include:
   url: https://artifacts.apis.io/dealer-com/apis.yml
   x-apis-io: https://apis.io/providers/dealer-com/
   x-github: https://github.com/api-evangelist/dealer-com
+- name: dealerific-com
+  url: https://artifacts.apis.io/dealerific-com/apis.yml
+  x-apis-io: https://apis.io/providers/dealerific-com/
+  x-github: https://github.com/api-evangelist/dealerific-com
+- name: DealerMAX
+  url: https://artifacts.apis.io/dealermax-app/apis.yml
+  x-apis-io: https://apis.io/providers/dealermax-app/
+  x-github: https://github.com/api-evangelist/dealermax-app
 - name: Polly Insurance
   url: https://artifacts.apis.io/dealerpolicy/apis.yml
   x-apis-io: https://apis.io/providers/dealerpolicy/
   x-github: https://github.com/api-evangelist/dealerpolicy
+- name: DealerSlip
+  url: https://artifacts.apis.io/dealerslip-com/apis.yml
+  x-apis-io: https://apis.io/providers/dealerslip-com/
+  x-github: https://github.com/api-evangelist/dealerslip-com
 - name: DealerSocket
   url: https://artifacts.apis.io/dealersocket/apis.yml
   x-apis-io: https://apis.io/providers/dealersocket/
@@ -1785,6 +2181,10 @@ include:
   url: https://artifacts.apis.io/dealertrack/apis.yml
   x-apis-io: https://apis.io/providers/dealertrack/
   x-github: https://github.com/api-evangelist/dealertrack
+- name: omninoo GmbH
+  url: https://artifacts.apis.io/dealfilter-ai/apis.yml
+  x-apis-io: https://apis.io/providers/dealfilter-ai/
+  x-github: https://github.com/api-evangelist/dealfilter-ai
 - name: Dealflo
   url: https://artifacts.apis.io/dealflo/apis.yml
   x-apis-io: https://apis.io/providers/dealflo/
@@ -1793,6 +2193,10 @@ include:
   url: https://artifacts.apis.io/dealhub/apis.yml
   x-apis-io: https://apis.io/providers/dealhub/
   x-github: https://github.com/api-evangelist/dealhub
+- name: DealMachine
+  url: https://artifacts.apis.io/dealmachine-com/apis.yml
+  x-apis-io: https://apis.io/providers/dealmachine-com/
+  x-github: https://github.com/api-evangelist/dealmachine-com
 - name: DealMaker
   url: https://artifacts.apis.io/dealmaker/apis.yml
   x-apis-io: https://apis.io/providers/dealmaker/
@@ -1821,6 +2225,10 @@ include:
   url: https://artifacts.apis.io/dealroom/apis.yml
   x-apis-io: https://apis.io/providers/dealroom/
   x-github: https://github.com/api-evangelist/dealroom
+- name: DealScanner
+  url: https://artifacts.apis.io/dealscanner-io/apis.yml
+  x-apis-io: https://apis.io/providers/dealscanner-io/
+  x-github: https://github.com/api-evangelist/dealscanner-io
 - name: Dean Foods
   url: https://artifacts.apis.io/dean-foods/apis.yml
   x-apis-io: https://apis.io/providers/dean-foods/
@@ -1829,6 +2237,18 @@ include:
   url: https://artifacts.apis.io/deapi-ai/apis.yml
   x-apis-io: https://apis.io/providers/deapi-ai/
   x-github: https://github.com/api-evangelist/deapi-ai
+- name: Dear Human
+  url: https://artifacts.apis.io/dearhuman-cards/apis.yml
+  x-apis-io: https://apis.io/providers/dearhuman-cards/
+  x-github: https://github.com/api-evangelist/dearhuman-cards
+- name: DearmasTrader
+  url: https://artifacts.apis.io/dearmastrader-com/apis.yml
+  x-apis-io: https://apis.io/providers/dearmastrader-com/
+  x-github: https://github.com/api-evangelist/dearmastrader-com
+- name: dearovo-com
+  url: https://artifacts.apis.io/dearovo-com/apis.yml
+  x-apis-io: https://apis.io/providers/dearovo-com/
+  x-github: https://github.com/api-evangelist/dearovo-com
 - name: DeBank
   url: https://artifacts.apis.io/debank/apis.yml
   x-apis-io: https://apis.io/providers/debank/
@@ -1841,6 +2261,10 @@ include:
   url: https://artifacts.apis.io/deben/apis.yml
   x-apis-io: https://apis.io/providers/deben/
   x-github: https://github.com/api-evangelist/deben
+- name: Deberli
+  url: https://artifacts.apis.io/deberli-com/apis.yml
+  x-apis-io: https://apis.io/providers/deberli-com/
+  x-github: https://github.com/api-evangelist/deberli-com
 - name: Debezium
   url: https://artifacts.apis.io/debezium/apis.yml
   x-apis-io: https://apis.io/providers/debezium/
@@ -1861,6 +2285,14 @@ include:
   url: https://artifacts.apis.io/debounce/apis.yml
   x-apis-io: https://apis.io/providers/debounce/
   x-github: https://github.com/api-evangelist/debounce
+- name: deBridge
+  url: https://artifacts.apis.io/debridge-com/apis.yml
+  x-apis-io: https://apis.io/providers/debridge-com/
+  x-github: https://github.com/api-evangelist/debridge-com
+- name: Debriefing
+  url: https://artifacts.apis.io/debriefing-io/apis.yml
+  x-apis-io: https://apis.io/providers/debriefing-io/
+  x-github: https://github.com/api-evangelist/debriefing-io
 - name: DebtBook
   url: https://artifacts.apis.io/debtbook/apis.yml
   x-apis-io: https://apis.io/providers/debtbook/
@@ -1869,6 +2301,14 @@ include:
   url: https://artifacts.apis.io/debut/apis.yml
   x-apis-io: https://apis.io/providers/debut/
   x-github: https://github.com/api-evangelist/debut
+- name: DEBYKO
+  url: https://artifacts.apis.io/debyko-com/apis.yml
+  x-apis-io: https://apis.io/providers/debyko-com/
+  x-github: https://github.com/api-evangelist/debyko-com
+- name: DecaData
+  url: https://artifacts.apis.io/decadata-io/apis.yml
+  x-apis-io: https://apis.io/providers/decadata-io/
+  x-github: https://github.com/api-evangelist/decadata-io
 - name: Decagon
   url: https://artifacts.apis.io/decagon/apis.yml
   x-apis-io: https://apis.io/providers/decagon/
@@ -1893,6 +2333,10 @@ include:
   url: https://artifacts.apis.io/dechert/apis.yml
   x-apis-io: https://apis.io/providers/dechert/
   x-github: https://github.com/api-evangelist/dechert
+- name: DechoNet
+  url: https://artifacts.apis.io/dechonet-com/apis.yml
+  x-apis-io: https://apis.io/providers/dechonet-com/
+  x-github: https://github.com/api-evangelist/dechonet-com
 - name: Deci AI
   url: https://artifacts.apis.io/deci-ai/apis.yml
   x-apis-io: https://apis.io/providers/deci-ai/
@@ -1905,6 +2349,10 @@ include:
   url: https://artifacts.apis.io/decibel-therapeutics/apis.yml
   x-apis-io: https://apis.io/providers/decibel-therapeutics/
   x-github: https://github.com/api-evangelist/decibel-therapeutics
+- name: Decibel Shield
+  url: https://artifacts.apis.io/decibelshield-app/apis.yml
+  x-apis-io: https://apis.io/providers/decibelshield-app/
+  x-github: https://github.com/api-evangelist/decibelshield-app
 - name: decide-fyi
   url: https://artifacts.apis.io/decide-fyi/apis.yml
   x-apis-io: https://apis.io/providers/decide-fyi/
@@ -1933,6 +2381,10 @@ include:
   url: https://artifacts.apis.io/decisionlink-com/apis.yml
   x-apis-io: https://apis.io/providers/decisionlink-com/
   x-github: https://github.com/api-evangelist/decisionlink-com
+- name: Decision Log
+  url: https://artifacts.apis.io/decisionlog-ai/apis.yml
+  x-apis-io: https://apis.io/providers/decisionlog-ai/
+  x-github: https://github.com/api-evangelist/decisionlog-ai
 - name: DecisionNext
   url: https://artifacts.apis.io/decisionnext/apis.yml
   x-apis-io: https://apis.io/providers/decisionnext/
@@ -1941,6 +2393,14 @@ include:
   url: https://artifacts.apis.io/decisionpoint-software/apis.yml
   x-apis-io: https://apis.io/providers/decisionpoint-software/
   x-github: https://github.com/api-evangelist/decisionpoint-software
+- name: DecisionRules
+  url: https://artifacts.apis.io/decisionrules-io/apis.yml
+  x-apis-io: https://apis.io/providers/decisionrules-io/
+  x-github: https://github.com/api-evangelist/decisionrules-io
+- name: Decision Support Network
+  url: https://artifacts.apis.io/decisionsupportnetwork-com/apis.yml
+  x-apis-io: https://apis.io/providers/decisionsupportnetwork-com/
+  x-github: https://github.com/api-evangelist/decisionsupportnetwork-com
 - name: Decisiv
   url: https://artifacts.apis.io/decisiv/apis.yml
   x-apis-io: https://apis.io/providers/decisiv/
@@ -1953,10 +2413,34 @@ include:
   url: https://artifacts.apis.io/deck-of-cards/apis.yml
   x-apis-io: https://apis.io/providers/deck-of-cards/
   x-github: https://github.com/api-evangelist/deck-of-cards
+- name: Decker AI
+  url: https://artifacts.apis.io/decker-ai-com/apis.yml
+  x-apis-io: https://apis.io/providers/decker-ai-com/
+  x-github: https://github.com/api-evangelist/decker-ai-com
 - name: Deckers Outdoor
   url: https://artifacts.apis.io/deckers-outdoor/apis.yml
   x-apis-io: https://apis.io/providers/deckers-outdoor/
   x-github: https://github.com/api-evangelist/deckers-outdoor
+- name: DeckExtract
+  url: https://artifacts.apis.io/deckextract-com/apis.yml
+  x-apis-io: https://apis.io/providers/deckextract-com/
+  x-github: https://github.com/api-evangelist/deckextract-com
+- name: decknote-app
+  url: https://artifacts.apis.io/decknote-app/apis.yml
+  x-apis-io: https://apis.io/providers/decknote-app/
+  x-github: https://github.com/api-evangelist/decknote-app
+- name: Deckodex
+  url: https://artifacts.apis.io/deckodex-com/apis.yml
+  x-apis-io: https://apis.io/providers/deckodex-com/
+  x-github: https://github.com/api-evangelist/deckodex-com
+- name: DeckSpace
+  url: https://artifacts.apis.io/deckspace-org/apis.yml
+  x-apis-io: https://apis.io/providers/deckspace-org/
+  x-github: https://github.com/api-evangelist/deckspace-org
+- name: 'Declarar Fácil'
+  url: https://artifacts.apis.io/declararfacil-com/apis.yml
+  x-apis-io: https://apis.io/providers/declararfacil-com/
+  x-github: https://github.com/api-evangelist/declararfacil-com
 - name: Decodable
   url: https://artifacts.apis.io/decodable/apis.yml
   x-apis-io: https://apis.io/providers/decodable/
@@ -1969,6 +2453,10 @@ include:
   url: https://artifacts.apis.io/deconetwork/apis.yml
   x-apis-io: https://apis.io/providers/deconetwork/
   x-github: https://github.com/api-evangelist/deconetwork
+- name: Decor Depot
+  url: https://artifacts.apis.io/decordepot-co-uk/apis.yml
+  x-apis-io: https://apis.io/providers/decordepot-co-uk/
+  x-github: https://github.com/api-evangelist/decordepot-co-uk
 - name: Decorte Future Industries
   url: https://artifacts.apis.io/decorte-future-industries/apis.yml
   x-apis-io: https://apis.io/providers/decorte-future-industries/
@@ -1977,6 +2465,14 @@ include:
   url: https://artifacts.apis.io/decortefutureindustries-com/apis.yml
   x-apis-io: https://apis.io/providers/decortefutureindustries-com/
   x-github: https://github.com/api-evangelist/decortefutureindustries-com
+- name: DecRec
+  url: https://artifacts.apis.io/decrec-io/apis.yml
+  x-apis-io: https://apis.io/providers/decrec-io/
+  x-github: https://github.com/api-evangelist/decrec-io
+- name: Decree
+  url: https://artifacts.apis.io/decree-om/apis.yml
+  x-apis-io: https://apis.io/providers/decree-om/
+  x-github: https://github.com/api-evangelist/decree-om
 - name: Decube
   url: https://artifacts.apis.io/decube/apis.yml
   x-apis-io: https://apis.io/providers/decube/
@@ -1997,6 +2493,10 @@ include:
   url: https://artifacts.apis.io/deduce-ai/apis.yml
   x-apis-io: https://apis.io/providers/deduce-ai/
   x-github: https://github.com/api-evangelist/deduce-ai
+- name: Deed.page
+  url: https://artifacts.apis.io/deed-page/apis.yml
+  x-apis-io: https://apis.io/providers/deed-page/
+  x-github: https://github.com/api-evangelist/deed-page
 - name: Deel
   url: https://artifacts.apis.io/deel-com/apis.yml
   x-apis-io: https://apis.io/providers/deel-com/
@@ -2045,6 +2545,14 @@ include:
   url: https://artifacts.apis.io/deepai/apis.yml
   x-apis-io: https://apis.io/providers/deepai/
   x-github: https://github.com/api-evangelist/deepai
+- name: Deep Blue Alpha
+  url: https://artifacts.apis.io/deepbluealpha-io/apis.yml
+  x-apis-io: https://apis.io/providers/deepbluealpha-io/
+  x-github: https://github.com/api-evangelist/deepbluealpha-io
+- name: DEEPBOM
+  url: https://artifacts.apis.io/deepbom-org/apis.yml
+  x-apis-io: https://apis.io/providers/deepbom-org/
+  x-github: https://github.com/api-evangelist/deepbom-org
 - name: DeepBrain Chain
   url: https://artifacts.apis.io/deepbrain-chain/apis.yml
   x-apis-io: https://apis.io/providers/deepbrain-chain/
@@ -2065,6 +2573,10 @@ include:
   url: https://artifacts.apis.io/deepcogito/apis.yml
   x-apis-io: https://apis.io/providers/deepcogito/
   x-github: https://github.com/api-evangelist/deepcogito
+- name: deepcounterfeit-com
+  url: https://artifacts.apis.io/deepcounterfeit-com/apis.yml
+  x-apis-io: https://apis.io/providers/deepcounterfeit-com/
+  x-github: https://github.com/api-evangelist/deepcounterfeit-com
 - name: deepdna-ai
   url: https://artifacts.apis.io/deepdna-ai/apis.yml
   x-apis-io: https://apis.io/providers/deepdna-ai/
@@ -2093,6 +2605,10 @@ include:
   url: https://artifacts.apis.io/deepfine/apis.yml
   x-apis-io: https://apis.io/providers/deepfine/
   x-github: https://github.com/api-evangelist/deepfine
+- name: deepgent-net
+  url: https://artifacts.apis.io/deepgent-net/apis.yml
+  x-apis-io: https://apis.io/providers/deepgent-net/
+  x-github: https://github.com/api-evangelist/deepgent-net
 - name: Deepgram
   url: https://artifacts.apis.io/deepgram/apis.yml
   x-apis-io: https://apis.io/providers/deepgram/
@@ -2101,6 +2617,10 @@ include:
   url: https://artifacts.apis.io/deephow/apis.yml
   x-apis-io: https://apis.io/providers/deephow/
   x-github: https://github.com/api-evangelist/deephow
+- name: Deep Identity Inc.
+  url: https://artifacts.apis.io/deepidv-com/apis.yml
+  x-apis-io: https://apis.io/providers/deepidv-com/
+  x-github: https://github.com/api-evangelist/deepidv-com
 - name: DeepInfra
   url: https://artifacts.apis.io/deepinfra/apis.yml
   x-apis-io: https://apis.io/providers/deepinfra/
@@ -2133,6 +2653,10 @@ include:
   url: https://artifacts.apis.io/deeplead/apis.yml
   x-apis-io: https://apis.io/providers/deeplead/
   x-github: https://github.com/api-evangelist/deeplead
+- name: DeepLedger
+  url: https://artifacts.apis.io/deepledger-ai/apis.yml
+  x-apis-io: https://apis.io/providers/deepledger-ai/
+  x-github: https://github.com/api-evangelist/deepledger-ai
 - name: Deeploi
   url: https://artifacts.apis.io/deeploi/apis.yml
   x-apis-io: https://apis.io/providers/deeploi/
@@ -2157,6 +2681,10 @@ include:
   url: https://artifacts.apis.io/deepomatic/apis.yml
   x-apis-io: https://apis.io/providers/deepomatic/
   x-github: https://github.com/api-evangelist/deepomatic
+- name: DeepRecall
+  url: https://artifacts.apis.io/deeprecall-io/apis.yml
+  x-apis-io: https://apis.io/providers/deeprecall-io/
+  x-github: https://github.com/api-evangelist/deeprecall-io
 - name: Deeproute
   url: https://artifacts.apis.io/deeproute/apis.yml
   x-apis-io: https://apis.io/providers/deeproute/
@@ -2169,6 +2697,18 @@ include:
   url: https://artifacts.apis.io/deepseek/apis.yml
   x-apis-io: https://apis.io/providers/deepseek/
   x-github: https://github.com/api-evangelist/deepseek
+- name: DeepSEOAnalysis
+  url: https://artifacts.apis.io/deepseoanalysis-com/apis.yml
+  x-apis-io: https://apis.io/providers/deepseoanalysis-com/
+  x-github: https://github.com/api-evangelist/deepseoanalysis-com
+- name: Deepset
+  url: https://artifacts.apis.io/deepset/apis.yml
+  x-apis-io: https://apis.io/providers/deepset/
+  x-github: https://github.com/api-evangelist/deepset
+- name: DeepSFetch
+  url: https://artifacts.apis.io/deepsfetch-com/apis.yml
+  x-apis-io: https://apis.io/providers/deepsfetch-com/
+  x-github: https://github.com/api-evangelist/deepsfetch-com
 - name: DeepSight Technology
   url: https://artifacts.apis.io/deepsight/apis.yml
   x-apis-io: https://apis.io/providers/deepsight/
@@ -2177,6 +2717,10 @@ include:
   url: https://artifacts.apis.io/deepsightinc-com/apis.yml
   x-apis-io: https://apis.io/providers/deepsightinc-com/
   x-github: https://github.com/api-evangelist/deepsightinc-com
+- name: Deepsky
+  url: https://artifacts.apis.io/deepskyai-com/apis.yml
+  x-apis-io: https://apis.io/providers/deepskyai-com/
+  x-github: https://github.com/api-evangelist/deepskyai-com
 - name: DeepSource
   url: https://artifacts.apis.io/deepsource/apis.yml
   x-apis-io: https://apis.io/providers/deepsource/
@@ -2197,6 +2741,10 @@ include:
   url: https://artifacts.apis.io/deeptrace/apis.yml
   x-apis-io: https://apis.io/providers/deeptrace/
   x-github: https://github.com/api-evangelist/deeptrace
+- name: DeepValues.AI
+  url: https://artifacts.apis.io/deepvalues-ai/apis.yml
+  x-apis-io: https://apis.io/providers/deepvalues-ai/
+  x-github: https://github.com/api-evangelist/deepvalues-ai
 - name: Deepvisionintelligence
   url: https://artifacts.apis.io/deepvisionintelligence/apis.yml
   x-apis-io: https://apis.io/providers/deepvisionintelligence/
@@ -2217,6 +2765,14 @@ include:
   url: https://artifacts.apis.io/deepx/apis.yml
   x-apis-io: https://apis.io/providers/deepx/
   x-github: https://github.com/api-evangelist/deepx
+- name: Deer Supply & Research
+  url: https://artifacts.apis.io/deer-supply/apis.yml
+  x-apis-io: https://apis.io/providers/deer-supply/
+  x-github: https://github.com/api-evangelist/deer-supply
+- name: DeerDawn
+  url: https://artifacts.apis.io/deerdawn-com/apis.yml
+  x-apis-io: https://apis.io/providers/deerdawn-com/
+  x-github: https://github.com/api-evangelist/deerdawn-com
 - name: Deezer
   url: https://artifacts.apis.io/deezer/apis.yml
   x-apis-io: https://apis.io/providers/deezer/
@@ -2225,14 +2781,38 @@ include:
   url: https://artifacts.apis.io/defacto/apis.yml
   x-apis-io: https://apis.io/providers/defacto/
   x-github: https://github.com/api-evangelist/defacto
+- name: DeFade
+  url: https://artifacts.apis.io/defade-org/apis.yml
+  x-apis-io: https://apis.io/providers/defade-org/
+  x-github: https://github.com/api-evangelist/defade-org
 - name: Defakto Security
   url: https://artifacts.apis.io/defakto-security/apis.yml
   x-apis-io: https://apis.io/providers/defakto-security/
   x-github: https://github.com/api-evangelist/defakto-security
+- name: DefaultBench
+  url: https://artifacts.apis.io/defaultbench-com/apis.yml
+  x-apis-io: https://apis.io/providers/defaultbench-com/
+  x-github: https://github.com/api-evangelist/defaultbench-com
+- name: Default Privacy
+  url: https://artifacts.apis.io/defaultprivacy-com/apis.yml
+  x-apis-io: https://apis.io/providers/defaultprivacy-com/
+  x-github: https://github.com/api-evangelist/defaultprivacy-com
+- name: DefaultRank
+  url: https://artifacts.apis.io/defaultrank-com/apis.yml
+  x-apis-io: https://apis.io/providers/defaultrank-com/
+  x-github: https://github.com/api-evangelist/defaultrank-com
+- name: DefaultVerifier
+  url: https://artifacts.apis.io/defaultverifier-com/apis.yml
+  x-apis-io: https://apis.io/providers/defaultverifier-com/
+  x-github: https://github.com/api-evangelist/defaultverifier-com
 - name: DEFCON AI
   url: https://artifacts.apis.io/defcon-ai/apis.yml
   x-apis-io: https://apis.io/providers/defcon-ai/
   x-github: https://github.com/api-evangelist/defcon-ai
+- name: Defectbird
+  url: https://artifacts.apis.io/defectbird-com/apis.yml
+  x-apis-io: https://apis.io/providers/defectbird-com/
+  x-github: https://github.com/api-evangelist/defectbird-com
 - name: Defence Bank
   url: https://artifacts.apis.io/defence-bank/apis.yml
   x-apis-io: https://apis.io/providers/defence-bank/
@@ -2309,6 +2889,10 @@ include:
   url: https://artifacts.apis.io/deferit/apis.yml
   x-apis-io: https://apis.io/providers/deferit/
   x-github: https://github.com/api-evangelist/deferit
+- name: DeFi Garden
+  url: https://artifacts.apis.io/defi-garden/apis.yml
+  x-apis-io: https://apis.io/providers/defi-garden/
+  x-github: https://github.com/api-evangelist/defi-garden
 - name: defi SOLUTIONS
   url: https://artifacts.apis.io/defi-solutions/apis.yml
   x-apis-io: https://apis.io/providers/defi-solutions/
@@ -2641,10 +3225,6 @@ include:
   url: https://artifacts.apis.io/demodesk/apis.yml
   x-apis-io: https://apis.io/providers/demodesk/
   x-github: https://github.com/api-evangelist/demodesk
-- name: Demolition Quotes
-  url: https://artifacts.apis.io/demolitionquotes-co-uk/apis.yml
-  x-apis-io: https://apis.io/providers/demolitionquotes-co-uk/
-  x-github: https://github.com/api-evangelist/demolitionquotes-co-uk
 - name: Demostack
   url: https://artifacts.apis.io/demostack/apis.yml
   x-apis-io: https://apis.io/providers/demostack/
@@ -2813,10 +3393,22 @@ include:
   url: https://artifacts.apis.io/deployco/apis.yml
   x-apis-io: https://apis.io/providers/deployco/
   x-github: https://github.com/api-evangelist/deployco
+- name: DeployedByAI
+  url: https://artifacts.apis.io/deployedbyai-com/apis.yml
+  x-apis-io: https://apis.io/providers/deployedbyai-com/
+  x-github: https://github.com/api-evangelist/deployedbyai-com
 - name: deployit-ai
   url: https://artifacts.apis.io/deployit-ai/apis.yml
   x-apis-io: https://apis.io/providers/deployit-ai/
   x-github: https://github.com/api-evangelist/deployit-ai
+- name: Deployment AI Inc.
+  url: https://artifacts.apis.io/deployment-io/apis.yml
+  x-apis-io: https://apis.io/providers/deployment-io/
+  x-github: https://github.com/api-evangelist/deployment-io
+- name: 'We Are 14, Inc.'
+  url: https://artifacts.apis.io/deploytoagents-com/apis.yml
+  x-apis-io: https://apis.io/providers/deploytoagents-com/
+  x-github: https://github.com/api-evangelist/deploytoagents-com
 - name: Deployxa
   url: https://artifacts.apis.io/deployxa/apis.yml
   x-apis-io: https://apis.io/providers/deployxa/
@@ -2849,14 +3441,30 @@ include:
   url: https://artifacts.apis.io/deppon-express/apis.yml
   x-apis-io: https://apis.io/providers/deppon-express/
   x-github: https://github.com/api-evangelist/deppon-express
+- name: Depreo
+  url: https://artifacts.apis.io/depreo-com/apis.yml
+  x-apis-io: https://apis.io/providers/depreo-com/
+  x-github: https://github.com/api-evangelist/depreo-com
+- name: DepthFeed
+  url: https://artifacts.apis.io/depthfeed-com/apis.yml
+  x-apis-io: https://apis.io/providers/depthfeed-com/
+  x-github: https://github.com/api-evangelist/depthfeed-com
 - name: depthfirst
   url: https://artifacts.apis.io/depthfirst/apis.yml
   x-apis-io: https://apis.io/providers/depthfirst/
   x-github: https://github.com/api-evangelist/depthfirst
+- name: Depureco
+  url: https://artifacts.apis.io/depureco-com/apis.yml
+  x-apis-io: https://apis.io/providers/depureco-com/
+  x-github: https://github.com/api-evangelist/depureco-com
 - name: Deputy
   url: https://artifacts.apis.io/deputy/apis.yml
   x-apis-io: https://apis.io/providers/deputy/
   x-github: https://github.com/api-evangelist/deputy
+- name: DERATE
+  url: https://artifacts.apis.io/derate-app/apis.yml
+  x-apis-io: https://apis.io/providers/derate-app/
+  x-github: https://github.com/api-evangelist/derate-app
 - name: DerbySoft
   url: https://artifacts.apis.io/derbysoft/apis.yml
   x-apis-io: https://apis.io/providers/derbysoft/
@@ -2869,6 +3477,10 @@ include:
   url: https://artifacts.apis.io/derivadex/apis.yml
   x-apis-io: https://apis.io/providers/derivadex/
   x-github: https://github.com/api-evangelist/derivadex
+- name: Derive
+  url: https://artifacts.apis.io/derive-to/apis.yml
+  x-apis-io: https://apis.io/providers/derive-to/
+  x-github: https://github.com/api-evangelist/derive-to
 - name: Dermala
   url: https://artifacts.apis.io/dermala/apis.yml
   x-apis-io: https://apis.io/providers/dermala/
@@ -2881,6 +3493,10 @@ include:
   url: https://artifacts.apis.io/dermira/apis.yml
   x-apis-io: https://apis.io/providers/dermira/
   x-github: https://github.com/api-evangelist/dermira
+- name: DERO Project
+  url: https://artifacts.apis.io/derod-org/apis.yml
+  x-apis-io: https://apis.io/providers/derod-org/
+  x-github: https://github.com/api-evangelist/derod-org
 - name: Derq
   url: https://artifacts.apis.io/derq/apis.yml
   x-apis-io: https://apis.io/providers/derq/
@@ -2889,6 +3505,14 @@ include:
   url: https://artifacts.apis.io/derrick/apis.yml
   x-apis-io: https://apis.io/providers/derrick/
   x-github: https://github.com/api-evangelist/derrick
+- name: 'Desafío Comunicación'
+  url: https://artifacts.apis.io/desafiocomunicacion-com/apis.yml
+  x-apis-io: https://apis.io/providers/desafiocomunicacion-com/
+  x-github: https://github.com/api-evangelist/desafiocomunicacion-com
+- name: DesAira
+  url: https://artifacts.apis.io/desaira-com/apis.yml
+  x-apis-io: https://apis.io/providers/desaira-com/
+  x-github: https://github.com/api-evangelist/desaira-com
 - name: Desaisiv
   url: https://artifacts.apis.io/desaisiv-inc/apis.yml
   x-apis-io: https://apis.io/providers/desaisiv-inc/
@@ -2897,6 +3521,10 @@ include:
   url: https://artifacts.apis.io/desano/apis.yml
   x-apis-io: https://apis.io/providers/desano/
   x-github: https://github.com/api-evangelist/desano
+- name: DesarrolloMCP
+  url: https://artifacts.apis.io/desarrollomcp-com/apis.yml
+  x-apis-io: https://apis.io/providers/desarrollomcp-com/
+  x-github: https://github.com/api-evangelist/desarrollomcp-com
 - name: Descartes Systems Group
   url: https://artifacts.apis.io/descartes/apis.yml
   x-apis-io: https://apis.io/providers/descartes/
@@ -2933,10 +3561,18 @@ include:
   url: https://artifacts.apis.io/desec/apis.yml
   x-apis-io: https://apis.io/providers/desec/
   x-github: https://github.com/api-evangelist/desec
+- name: Desenmascara.me
+  url: https://artifacts.apis.io/desenmascara-me/apis.yml
+  x-apis-io: https://apis.io/providers/desenmascara-me/
+  x-github: https://github.com/api-evangelist/desenmascara-me
 - name: DESERT FARMS
   url: https://artifacts.apis.io/desert-farms-inc/apis.yml
   x-apis-io: https://apis.io/providers/desert-farms-inc/
   x-github: https://github.com/api-evangelist/desert-farms-inc
+- name: Desert Road Catholic
+  url: https://artifacts.apis.io/desertroadcatholic-com/apis.yml
+  x-apis-io: https://apis.io/providers/desertroadcatholic-com/
+  x-github: https://github.com/api-evangelist/desertroadcatholic-com
 - name: Deserve
   url: https://artifacts.apis.io/deserve/apis.yml
   x-apis-io: https://apis.io/providers/deserve/
@@ -2949,10 +3585,22 @@ include:
   url: https://artifacts.apis.io/design-standards/apis.yml
   x-apis-io: https://apis.io/providers/design-standards/
   x-github: https://github.com/api-evangelist/design-standards
+- name: Curio
+  url: https://artifacts.apis.io/designbycurio-com/apis.yml
+  x-apis-io: https://apis.io/providers/designbycurio-com/
+  x-github: https://github.com/api-evangelist/designbycurio-com
 - name: Designer Brands
   url: https://artifacts.apis.io/designer-brands/apis.yml
   x-apis-io: https://apis.io/providers/designer-brands/
   x-github: https://github.com/api-evangelist/designer-brands
+- name: designesy-org
+  url: https://artifacts.apis.io/designesy-org/apis.yml
+  x-apis-io: https://apis.io/providers/designesy-org/
+  x-github: https://github.com/api-evangelist/designesy-org
+- name: DesignMaster
+  url: https://artifacts.apis.io/designmaster-com-br/apis.yml
+  x-apis-io: https://apis.io/providers/designmaster-com-br/
+  x-github: https://github.com/api-evangelist/designmaster-com-br
 - name: designstripe
   url: https://artifacts.apis.io/designstripe/apis.yml
   x-apis-io: https://apis.io/providers/designstripe/
@@ -2961,10 +3609,22 @@ include:
   url: https://artifacts.apis.io/desjardins/apis.yml
   x-apis-io: https://apis.io/providers/desjardins/
   x-github: https://github.com/api-evangelist/desjardins
+- name: DeskClone AI
+  url: https://artifacts.apis.io/deskclone-ai/apis.yml
+  x-apis-io: https://apis.io/providers/deskclone-ai/
+  x-github: https://github.com/api-evangelist/deskclone-ai
+- name: DeskCrew
+  url: https://artifacts.apis.io/deskcrew-io/apis.yml
+  x-apis-io: https://apis.io/providers/deskcrew-io/
+  x-github: https://github.com/api-evangelist/deskcrew-io
 - name: Deskera
   url: https://artifacts.apis.io/deskera/apis.yml
   x-apis-io: https://apis.io/providers/deskera/
   x-github: https://github.com/api-evangelist/deskera
+- name: deskfeed
+  url: https://artifacts.apis.io/deskfeed-dev/apis.yml
+  x-apis-io: https://apis.io/providers/deskfeed-dev/
+  x-github: https://github.com/api-evangelist/deskfeed-dev
 - name: DESKi
   url: https://artifacts.apis.io/deski/apis.yml
   x-apis-io: https://apis.io/providers/deski/
@@ -2973,6 +3633,14 @@ include:
   url: https://artifacts.apis.io/desktop-metal/apis.yml
   x-apis-io: https://apis.io/providers/desktop-metal/
   x-github: https://github.com/api-evangelist/desktop-metal
+- name: Desktop Commander
+  url: https://artifacts.apis.io/desktopcommander-app/apis.yml
+  x-apis-io: https://apis.io/providers/desktopcommander-app/
+  x-github: https://github.com/api-evangelist/desktopcommander-app
+- name: desloppy-com
+  url: https://artifacts.apis.io/desloppy-com/apis.yml
+  x-apis-io: https://apis.io/providers/desloppy-com/
+  x-github: https://github.com/api-evangelist/desloppy-com
 - name: Desmos
   url: https://artifacts.apis.io/desmos/apis.yml
   x-apis-io: https://apis.io/providers/desmos/
@@ -2981,6 +3649,10 @@ include:
   url: https://artifacts.apis.io/despegar/apis.yml
   x-apis-io: https://apis.io/providers/despegar/
   x-github: https://github.com/api-evangelist/despegar
+- name: Destaire
+  url: https://artifacts.apis.io/destaire-com/apis.yml
+  x-apis-io: https://apis.io/providers/destaire-com/
+  x-github: https://github.com/api-evangelist/destaire-com
 - name: Destineer
   url: https://artifacts.apis.io/destineer/apis.yml
   x-apis-io: https://apis.io/providers/destineer/
@@ -2993,6 +3665,10 @@ include:
   url: https://artifacts.apis.io/destiny-the-game/apis.yml
   x-apis-io: https://apis.io/providers/destiny-the-game/
   x-github: https://github.com/api-evangelist/destiny-the-game
+- name: ArcFlow
+  url: https://artifacts.apis.io/destinymatrixcalc-com/apis.yml
+  x-apis-io: https://apis.io/providers/destinymatrixcalc-com/
+  x-github: https://github.com/api-evangelist/destinymatrixcalc-com
 - name: Destro
   url: https://artifacts.apis.io/destro/apis.yml
   x-apis-io: https://apis.io/providers/destro/
@@ -3001,14 +3677,26 @@ include:
   url: https://artifacts.apis.io/desvela-dev/apis.yml
   x-apis-io: https://apis.io/providers/desvela-dev/
   x-github: https://github.com/api-evangelist/desvela-dev
+- name: Deswik
+  url: https://artifacts.apis.io/deswik/apis.yml
+  x-apis-io: https://apis.io/providers/deswik/
+  x-github: https://github.com/api-evangelist/deswik
 - name: Detail
   url: https://artifacts.apis.io/detail/apis.yml
   x-apis-io: https://apis.io/providers/detail/
   x-github: https://github.com/api-evangelist/detail
+- name: details.page
+  url: https://artifacts.apis.io/details-page/apis.yml
+  x-apis-io: https://apis.io/providers/details-page/
+  x-github: https://github.com/api-evangelist/details-page
 - name: Detect
   url: https://artifacts.apis.io/detect/apis.yml
   x-apis-io: https://apis.io/providers/detect/
   x-github: https://github.com/api-evangelist/detect
+- name: Detectif.ai
+  url: https://artifacts.apis.io/detectif-ai/apis.yml
+  x-apis-io: https://apis.io/providers/detectif-ai/
+  x-github: https://github.com/api-evangelist/detectif-ai
 - name: detectify
   url: https://artifacts.apis.io/detectify/apis.yml
   x-apis-io: https://apis.io/providers/detectify/
@@ -3021,6 +3709,10 @@ include:
   url: https://artifacts.apis.io/determined-ai/apis.yml
   x-apis-io: https://apis.io/providers/determined-ai/
   x-github: https://github.com/api-evangelist/determined-ai
+- name: Deterministic
+  url: https://artifacts.apis.io/deterministic-sh/apis.yml
+  x-apis-io: https://apis.io/providers/deterministic-sh/
+  x-github: https://github.com/api-evangelist/deterministic-sh
 - name: Deterra Royalties
   url: https://artifacts.apis.io/deterra-royalties/apis.yml
   x-apis-io: https://apis.io/providers/deterra-royalties/
@@ -3029,6 +3721,10 @@ include:
   url: https://artifacts.apis.io/deterrence/apis.yml
   x-apis-io: https://apis.io/providers/deterrence/
   x-github: https://github.com/api-evangelist/deterrence
+- name: Detextit
+  url: https://artifacts.apis.io/detextit-com/apis.yml
+  x-apis-io: https://apis.io/providers/detextit-com/
+  x-github: https://github.com/api-evangelist/detextit-com
 - name: Detoure
   url: https://artifacts.apis.io/detoure-inc/apis.yml
   x-apis-io: https://apis.io/providers/detoure-inc/
@@ -3069,6 +3765,10 @@ include:
   url: https://artifacts.apis.io/dev-agents/apis.yml
   x-apis-io: https://apis.io/providers/dev-agents/
   x-github: https://github.com/api-evangelist/dev-agents
+- name: DevMatch
+  url: https://artifacts.apis.io/dev-match-xyz/apis.yml
+  x-apis-io: https://apis.io/providers/dev-match-xyz/
+  x-github: https://github.com/api-evangelist/dev-match-xyz
 - name: Dev Proxy
   url: https://artifacts.apis.io/dev-proxy/apis.yml
   x-apis-io: https://apis.io/providers/dev-proxy/
@@ -3101,6 +3801,10 @@ include:
   url: https://artifacts.apis.io/devdat-ai/apis.yml
   x-apis-io: https://apis.io/providers/devdat-ai/
   x-github: https://github.com/api-evangelist/devdat-ai
+- name: DevDome
+  url: https://artifacts.apis.io/devdome-com/apis.yml
+  x-apis-io: https://apis.io/providers/devdome-com/
+  x-github: https://github.com/api-evangelist/devdome-com
 - name: Develop Health
   url: https://artifacts.apis.io/develop-health/apis.yml
   x-apis-io: https://apis.io/providers/develop-health/
@@ -3125,6 +3829,10 @@ include:
   url: https://artifacts.apis.io/deverus/apis.yml
   x-apis-io: https://apis.io/providers/deverus/
   x-github: https://github.com/api-evangelist/deverus
+- name: Development Exit Finance
+  url: https://artifacts.apis.io/devexitfinance-co-uk/apis.yml
+  x-apis-io: https://apis.io/providers/devexitfinance-co-uk/
+  x-github: https://github.com/api-evangelist/devexitfinance-co-uk
 - name: devexpress-com
   url: https://artifacts.apis.io/devexpress-com/apis.yml
   x-apis-io: https://apis.io/providers/devexpress-com/
@@ -3149,10 +3857,18 @@ include:
   url: https://artifacts.apis.io/deviens-marrant/apis.yml
   x-apis-io: https://apis.io/providers/deviens-marrant/
   x-github: https://github.com/api-evangelist/deviens-marrant
+- name: DevInbox
+  url: https://artifacts.apis.io/devinbox-io/apis.yml
+  x-apis-io: https://apis.io/providers/devinbox-io/
+  x-github: https://github.com/api-evangelist/devinbox-io
 - name: DevITjobs UK
   url: https://artifacts.apis.io/devitjobs-uk/apis.yml
   x-apis-io: https://apis.io/providers/devitjobs-uk/
   x-github: https://github.com/api-evangelist/devitjobs-uk
+- name: DevMargin
+  url: https://artifacts.apis.io/devmargin-app/apis.yml
+  x-apis-io: https://apis.io/providers/devmargin-app/
+  x-github: https://github.com/api-evangelist/devmargin-app
 - name: Devo
   url: https://artifacts.apis.io/devo/apis.yml
   x-apis-io: https://apis.io/providers/devo/
@@ -3161,10 +3877,22 @@ include:
   url: https://artifacts.apis.io/devon-energy/apis.yml
   x-apis-io: https://apis.io/providers/devon-energy/
   x-github: https://github.com/api-evangelist/devon-energy
+- name: Devopness
+  url: https://artifacts.apis.io/devopness-com/apis.yml
+  x-apis-io: https://apis.io/providers/devopness-com/
+  x-github: https://github.com/api-evangelist/devopness-com
+- name: DevOps Agent
+  url: https://artifacts.apis.io/devopsagent-io/apis.yml
+  x-apis-io: https://apis.io/providers/devopsagent-io/
+  x-github: https://github.com/api-evangelist/devopsagent-io
 - name: Devoted Health
   url: https://artifacts.apis.io/devoted-health/apis.yml
   x-apis-io: https://apis.io/providers/devoted-health/
   x-github: https://github.com/api-evangelist/devoted-health
+- name: DevPlane
+  url: https://artifacts.apis.io/devplane-dev/apis.yml
+  x-apis-io: https://apis.io/providers/devplane-dev/
+  x-github: https://github.com/api-evangelist/devplane-dev
 - name: devprime
   url: https://artifacts.apis.io/devprime/apis.yml
   x-apis-io: https://apis.io/providers/devprime/
@@ -3173,6 +3901,10 @@ include:
   url: https://artifacts.apis.io/devrel-directory/apis.yml
   x-apis-io: https://apis.io/providers/devrel-directory/
   x-github: https://github.com/api-evangelist/devrel-directory
+- name: DevRelay
+  url: https://artifacts.apis.io/devrelay-so/apis.yml
+  x-apis-io: https://apis.io/providers/devrelay-so/
+  x-github: https://github.com/api-evangelist/devrelay-so
 - name: devreply-com
   url: https://artifacts.apis.io/devreply-com/apis.yml
   x-apis-io: https://apis.io/providers/devreply-com/
@@ -3225,6 +3957,10 @@ include:
   url: https://artifacts.apis.io/dexcom/apis.yml
   x-apis-io: https://apis.io/providers/dexcom/
   x-github: https://github.com/api-evangelist/dexcom
+- name: Dexi
+  url: https://artifacts.apis.io/dexi-net/apis.yml
+  x-apis-io: https://apis.io/providers/dexi-net/
+  x-github: https://github.com/api-evangelist/dexi-net
 - name: Dexio
   url: https://artifacts.apis.io/dexio/apis.yml
   x-apis-io: https://apis.io/providers/dexio/
@@ -3233,6 +3969,14 @@ include:
   url: https://artifacts.apis.io/dexory/apis.yml
   x-apis-io: https://apis.io/providers/dexory/
   x-github: https://github.com/api-evangelist/dexory
+- name: Dexra
+  url: https://artifacts.apis.io/dexra-dev/apis.yml
+  x-apis-io: https://apis.io/providers/dexra-dev/
+  x-github: https://github.com/api-evangelist/dexra-dev
+- name: DexSheet
+  url: https://artifacts.apis.io/dexsheet-com/apis.yml
+  x-apis-io: https://apis.io/providers/dexsheet-com/
+  x-github: https://github.com/api-evangelist/dexsheet-com
 - name: Dext
   url: https://artifacts.apis.io/dext/apis.yml
   x-apis-io: https://apis.io/providers/dext/
@@ -3253,6 +3997,10 @@ include:
   url: https://artifacts.apis.io/dexyp/apis.yml
   x-apis-io: https://apis.io/providers/dexyp/
   x-github: https://github.com/api-evangelist/dexyp
+- name: Deyaho
+  url: https://artifacts.apis.io/deyaho-com/apis.yml
+  x-apis-io: https://apis.io/providers/deyaho-com/
+  x-github: https://github.com/api-evangelist/deyaho-com
 - name: Dezerv
   url: https://artifacts.apis.io/dezerv/apis.yml
   x-apis-io: https://apis.io/providers/dezerv/
@@ -3261,6 +4009,10 @@ include:
   url: https://artifacts.apis.io/dezhentech/apis.yml
   x-apis-io: https://apis.io/providers/dezhentech/
   x-github: https://github.com/api-evangelist/dezhentech
+- name: D Fetcher
+  url: https://artifacts.apis.io/dfetcher-com/apis.yml
+  x-apis-io: https://apis.io/providers/dfetcher-com/
+  x-github: https://github.com/api-evangelist/dfetcher-com
 - name: DFINITY
   url: https://artifacts.apis.io/dfinity/apis.yml
   x-apis-io: https://apis.io/providers/dfinity/
@@ -3269,6 +4021,10 @@ include:
   url: https://artifacts.apis.io/dflow/apis.yml
   x-apis-io: https://apis.io/providers/dflow/
   x-github: https://github.com/api-evangelist/dflow
+- name: dFlow
+  url: https://artifacts.apis.io/dflow-sh/apis.yml
+  x-apis-io: https://apis.io/providers/dflow-sh/
+  x-github: https://github.com/api-evangelist/dflow-sh
 - name: DFN-Verein
   url: https://artifacts.apis.io/dfn-verein/apis.yml
   x-apis-io: https://apis.io/providers/dfn-verein/
@@ -3285,6 +4041,10 @@ include:
   url: https://artifacts.apis.io/dfree/apis.yml
   x-apis-io: https://apis.io/providers/dfree/
   x-github: https://github.com/api-evangelist/dfree
+- name: Damsgaard FM
+  url: https://artifacts.apis.io/dgfm-dk/apis.yml
+  x-apis-io: https://apis.io/providers/dgfm-dk/
+  x-github: https://github.com/api-evangelist/dgfm-dk
 - name: DGIT
   url: https://artifacts.apis.io/dgit/apis.yml
   x-apis-io: https://apis.io/providers/dgit/
@@ -3301,6 +4061,10 @@ include:
   url: https://artifacts.apis.io/dgraph/apis.yml
   x-apis-io: https://apis.io/providers/dgraph/
   x-github: https://github.com/api-evangelist/dgraph
+- name: Dhamma.Gift
+  url: https://artifacts.apis.io/dhamma-gift/apis.yml
+  x-apis-io: https://apis.io/providers/dhamma-gift/
+  x-github: https://github.com/api-evangelist/dhamma-gift
 - name: Dhan
   url: https://artifacts.apis.io/dhan/apis.yml
   x-apis-io: https://apis.io/providers/dhan/
@@ -3309,6 +4073,10 @@ include:
   url: https://artifacts.apis.io/dharma-labs/apis.yml
   x-apis-io: https://apis.io/providers/dharma-labs/
   x-github: https://github.com/api-evangelist/dharma-labs
+- name: Dharun Ashokkumar
+  url: https://artifacts.apis.io/dharun-dev/apis.yml
+  x-apis-io: https://apis.io/providers/dharun-dev/
+  x-github: https://github.com/api-evangelist/dharun-dev
 - name: DHL
   url: https://artifacts.apis.io/dhl/apis.yml
   x-apis-io: https://apis.io/providers/dhl/
@@ -3317,6 +4085,10 @@ include:
   url: https://artifacts.apis.io/dhruvaspace/apis.yml
   x-apis-io: https://apis.io/providers/dhruvaspace/
   x-github: https://github.com/api-evangelist/dhruvaspace
+- name: dhsdigital-eu
+  url: https://artifacts.apis.io/dhsdigital-eu/apis.yml
+  x-apis-io: https://apis.io/providers/dhsdigital-eu/
+  x-github: https://github.com/api-evangelist/dhsdigital-eu
 - name: Dia
   url: https://artifacts.apis.io/dia/apis.yml
   x-apis-io: https://apis.io/providers/dia/
@@ -3513,6 +4285,10 @@ include:
   url: https://artifacts.apis.io/dietlyapi/apis.yml
   x-apis-io: https://apis.io/providers/dietlyapi/
   x-github: https://github.com/api-evangelist/dietlyapi
+- name: Dievio
+  url: https://artifacts.apis.io/dievio-com/apis.yml
+  x-apis-io: https://apis.io/providers/dievio-com/
+  x-github: https://github.com/api-evangelist/dievio-com
 - name: diezX
   url: https://artifacts.apis.io/diezx-ai/apis.yml
   x-apis-io: https://apis.io/providers/diezx-ai/
@@ -3821,6 +4597,10 @@ include:
   url: https://artifacts.apis.io/digitap/apis.yml
   x-apis-io: https://apis.io/providers/digitap/
   x-github: https://github.com/api-evangelist/digitap
+- name: Digitraffic (Fintraffic)
+  url: https://artifacts.apis.io/digitraffic-fi/apis.yml
+  x-apis-io: https://apis.io/providers/digitraffic-fi/
+  x-github: https://github.com/api-evangelist/digitraffic-fi
 - name: Digits
   url: https://artifacts.apis.io/digits-com/apis.yml
   x-apis-io: https://apis.io/providers/digits-com/
@@ -3933,10 +4713,22 @@ include:
   url: https://artifacts.apis.io/dimeq/apis.yml
   x-apis-io: https://apis.io/providers/dimeq/
   x-github: https://github.com/api-evangelist/dimeq
+- name: Dimetrics
+  url: https://artifacts.apis.io/dimetrics-ai/apis.yml
+  x-apis-io: https://apis.io/providers/dimetrics-ai/
+  x-github: https://github.com/api-evangelist/dimetrics-ai
+- name: Dim Hour
+  url: https://artifacts.apis.io/dimhour-com/apis.yml
+  x-apis-io: https://apis.io/providers/dimhour-com/
+  x-github: https://github.com/api-evangelist/dimhour-com
 - name: Dinari
   url: https://artifacts.apis.io/dinari/apis.yml
   x-apis-io: https://apis.io/providers/dinari/
   x-github: https://github.com/api-evangelist/dinari
+- name: Scout
+  url: https://artifacts.apis.io/dinewithscout-com/apis.yml
+  x-apis-io: https://apis.io/providers/dinewithscout-com/
+  x-github: https://github.com/api-evangelist/dinewithscout-com
 - name: Dingdong
   url: https://artifacts.apis.io/dingdong/apis.yml
   x-apis-io: https://apis.io/providers/dingdong/
@@ -3953,6 +4745,46 @@ include:
   url: https://artifacts.apis.io/dinii/apis.yml
   x-apis-io: https://apis.io/providers/dinii/
   x-github: https://github.com/api-evangelist/dinii
+- name: Dinilu Promotional & Printed Products
+  url: https://artifacts.apis.io/dinilu-ca/apis.yml
+  x-apis-io: https://apis.io/providers/dinilu-ca/
+  x-github: https://github.com/api-evangelist/dinilu-ca
+- name: Dinilu
+  url: https://artifacts.apis.io/dinilu-ch/apis.yml
+  x-apis-io: https://apis.io/providers/dinilu-ch/
+  x-github: https://github.com/api-evangelist/dinilu-ch
+- name: Dinilu Promotional & Printed Products
+  url: https://artifacts.apis.io/dinilu-co-uk/apis.yml
+  x-apis-io: https://apis.io/providers/dinilu-co-uk/
+  x-github: https://github.com/api-evangelist/dinilu-co-uk
+- name: Dinilu Werbe- & Druckartikel
+  url: https://artifacts.apis.io/dinilu-de/apis.yml
+  x-apis-io: https://apis.io/providers/dinilu-de/
+  x-github: https://github.com/api-evangelist/dinilu-de
+- name: Dinilu Reklame- & Trykprodukter
+  url: https://artifacts.apis.io/dinilu-dk/apis.yml
+  x-apis-io: https://apis.io/providers/dinilu-dk/
+  x-github: https://github.com/api-evangelist/dinilu-dk
+- name: Dinilu
+  url: https://artifacts.apis.io/dinilu-eu/apis.yml
+  x-apis-io: https://apis.io/providers/dinilu-eu/
+  x-github: https://github.com/api-evangelist/dinilu-eu
+- name: Dinilu
+  url: https://artifacts.apis.io/dinilu-fr/apis.yml
+  x-apis-io: https://apis.io/providers/dinilu-fr/
+  x-github: https://github.com/api-evangelist/dinilu-fr
+- name: Dinilu
+  url: https://artifacts.apis.io/dinilu-nl/apis.yml
+  x-apis-io: https://apis.io/providers/dinilu-nl/
+  x-github: https://github.com/api-evangelist/dinilu-nl
+- name: Dinilu Profil & Tryckprodukter
+  url: https://artifacts.apis.io/dinilu-se/apis.yml
+  x-apis-io: https://apis.io/providers/dinilu-se/
+  x-github: https://github.com/api-evangelist/dinilu-se
+- name: Dinilu Promotional & Printed Products
+  url: https://artifacts.apis.io/dinilu-us/apis.yml
+  x-apis-io: https://apis.io/providers/dinilu-us/
+  x-github: https://github.com/api-evangelist/dinilu-us
 - name: diningco-co-uk
   url: https://artifacts.apis.io/diningco-co-uk/apis.yml
   x-apis-io: https://apis.io/providers/diningco-co-uk/
@@ -3961,6 +4793,10 @@ include:
   url: https://artifacts.apis.io/dinmo/apis.yml
   x-apis-io: https://apis.io/providers/dinmo/
   x-github: https://github.com/api-evangelist/dinmo
+- name: dinogame-gg
+  url: https://artifacts.apis.io/dinogame-gg/apis.yml
+  x-apis-io: https://apis.io/providers/dinogame-gg/
+  x-github: https://github.com/api-evangelist/dinogame-gg
 - name: dinovamedtech
   url: https://artifacts.apis.io/dinovamedtech/apis.yml
   x-apis-io: https://apis.io/providers/dinovamedtech/
@@ -3973,6 +4809,10 @@ include:
   url: https://artifacts.apis.io/diplomat-pharmacy/apis.yml
   x-apis-io: https://apis.io/providers/diplomat-pharmacy/
   x-github: https://github.com/api-evangelist/diplomat-pharmacy
+- name: 'Diplomètre'
+  url: https://artifacts.apis.io/diplometre-fr/apis.yml
+  x-apis-io: https://apis.io/providers/diplometre-fr/
+  x-github: https://github.com/api-evangelist/diplometre-fr
 - name: Diplopia
   url: https://artifacts.apis.io/diplopia/apis.yml
   x-apis-io: https://apis.io/providers/diplopia/
@@ -4009,14 +4849,30 @@ include:
   url: https://artifacts.apis.io/directbiologics/apis.yml
   x-apis-io: https://apis.io/providers/directbiologics/
   x-github: https://github.com/api-evangelist/directbiologics
+- name: DirectCase
+  url: https://artifacts.apis.io/directcase-ai/apis.yml
+  x-apis-io: https://apis.io/providers/directcase-ai/
+  x-github: https://github.com/api-evangelist/directcase-ai
 - name: Direct Hire
   url: https://artifacts.apis.io/directhireagents-com/apis.yml
   x-apis-io: https://apis.io/providers/directhireagents-com/
   x-github: https://github.com/api-evangelist/directhireagents-com
+- name: The Direct Index
+  url: https://artifacts.apis.io/directindex-org/apis.yml
+  x-apis-io: https://apis.io/providers/directindex-org/
+  x-github: https://github.com/api-evangelist/directindex-org
 - name: Director of National Intelligence
   url: https://artifacts.apis.io/director-of-national-intelligence/apis.yml
   x-apis-io: https://apis.io/providers/director-of-national-intelligence/
   x-github: https://github.com/api-evangelist/director-of-national-intelligence
+- name: Directories.ai
+  url: https://artifacts.apis.io/directories-ai/apis.yml
+  x-apis-io: https://apis.io/providers/directories-ai/
+  x-github: https://github.com/api-evangelist/directories-ai
+- name: Directree
+  url: https://artifacts.apis.io/directree-io/apis.yml
+  x-apis-io: https://apis.io/providers/directree-io/
+  x-github: https://github.com/api-evangelist/directree-io
 - name: DirectTap
   url: https://artifacts.apis.io/directtap/apis.yml
   x-apis-io: https://apis.io/providers/directtap/
@@ -4037,10 +4893,18 @@ include:
   url: https://artifacts.apis.io/dirigio/apis.yml
   x-apis-io: https://apis.io/providers/dirigio/
   x-github: https://github.com/api-evangelist/dirigio
+- name: Dirigon
+  url: https://artifacts.apis.io/dirigon-com/apis.yml
+  x-apis-io: https://apis.io/providers/dirigon-com/
+  x-github: https://github.com/api-evangelist/dirigon-com
 - name: Dirk Farin - Algorithmic Research e.K.
   url: https://artifacts.apis.io/dirk-farin-algorithmic-research-e-k/apis.yml
   x-apis-io: https://apis.io/providers/dirk-farin-algorithmic-research-e-k/
   x-github: https://github.com/api-evangelist/dirk-farin-algorithmic-research-e-k
+- name: DirtSignal
+  url: https://artifacts.apis.io/dirtsignal-com/apis.yml
+  x-apis-io: https://apis.io/providers/dirtsignal-com/
+  x-github: https://github.com/api-evangelist/dirtsignal-com
 - name: DISA
   url: https://artifacts.apis.io/disa/apis.yml
   x-apis-io: https://apis.io/providers/disa/
@@ -4065,10 +4929,30 @@ include:
   url: https://artifacts.apis.io/discgolfapi/apis.yml
   x-apis-io: https://apis.io/providers/discgolfapi/
   x-github: https://github.com/api-evangelist/discgolfapi
+- name: English Disc Golf Association
+  url: https://artifacts.apis.io/discgolfengland-com/apis.yml
+  x-apis-io: https://apis.io/providers/discgolfengland-com/
+  x-github: https://github.com/api-evangelist/discgolfengland-com
+- name: Disc Golf MCP
+  url: https://artifacts.apis.io/discgolfmcp-com/apis.yml
+  x-apis-io: https://apis.io/providers/discgolfmcp-com/
+  x-github: https://github.com/api-evangelist/discgolfmcp-com
 - name: Disclo
   url: https://artifacts.apis.io/disclo/apis.yml
   x-apis-io: https://apis.io/providers/disclo/
   x-github: https://github.com/api-evangelist/disclo
+- name: disclose.io
+  url: https://artifacts.apis.io/disclose-io/apis.yml
+  x-apis-io: https://apis.io/providers/disclose-io/
+  x-github: https://github.com/api-evangelist/disclose-io
+- name: disclosedby
+  url: https://artifacts.apis.io/disclosedby-com/apis.yml
+  x-apis-io: https://apis.io/providers/disclosedby-com/
+  x-github: https://github.com/api-evangelist/disclosedby-com
+- name: Disclovo
+  url: https://artifacts.apis.io/disclovo-com/apis.yml
+  x-apis-io: https://apis.io/providers/disclovo-com/
+  x-github: https://github.com/api-evangelist/disclovo-com
 - name: DISCO
   url: https://artifacts.apis.io/disco/apis.yml
   x-apis-io: https://apis.io/providers/disco/
@@ -4077,6 +4961,10 @@ include:
   url: https://artifacts.apis.io/discogs/apis.yml
   x-apis-io: https://apis.io/providers/discogs/
   x-github: https://github.com/api-evangelist/discogs
+- name: DiscoLike
+  url: https://artifacts.apis.io/discolike-com/apis.yml
+  x-apis-io: https://apis.io/providers/discolike-com/
+  x-github: https://github.com/api-evangelist/discolike-com
 - name: Disconetwork
   url: https://artifacts.apis.io/disconetwork/apis.yml
   x-apis-io: https://apis.io/providers/disconetwork/
@@ -4089,6 +4977,10 @@ include:
   url: https://artifacts.apis.io/discountedtokens-api/apis.yml
   x-apis-io: https://apis.io/providers/discountedtokens-api/
   x-github: https://github.com/api-evangelist/discountedtokens-api
+- name: DiscountHub
+  url: https://artifacts.apis.io/discounthub-uz/apis.yml
+  x-apis-io: https://apis.io/providers/discounthub-uz/
+  x-github: https://github.com/api-evangelist/discounthub-uz
 - name: Discourse
   url: https://artifacts.apis.io/discourse/apis.yml
   x-apis-io: https://apis.io/providers/discourse/
@@ -4109,6 +5001,10 @@ include:
   url: https://artifacts.apis.io/discovered-materials/apis.yml
   x-apis-io: https://apis.io/providers/discovered-materials/
   x-github: https://github.com/api-evangelist/discovered-materials
+- name: DiscoverSeniorBenefits
+  url: https://artifacts.apis.io/discoverseniorbenefits-com/apis.yml
+  x-apis-io: https://apis.io/providers/discoverseniorbenefits-com/
+  x-github: https://github.com/api-evangelist/discoverseniorbenefits-com
 - name: Discovery Communications
   url: https://artifacts.apis.io/discovery-communications/apis.yml
   x-apis-io: https://apis.io/providers/discovery-communications/
@@ -4133,6 +5029,10 @@ include:
   url: https://artifacts.apis.io/dishdash/apis.yml
   x-apis-io: https://apis.io/providers/dishdash/
   x-github: https://github.com/api-evangelist/dishdash
+- name: Dish Directory
+  url: https://artifacts.apis.io/dishdirectory-com/apis.yml
+  x-apis-io: https://apis.io/providers/dishdirectory-com/
+  x-github: https://github.com/api-evangelist/dishdirectory-com
 - name: Dishpatch
   url: https://artifacts.apis.io/dishpatch/apis.yml
   x-apis-io: https://apis.io/providers/dishpatch/
@@ -4141,6 +5041,10 @@ include:
   url: https://artifacts.apis.io/disify/apis.yml
   x-apis-io: https://apis.io/providers/disify/
   x-github: https://github.com/api-evangelist/disify
+- name: DiskDrive
+  url: https://artifacts.apis.io/diskdrive-ai/apis.yml
+  x-apis-io: https://apis.io/providers/diskdrive-ai/
+  x-github: https://github.com/api-evangelist/diskdrive-ai
 - name: Disney API
   url: https://artifacts.apis.io/disney/apis.yml
   x-apis-io: https://apis.io/providers/disney/
@@ -4165,6 +5069,22 @@ include:
   url: https://artifacts.apis.io/dispatchhealth/apis.yml
   x-apis-io: https://apis.io/providers/dispatchhealth/
   x-github: https://github.com/api-evangelist/dispatchhealth
+- name: DispatchMind
+  url: https://artifacts.apis.io/dispatchmind-ai/apis.yml
+  x-apis-io: https://apis.io/providers/dispatchmind-ai/
+  x-github: https://github.com/api-evangelist/dispatchmind-ai
+- name: DispatchSEO
+  url: https://artifacts.apis.io/dispatchseo-com/apis.yml
+  x-apis-io: https://apis.io/providers/dispatchseo-com/
+  x-github: https://github.com/api-evangelist/dispatchseo-com
+- name: Dispatch Tickets
+  url: https://artifacts.apis.io/dispatchtickets-com/apis.yml
+  x-apis-io: https://apis.io/providers/dispatchtickets-com/
+  x-github: https://github.com/api-evangelist/dispatchtickets-com
+- name: Dispatchzo
+  url: https://artifacts.apis.io/dispatchzo-com/apis.yml
+  x-apis-io: https://apis.io/providers/dispatchzo-com/
+  x-github: https://github.com/api-evangelist/dispatchzo-com
 - name: Dispel
   url: https://artifacts.apis.io/dispel/apis.yml
   x-apis-io: https://apis.io/providers/dispel/
@@ -4177,6 +5097,10 @@ include:
   url: https://artifacts.apis.io/displaylink/apis.yml
   x-apis-io: https://apis.io/providers/displaylink/
   x-github: https://github.com/api-evangelist/displaylink
+- name: Disputes.online
+  url: https://artifacts.apis.io/disputes-online/apis.yml
+  x-apis-io: https://apis.io/providers/disputes-online/
+  x-github: https://github.com/api-evangelist/disputes-online
 - name: DISQO
   url: https://artifacts.apis.io/disqo/apis.yml
   x-apis-io: https://apis.io/providers/disqo/
@@ -4205,6 +5129,10 @@ include:
   url: https://artifacts.apis.io/distil-networks/apis.yml
   x-apis-io: https://apis.io/providers/distil-networks/
   x-github: https://github.com/api-evangelist/distil-networks
+- name: Distilla AI
+  url: https://artifacts.apis.io/distilla-ai/apis.yml
+  x-apis-io: https://apis.io/providers/distilla-ai/
+  x-github: https://github.com/api-evangelist/distilla-ai
 - name: DistillerSR
   url: https://artifacts.apis.io/distillersr-api/apis.yml
   x-apis-io: https://apis.io/providers/distillersr-api/
@@ -4217,6 +5145,10 @@ include:
   url: https://artifacts.apis.io/distillsync/apis.yml
   x-apis-io: https://apis.io/providers/distillsync/
   x-github: https://github.com/api-evangelist/distillsync
+- name: Distribea
+  url: https://artifacts.apis.io/distribea-com/apis.yml
+  x-apis-io: https://apis.io/providers/distribea-com/
+  x-github: https://github.com/api-evangelist/distribea-com
 - name: Distributedspectrum
   url: https://artifacts.apis.io/distributedspectrum/apis.yml
   x-apis-io: https://apis.io/providers/distributedspectrum/
@@ -4229,6 +5161,10 @@ include:
   url: https://artifacts.apis.io/distributional/apis.yml
   x-apis-io: https://apis.io/providers/distributional/
   x-github: https://github.com/api-evangelist/distributional
+- name: DistributionOS
+  url: https://artifacts.apis.io/distributionos-dev/apis.yml
+  x-apis-io: https://apis.io/providers/distributionos-dev/
+  x-github: https://github.com/api-evangelist/distributionos-dev
 - name: District
   url: https://artifacts.apis.io/district/apis.yml
   x-apis-io: https://apis.io/providers/district/
@@ -4265,6 +5201,10 @@ include:
   url: https://artifacts.apis.io/ditel146b/apis.yml
   x-apis-io: https://apis.io/providers/ditel146b/
   x-github: https://github.com/api-evangelist/ditel146b
+- name: Ditto Audio
+  url: https://artifacts.apis.io/ditto-audio/apis.yml
+  x-apis-io: https://apis.io/providers/ditto-audio/
+  x-github: https://github.com/api-evangelist/ditto-audio
 - name: Ditto Biosciences
   url: https://artifacts.apis.io/ditto-biosciences/apis.yml
   x-apis-io: https://apis.io/providers/ditto-biosciences/
@@ -4285,6 +5225,10 @@ include:
   url: https://artifacts.apis.io/divebell/apis.yml
   x-apis-io: https://apis.io/providers/divebell/
   x-github: https://github.com/api-evangelist/divebell
+- name: Dive Kit
+  url: https://artifacts.apis.io/divekit-app/apis.yml
+  x-apis-io: https://apis.io/providers/divekit-app/
+  x-github: https://github.com/api-evangelist/divekit-app
 - name: Diverge Health
   url: https://artifacts.apis.io/diverge-health/apis.yml
   x-apis-io: https://apis.io/providers/diverge-health/
@@ -4301,10 +5245,22 @@ include:
   url: https://artifacts.apis.io/diversyfund/apis.yml
   x-apis-io: https://apis.io/providers/diversyfund/
   x-github: https://github.com/api-evangelist/diversyfund
+- name: DivestMe
+  url: https://artifacts.apis.io/divest-me/apis.yml
+  x-apis-io: https://apis.io/providers/divest-me/
+  x-github: https://github.com/api-evangelist/divest-me
 - name: 'Divide *'
   url: https://artifacts.apis.io/divide/apis.yml
   x-apis-io: https://apis.io/providers/divide/
   x-github: https://github.com/api-evangelist/divide
+- name: Dividvo
+  url: https://artifacts.apis.io/dividvo-com/apis.yml
+  x-apis-io: https://apis.io/providers/dividvo-com/
+  x-github: https://github.com/api-evangelist/dividvo-com
+- name: Divinci
+  url: https://artifacts.apis.io/divinci-app/apis.yml
+  x-apis-io: https://apis.io/providers/divinci-app/
+  x-github: https://github.com/api-evangelist/divinci-app
 - name: Divine
   url: https://artifacts.apis.io/divine/apis.yml
   x-apis-io: https://apis.io/providers/divine/
@@ -4365,6 +5321,10 @@ include:
   url: https://artifacts.apis.io/django-cms/apis.yml
   x-apis-io: https://apis.io/providers/django-cms/
   x-github: https://github.com/api-evangelist/django-cms
+- name: Djezzy
+  url: https://artifacts.apis.io/djezzy/apis.yml
+  x-apis-io: https://apis.io/providers/djezzy/
+  x-github: https://github.com/api-evangelist/djezzy
 - name: DJI
   url: https://artifacts.apis.io/dji/apis.yml
   x-apis-io: https://apis.io/providers/dji/
@@ -4373,6 +5333,10 @@ include:
   url: https://artifacts.apis.io/djust/apis.yml
   x-apis-io: https://apis.io/providers/djust/
   x-github: https://github.com/api-evangelist/djust
+- name: DJZS
+  url: https://artifacts.apis.io/djzs-ai/apis.yml
+  x-apis-io: https://apis.io/providers/djzs-ai/
+  x-github: https://github.com/api-evangelist/djzs-ai
 - name: DK Finechemical
   url: https://artifacts.apis.io/dk-finechemical-co-ltd/apis.yml
   x-apis-io: https://apis.io/providers/dk-finechemical-co-ltd/
@@ -4409,10 +5373,26 @@ include:
   url: https://artifacts.apis.io/dmall/apis.yml
   x-apis-io: https://apis.io/providers/dmall/
   x-github: https://github.com/api-evangelist/dmall
+- name: DMARC Examiner
+  url: https://artifacts.apis.io/dmarc-examiner-com/apis.yml
+  x-apis-io: https://apis.io/providers/dmarc-examiner-com/
+  x-github: https://github.com/api-evangelist/dmarc-examiner-com
+- name: dmarcshark-com
+  url: https://artifacts.apis.io/dmarcshark-com/apis.yml
+  x-apis-io: https://apis.io/providers/dmarcshark-com/
+  x-github: https://github.com/api-evangelist/dmarcshark-com
 - name: DMarket
   url: https://artifacts.apis.io/dmarket/apis.yml
   x-apis-io: https://apis.io/providers/dmarket/
   x-github: https://github.com/api-evangelist/dmarket
+- name: DMARKOFF
+  url: https://artifacts.apis.io/dmarkoff-com/apis.yml
+  x-apis-io: https://apis.io/providers/dmarkoff-com/
+  x-github: https://github.com/api-evangelist/dmarkoff-com
+- name: DMCA.com
+  url: https://artifacts.apis.io/dmca-com/apis.yml
+  x-apis-io: https://apis.io/providers/dmca-com/
+  x-github: https://github.com/api-evangelist/dmca-com
 - name: dMed Global (Caidya)
   url: https://artifacts.apis.io/dmedglobal/apis.yml
   x-apis-io: https://apis.io/providers/dmedglobal/
@@ -4421,6 +5401,10 @@ include:
   url: https://artifacts.apis.io/dmi/apis.yml
   x-apis-io: https://apis.io/providers/dmi/
   x-github: https://github.com/api-evangelist/dmi
+- name: DMParrot
+  url: https://artifacts.apis.io/dmparrot-com/apis.yml
+  x-apis-io: https://apis.io/providers/dmparrot-com/
+  x-github: https://github.com/api-evangelist/dmparrot-com
 - name: DNA Games
   url: https://artifacts.apis.io/dna-games/apis.yml
   x-apis-io: https://apis.io/providers/dna-games/
@@ -4429,6 +5413,10 @@ include:
   url: https://artifacts.apis.io/dna-script/apis.yml
   x-apis-io: https://apis.io/providers/dna-script/
   x-github: https://github.com/api-evangelist/dna-script
+- name: DNAAI
+  url: https://artifacts.apis.io/dnaai-xyz/apis.yml
+  x-apis-io: https://apis.io/providers/dnaai-xyz/
+  x-github: https://github.com/api-evangelist/dnaai-xyz
 - name: DNAnexus
   url: https://artifacts.apis.io/dnanexus/apis.yml
   x-apis-io: https://apis.io/providers/dnanexus/
@@ -4445,6 +5433,10 @@ include:
   url: https://artifacts.apis.io/dns-coffee/apis.yml
   x-apis-io: https://apis.io/providers/dns-coffee/
   x-github: https://github.com/api-evangelist/dns-coffee
+- name: DNS Doctor
+  url: https://artifacts.apis.io/dnsdoctor-dev/apis.yml
+  x-apis-io: https://apis.io/providers/dnsdoctor-dev/
+  x-github: https://github.com/api-evangelist/dnsdoctor-dev
 - name: DNSFilter
   url: https://artifacts.apis.io/dnsfilter/apis.yml
   x-apis-io: https://apis.io/providers/dnsfilter/
@@ -4453,10 +5445,18 @@ include:
   url: https://artifacts.apis.io/dnsimple/apis.yml
   x-apis-io: https://apis.io/providers/dnsimple/
   x-github: https://github.com/api-evangelist/dnsimple
+- name: DNSMint
+  url: https://artifacts.apis.io/dnsmint-com/apis.yml
+  x-apis-io: https://apis.io/providers/dnsmint-com/
+  x-github: https://github.com/api-evangelist/dnsmint-com
 - name: dnsofmoney-com
   url: https://artifacts.apis.io/dnsofmoney-com/apis.yml
   x-apis-io: https://apis.io/providers/dnsofmoney-com/
   x-github: https://github.com/api-evangelist/dnsofmoney-com
+- name: DNS Spy
+  url: https://artifacts.apis.io/dnsspy-io/apis.yml
+  x-apis-io: https://apis.io/providers/dnsspy-io/
+  x-github: https://github.com/api-evangelist/dnsspy-io
 - name: DNV
   url: https://artifacts.apis.io/dnv/apis.yml
   x-apis-io: https://apis.io/providers/dnv/
@@ -4465,10 +5465,18 @@ include:
   url: https://artifacts.apis.io/do/apis.yml
   x-apis-io: https://apis.io/providers/do/
   x-github: https://github.com/api-evangelist/do
+- name: doaiorbit-com
+  url: https://artifacts.apis.io/doaiorbit-com/apis.yml
+  x-apis-io: https://apis.io/providers/doaiorbit-com/
+  x-github: https://github.com/api-evangelist/doaiorbit-com
 - name: DOAJ
   url: https://artifacts.apis.io/doaj/apis.yml
   x-apis-io: https://apis.io/providers/doaj/
   x-github: https://github.com/api-evangelist/doaj
+- name: Dobby AI
+  url: https://artifacts.apis.io/dobby-ai-com/apis.yml
+  x-apis-io: https://apis.io/providers/dobby-ai-com/
+  x-github: https://github.com/api-evangelist/dobby-ai-com
 - name: Doc Doc
   url: https://artifacts.apis.io/doc-doc/apis.yml
   x-apis-io: https://apis.io/providers/doc-doc/
@@ -4477,10 +5485,22 @@ include:
   url: https://artifacts.apis.io/docai/apis.yml
   x-apis-io: https://apis.io/providers/docai/
   x-github: https://github.com/api-evangelist/docai
+- name: DocBase
+  url: https://artifacts.apis.io/docbase-io/apis.yml
+  x-apis-io: https://apis.io/providers/docbase-io/
+  x-github: https://github.com/api-evangelist/docbase-io
+- name: docbin
+  url: https://artifacts.apis.io/docbin-app/apis.yml
+  x-apis-io: https://apis.io/providers/docbin-app/
+  x-github: https://github.com/api-evangelist/docbin-app
 - name: Doccla
   url: https://artifacts.apis.io/doccla/apis.yml
   x-apis-io: https://apis.io/providers/doccla/
   x-github: https://github.com/api-evangelist/doccla
+- name: DocDiffAI
+  url: https://artifacts.apis.io/docdiffai-com/apis.yml
+  x-apis-io: https://apis.io/providers/docdiffai-com/
+  x-github: https://github.com/api-evangelist/docdiffai-com
 - name: DocDriven
   url: https://artifacts.apis.io/docdriven/apis.yml
   x-apis-io: https://apis.io/providers/docdriven/
@@ -4493,6 +5513,14 @@ include:
   url: https://artifacts.apis.io/doceree/apis.yml
   x-apis-io: https://apis.io/providers/doceree/
   x-github: https://github.com/api-evangelist/doceree
+- name: dochost
+  url: https://artifacts.apis.io/dochost-io/apis.yml
+  x-apis-io: https://apis.io/providers/dochost-io/
+  x-github: https://github.com/api-evangelist/dochost-io
+- name: DocImprint
+  url: https://artifacts.apis.io/docimprint-com/apis.yml
+  x-apis-io: https://apis.io/providers/docimprint-com/
+  x-github: https://github.com/api-evangelist/docimprint-com
 - name: docin
   url: https://artifacts.apis.io/docin/apis.yml
   x-apis-io: https://apis.io/providers/docin/
@@ -4501,6 +5529,10 @@ include:
   url: https://artifacts.apis.io/dock/apis.yml
   x-apis-io: https://apis.io/providers/dock/
   x-github: https://github.com/api-evangelist/dock
+- name: dockai-co
+  url: https://artifacts.apis.io/dockai-co/apis.yml
+  x-apis-io: https://apis.io/providers/dockai-co/
+  x-github: https://github.com/api-evangelist/dockai-co
 - name: Docker
   url: https://artifacts.apis.io/docker/apis.yml
   x-apis-io: https://apis.io/providers/docker/
@@ -4533,10 +5565,22 @@ include:
   url: https://artifacts.apis.io/docketbird/apis.yml
   x-apis-io: https://apis.io/providers/docketbird/
   x-github: https://github.com/api-evangelist/docketbird
+- name: Docket Nexus
+  url: https://artifacts.apis.io/docketnexus-com/apis.yml
+  x-apis-io: https://apis.io/providers/docketnexus-com/
+  x-github: https://github.com/api-evangelist/docketnexus-com
 - name: Docketwise
   url: https://artifacts.apis.io/docketwise/apis.yml
   x-apis-io: https://apis.io/providers/docketwise/
   x-github: https://github.com/api-evangelist/docketwise
+- name: Dockhold
+  url: https://artifacts.apis.io/dockhold-eu/apis.yml
+  x-apis-io: https://apis.io/providers/dockhold-eu/
+  x-github: https://github.com/api-evangelist/dockhold-eu
+- name: 'e-companion UG (haftungsbeschränkt)'
+  url: https://artifacts.apis.io/docks-io/apis.yml
+  x-apis-io: https://apis.io/providers/docks-io/
+  x-github: https://github.com/api-evangelist/docks-io
 - name: Dockwa
   url: https://artifacts.apis.io/dockwa/apis.yml
   x-apis-io: https://apis.io/providers/dockwa/
@@ -4549,6 +5593,10 @@ include:
   url: https://artifacts.apis.io/docmein/apis.yml
   x-apis-io: https://apis.io/providers/docmein/
   x-github: https://github.com/api-evangelist/docmein
+- name: DocMorph
+  url: https://artifacts.apis.io/docmorph-dev/apis.yml
+  x-apis-io: https://apis.io/providers/docmorph-dev/
+  x-github: https://github.com/api-evangelist/docmorph-dev
 - name: Saga Labs
   url: https://artifacts.apis.io/docoapi/apis.yml
   x-apis-io: https://apis.io/providers/docoapi/
@@ -4577,10 +5625,18 @@ include:
   url: https://artifacts.apis.io/docquity/apis.yml
   x-apis-io: https://apis.io/providers/docquity/
   x-github: https://github.com/api-evangelist/docquity
+- name: Docracy
+  url: https://artifacts.apis.io/docracy-io/apis.yml
+  x-apis-io: https://apis.io/providers/docracy-io/
+  x-github: https://github.com/api-evangelist/docracy-io
 - name: DocRaptor
   url: https://artifacts.apis.io/docraptor/apis.yml
   x-apis-io: https://apis.io/providers/docraptor/
   x-github: https://github.com/api-evangelist/docraptor
+- name: docrocket-ai
+  url: https://artifacts.apis.io/docrocket-ai/apis.yml
+  x-apis-io: https://apis.io/providers/docrocket-ai/
+  x-github: https://github.com/api-evangelist/docrocket-ai
 - name: docs-md-com
   url: https://artifacts.apis.io/docs-md-com/apis.yml
   x-apis-io: https://apis.io/providers/docs-md-com/
@@ -4609,6 +5665,10 @@ include:
   url: https://artifacts.apis.io/docsmint-com/apis.yml
   x-apis-io: https://apis.io/providers/docsmint-com/
   x-github: https://github.com/api-evangelist/docsmint-com
+- name: Docspeed
+  url: https://artifacts.apis.io/docspeed-ai/apis.yml
+  x-apis-io: https://apis.io/providers/docspeed-ai/
+  x-github: https://github.com/api-evangelist/docspeed-ai
 - name: Docspera
   url: https://artifacts.apis.io/docspera/apis.yml
   x-apis-io: https://apis.io/providers/docspera/
@@ -4633,10 +5693,18 @@ include:
   url: https://artifacts.apis.io/doctave/apis.yml
   x-apis-io: https://apis.io/providers/doctave/
   x-github: https://github.com/api-evangelist/doctave
+- name: Docteur Bet
+  url: https://artifacts.apis.io/docteurbet-fr/apis.yml
+  x-apis-io: https://apis.io/providers/docteurbet-fr/
+  x-github: https://github.com/api-evangelist/docteurbet-fr
 - name: Doctly
   url: https://artifacts.apis.io/doctly-ai/apis.yml
   x-apis-io: https://apis.io/providers/doctly-ai/
   x-github: https://github.com/api-evangelist/doctly-ai
+- name: Doctofam
+  url: https://artifacts.apis.io/doctofam-com/apis.yml
+  x-apis-io: https://apis.io/providers/doctofam-com/
+  x-github: https://github.com/api-evangelist/doctofam-com
 - name: Doctolib
   url: https://artifacts.apis.io/doctolib/apis.yml
   x-apis-io: https://apis.io/providers/doctolib/
@@ -4677,6 +5745,14 @@ include:
   url: https://artifacts.apis.io/docugami/apis.yml
   x-apis-io: https://apis.io/providers/docugami/
   x-github: https://github.com/api-evangelist/docugami
+- name: DocuGrip
+  url: https://artifacts.apis.io/docugrip-com/apis.yml
+  x-apis-io: https://apis.io/providers/docugrip-com/
+  x-github: https://github.com/api-evangelist/docugrip-com
+- name: DocuGuru
+  url: https://artifacts.apis.io/docuguru-ai/apis.yml
+  x-apis-io: https://apis.io/providers/docuguru-ai/
+  x-github: https://github.com/api-evangelist/docuguru-ai
 - name: Documenso
   url: https://artifacts.apis.io/documenso/apis.yml
   x-apis-io: https://apis.io/providers/documenso/
@@ -4737,6 +5813,14 @@ include:
   url: https://artifacts.apis.io/docuware/apis.yml
   x-apis-io: https://apis.io/providers/docuware/
   x-github: https://github.com/api-evangelist/docuware
+- name: DocuWriter.ai
+  url: https://artifacts.apis.io/docuwriter-ai/apis.yml
+  x-apis-io: https://apis.io/providers/docuwriter-ai/
+  x-github: https://github.com/api-evangelist/docuwriter-ai
+- name: DocVerdict
+  url: https://artifacts.apis.io/docverdict-com/apis.yml
+  x-apis-io: https://apis.io/providers/docverdict-com/
+  x-github: https://github.com/api-evangelist/docverdict-com
 - name: docweave-dev
   url: https://artifacts.apis.io/docweave-dev/apis.yml
   x-apis-io: https://apis.io/providers/docweave-dev/
@@ -4757,10 +5841,22 @@ include:
   url: https://artifacts.apis.io/dodo/apis.yml
   x-apis-io: https://apis.io/providers/dodo/
   x-github: https://github.com/api-evangelist/dodo
+- name: DoDo
+  url: https://artifacts.apis.io/dodo-day/apis.yml
+  x-apis-io: https://apis.io/providers/dodo-day/
+  x-github: https://github.com/api-evangelist/dodo-day
 - name: Dodo Payments
   url: https://artifacts.apis.io/dodo-payments/apis.yml
   x-apis-io: https://apis.io/providers/dodo-payments/
   x-github: https://github.com/api-evangelist/dodo-payments
+- name: DodoDentist
+  url: https://artifacts.apis.io/dododentist-com/apis.yml
+  x-apis-io: https://apis.io/providers/dododentist-com/
+  x-github: https://github.com/api-evangelist/dododentist-com
+- name: DoDomain
+  url: https://artifacts.apis.io/dodomain-io/apis.yml
+  x-apis-io: https://apis.io/providers/dodomain-io/
+  x-github: https://github.com/api-evangelist/dodomain-io
 - name: Department of Energy
   url: https://artifacts.apis.io/doe/apis.yml
   x-apis-io: https://apis.io/providers/doe/
@@ -4785,10 +5881,22 @@ include:
   url: https://artifacts.apis.io/doge-meme/apis.yml
   x-apis-io: https://apis.io/providers/doge-meme/
   x-github: https://github.com/api-evangelist/doge-meme
+- name: Dogechain
+  url: https://artifacts.apis.io/dogechain-com/apis.yml
+  x-apis-io: https://apis.io/providers/dogechain-com/
+  x-github: https://github.com/api-evangelist/dogechain-com
+- name: Dog Leadership Academy
+  url: https://artifacts.apis.io/dogleadershipacademy-com/apis.yml
+  x-apis-io: https://apis.io/providers/dogleadershipacademy-com/
+  x-github: https://github.com/api-evangelist/dogleadershipacademy-com
 - name: Dognosis
   url: https://artifacts.apis.io/dognosis/apis.yml
   x-apis-io: https://apis.io/providers/dognosis/
   x-github: https://github.com/api-evangelist/dognosis
+- name: DogNote
+  url: https://artifacts.apis.io/dognote-app/apis.yml
+  x-apis-io: https://apis.io/providers/dognote-app/
+  x-github: https://github.com/api-evangelist/dognote-app
 - name: Dogs
   url: https://artifacts.apis.io/dogs/apis.yml
   x-apis-io: https://apis.io/providers/dogs/
@@ -4825,6 +5933,14 @@ include:
   url: https://artifacts.apis.io/dojo/apis.yml
   x-apis-io: https://apis.io/providers/dojo/
   x-github: https://github.com/api-evangelist/dojo
+- name: DOJO+
+  url: https://artifacts.apis.io/dojoplus-co/apis.yml
+  x-apis-io: https://apis.io/providers/dojoplus-co/
+  x-github: https://github.com/api-evangelist/dojoplus-co
+- name: 'ДокиДепо'
+  url: https://artifacts.apis.io/dokidepo-ru/apis.yml
+  x-apis-io: https://apis.io/providers/dokidepo-ru/
+  x-github: https://github.com/api-evangelist/dokidepo-ru
 - name: Dokki
   url: https://artifacts.apis.io/dokki-one/apis.yml
   x-apis-io: https://apis.io/providers/dokki-one/
@@ -4833,6 +5949,14 @@ include:
   url: https://artifacts.apis.io/dokku/apis.yml
   x-apis-io: https://apis.io/providers/dokku/
   x-github: https://github.com/api-evangelist/dokku
+- name: Doklad.ai
+  url: https://artifacts.apis.io/doklad-ai/apis.yml
+  x-apis-io: https://apis.io/providers/doklad-ai/
+  x-github: https://github.com/api-evangelist/doklad-ai
+- name: DokladBot
+  url: https://artifacts.apis.io/dokladbot-cz/apis.yml
+  x-apis-io: https://apis.io/providers/dokladbot-cz/
+  x-github: https://github.com/api-evangelist/dokladbot-cz
 - name: Dokploy
   url: https://artifacts.apis.io/dokploy/apis.yml
   x-apis-io: https://apis.io/providers/dokploy/
@@ -4845,6 +5969,14 @@ include:
   url: https://artifacts.apis.io/doku/apis.yml
   x-apis-io: https://apis.io/providers/doku/
   x-github: https://github.com/api-evangelist/doku
+- name: Dokumendi Register
+  url: https://artifacts.apis.io/dokumendiregister-ee/apis.yml
+  x-apis-io: https://apis.io/providers/dokumendiregister-ee/
+  x-github: https://github.com/api-evangelist/dokumendiregister-ee
+- name: DokuTrak
+  url: https://artifacts.apis.io/dokutrak-com/apis.yml
+  x-apis-io: https://apis.io/providers/dokutrak-com/
+  x-github: https://github.com/api-evangelist/dokutrak-com
 - name: dokyumi-com
   url: https://artifacts.apis.io/dokyumi-com/apis.yml
   x-apis-io: https://apis.io/providers/dokyumi-com/
@@ -4877,6 +6009,10 @@ include:
   url: https://artifacts.apis.io/dollar-tree/apis.yml
   x-apis-io: https://apis.io/providers/dollar-tree/
   x-github: https://github.com/api-evangelist/dollar-tree
+- name: dollarr
+  url: https://artifacts.apis.io/dollarr-xyz/apis.yml
+  x-apis-io: https://apis.io/providers/dollarr-xyz/
+  x-github: https://github.com/api-evangelist/dollarr-xyz
 - name: dollea-de
   url: https://artifacts.apis.io/dollea-de/apis.yml
   x-apis-io: https://apis.io/providers/dollea-de/
@@ -4889,10 +6025,18 @@ include:
   url: https://artifacts.apis.io/dolly/apis.yml
   x-apis-io: https://apis.io/providers/dolly/
   x-github: https://github.com/api-evangelist/dolly
+- name: Dolphin Centrifuge
+  url: https://artifacts.apis.io/dolphincentrifuge-com/apis.yml
+  x-apis-io: https://apis.io/providers/dolphincentrifuge-com/
+  x-github: https://github.com/api-evangelist/dolphincentrifuge-com
 - name: First Principles Software
   url: https://artifacts.apis.io/dolphincsv/apis.yml
   x-apis-io: https://apis.io/providers/dolphincsv/
   x-github: https://github.com/api-evangelist/dolphincsv
+- name: Dolphin Industrial Parts
+  url: https://artifacts.apis.io/dolphinindustrialparts-com/apis.yml
+  x-apis-io: https://apis.io/providers/dolphinindustrialparts-com/
+  x-github: https://github.com/api-evangelist/dolphinindustrialparts-com
 - name: DolphinSearch
   url: https://artifacts.apis.io/dolphinsearch/apis.yml
   x-apis-io: https://apis.io/providers/dolphinsearch/
@@ -4905,14 +6049,30 @@ include:
   url: https://artifacts.apis.io/doma/apis.yml
   x-apis-io: https://apis.io/providers/doma/
   x-github: https://github.com/api-evangelist/doma
+- name: 'ドメイン番人'
+  url: https://artifacts.apis.io/domain-bannin-jp/apis.yml
+  x-apis-io: https://apis.io/providers/domain-bannin-jp/
+  x-github: https://github.com/api-evangelist/domain-bannin-jp
 - name: Domain Group
   url: https://artifacts.apis.io/domain-group/apis.yml
   x-apis-io: https://apis.io/providers/domain-group/
   x-github: https://github.com/api-evangelist/domain-group
+- name: Domain Sentinel
+  url: https://artifacts.apis.io/domain-sentinel-com/apis.yml
+  x-apis-io: https://apis.io/providers/domain-sentinel-com/
+  x-github: https://github.com/api-evangelist/domain-sentinel-com
+- name: DomainCanary
+  url: https://artifacts.apis.io/domaincanary-com/apis.yml
+  x-apis-io: https://apis.io/providers/domaincanary-com/
+  x-github: https://github.com/api-evangelist/domaincanary-com
 - name: DomainDb Info
   url: https://artifacts.apis.io/domaindb-info/apis.yml
   x-apis-io: https://apis.io/providers/domaindb-info/
   x-github: https://github.com/api-evangelist/domaindb-info
+- name: DomainDrift
+  url: https://artifacts.apis.io/domaindrift-io/apis.yml
+  x-apis-io: https://apis.io/providers/domaindrift-io/
+  x-github: https://github.com/api-evangelist/domaindrift-io
 - name: domainee-dev
   url: https://artifacts.apis.io/domainee-dev/apis.yml
   x-apis-io: https://apis.io/providers/domainee-dev/
@@ -4925,14 +6085,46 @@ include:
   url: https://artifacts.apis.io/domainium-io/apis.yml
   x-apis-io: https://apis.io/providers/domainium-io/
   x-github: https://github.com/api-evangelist/domainium-io
+- name: DomainKits
+  url: https://artifacts.apis.io/domainkits-com/apis.yml
+  x-apis-io: https://apis.io/providers/domainkits-com/
+  x-github: https://github.com/api-evangelist/domainkits-com
+- name: Domain Lab
+  url: https://artifacts.apis.io/domainlab-app/apis.yml
+  x-apis-io: https://apis.io/providers/domainlab-app/
+  x-github: https://github.com/api-evangelist/domainlab-app
+- name: Domain Posture
+  url: https://artifacts.apis.io/domainposture-com/apis.yml
+  x-apis-io: https://apis.io/providers/domainposture-com/
+  x-github: https://github.com/api-evangelist/domainposture-com
+- name: DomainROC
+  url: https://artifacts.apis.io/domainroc-com/apis.yml
+  x-apis-io: https://apis.io/providers/domainroc-com/
+  x-github: https://github.com/api-evangelist/domainroc-com
 - name: Domainsdb.info
   url: https://artifacts.apis.io/domainsdb-info/apis.yml
   x-apis-io: https://apis.io/providers/domainsdb-info/
   x-github: https://github.com/api-evangelist/domainsdb-info
+- name: Domain Search King
+  url: https://artifacts.apis.io/domainsearchking-com/apis.yml
+  x-apis-io: https://apis.io/providers/domainsearchking-com/
+  x-github: https://github.com/api-evangelist/domainsearchking-com
 - name: DomainTools
   url: https://artifacts.apis.io/domaintools/apis.yml
   x-apis-io: https://apis.io/providers/domaintools/
   x-github: https://github.com/api-evangelist/domaintools
+- name: Domandata
+  url: https://artifacts.apis.io/domandata-net/apis.yml
+  x-apis-io: https://apis.io/providers/domandata-net/
+  x-github: https://github.com/api-evangelist/domandata-net
+- name: Domani
+  url: https://artifacts.apis.io/domani-run/apis.yml
+  x-apis-io: https://apis.io/providers/domani-run/
+  x-github: https://github.com/api-evangelist/domani-run
+- name: Domduck
+  url: https://artifacts.apis.io/domduck-com/apis.yml
+  x-apis-io: https://apis.io/providers/domduck-com/
+  x-github: https://github.com/api-evangelist/domduck-com
 - name: Dome Systems
   url: https://artifacts.apis.io/dome-systems/apis.yml
   x-apis-io: https://apis.io/providers/dome-systems/
@@ -4941,10 +6133,18 @@ include:
   url: https://artifacts.apis.io/dome9/apis.yml
   x-apis-io: https://apis.io/providers/dome9/
   x-github: https://github.com/api-evangelist/dome9
+- name: Domeneschluse
+  url: https://artifacts.apis.io/domeneschluse-no/apis.yml
+  x-apis-io: https://apis.io/providers/domeneschluse-no/
+  x-github: https://github.com/api-evangelist/domeneschluse-no
 - name: Domestika
   url: https://artifacts.apis.io/domestika/apis.yml
   x-apis-io: https://apis.io/providers/domestika/
   x-github: https://github.com/api-evangelist/domestika
+- name: Dominal Tech Pvt Ltd
+  url: https://artifacts.apis.io/dominal-in/apis.yml
+  x-apis-io: https://apis.io/providers/dominal-in/
+  x-github: https://github.com/api-evangelist/dominal-in
 - name: dominickprevete-com
   url: https://artifacts.apis.io/dominickprevete-com/apis.yml
   x-apis-io: https://apis.io/providers/dominickprevete-com/
@@ -4961,6 +6161,10 @@ include:
   url: https://artifacts.apis.io/dominion-resources/apis.yml
   x-apis-io: https://apis.io/providers/dominion-resources/
   x-github: https://github.com/api-evangelist/dominion-resources
+- name: Dominion Observatory
+  url: https://artifacts.apis.io/dominionobservatory-com/apis.yml
+  x-apis-io: https://apis.io/providers/dominionobservatory-com/
+  x-github: https://github.com/api-evangelist/dominionobservatory-com
 - name: Domino Data Lab
   url: https://artifacts.apis.io/domino-data-lab/apis.yml
   x-apis-io: https://apis.io/providers/domino-data-lab/
@@ -4973,6 +6177,10 @@ include:
   url: https://artifacts.apis.io/domio/apis.yml
   x-apis-io: https://apis.io/providers/domio/
   x-github: https://github.com/api-evangelist/domio
+- name: Dom Kozak
+  url: https://artifacts.apis.io/domkozak-com/apis.yml
+  x-apis-io: https://apis.io/providers/domkozak-com/
+  x-github: https://github.com/api-evangelist/domkozak-com
 - name: Domo
   url: https://artifacts.apis.io/domo/apis.yml
   x-apis-io: https://apis.io/providers/domo/
@@ -5013,6 +6221,18 @@ include:
   url: https://artifacts.apis.io/done/apis.yml
   x-apis-io: https://apis.io/providers/done/
   x-github: https://github.com/api-evangelist/done
+- name: Done Bear
+  url: https://artifacts.apis.io/donebear-com/apis.yml
+  x-apis-io: https://apis.io/providers/donebear-com/
+  x-github: https://github.com/api-evangelist/donebear-com
+- name: Donelane
+  url: https://artifacts.apis.io/donelane-app/apis.yml
+  x-apis-io: https://apis.io/providers/donelane-app/
+  x-github: https://github.com/api-evangelist/donelane-app
+- name: DoneThat
+  url: https://artifacts.apis.io/donethat-ai/apis.yml
+  x-apis-io: https://apis.io/providers/donethat-ai/
+  x-github: https://github.com/api-evangelist/donethat-ai
 - name: Dongyintechnology
   url: https://artifacts.apis.io/dongyintechnology/apis.yml
   x-apis-io: https://apis.io/providers/dongyintechnology/
@@ -5089,6 +6309,10 @@ include:
   url: https://artifacts.apis.io/donuts/apis.yml
   x-apis-io: https://apis.io/providers/donuts/
   x-github: https://github.com/api-evangelist/donuts
+- name: DooDates
+  url: https://artifacts.apis.io/doodates-com/apis.yml
+  x-apis-io: https://apis.io/providers/doodates-com/
+  x-github: https://github.com/api-evangelist/doodates-com
 - name: Doodle
   url: https://artifacts.apis.io/doodle/apis.yml
   x-apis-io: https://apis.io/providers/doodle/
@@ -5101,6 +6325,10 @@ include:
   url: https://artifacts.apis.io/doodles/apis.yml
   x-apis-io: https://apis.io/providers/doodles/
   x-github: https://github.com/api-evangelist/doodles
+- name: Dooit
+  url: https://artifacts.apis.io/dooit-so/apis.yml
+  x-apis-io: https://apis.io/providers/dooit-so/
+  x-github: https://github.com/api-evangelist/dooit-so
 - name: Dooly
   url: https://artifacts.apis.io/dooly/apis.yml
   x-apis-io: https://apis.io/providers/dooly/
@@ -5109,6 +6337,10 @@ include:
   url: https://artifacts.apis.io/doomersion/apis.yml
   x-apis-io: https://apis.io/providers/doomersion/
   x-github: https://github.com/api-evangelist/doomersion
+- name: Doom
+  url: https://artifacts.apis.io/doomscore-vc/apis.yml
+  x-apis-io: https://apis.io/providers/doomscore-vc/
+  x-github: https://github.com/api-evangelist/doomscore-vc
 - name: Door
   url: https://artifacts.apis.io/door/apis.yml
   x-apis-io: https://apis.io/providers/door/
@@ -5129,6 +6361,14 @@ include:
   url: https://artifacts.apis.io/doorloop/apis.yml
   x-apis-io: https://apis.io/providers/doorloop/
   x-github: https://github.com/api-evangelist/doorloop
+- name: doorprofit-com
+  url: https://artifacts.apis.io/doorprofit-com/apis.yml
+  x-apis-io: https://apis.io/providers/doorprofit-com/
+  x-github: https://github.com/api-evangelist/doorprofit-com
+- name: DoorsetBook
+  url: https://artifacts.apis.io/doorsetbook-com/apis.yml
+  x-apis-io: https://apis.io/providers/doorsetbook-com/
+  x-github: https://github.com/api-evangelist/doorsetbook-com
 - name: Doorstead
   url: https://artifacts.apis.io/doorstead/apis.yml
   x-apis-io: https://apis.io/providers/doorstead/
@@ -5145,6 +6385,14 @@ include:
   url: https://artifacts.apis.io/dooyoo-de/apis.yml
   x-apis-io: https://apis.io/providers/dooyoo-de/
   x-github: https://github.com/api-evangelist/dooyoo-de
+- name: Dooza
+  url: https://artifacts.apis.io/dooza-ai/apis.yml
+  x-apis-io: https://apis.io/providers/dooza-ai/
+  x-github: https://github.com/api-evangelist/dooza-ai
+- name: 'dopamine 💊, the store where you shop without spending'
+  url: https://artifacts.apis.io/dopamineshopping-com/apis.yml
+  x-apis-io: https://apis.io/providers/dopamineshopping-com/
+  x-github: https://github.com/api-evangelist/dopamineshopping-com
 - name: dopay
   url: https://artifacts.apis.io/dopay/apis.yml
   x-apis-io: https://apis.io/providers/dopay/
@@ -5181,6 +6429,14 @@ include:
   url: https://artifacts.apis.io/dorado-software-inc/apis.yml
   x-apis-io: https://apis.io/providers/dorado-software-inc/
   x-github: https://github.com/api-evangelist/dorado-software-inc
+- name: Saga Labs
+  url: https://artifacts.apis.io/doravideo-com/apis.yml
+  x-apis-io: https://apis.io/providers/doravideo-com/
+  x-github: https://github.com/api-evangelist/doravideo-com
+- name: DormBix
+  url: https://artifacts.apis.io/dormbix-com/apis.yml
+  x-apis-io: https://apis.io/providers/dormbix-com/
+  x-github: https://github.com/api-evangelist/dormbix-com
 - name: Dormify
   url: https://artifacts.apis.io/dormify/apis.yml
   x-apis-io: https://apis.io/providers/dormify/
@@ -5197,6 +6453,18 @@ include:
   url: https://artifacts.apis.io/dorsata/apis.yml
   x-apis-io: https://apis.io/providers/dorsata/
   x-github: https://github.com/api-evangelist/dorsata
+- name: DOS AI
+  url: https://artifacts.apis.io/dosai-pro/apis.yml
+  x-apis-io: https://apis.io/providers/dosai-pro/
+  x-github: https://github.com/api-evangelist/dosai-pro
+- name: Doseedo
+  url: https://artifacts.apis.io/doseedo-com/apis.yml
+  x-apis-io: https://apis.io/providers/doseedo-com/
+  x-github: https://github.com/api-evangelist/doseedo-com
+- name: DosePlot
+  url: https://artifacts.apis.io/doseplot-com/apis.yml
+  x-apis-io: https://apis.io/providers/doseplot-com/
+  x-github: https://github.com/api-evangelist/doseplot-com
 - name: DoseSpot
   url: https://artifacts.apis.io/dosespot/apis.yml
   x-apis-io: https://apis.io/providers/dosespot/
@@ -5233,6 +6501,10 @@ include:
   url: https://artifacts.apis.io/dotfile/apis.yml
   x-apis-io: https://apis.io/providers/dotfile/
   x-github: https://github.com/api-evangelist/dotfile
+- name: D0T1
+  url: https://artifacts.apis.io/doti-gg/apis.yml
+  x-apis-io: https://apis.io/providers/doti-gg/
+  x-github: https://github.com/api-evangelist/doti-gg
 - name: dotloop
   url: https://artifacts.apis.io/dotloop/apis.yml
   x-apis-io: https://apis.io/providers/dotloop/
@@ -5241,10 +6513,18 @@ include:
   url: https://artifacts.apis.io/dotmatics/apis.yml
   x-apis-io: https://apis.io/providers/dotmatics/
   x-github: https://github.com/api-evangelist/dotmatics
+- name: Dotnova
+  url: https://artifacts.apis.io/dotnova-io/apis.yml
+  x-apis-io: https://apis.io/providers/dotnova-io/
+  x-github: https://github.com/api-evangelist/dotnova-io
 - name: DotPe
   url: https://artifacts.apis.io/dotpe/apis.yml
   x-apis-io: https://apis.io/providers/dotpe/
   x-github: https://github.com/api-evangelist/dotpe
+- name: 'dot•requirements'
+  url: https://artifacts.apis.io/dotrequirements-io/apis.yml
+  x-apis-io: https://apis.io/providers/dotrequirements-io/
+  x-github: https://github.com/api-evangelist/dotrequirements-io
 - name: Dots
   url: https://artifacts.apis.io/dots/apis.yml
   x-apis-io: https://apis.io/providers/dots/
@@ -5253,10 +6533,26 @@ include:
   url: https://artifacts.apis.io/dots-technology-corp/apis.yml
   x-apis-io: https://apis.io/providers/dots-technology-corp/
   x-github: https://github.com/api-evangelist/dots-technology-corp
+- name: dotstell-app
+  url: https://artifacts.apis.io/dotstell-app/apis.yml
+  x-apis-io: https://apis.io/providers/dotstell-app/
+  x-github: https://github.com/api-evangelist/dotstell-app
+- name: dotsweep-com
+  url: https://artifacts.apis.io/dotsweep-com/apis.yml
+  x-apis-io: https://apis.io/providers/dotsweep-com/
+  x-github: https://github.com/api-evangelist/dotsweep-com
+- name: dotsy
+  url: https://artifacts.apis.io/dotsy-ai/apis.yml
+  x-apis-io: https://apis.io/providers/dotsy-ai/
+  x-github: https://github.com/api-evangelist/dotsy-ai
 - name: Dott
   url: https://artifacts.apis.io/dott/apis.yml
   x-apis-io: https://apis.io/providers/dott/
   x-github: https://github.com/api-evangelist/dott
+- name: DottedSign
+  url: https://artifacts.apis.io/dottedsign-com/apis.yml
+  x-apis-io: https://apis.io/providers/dottedsign-com/
+  x-github: https://github.com/api-evangelist/dottedsign-com
 - name: Dotterel
   url: https://artifacts.apis.io/dotterel/apis.yml
   x-apis-io: https://apis.io/providers/dotterel/
@@ -5281,10 +6577,6 @@ include:
   url: https://artifacts.apis.io/double/apis.yml
   x-apis-io: https://apis.io/providers/double/
   x-github: https://github.com/api-evangelist/double
-- name: Double Click
-  url: https://artifacts.apis.io/double-click/apis.yml
-  x-apis-io: https://apis.io/providers/double-click/
-  x-github: https://github.com/api-evangelist/double-click
 - name: Double Robotics
   url: https://artifacts.apis.io/double-robotics/apis.yml
   x-apis-io: https://apis.io/providers/double-robotics/
@@ -5297,6 +6589,10 @@ include:
   url: https://artifacts.apis.io/doubleai/apis.yml
   x-apis-io: https://apis.io/providers/doubleai/
   x-github: https://github.com/api-evangelist/doubleai
+- name: Double AIgents
+  url: https://artifacts.apis.io/doubleaigents-com/apis.yml
+  x-apis-io: https://apis.io/providers/doubleaigents-com/
+  x-github: https://github.com/api-evangelist/doubleaigents-com
 - name: DoubleDutch
   url: https://artifacts.apis.io/doubledutch/apis.yml
   x-apis-io: https://apis.io/providers/doubledutch/
@@ -5321,11 +6617,6 @@ include:
   url: https://artifacts.apis.io/douxprocess-com/apis.yml
   x-apis-io: https://apis.io/providers/douxprocess-com/
   x-github: https://github.com/api-evangelist/douxprocess-com
-- name: Dovel Labs
-  url: https://artifacts.apis.io/dovellabs-si/apis.yml
-  x-apis-io: https://apis.io/providers/dovellabs-si/
-  x-github: https://github.com/api-evangelist/dovellabs-si
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: dovemails-com
   url: https://artifacts.apis.io/dovemails-com/apis.yml
   x-apis-io: https://apis.io/providers/dovemails-com/
@@ -5338,6 +6629,10 @@ include:
   url: https://artifacts.apis.io/dovetail/apis.yml
   x-apis-io: https://apis.io/providers/dovetail/
   x-github: https://github.com/api-evangelist/dovetail
+- name: Dovri
+  url: https://artifacts.apis.io/dovri-io/apis.yml
+  x-apis-io: https://apis.io/providers/dovri-io/
+  x-github: https://github.com/api-evangelist/dovri-io
 - name: Dow Inc. (formerly The Dow Chemical Company)
   url: https://artifacts.apis.io/dow-chemical/apis.yml
   x-apis-io: https://apis.io/providers/dow-chemical/
@@ -5362,6 +6657,10 @@ include:
   url: https://artifacts.apis.io/downstream-energy/apis.yml
   x-apis-io: https://apis.io/providers/downstream-energy/
   x-github: https://github.com/api-evangelist/downstream-energy
+- name: downtester-com
+  url: https://artifacts.apis.io/downtester-com/apis.yml
+  x-apis-io: https://apis.io/providers/downtester-com/
+  x-github: https://github.com/api-evangelist/downtester-com
 - name: Dowsure
   url: https://artifacts.apis.io/dowsure/apis.yml
   x-apis-io: https://apis.io/providers/dowsure/
@@ -5406,10 +6705,18 @@ include:
   url: https://artifacts.apis.io/dpd-group/apis.yml
   x-apis-io: https://apis.io/providers/dpd-group/
   x-github: https://github.com/api-evangelist/dpd-group
+- name: DPF
+  url: https://artifacts.apis.io/dpf-it-com/apis.yml
+  x-apis-io: https://apis.io/providers/dpf-it-com/
+  x-github: https://github.com/api-evangelist/dpf-it-com
 - name: Digital Public Library of America
   url: https://artifacts.apis.io/dpla/apis.yml
   x-apis-io: https://apis.io/providers/dpla/
   x-github: https://github.com/api-evangelist/dpla
+- name: dplooy
+  url: https://artifacts.apis.io/dplooy-com/apis.yml
+  x-apis-io: https://apis.io/providers/dplooy-com/
+  x-github: https://github.com/api-evangelist/dplooy-com
 - name: DPO Pay
   url: https://artifacts.apis.io/dpo-pay/apis.yml
   x-apis-io: https://apis.io/providers/dpo-pay/
@@ -5426,6 +6733,18 @@ include:
   url: https://artifacts.apis.io/dr-pepper-snapple-group/apis.yml
   x-apis-io: https://apis.io/providers/dr-pepper-snapple-group/
   x-github: https://github.com/api-evangelist/dr-pepper-snapple-group
+- name: Draconic AI
+  url: https://artifacts.apis.io/draconic-ai/apis.yml
+  x-apis-io: https://apis.io/providers/draconic-ai/
+  x-github: https://github.com/api-evangelist/draconic-ai
+- name: Draftboard
+  url: https://artifacts.apis.io/draftboard-com/apis.yml
+  x-apis-io: https://apis.io/providers/draftboard-com/
+  x-github: https://github.com/api-evangelist/draftboard-com
+- name: DraftCall
+  url: https://artifacts.apis.io/draftcall-io/apis.yml
+  x-apis-io: https://apis.io/providers/draftcall-io/
+  x-github: https://github.com/api-evangelist/draftcall-io
 - name: Draftea
   url: https://artifacts.apis.io/draftea/apis.yml
   x-apis-io: https://apis.io/providers/draftea/
@@ -5434,10 +6753,22 @@ include:
   url: https://artifacts.apis.io/drafted/apis.yml
   x-apis-io: https://apis.io/providers/drafted/
   x-github: https://github.com/api-evangelist/drafted
+- name: Drafters
+  url: https://artifacts.apis.io/drafters-kr/apis.yml
+  x-apis-io: https://apis.io/providers/drafters-kr/
+  x-github: https://github.com/api-evangelist/drafters-kr
 - name: DraftKings
   url: https://artifacts.apis.io/draftkings/apis.yml
   x-apis-io: https://apis.io/providers/draftkings/
   x-github: https://github.com/api-evangelist/draftkings
+- name: Draftly
+  url: https://artifacts.apis.io/draftly-blog/apis.yml
+  x-apis-io: https://apis.io/providers/draftly-blog/
+  x-github: https://github.com/api-evangelist/draftly-blog
+- name: Drafto
+  url: https://artifacts.apis.io/drafto-eu/apis.yml
+  x-apis-io: https://apis.io/providers/drafto-eu/
+  x-github: https://github.com/api-evangelist/drafto-eu
 - name: DraftPilot.ai
   url: https://artifacts.apis.io/draftpilotai/apis.yml
   x-apis-io: https://apis.io/providers/draftpilotai/
@@ -5478,6 +6809,14 @@ include:
   url: https://artifacts.apis.io/draig-therapeutics/apis.yml
   x-apis-io: https://apis.io/providers/draig-therapeutics/
   x-github: https://github.com/api-evangelist/draig-therapeutics
+- name: Drain Prices
+  url: https://artifacts.apis.io/drainprices-co-uk/apis.yml
+  x-apis-io: https://apis.io/providers/drainprices-co-uk/
+  x-github: https://github.com/api-evangelist/drainprices-co-uk
+- name: DrapeCut
+  url: https://artifacts.apis.io/drapecut-com/apis.yml
+  x-apis-io: https://apis.io/providers/drapecut-com/
+  x-github: https://github.com/api-evangelist/drapecut-com
 - name: Drata
   url: https://artifacts.apis.io/drata/apis.yml
   x-apis-io: https://apis.io/providers/drata/
@@ -5490,10 +6829,18 @@ include:
   url: https://artifacts.apis.io/drawbridge-networks/apis.yml
   x-apis-io: https://apis.io/providers/drawbridge-networks/
   x-github: https://github.com/api-evangelist/drawbridge-networks
+- name: Drawcall
+  url: https://artifacts.apis.io/drawcall-ai/apis.yml
+  x-apis-io: https://apis.io/providers/drawcall-ai/
+  x-github: https://github.com/api-evangelist/drawcall-ai
 - name: draw.io
   url: https://artifacts.apis.io/drawio/apis.yml
   x-apis-io: https://apis.io/providers/drawio/
   x-github: https://github.com/api-evangelist/drawio
+- name: DrawScheduleWorks
+  url: https://artifacts.apis.io/drawscheduleworks-com/apis.yml
+  x-apis-io: https://apis.io/providers/drawscheduleworks-com/
+  x-github: https://github.com/api-evangelist/drawscheduleworks-com
 - name: Draxon
   url: https://artifacts.apis.io/draxon/apis.yml
   x-apis-io: https://apis.io/providers/draxon/
@@ -5510,6 +6857,10 @@ include:
   url: https://artifacts.apis.io/drconsulta2/apis.yml
   x-apis-io: https://apis.io/providers/drconsulta2/
   x-github: https://github.com/api-evangelist/drconsulta2
+- name: Dre1mery
+  url: https://artifacts.apis.io/dre1mery-com/apis.yml
+  x-apis-io: https://apis.io/providers/dre1mery-com/
+  x-github: https://github.com/api-evangelist/dre1mery-com
 - name: Dreadnode
   url: https://artifacts.apis.io/dreadnode/apis.yml
   x-apis-io: https://apis.io/providers/dreadnode/
@@ -5542,6 +6893,10 @@ include:
   url: https://artifacts.apis.io/dreambase/apis.yml
   x-apis-io: https://apis.io/providers/dreambase/
   x-github: https://github.com/api-evangelist/dreambase
+- name: Dreambooth
+  url: https://artifacts.apis.io/dreamboothstudio-com/apis.yml
+  x-apis-io: https://apis.io/providers/dreamboothstudio-com/
+  x-github: https://github.com/api-evangelist/dreamboothstudio-com
 - name: Dreambound
   url: https://artifacts.apis.io/dreambound/apis.yml
   x-apis-io: https://apis.io/providers/dreambound/
@@ -5550,10 +6905,18 @@ include:
   url: https://artifacts.apis.io/dreamdata/apis.yml
   x-apis-io: https://apis.io/providers/dreamdata/
   x-github: https://github.com/api-evangelist/dreamdata
+- name: DreamerOS
+  url: https://artifacts.apis.io/dreameros-app/apis.yml
+  x-apis-io: https://apis.io/providers/dreameros-app/
+  x-github: https://github.com/api-evangelist/dreameros-app
 - name: DreamFactory
   url: https://artifacts.apis.io/dreamfactory/apis.yml
   x-apis-io: https://apis.io/providers/dreamfactory/
   x-github: https://github.com/api-evangelist/dreamfactory
+- name: Dreamfare
+  url: https://artifacts.apis.io/dreamfare-app/apis.yml
+  x-apis-io: https://apis.io/providers/dreamfare-app/
+  x-github: https://github.com/api-evangelist/dreamfare-app
 - name: Dreamforge
   url: https://artifacts.apis.io/dreamforge/apis.yml
   x-apis-io: https://apis.io/providers/dreamforge/
@@ -5566,6 +6929,18 @@ include:
   url: https://artifacts.apis.io/dreamhost/apis.yml
   x-apis-io: https://apis.io/providers/dreamhost/
   x-github: https://github.com/api-evangelist/dreamhost
+- name: Dreamlit AI
+  url: https://artifacts.apis.io/dreamlit-ai/apis.yml
+  x-apis-io: https://apis.io/providers/dreamlit-ai/
+  x-github: https://github.com/api-evangelist/dreamlit-ai
+- name: Dream On Charter
+  url: https://artifacts.apis.io/dreamonsail-com/apis.yml
+  x-apis-io: https://apis.io/providers/dreamonsail-com/
+  x-github: https://github.com/api-evangelist/dreamonsail-com
+- name: Dream Pixel Forge
+  url: https://artifacts.apis.io/dreampixelforge-com/apis.yml
+  x-apis-io: https://apis.io/providers/dreampixelforge-com/
+  x-github: https://github.com/api-evangelist/dreampixelforge-com
 - name: Dreams Technology
   url: https://artifacts.apis.io/dreams-technology/apis.yml
   x-apis-io: https://apis.io/providers/dreams-technology/
@@ -5582,6 +6957,10 @@ include:
   url: https://artifacts.apis.io/dreamspace/apis.yml
   x-apis-io: https://apis.io/providers/dreamspace/
   x-github: https://github.com/api-evangelist/dreamspace
+- name: Dreamtap
+  url: https://artifacts.apis.io/dreamtap-xyz/apis.yml
+  x-apis-io: https://apis.io/providers/dreamtap-xyz/
+  x-github: https://github.com/api-evangelist/dreamtap-xyz
 - name: DreamThreads
   url: https://artifacts.apis.io/dreamthreads/apis.yml
   x-apis-io: https://apis.io/providers/dreamthreads/
@@ -5590,10 +6969,18 @@ include:
   url: https://artifacts.apis.io/dreamwidth/apis.yml
   x-apis-io: https://apis.io/providers/dreamwidth/
   x-github: https://github.com/api-evangelist/dreamwidth
+- name: Dreamwork
+  url: https://artifacts.apis.io/dreamworkhq-com/apis.yml
+  x-apis-io: https://apis.io/providers/dreamworkhq-com/
+  x-github: https://github.com/api-evangelist/dreamworkhq-com
 - name: Dredd
   url: https://artifacts.apis.io/dredd/apis.yml
   x-apis-io: https://apis.io/providers/dredd/
   x-github: https://github.com/api-evangelist/dredd
+- name: Dregs
+  url: https://artifacts.apis.io/dregs-com/apis.yml
+  x-apis-io: https://apis.io/providers/dregs-com/
+  x-github: https://github.com/api-evangelist/dregs-com
 - name: Dremio
   url: https://artifacts.apis.io/dremio/apis.yml
   x-apis-io: https://apis.io/providers/dremio/
@@ -5614,10 +7001,22 @@ include:
   url: https://artifacts.apis.io/dresser-rand-group/apis.yml
   x-apis-io: https://apis.io/providers/dresser-rand-group/
   x-github: https://github.com/api-evangelist/dresser-rand-group
+- name: Dresser House
+  url: https://artifacts.apis.io/dresserhouse-co-uk/apis.yml
+  x-apis-io: https://apis.io/providers/dresserhouse-co-uk/
+  x-github: https://github.com/api-evangelist/dresserhouse-co-uk
 - name: Drexel University
   url: https://artifacts.apis.io/drexel-university/apis.yml
   x-apis-io: https://apis.io/providers/drexel-university/
   x-github: https://github.com/api-evangelist/drexel-university
+- name: DRG System Deutschland
+  url: https://artifacts.apis.io/drgsystem-de/apis.yml
+  x-apis-io: https://apis.io/providers/drgsystem-de/
+  x-github: https://github.com/api-evangelist/drgsystem-de
+- name: Dribba
+  url: https://artifacts.apis.io/dribba-com/apis.yml
+  x-apis-io: https://apis.io/providers/dribba-com/
+  x-github: https://github.com/api-evangelist/dribba-com
 - name: Dribbble
   url: https://artifacts.apis.io/dribbble/apis.yml
   x-apis-io: https://apis.io/providers/dribbble/
@@ -5630,6 +7029,10 @@ include:
   url: https://artifacts.apis.io/drill-creative/apis.yml
   x-apis-io: https://apis.io/providers/drill-creative/
   x-github: https://github.com/api-evangelist/drill-creative
+- name: DrillerDB
+  url: https://artifacts.apis.io/drillerdb-com/apis.yml
+  x-apis-io: https://apis.io/providers/drillerdb-com/
+  x-github: https://github.com/api-evangelist/drillerdb-com
 - name: drillr
   url: https://artifacts.apis.io/drillr/apis.yml
   x-apis-io: https://apis.io/providers/drillr/
@@ -5638,6 +7041,10 @@ include:
   url: https://artifacts.apis.io/drillster/apis.yml
   x-apis-io: https://apis.io/providers/drillster/
   x-github: https://github.com/api-evangelist/drillster
+- name: Drinked In
+  url: https://artifacts.apis.io/drinkedin-net/apis.yml
+  x-apis-io: https://apis.io/providers/drinkedin-net/
+  x-github: https://github.com/api-evangelist/drinkedin-net
 - name: DRINKOTEC
   url: https://artifacts.apis.io/drinkotec/apis.yml
   x-apis-io: https://apis.io/providers/drinkotec/
@@ -5646,10 +7053,22 @@ include:
   url: https://artifacts.apis.io/drip/apis.yml
   x-apis-io: https://apis.io/providers/drip/
   x-github: https://github.com/api-evangelist/drip
+- name: DRIP Apex
+  url: https://artifacts.apis.io/drip-apex-com/apis.yml
+  x-apis-io: https://apis.io/providers/drip-apex-com/
+  x-github: https://github.com/api-evangelist/drip-apex-com
 - name: Drip Capital
   url: https://artifacts.apis.io/drip-capital/apis.yml
   x-apis-io: https://apis.io/providers/drip-capital/
   x-github: https://github.com/api-evangelist/drip-capital
+- name: DripMetrics AI
+  url: https://artifacts.apis.io/dripmetrics-ai/apis.yml
+  x-apis-io: https://apis.io/providers/dripmetrics-ai/
+  x-github: https://github.com/api-evangelist/dripmetrics-ai
+- name: Dripost
+  url: https://artifacts.apis.io/dripost-com/apis.yml
+  x-apis-io: https://apis.io/providers/dripost-com/
+  x-github: https://github.com/api-evangelist/dripost-com
 - name: Drippay
   url: https://artifacts.apis.io/drippay/apis.yml
   x-apis-io: https://apis.io/providers/drippay/
@@ -5658,6 +7077,10 @@ include:
   url: https://artifacts.apis.io/drippi/apis.yml
   x-apis-io: https://apis.io/providers/drippi/
   x-github: https://github.com/api-evangelist/drippi
+- name: DripRaven
+  url: https://artifacts.apis.io/dripraven-com/apis.yml
+  x-apis-io: https://apis.io/providers/dripraven-com/
+  x-github: https://github.com/api-evangelist/dripraven-com
 - name: Dripshop
   url: https://artifacts.apis.io/dripshop/apis.yml
   x-apis-io: https://apis.io/providers/dripshop/
@@ -5666,6 +7089,10 @@ include:
   url: https://artifacts.apis.io/drishti/apis.yml
   x-apis-io: https://apis.io/providers/drishti/
   x-github: https://github.com/api-evangelist/drishti
+- name: DriveLab
+  url: https://artifacts.apis.io/drivelab-ch/apis.yml
+  x-apis-io: https://apis.io/providers/drivelab-ch/
+  x-github: https://github.com/api-evangelist/drivelab-ch
 - name: Drivemate
   url: https://artifacts.apis.io/drivemate/apis.yml
   x-apis-io: https://apis.io/providers/drivemate/
@@ -5702,14 +7129,26 @@ include:
   url: https://artifacts.apis.io/drivezy/apis.yml
   x-apis-io: https://apis.io/providers/drivezy/
   x-github: https://github.com/api-evangelist/drivezy
+- name: Drivings
+  url: https://artifacts.apis.io/drivings-com/apis.yml
+  x-apis-io: https://apis.io/providers/drivings-com/
+  x-github: https://github.com/api-evangelist/drivings-com
 - name: Drivio
   url: https://artifacts.apis.io/drivio/apis.yml
   x-apis-io: https://apis.io/providers/drivio/
   x-github: https://github.com/api-evangelist/drivio
+- name: drobek
+  url: https://artifacts.apis.io/drobek-app/apis.yml
+  x-apis-io: https://apis.io/providers/drobek-app/
+  x-github: https://github.com/api-evangelist/drobek-app
 - name: Drobo
   url: https://artifacts.apis.io/drobo/apis.yml
   x-apis-io: https://apis.io/providers/drobo/
   x-github: https://github.com/api-evangelist/drobo
+- name: Droid
+  url: https://artifacts.apis.io/droid-monster/apis.yml
+  x-apis-io: https://apis.io/providers/droid-monster/
+  x-github: https://github.com/api-evangelist/droid-monster
 - name: Dronamics
   url: https://artifacts.apis.io/dronamics/apis.yml
   x-apis-io: https://apis.io/providers/dronamics/
@@ -5726,6 +7165,10 @@ include:
   url: https://artifacts.apis.io/drone-racing-league/apis.yml
   x-apis-io: https://apis.io/providers/drone-racing-league/
   x-github: https://github.com/api-evangelist/drone-racing-league
+- name: DroneClear Thailand
+  url: https://artifacts.apis.io/droneclearthailand-com/apis.yml
+  x-apis-io: https://apis.io/providers/droneclearthailand-com/
+  x-github: https://github.com/api-evangelist/droneclearthailand-com
 - name: Dronecode Foundation
   url: https://artifacts.apis.io/dronecode/apis.yml
   x-apis-io: https://apis.io/providers/dronecode/
@@ -5734,6 +7177,18 @@ include:
   url: https://artifacts.apis.io/dronedeploy/apis.yml
   x-apis-io: https://apis.io/providers/dronedeploy/
   x-github: https://github.com/api-evangelist/dronedeploy
+- name: DroneLedger
+  url: https://artifacts.apis.io/droneincidents-com/apis.yml
+  x-apis-io: https://apis.io/providers/droneincidents-com/
+  x-github: https://github.com/api-evangelist/droneincidents-com
+- name: Drone Intelligence
+  url: https://artifacts.apis.io/droneintelligence-ai/apis.yml
+  x-apis-io: https://apis.io/providers/droneintelligence-ai/
+  x-github: https://github.com/api-evangelist/droneintelligence-ai
+- name: Drone Licence Checker UK
+  url: https://artifacts.apis.io/dronelicencechecker-co-uk/apis.yml
+  x-apis-io: https://apis.io/providers/dronelicencechecker-co-uk/
+  x-github: https://github.com/api-evangelist/dronelicencechecker-co-uk
 - name: DroneShield
   url: https://artifacts.apis.io/droneshield/apis.yml
   x-apis-io: https://apis.io/providers/droneshield/
@@ -5758,6 +7213,10 @@ include:
   url: https://artifacts.apis.io/droplet-biosciences/apis.yml
   x-apis-io: https://apis.io/providers/droplet-biosciences/
   x-github: https://github.com/api-evangelist/droplet-biosciences
+- name: Droplinked
+  url: https://artifacts.apis.io/droplinked-com/apis.yml
+  x-apis-io: https://apis.io/providers/droplinked-com/
+  x-github: https://github.com/api-evangelist/droplinked-com
 - name: DropMail
   url: https://artifacts.apis.io/dropmail/apis.yml
   x-apis-io: https://apis.io/providers/dropmail/
@@ -5766,6 +7225,14 @@ include:
   url: https://artifacts.apis.io/dropsuite/apis.yml
   x-apis-io: https://apis.io/providers/dropsuite/
   x-github: https://github.com/api-evangelist/dropsuite
+- name: DropTheHassle
+  url: https://artifacts.apis.io/dropthehassle-com/apis.yml
+  x-apis-io: https://apis.io/providers/dropthehassle-com/
+  x-github: https://github.com/api-evangelist/dropthehassle-com
+- name: Dropto
+  url: https://artifacts.apis.io/dropto-run/apis.yml
+  x-apis-io: https://apis.io/providers/dropto-run/
+  x-github: https://github.com/api-evangelist/dropto-run
 - name: dropwatchhq-com
   url: https://artifacts.apis.io/dropwatchhq-com/apis.yml
   x-apis-io: https://apis.io/providers/dropwatchhq-com/
@@ -5774,6 +7241,10 @@ include:
   url: https://artifacts.apis.io/dropwizard/apis.yml
   x-apis-io: https://apis.io/providers/dropwizard/
   x-github: https://github.com/api-evangelist/dropwizard
+- name: Dropyour
+  url: https://artifacts.apis.io/dropyour-io/apis.yml
+  x-apis-io: https://apis.io/providers/dropyour-io/
+  x-github: https://github.com/api-evangelist/dropyour-io
 - name: Dropzone AI
   url: https://artifacts.apis.io/dropzone-ai/apis.yml
   x-apis-io: https://apis.io/providers/dropzone-ai/
@@ -5818,6 +7289,10 @@ include:
   url: https://artifacts.apis.io/dryos-ai/apis.yml
   x-apis-io: https://apis.io/providers/dryos-ai/
   x-github: https://github.com/api-evangelist/dryos-ai
+- name: Dsarvo
+  url: https://artifacts.apis.io/dsarvo-com/apis.yml
+  x-apis-io: https://apis.io/providers/dsarvo-com/
+  x-github: https://github.com/api-evangelist/dsarvo-com
 - name: dscout
   url: https://artifacts.apis.io/dscout/apis.yml
   x-apis-io: https://apis.io/providers/dscout/
@@ -5826,10 +7301,22 @@ include:
   url: https://artifacts.apis.io/dscvr/apis.yml
   x-apis-io: https://apis.io/providers/dscvr/
   x-github: https://github.com/api-evangelist/dscvr
+- name: DSers
+  url: https://artifacts.apis.io/dsers-com/apis.yml
+  x-apis-io: https://apis.io/providers/dsers-com/
+  x-github: https://github.com/api-evangelist/dsers-com
 - name: DSG Sports Analytics
   url: https://artifacts.apis.io/dsg-sports-analytics/apis.yml
   x-apis-io: https://apis.io/providers/dsg-sports-analytics/
   x-github: https://github.com/api-evangelist/dsg-sports-analytics
+- name: DSGHT.ai
+  url: https://artifacts.apis.io/dsght-ai/apis.yml
+  x-apis-io: https://apis.io/providers/dsght-ai/
+  x-github: https://github.com/api-evangelist/dsght-ai
+- name: DSGVO.pro
+  url: https://artifacts.apis.io/dsgvo-pro/apis.yml
+  x-apis-io: https://apis.io/providers/dsgvo-pro/
+  x-github: https://github.com/api-evangelist/dsgvo-pro
 - name: DSP Concepts
   url: https://artifacts.apis.io/dsp-concepts/apis.yml
   x-apis-io: https://apis.io/providers/dsp-concepts/
@@ -5870,6 +7357,10 @@ include:
   url: https://artifacts.apis.io/dt-agent-co-uk/apis.yml
   x-apis-io: https://apis.io/providers/dt-agent-co-uk/
   x-github: https://github.com/api-evangelist/dt-agent-co-uk
+- name: Data Terminal & Archive
+  url: https://artifacts.apis.io/dta-mn/apis.yml
+  x-apis-io: https://apis.io/providers/dta-mn/
+  x-github: https://github.com/api-evangelist/dta-mn
 - name: DTE Energy
   url: https://artifacts.apis.io/dte-energy/apis.yml
   x-apis-io: https://apis.io/providers/dte-energy/
@@ -5878,6 +7369,10 @@ include:
   url: https://artifacts.apis.io/dtexsystems/apis.yml
   x-apis-io: https://apis.io/providers/dtexsystems/
   x-github: https://github.com/api-evangelist/dtexsystems
+- name: DTMFRAME
+  url: https://artifacts.apis.io/dtmframe-com/apis.yml
+  x-apis-io: https://apis.io/providers/dtmframe-com/
+  x-github: https://github.com/api-evangelist/dtmframe-com
 - name: DTN
   url: https://artifacts.apis.io/dtn/apis.yml
   x-apis-io: https://apis.io/providers/dtn/
@@ -5902,6 +7397,10 @@ include:
   url: https://artifacts.apis.io/dualregistry-dev/apis.yml
   x-apis-io: https://apis.io/providers/dualregistry-dev/
   x-github: https://github.com/api-evangelist/dualregistry-dev
+- name: Duami
+  url: https://artifacts.apis.io/duami-ai/apis.yml
+  x-apis-io: https://apis.io/providers/duami-ai/
+  x-github: https://github.com/api-evangelist/duami-ai
 - name: Duane Morris
   url: https://artifacts.apis.io/duane-morris/apis.yml
   x-apis-io: https://apis.io/providers/duane-morris/
@@ -5910,6 +7409,26 @@ include:
   url: https://artifacts.apis.io/dub/apis.yml
   x-apis-io: https://apis.io/providers/dub/
   x-github: https://github.com/api-evangelist/dub
+- name: Dubai Diligence
+  url: https://artifacts.apis.io/dubaidiligence-com/apis.yml
+  x-apis-io: https://apis.io/providers/dubaidiligence-com/
+  x-github: https://github.com/api-evangelist/dubaidiligence-com
+- name: Dubai Real Estate Data
+  url: https://artifacts.apis.io/dubairealestatedata-com/apis.yml
+  x-apis-io: https://apis.io/providers/dubairealestatedata-com/
+  x-github: https://github.com/api-evangelist/dubairealestatedata-com
+- name: Dubai Setup Index
+  url: https://artifacts.apis.io/dubaisetupindex-com/apis.yml
+  x-apis-io: https://apis.io/providers/dubaisetupindex-com/
+  x-github: https://github.com/api-evangelist/dubaisetupindex-com
+- name: Dubai Table
+  url: https://artifacts.apis.io/dubaitable-com/apis.yml
+  x-apis-io: https://apis.io/providers/dubaitable-com/
+  x-github: https://github.com/api-evangelist/dubaitable-com
+- name: Dubai Wealth Index
+  url: https://artifacts.apis.io/dubaiwealthindex-com/apis.yml
+  x-apis-io: https://apis.io/providers/dubaiwealthindex-com/
+  x-github: https://github.com/api-evangelist/dubaiwealthindex-com
 - name: Dub
   url: https://artifacts.apis.io/dubapp-com/apis.yml
   x-apis-io: https://apis.io/providers/dubapp-com/
@@ -5926,10 +7445,18 @@ include:
   url: https://artifacts.apis.io/dubsmash/apis.yml
   x-apis-io: https://apis.io/providers/dubsmash/
   x-github: https://github.com/api-evangelist/dubsmash
+- name: Duchamp
+  url: https://artifacts.apis.io/duchamp-app/apis.yml
+  x-apis-io: https://apis.io/providers/duchamp-app/
+  x-github: https://github.com/api-evangelist/duchamp-app
 - name: Duck Creek
   url: https://artifacts.apis.io/duck-creek/apis.yml
   x-apis-io: https://apis.io/providers/duck-creek/
   x-github: https://github.com/api-evangelist/duck-creek
+- name: Duckhub
+  url: https://artifacts.apis.io/duck-hub-com/apis.yml
+  x-apis-io: https://apis.io/providers/duck-hub-com/
+  x-github: https://github.com/api-evangelist/duck-hub-com
 - name: Duckbill
   url: https://artifacts.apis.io/duckbill/apis.yml
   x-apis-io: https://apis.io/providers/duckbill/
@@ -5950,6 +7477,10 @@ include:
   url: https://artifacts.apis.io/ducks-unlimited/apis.yml
   x-apis-io: https://apis.io/providers/ducks-unlimited/
   x-github: https://github.com/api-evangelist/ducks-unlimited
+- name: Duck Tax
+  url: https://artifacts.apis.io/ducktax-com/apis.yml
+  x-apis-io: https://apis.io/providers/ducktax-com/
+  x-github: https://github.com/api-evangelist/ducktax-com
 - name: Duco
   url: https://artifacts.apis.io/duco/apis.yml
   x-apis-io: https://apis.io/providers/duco/
@@ -5970,6 +7501,14 @@ include:
   url: https://artifacts.apis.io/due/apis.yml
   x-apis-io: https://apis.io/providers/due/
   x-github: https://github.com/api-evangelist/due
+- name: DueBuddy
+  url: https://artifacts.apis.io/duebuddy-work/apis.yml
+  x-apis-io: https://apis.io/providers/duebuddy-work/
+  x-github: https://github.com/api-evangelist/duebuddy-work
+- name: Duesvo
+  url: https://artifacts.apis.io/duesvo-com/apis.yml
+  x-apis-io: https://apis.io/providers/duesvo-com/
+  x-github: https://github.com/api-evangelist/duesvo-com
 - name: Duetti
   url: https://artifacts.apis.io/duetti/apis.yml
   x-apis-io: https://apis.io/providers/duetti/
@@ -5982,6 +7521,10 @@ include:
   url: https://artifacts.apis.io/duffel/apis.yml
   x-apis-io: https://apis.io/providers/duffel/
   x-github: https://github.com/api-evangelist/duffel
+- name: Duffer Golf
+  url: https://artifacts.apis.io/duffergolf-net/apis.yml
+  x-apis-io: https://apis.io/providers/duffergolf-net/
+  x-github: https://github.com/api-evangelist/duffergolf-net
 - name: dugganusa-com
   url: https://artifacts.apis.io/dugganusa-com/apis.yml
   x-apis-io: https://apis.io/providers/dugganusa-com/
@@ -5998,6 +7541,10 @@ include:
   url: https://artifacts.apis.io/duke-energy/apis.yml
   x-apis-io: https://apis.io/providers/duke-energy/
   x-github: https://github.com/api-evangelist/duke-energy
+- name: Dukon AI
+  url: https://artifacts.apis.io/dukonai-com/apis.yml
+  x-apis-io: https://apis.io/providers/dukonai-com/
+  x-github: https://github.com/api-evangelist/dukonai-com
 - name: Dulcetta
   url: https://artifacts.apis.io/dulcetta/apis.yml
   x-apis-io: https://apis.io/providers/dulcetta/
@@ -6006,10 +7553,22 @@ include:
   url: https://artifacts.apis.io/dulieu-dev/apis.yml
   x-apis-io: https://apis.io/providers/dulieu-dev/
   x-github: https://github.com/api-evangelist/dulieu-dev
+- name: Dumaguete.uk
+  url: https://artifacts.apis.io/dumaguete-uk/apis.yml
+  x-apis-io: https://apis.io/providers/dumaguete-uk/
+  x-github: https://github.com/api-evangelist/dumaguete-uk
 - name: Dummy Products
   url: https://artifacts.apis.io/dummy-products/apis.yml
   x-apis-io: https://apis.io/providers/dummy-products/
   x-github: https://github.com/api-evangelist/dummy-products
+- name: Dumpster Controls
+  url: https://artifacts.apis.io/dumpstercontrols-io/apis.yml
+  x-apis-io: https://apis.io/providers/dumpstercontrols-io/
+  x-github: https://github.com/api-evangelist/dumpstercontrols-io
+- name: V Tracer
+  url: https://artifacts.apis.io/dumpthis-sh/apis.yml
+  x-apis-io: https://apis.io/providers/dumpthis-sh/
+  x-github: https://github.com/api-evangelist/dumpthis-sh
 - name: Dun & Bradstreet
   url: https://artifacts.apis.io/dun-and-bradstreet/apis.yml
   x-apis-io: https://apis.io/providers/dun-and-bradstreet/
@@ -6050,6 +7609,10 @@ include:
   url: https://artifacts.apis.io/dunkapi-com/apis.yml
   x-apis-io: https://apis.io/providers/dunkapi-com/
   x-github: https://github.com/api-evangelist/dunkapi-com
+- name: DunSocial
+  url: https://artifacts.apis.io/dunsocial-com/apis.yml
+  x-apis-io: https://apis.io/providers/dunsocial-com/
+  x-github: https://github.com/api-evangelist/dunsocial-com
 - name: Dunzo
   url: https://artifacts.apis.io/dunzo/apis.yml
   x-apis-io: https://apis.io/providers/dunzo/
@@ -6058,6 +7621,10 @@ include:
   url: https://artifacts.apis.io/duo-security/apis.yml
   x-apis-io: https://apis.io/providers/duo-security/
   x-github: https://github.com/api-evangelist/duo-security
+- name: Duo Leads
+  url: https://artifacts.apis.io/duoleads-com/apis.yml
+  x-apis-io: https://apis.io/providers/duoleads-com/
+  x-github: https://github.com/api-evangelist/duoleads-com
 - name: Duolingo
   url: https://artifacts.apis.io/duolingo/apis.yml
   x-apis-io: https://apis.io/providers/duolingo/
@@ -6090,6 +7657,10 @@ include:
   url: https://artifacts.apis.io/dura-software/apis.yml
   x-apis-io: https://apis.io/providers/dura-software/
   x-github: https://github.com/api-evangelist/dura-software
+- name: The Durability Curve
+  url: https://artifacts.apis.io/durabilitycurve-com/apis.yml
+  x-apis-io: https://apis.io/providers/durabilitycurve-com/
+  x-github: https://github.com/api-evangelist/durabilitycurve-com
 - name: Azure Durable Functions
   url: https://artifacts.apis.io/durable-functions/apis.yml
   x-apis-io: https://apis.io/providers/durable-functions/
@@ -6102,6 +7673,10 @@ include:
   url: https://artifacts.apis.io/durata-therapeutics/apis.yml
   x-apis-io: https://apis.io/providers/durata-therapeutics/
   x-github: https://github.com/api-evangelist/durata-therapeutics
+- name: Durchblicker
+  url: https://artifacts.apis.io/durchblicker/apis.yml
+  x-apis-io: https://apis.io/providers/durchblicker/
+  x-github: https://github.com/api-evangelist/durchblicker
 - name: Duro
   url: https://artifacts.apis.io/duro/apis.yml
   x-apis-io: https://apis.io/providers/duro/
@@ -6114,6 +7689,10 @@ include:
   url: https://artifacts.apis.io/dusk/apis.yml
   x-apis-io: https://apis.io/providers/dusk/
   x-github: https://github.com/api-evangelist/dusk
+- name: duskly-ai
+  url: https://artifacts.apis.io/duskly-ai/apis.yml
+  x-apis-io: https://apis.io/providers/duskly-ai/
+  x-github: https://github.com/api-evangelist/duskly-ai
 - name: Dust Identity
   url: https://artifacts.apis.io/dust-identity/apis.yml
   x-apis-io: https://apis.io/providers/dust-identity/
@@ -6142,6 +7721,10 @@ include:
   url: https://artifacts.apis.io/duve/apis.yml
   x-apis-io: https://apis.io/providers/duve/
   x-github: https://github.com/api-evangelist/duve
+- name: Duvera
+  url: https://artifacts.apis.io/duvera-ai/apis.yml
+  x-apis-io: https://apis.io/providers/duvera-ai/
+  x-github: https://github.com/api-evangelist/duvera-ai
 - name: Duvo Ai
   url: https://artifacts.apis.io/duvo-ai/apis.yml
   x-apis-io: https://apis.io/providers/duvo-ai/
@@ -6158,6 +7741,10 @@ include:
   url: https://artifacts.apis.io/dvc/apis.yml
   x-apis-io: https://apis.io/providers/dvc/
   x-github: https://github.com/api-evangelist/dvc
+- name: dVeracity
+  url: https://artifacts.apis.io/dveracity-com/apis.yml
+  x-apis-io: https://apis.io/providers/dveracity-com/
+  x-github: https://github.com/api-evangelist/dveracity-com
 - name: Dverse
   url: https://artifacts.apis.io/dverse/apis.yml
   x-apis-io: https://apis.io/providers/dverse/
@@ -6166,10 +7753,22 @@ include:
   url: https://artifacts.apis.io/dvids-api/apis.yml
   x-apis-io: https://apis.io/providers/dvids-api/
   x-github: https://github.com/api-evangelist/dvids-api
+- name: Driver and Vehicle Licensing Agency (DVLA)
+  url: https://artifacts.apis.io/dvla-gov-uk/apis.yml
+  x-apis-io: https://apis.io/providers/dvla-gov-uk/
+  x-github: https://github.com/api-evangelist/dvla-gov-uk
 - name: Dvlp Medicines
   url: https://artifacts.apis.io/dvlp-medicines/apis.yml
   x-apis-io: https://apis.io/providers/dvlp-medicines/
   x-github: https://github.com/api-evangelist/dvlp-medicines
+- name: flurry
+  url: https://artifacts.apis.io/dvt-dev/apis.yml
+  x-apis-io: https://apis.io/providers/dvt-dev/
+  x-github: https://github.com/api-evangelist/dvt-dev
+- name: Digital and Population Data Services Agency (DVV)
+  url: https://artifacts.apis.io/dvv-fi/apis.yml
+  x-apis-io: https://apis.io/providers/dvv-fi/
+  x-github: https://github.com/api-evangelist/dvv-fi
 - name: dwell
   url: https://artifacts.apis.io/dwell/apis.yml
   x-apis-io: https://apis.io/providers/dwell/
@@ -6202,6 +7801,10 @@ include:
   url: https://artifacts.apis.io/dwolla/apis.yml
   x-apis-io: https://apis.io/providers/dwolla/
   x-github: https://github.com/api-evangelist/dwolla
+- name: DXB Data
+  url: https://artifacts.apis.io/dxbdata-io/apis.yml
+  x-apis-io: https://apis.io/providers/dxbdata-io/
+  x-github: https://github.com/api-evangelist/dxbdata-io
 - name: DXC Technology
   url: https://artifacts.apis.io/dxc-technology/apis.yml
   x-apis-io: https://apis.io/providers/dxc-technology/
@@ -6214,6 +7817,10 @@ include:
   url: https://artifacts.apis.io/dxfeed/apis.yml
   x-apis-io: https://apis.io/providers/dxfeed/
   x-github: https://github.com/api-evangelist/dxfeed
+- name: dxtra-com
+  url: https://artifacts.apis.io/dxtra-com/apis.yml
+  x-apis-io: https://apis.io/providers/dxtra-com/
+  x-github: https://github.com/api-evangelist/dxtra-com
 - name: DXY
   url: https://artifacts.apis.io/dxy/apis.yml
   x-apis-io: https://apis.io/providers/dxy/
@@ -6234,6 +7841,10 @@ include:
   url: https://artifacts.apis.io/dylibso/apis.yml
   x-apis-io: https://apis.io/providers/dylibso/
   x-github: https://github.com/api-evangelist/dylibso
+- name: Dylog
+  url: https://artifacts.apis.io/dylog-app/apis.yml
+  x-apis-io: https://apis.io/providers/dylog-app/
+  x-github: https://github.com/api-evangelist/dylog-app
 - name: Dyna Robotics
   url: https://artifacts.apis.io/dyna-robotics/apis.yml
   x-apis-io: https://apis.io/providers/dyna-robotics/
@@ -6262,6 +7873,10 @@ include:
   url: https://artifacts.apis.io/dynamic-yield/apis.yml
   x-apis-io: https://apis.io/providers/dynamic-yield/
   x-github: https://github.com/api-evangelist/dynamic-yield
+- name: Dynamical
+  url: https://artifacts.apis.io/dynamical-org/apis.yml
+  x-apis-io: https://apis.io/providers/dynamical-org/
+  x-github: https://github.com/api-evangelist/dynamical-org
 - name: DynamiCare Health
   url: https://artifacts.apis.io/dynamicare-health/apis.yml
   x-apis-io: https://apis.io/providers/dynamicare-health/
@@ -6278,10 +7893,22 @@ include:
   url: https://artifacts.apis.io/dynamics/apis.yml
   x-apis-io: https://apis.io/providers/dynamics/
   x-github: https://github.com/api-evangelist/dynamics
+- name: Dynamik Orbits
+  url: https://artifacts.apis.io/dynamikorbits-com/apis.yml
+  x-apis-io: https://apis.io/providers/dynamikorbits-com/
+  x-github: https://github.com/api-evangelist/dynamikorbits-com
+- name: Dynamite Circle
+  url: https://artifacts.apis.io/dynamitecircle-com/apis.yml
+  x-apis-io: https://apis.io/providers/dynamitecircle-com/
+  x-github: https://github.com/api-evangelist/dynamitecircle-com
 - name: Dynamo AI
   url: https://artifacts.apis.io/dynamo-ai/apis.yml
   x-apis-io: https://apis.io/providers/dynamo-ai/
   x-github: https://github.com/api-evangelist/dynamo-ai
+- name: Dynamoi
+  url: https://artifacts.apis.io/dynamoi-com/apis.yml
+  x-apis-io: https://apis.io/providers/dynamoi-com/
+  x-github: https://github.com/api-evangelist/dynamoi-com
 - name: Dynamsoft Web TWAIN
   url: https://artifacts.apis.io/dynamsoft/apis.yml
   x-apis-io: https://apis.io/providers/dynamsoft/
@@ -6314,6 +7941,10 @@ include:
   url: https://artifacts.apis.io/dyno-nobel/apis.yml
   x-apis-io: https://apis.io/providers/dyno-nobel/
   x-github: https://github.com/api-evangelist/dyno-nobel
+- name: Dynamatix
+  url: https://artifacts.apis.io/dynomatix-com/apis.yml
+  x-apis-io: https://apis.io/providers/dynomatix-com/
+  x-github: https://github.com/api-evangelist/dynomatix-com
 - name: Dynamic Technologies
   url: https://artifacts.apis.io/dyntech/apis.yml
   x-apis-io: https://apis.io/providers/dyntech/
@@ -6346,3 +7977,7 @@ include:
   url: https://artifacts.apis.io/dzone/apis.yml
   x-apis-io: https://apis.io/providers/dzone/
   x-github: https://github.com/api-evangelist/dzone
+- name: DZPage
+  url: https://artifacts.apis.io/dzpage-com/apis.yml
+  x-apis-io: https://apis.io/providers/dzpage-com/
+  x-github: https://github.com/api-evangelist/dzpage-com

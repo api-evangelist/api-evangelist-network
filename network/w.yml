@@ -1,8 +1,8 @@
 name: API Evangelist Network — providers W
-description: 'The 787 API providers in the API Evangelist network whose repository name begins with W. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
+description: 'The 789 API providers in the API Evangelist network whose repository name begins with W. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
 url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/w.yml
 created: '2026-02-27'
-modified: '2026-11-06'
+modified: '2026-11-15'
 specificationVersion: '0.23'
 tags:
 - Directory
@@ -197,6 +197,10 @@ include:
   url: https://artifacts.apis.io/wallet-studio/apis.yml
   x-apis-io: https://apis.io/providers/wallet-studio/
   x-github: https://github.com/api-evangelist/wallet-studio
+- name: Wallet Master
+  url: https://artifacts.apis.io/walletmaster-tools/apis.yml
+  x-apis-io: https://apis.io/providers/walletmaster-tools/
+  x-github: https://github.com/api-evangelist/walletmaster-tools
 - name: WalletWallet
   url: https://artifacts.apis.io/walletwallet/apis.yml
   x-apis-io: https://apis.io/providers/walletwallet/
@@ -213,6 +217,10 @@ include:
   url: https://artifacts.apis.io/wallix/apis.yml
   x-apis-io: https://apis.io/providers/wallix/
   x-github: https://github.com/api-evangelist/wallix
+- name: 'Géoportail de la Wallonie'
+  url: https://artifacts.apis.io/wallonie-be/apis.yml
+  x-apis-io: https://apis.io/providers/wallonie-be/
+  x-github: https://github.com/api-evangelist/wallonie-be
 - name: Wallos
   url: https://artifacts.apis.io/wallos/apis.yml
   x-apis-io: https://apis.io/providers/wallos/

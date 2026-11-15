@@ -1,8 +1,8 @@
 name: API Evangelist Network — providers Y
-description: 'The 182 API providers in the API Evangelist network whose repository name begins with Y. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
+description: 'The 181 API providers in the API Evangelist network whose repository name begins with Y. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
 url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/y.yml
 created: '2026-02-27'
-modified: '2026-11-06'
+modified: '2026-11-15'
 specificationVersion: '0.23'
 tags:
 - Directory
@@ -661,10 +661,6 @@ include:
   url: https://artifacts.apis.io/yubico/apis.yml
   x-apis-io: https://apis.io/providers/yubico/
   x-github: https://github.com/api-evangelist/yubico
-- name: Sunny Yuen
-  url: https://artifacts.apis.io/yuens-me/apis.yml
-  x-apis-io: https://apis.io/providers/yuens-me/
-  x-github: https://github.com/api-evangelist/yuens-me
 - name: Yuga Labs
   url: https://artifacts.apis.io/yuga-labs/apis.yml
   x-apis-io: https://apis.io/providers/yuga-labs/

@@ -6,15 +6,15 @@ The index of every API provider in the [`api-evangelist`](https://github.com/api
 
 | | |
 |---|---:|
-| Public repositories in the organization | 41,296 |
-| Providers in this index (live APIs.io page) | **38,086** |
-| … of which the store copy of apis.yml is still syncing (`x-store: pending`) | 185 |
-| Profiled, but no live APIs.io page | 1,475 |
-| Never profiled | 0 |
-| Retired into another provider, or delisted on request | 1,589 |
-| Investors, listed under [apis.io/vcs/](https://apis.io/vcs/) rather than as providers | 108 |
+| Public repositories in the organization | 43,884 |
+| Providers in this index (live APIs.io page) | **38,872** |
+| … of which the store copy of apis.yml is still syncing (`x-store: pending`) | 1 |
+| Profiled, but no live APIs.io page | 3,137 |
+| Never profiled | 8 |
+| Retired into another provider, or delisted on request | 1,708 |
+| Investors, listed under [apis.io/vcs/](https://apis.io/vcs/) rather than as providers | 121 |
 | Infrastructure repositories (not providers) | 38 |
-| Last built | 2026-11-06 |
+| Last built | 2026-11-15 |
 
 The two gap rows are itemized in [unlisted.md](unlisted.md).
 
@@ -28,43 +28,43 @@ https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/hea
 
 ## Every provider
 
-38,086 providers, listed by the first letter of the repository name. GitHub will not render a single file that long, so the listing is one page per letter; together they are the complete list.
+38,872 providers, listed by the first letter of the repository name. GitHub will not render a single file that long, so the listing is one page per letter; together they are the complete list.
 
 | Letter | Providers | Listing | APIs.json |
 |---|---:|---|---|
 | 0-9 | 346 | [providers/0-9.md](providers/0-9.md) | [network/0-9.yml](network/0-9.yml) |
-| A0-Al | 2,200 | [providers/a-0-l.md](providers/a-0-l.md) | [network/a-0-l.yml](network/a-0-l.yml) |
-| Am-As | 2,076 | [providers/a-m-s.md](providers/a-m-s.md) | [network/a-m-s.yml](network/a-m-s.yml) |
-| At-Az | 920 | [providers/a-t-z.md](providers/a-t-z.md) | [network/a-t-z.yml](network/a-t-z.yml) |
-| B0-Bp | 2,063 | [providers/b-0-p.md](providers/b-0-p.md) | [network/b-0-p.yml](network/b-0-p.yml) |
-| Br-Bz | 648 | [providers/b-r-z.md](providers/b-r-z.md) | [network/b-r-z.yml](network/b-r-z.yml) |
-| C0-Ck | 1,823 | [providers/c-0-k.md](providers/c-0-k.md) | [network/c-0-k.yml](network/c-0-k.yml) |
-| Cl-Ct | 2,156 | [providers/c-l-t.md](providers/c-l-t.md) | [network/c-l-t.yml](network/c-l-t.yml) |
-| Cu-Cz | 298 | [providers/c-u-z.md](providers/c-u-z.md) | [network/c-u-z.yml](network/c-u-z.yml) |
-| D | 1,584 | [providers/d.md](providers/d.md) | [network/d.yml](network/d.yml) |
-| E | 1,208 | [providers/e.md](providers/e.md) | [network/e.yml](network/e.yml) |
-| F | 1,288 | [providers/f.md](providers/f.md) | [network/f.yml](network/f.yml) |
-| G | 1,299 | [providers/g.md](providers/g.md) | [network/g.yml](network/g.yml) |
-| H | 1,042 | [providers/h.md](providers/h.md) | [network/h.yml](network/h.yml) |
-| I | 1,031 | [providers/i.md](providers/i.md) | [network/i.yml](network/i.yml) |
-| J | 407 | [providers/j.md](providers/j.md) | [network/j.yml](network/j.yml) |
-| K | 760 | [providers/k.md](providers/k.md) | [network/k.yml](network/k.yml) |
-| L | 1,167 | [providers/l.md](providers/l.md) | [network/l.yml](network/l.yml) |
+| A0-Al | 2,195 | [providers/a-0-l.md](providers/a-0-l.md) | [network/a-0-l.yml](network/a-0-l.yml) |
+| Am-As | 2,058 | [providers/a-m-s.md](providers/a-m-s.md) | [network/a-m-s.yml](network/a-m-s.yml) |
+| At-Az | 919 | [providers/a-t-z.md](providers/a-t-z.md) | [network/a-t-z.yml](network/a-t-z.yml) |
+| B0-Bp | 2,177 | [providers/b-0-p.md](providers/b-0-p.md) | [network/b-0-p.yml](network/b-0-p.yml) |
+| Br-Bz | 760 | [providers/b-r-z.md](providers/b-r-z.md) | [network/b-r-z.yml](network/b-r-z.yml) |
+| C0-Ck | 1,949 | [providers/c-0-k.md](providers/c-0-k.md) | [network/c-0-k.yml](network/c-0-k.yml) |
+| Cl-Cx | 2,158 | [providers/c-l-x.md](providers/c-l-x.md) | [network/c-l-x.yml](network/c-l-x.yml) |
+| Cy-Cz | 87 | [providers/c-y-z.md](providers/c-y-z.md) | [network/c-y-z.yml](network/c-y-z.yml) |
+| D | 1,993 | [providers/d.md](providers/d.md) | [network/d.yml](network/d.yml) |
+| E | 1,254 | [providers/e.md](providers/e.md) | [network/e.yml](network/e.yml) |
+| F | 1,460 | [providers/f.md](providers/f.md) | [network/f.yml](network/f.yml) |
+| G | 1,293 | [providers/g.md](providers/g.md) | [network/g.yml](network/g.yml) |
+| H | 1,045 | [providers/h.md](providers/h.md) | [network/h.yml](network/h.yml) |
+| I | 1,037 | [providers/i.md](providers/i.md) | [network/i.yml](network/i.yml) |
+| J | 405 | [providers/j.md](providers/j.md) | [network/j.yml](network/j.yml) |
+| K | 762 | [providers/k.md](providers/k.md) | [network/k.yml](network/k.yml) |
+| L | 1,169 | [providers/l.md](providers/l.md) | [network/l.yml](network/l.yml) |
 | M | 1,897 | [providers/m.md](providers/m.md) | [network/m.yml](network/m.yml) |
-| N | 1,031 | [providers/n.md](providers/n.md) | [network/n.yml](network/n.yml) |
-| O | 1,148 | [providers/o.md](providers/o.md) | [network/o.yml](network/o.yml) |
-| P | 2,036 | [providers/p.md](providers/p.md) | [network/p.yml](network/p.yml) |
-| Q | 295 | [providers/q.md](providers/q.md) | [network/q.yml](network/q.yml) |
-| R | 1,312 | [providers/r.md](providers/r.md) | [network/r.yml](network/r.yml) |
-| S0-So | 1,965 | [providers/s-0-o.md](providers/s-0-o.md) | [network/s-0-o.yml](network/s-0-o.yml) |
-| Sp-Sy | 1,225 | [providers/s-p-y.md](providers/s-p-y.md) | [network/s-p-y.yml](network/s-p-y.yml) |
-| T | 1,867 | [providers/t.md](providers/t.md) | [network/t.yml](network/t.yml) |
-| U | 672 | [providers/u.md](providers/u.md) | [network/u.yml](network/u.yml) |
-| V | 821 | [providers/v.md](providers/v.md) | [network/v.yml](network/v.yml) |
-| W | 787 | [providers/w.md](providers/w.md) | [network/w.yml](network/w.yml) |
-| X | 142 | [providers/x.md](providers/x.md) | [network/x.yml](network/x.yml) |
-| Y | 182 | [providers/y.md](providers/y.md) | [network/y.yml](network/y.yml) |
-| Z | 390 | [providers/z.md](providers/z.md) | [network/z.yml](network/z.yml) |
+| N | 1,032 | [providers/n.md](providers/n.md) | [network/n.yml](network/n.yml) |
+| O | 1,151 | [providers/o.md](providers/o.md) | [network/o.yml](network/o.yml) |
+| P | 2,039 | [providers/p.md](providers/p.md) | [network/p.yml](network/p.yml) |
+| Q | 296 | [providers/q.md](providers/q.md) | [network/q.yml](network/q.yml) |
+| R | 1,314 | [providers/r.md](providers/r.md) | [network/r.yml](network/r.yml) |
+| S0-So | 1,970 | [providers/s-0-o.md](providers/s-0-o.md) | [network/s-0-o.yml](network/s-0-o.yml) |
+| Sp-Sy | 1,231 | [providers/s-p-y.md](providers/s-p-y.md) | [network/s-p-y.yml](network/s-p-y.yml) |
+| T | 1,871 | [providers/t.md](providers/t.md) | [network/t.yml](network/t.yml) |
+| U | 675 | [providers/u.md](providers/u.md) | [network/u.yml](network/u.yml) |
+| V | 823 | [providers/v.md](providers/v.md) | [network/v.yml](network/v.yml) |
+| W | 789 | [providers/w.md](providers/w.md) | [network/w.yml](network/w.yml) |
+| X | 145 | [providers/x.md](providers/x.md) | [network/x.yml](network/x.yml) |
+| Y | 181 | [providers/y.md](providers/y.md) | [network/y.yml](network/y.yml) |
+| Z | 391 | [providers/z.md](providers/z.md) | [network/z.yml](network/z.yml) |
 
 ## How this is built
 

@@ -1,8 +1,8 @@
 name: API Evangelist Network — providers Z
-description: 'The 390 API providers in the API Evangelist network whose repository name begins with Z. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
+description: 'The 391 API providers in the API Evangelist network whose repository name begins with Z. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
 url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/z.yml
 created: '2026-02-27'
-modified: '2026-11-06'
+modified: '2026-11-15'
 specificationVersion: '0.23'
 tags:
 - Directory
@@ -809,6 +809,10 @@ include:
   url: https://artifacts.apis.io/zgbiotech/apis.yml
   x-apis-io: https://apis.io/providers/zgbiotech/
   x-github: https://github.com/api-evangelist/zgbiotech
+- name: 'Kanton Zürich'
+  url: https://artifacts.apis.io/zh-ch/apis.yml
+  x-apis-io: https://apis.io/providers/zh-ch/
+  x-github: https://github.com/api-evangelist/zh-ch
 - name: Zhangmen
   url: https://artifacts.apis.io/zhangmen/apis.yml
   x-apis-io: https://apis.io/providers/zhangmen/
@@ -1545,7 +1549,7 @@ include:
   url: https://artifacts.apis.io/zynk/apis.yml
   x-apis-io: https://apis.io/providers/zynk/
   x-github: https://github.com/api-evangelist/zynk
-- name: zyntra-app
+- name: Zyntra
   url: https://artifacts.apis.io/zyntra-app/apis.yml
   x-apis-io: https://apis.io/providers/zyntra-app/
   x-github: https://github.com/api-evangelist/zyntra-app

@@ -1,8 +1,8 @@
-name: API Evangelist Network — providers Cl-Ct
-description: 'The 2156 API providers in the API Evangelist network whose repository name begins with Cl-Ct. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
-url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/c-l-t.yml
+name: API Evangelist Network — providers Cl-Cx
+description: 'The 2158 API providers in the API Evangelist network whose repository name begins with Cl-Cx. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
+url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/c-l-x.yml
 created: '2026-02-27'
-modified: '2026-11-06'
+modified: '2026-11-15'
 specificationVersion: '0.23'
 tags:
 - Directory
@@ -809,11 +809,6 @@ include:
   url: https://artifacts.apis.io/cleartax/apis.yml
   x-apis-io: https://apis.io/providers/cleartax/
   x-github: https://github.com/api-evangelist/cleartax
-- name: ClearTrace
-  url: https://artifacts.apis.io/cleartracedata-com/apis.yml
-  x-apis-io: https://apis.io/providers/cleartracedata-com/
-  x-github: https://github.com/api-evangelist/cleartracedata-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Cleartrip
   url: https://artifacts.apis.io/cleartrip/apis.yml
   x-apis-io: https://apis.io/providers/cleartrip/
@@ -846,10 +841,6 @@ include:
   url: https://artifacts.apis.io/clearyst/apis.yml
   x-apis-io: https://apis.io/providers/clearyst/
   x-github: https://github.com/api-evangelist/clearyst
-- name: Cleat
-  url: https://artifacts.apis.io/cleat-so/apis.yml
-  x-apis-io: https://apis.io/providers/cleat-so/
-  x-github: https://github.com/api-evangelist/cleat-so
 - name: Cleave Biosciences
   url: https://artifacts.apis.io/cleave-biosciences/apis.yml
   x-apis-io: https://apis.io/providers/cleave-biosciences/
@@ -862,16 +853,6 @@ include:
   url: https://artifacts.apis.io/cleerly/apis.yml
   x-apis-io: https://apis.io/providers/cleerly/
   x-github: https://github.com/api-evangelist/cleerly
-- name: Clef
-  url: https://artifacts.apis.io/clefdrills-com/apis.yml
-  x-apis-io: https://apis.io/providers/clefdrills-com/
-  x-github: https://github.com/api-evangelist/clefdrills-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: CLE Garage Door Repair & Installation
-  url: https://artifacts.apis.io/clegaragedoors-com/apis.yml
-  x-apis-io: https://apis.io/providers/clegaragedoors-com/
-  x-github: https://github.com/api-evangelist/clegaragedoors-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Clementine
   url: https://artifacts.apis.io/clementine/apis.yml
   x-apis-io: https://apis.io/providers/clementine/
@@ -888,25 +869,6 @@ include:
   url: https://artifacts.apis.io/cleoai/apis.yml
   x-apis-io: https://apis.io/providers/cleoai/
   x-github: https://github.com/api-evangelist/cleoai
-- name: Cleo
-  url: https://artifacts.apis.io/cleofamily-app/apis.yml
-  x-apis-io: https://apis.io/providers/cleofamily-app/
-  x-github: https://github.com/api-evangelist/cleofamily-app
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: CleoLM
-  url: https://artifacts.apis.io/cleolm-com/apis.yml
-  x-apis-io: https://apis.io/providers/cleolm-com/
-  x-github: https://github.com/api-evangelist/cleolm-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: Cleotic
-  url: https://artifacts.apis.io/cleotic-ai/apis.yml
-  x-apis-io: https://apis.io/providers/cleotic-ai/
-  x-github: https://github.com/api-evangelist/cleotic-ai
-- name: Clepit
-  url: https://artifacts.apis.io/clepit-com/apis.yml
-  x-apis-io: https://apis.io/providers/clepit-com/
-  x-github: https://github.com/api-evangelist/clepit-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Clerio Vision
   url: https://artifacts.apis.io/clerio-vision/apis.yml
   x-apis-io: https://apis.io/providers/clerio-vision/
@@ -923,10 +885,6 @@ include:
   url: https://artifacts.apis.io/clerka9b8/apis.yml
   x-apis-io: https://apis.io/providers/clerka9b8/
   x-github: https://github.com/api-evangelist/clerka9b8
-- name: ClerkChat
-  url: https://artifacts.apis.io/clerkchat-co/apis.yml
-  x-apis-io: https://apis.io/providers/clerkchat-co/
-  x-github: https://github.com/api-evangelist/clerkchat-co
 - name: Clerkie
   url: https://artifacts.apis.io/clerkie/apis.yml
   x-apis-io: https://apis.io/providers/clerkie/
@@ -939,11 +897,6 @@ include:
   url: https://artifacts.apis.io/clerq/apis.yml
   x-apis-io: https://apis.io/providers/clerq/
   x-github: https://github.com/api-evangelist/clerq
-- name: Cleve
-  url: https://artifacts.apis.io/cleve-ai/apis.yml
-  x-apis-io: https://apis.io/providers/cleve-ai/
-  x-github: https://github.com/api-evangelist/cleve-ai
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Cleveland-Cliffs
   url: https://artifacts.apis.io/cleveland-cliffs/apis.yml
   x-apis-io: https://apis.io/providers/cleveland-cliffs/
@@ -992,10 +945,6 @@ include:
   url: https://artifacts.apis.io/cleverutils-com/apis.yml
   x-apis-io: https://apis.io/providers/cleverutils-com/
   x-github: https://github.com/api-evangelist/cleverutils-com
-- name: Clevra
-  url: https://artifacts.apis.io/clevra-ai/apis.yml
-  x-apis-io: https://apis.io/providers/clevra-ai/
-  x-github: https://github.com/api-evangelist/clevra-ai
 - name: Clicampo
   url: https://artifacts.apis.io/clicampo/apis.yml
   x-apis-io: https://apis.io/providers/clicampo/
@@ -1052,11 +1001,6 @@ include:
   url: https://artifacts.apis.io/clickocom/apis.yml
   x-apis-io: https://apis.io/providers/clickocom/
   x-github: https://github.com/api-evangelist/clickocom
-- name: ClickPhone
-  url: https://artifacts.apis.io/clickphone-ro/apis.yml
-  x-apis-io: https://apis.io/providers/clickphone-ro/
-  x-github: https://github.com/api-evangelist/clickphone-ro
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: ClickPost
   url: https://artifacts.apis.io/clickpost/apis.yml
   x-apis-io: https://apis.io/providers/clickpost/
@@ -1085,10 +1029,6 @@ include:
   url: https://artifacts.apis.io/clickup/apis.yml
   x-apis-io: https://apis.io/providers/clickup/
   x-github: https://github.com/api-evangelist/clickup
-- name: Clickwise
-  url: https://artifacts.apis.io/clickwise-net/apis.yml
-  x-apis-io: https://apis.io/providers/clickwise-net/
-  x-github: https://github.com/api-evangelist/clickwise-net
 - name: Clicky
   url: https://artifacts.apis.io/clicky/apis.yml
   x-apis-io: https://apis.io/providers/clicky/
@@ -1101,14 +1041,6 @@ include:
   url: https://artifacts.apis.io/clicoh/apis.yml
   x-apis-io: https://apis.io/providers/clicoh/
   x-github: https://github.com/api-evangelist/clicoh
-- name: Clicon
-  url: https://artifacts.apis.io/clicon-app/apis.yml
-  x-apis-io: https://apis.io/providers/clicon-app/
-  x-github: https://github.com/api-evangelist/clicon-app
-- name: CliDeck
-  url: https://artifacts.apis.io/clideck-com/apis.yml
-  x-apis-io: https://apis.io/providers/clideck-com/
-  x-github: https://github.com/api-evangelist/clideck-com
 - name: Clientbook
   url: https://artifacts.apis.io/clientbook/apis.yml
   x-apis-io: https://apis.io/providers/clientbook/
@@ -1165,11 +1097,6 @@ include:
   url: https://artifacts.apis.io/climbcredit/apis.yml
   x-apis-io: https://apis.io/providers/climbcredit/
   x-github: https://github.com/api-evangelist/climbcredit
-- name: ClimbPast
-  url: https://artifacts.apis.io/climbpast-com/apis.yml
-  x-apis-io: https://apis.io/providers/climbpast-com/
-  x-github: https://github.com/api-evangelist/climbpast-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Climeworks
   url: https://artifacts.apis.io/climeworks/apis.yml
   x-apis-io: https://apis.io/providers/climeworks/
@@ -1218,16 +1145,6 @@ include:
   url: https://artifacts.apis.io/clinicalauditai/apis.yml
   x-apis-io: https://apis.io/providers/clinicalauditai/
   x-github: https://github.com/api-evangelist/clinicalauditai
-- name: ClinicalTracker.org
-  url: https://artifacts.apis.io/clinicaltracker-org/apis.yml
-  x-apis-io: https://apis.io/providers/clinicaltracker-org/
-  x-github: https://github.com/api-evangelist/clinicaltracker-org
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: Clinical Waste Quotes
-  url: https://artifacts.apis.io/clinicalwastequotes-co-uk/apis.yml
-  x-apis-io: https://apis.io/providers/clinicalwastequotes-co-uk/
-  x-github: https://github.com/api-evangelist/clinicalwastequotes-co-uk
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Clinicasim
   url: https://artifacts.apis.io/clinicasim/apis.yml
   x-apis-io: https://apis.io/providers/clinicasim/
@@ -1240,18 +1157,10 @@ include:
   url: https://artifacts.apis.io/cliniko/apis.yml
   x-apis-io: https://apis.io/providers/cliniko/
   x-github: https://github.com/api-evangelist/cliniko
-- name: Clink Forge
-  url: https://artifacts.apis.io/clinkforge-com/apis.yml
-  x-apis-io: https://apis.io/providers/clinkforge-com/
-  x-github: https://github.com/api-evangelist/clinkforge-com
 - name: Clinkle
   url: https://artifacts.apis.io/clinkle/apis.yml
   x-apis-io: https://apis.io/providers/clinkle/
   x-github: https://github.com/api-evangelist/clinkle
-- name: Clino
-  url: https://artifacts.apis.io/clino-ch/apis.yml
-  x-apis-io: https://apis.io/providers/clino-ch/
-  x-github: https://github.com/api-evangelist/clino-ch
 - name: Clinomic
   url: https://artifacts.apis.io/clinomic/apis.yml
   x-apis-io: https://apis.io/providers/clinomic/
@@ -1284,48 +1193,14 @@ include:
   url: https://artifacts.apis.io/clipboardo-com/apis.yml
   x-apis-io: https://apis.io/providers/clipboardo-com/
   x-github: https://github.com/api-evangelist/clipboardo-com
-- name: ClipEmber
-  url: https://artifacts.apis.io/clipember-com/apis.yml
-  x-apis-io: https://apis.io/providers/clipember-com/
-  x-github: https://github.com/api-evangelist/clipember-com
-- name: Clipform
-  url: https://artifacts.apis.io/clipform-io/apis.yml
-  x-apis-io: https://apis.io/providers/clipform-io/
-  x-github: https://github.com/api-evangelist/clipform-io
-- name: Clipia.ai
-  url: https://artifacts.apis.io/clipia-ai/apis.yml
-  x-apis-io: https://apis.io/providers/clipia-ai/
-  x-github: https://github.com/api-evangelist/clipia-ai
-- name: Clipkit
-  url: https://artifacts.apis.io/clipkit-dev/apis.yml
-  x-apis-io: https://apis.io/providers/clipkit-dev/
-  x-github: https://github.com/api-evangelist/clipkit-dev
 - name: ClipLine
   url: https://artifacts.apis.io/clipline/apis.yml
   x-apis-io: https://apis.io/providers/clipline/
   x-github: https://github.com/api-evangelist/clipline
-- name: ClipOnIt
-  url: https://artifacts.apis.io/cliponit-app/apis.yml
-  x-apis-io: https://apis.io/providers/cliponit-app/
-  x-github: https://github.com/api-evangelist/cliponit-app
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: ClippingAlpha
-  url: https://artifacts.apis.io/clippingalpha-com/apis.yml
-  x-apis-io: https://apis.io/providers/clippingalpha-com/
-  x-github: https://github.com/api-evangelist/clippingalpha-com
 - name: ClippPR
   url: https://artifacts.apis.io/clipppr/apis.yml
   x-apis-io: https://apis.io/providers/clipppr/
   x-github: https://github.com/api-evangelist/clipppr
-- name: ClipSpeedAI
-  url: https://artifacts.apis.io/clipspeed-ai/apis.yml
-  x-apis-io: https://apis.io/providers/clipspeed-ai/
-  x-github: https://github.com/api-evangelist/clipspeed-ai
-- name: Clip Studio AI
-  url: https://artifacts.apis.io/clipstudio-ai/apis.yml
-  x-apis-io: https://apis.io/providers/clipstudio-ai/
-  x-github: https://github.com/api-evangelist/clipstudio-ai
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: ClipTalk
   url: https://artifacts.apis.io/cliptalk-pro/apis.yml
   x-apis-io: https://apis.io/providers/cliptalk-pro/
@@ -1334,10 +1209,6 @@ include:
   url: https://artifacts.apis.io/cliptoai/apis.yml
   x-apis-io: https://apis.io/providers/cliptoai/
   x-github: https://github.com/api-evangelist/cliptoai
-- name: ClipUGC
-  url: https://artifacts.apis.io/clipugc-com/apis.yml
-  x-apis-io: https://apis.io/providers/clipugc-com/
-  x-github: https://github.com/api-evangelist/clipugc-com
 - name: Clipwright
   url: https://artifacts.apis.io/clipwright/apis.yml
   x-apis-io: https://apis.io/providers/clipwright/
@@ -1362,19 +1233,10 @@ include:
   url: https://artifacts.apis.io/clix-so/apis.yml
   x-apis-io: https://apis.io/providers/clix-so/
   x-github: https://github.com/api-evangelist/clix-so
-- name: Clment
-  url: https://artifacts.apis.io/clment-com/apis.yml
-  x-apis-io: https://apis.io/providers/clment-com/
-  x-github: https://github.com/api-evangelist/clment-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Cloaked
   url: https://artifacts.apis.io/cloaked/apis.yml
   x-apis-io: https://apis.io/providers/cloaked/
   x-github: https://github.com/api-evangelist/cloaked
-- name: Cloche
-  url: https://artifacts.apis.io/cloche-dev/apis.yml
-  x-apis-io: https://apis.io/providers/cloche-dev/
-  x-github: https://github.com/api-evangelist/cloche-dev
 - name: Clockify
   url: https://artifacts.apis.io/clockify/apis.yml
   x-apis-io: https://apis.io/providers/clockify/
@@ -1383,6 +1245,10 @@ include:
   url: https://artifacts.apis.io/clockodo/apis.yml
   x-apis-io: https://apis.io/providers/clockodo/
   x-github: https://github.com/api-evangelist/clockodo
+- name: Clockrook
+  url: https://artifacts.apis.io/clockrook/apis.yml
+  x-apis-io: https://apis.io/providers/clockrook/
+  x-github: https://github.com/api-evangelist/clockrook
 - name: Clockspring
   url: https://artifacts.apis.io/clockspring/apis.yml
   x-apis-io: https://apis.io/providers/clockspring/
@@ -1411,23 +1277,10 @@ include:
   url: https://artifacts.apis.io/clone/apis.yml
   x-apis-io: https://apis.io/providers/clone/
   x-github: https://github.com/api-evangelist/clone
-- name: CloneKit
-  url: https://artifacts.apis.io/clonekit-ai/apis.yml
-  x-apis-io: https://apis.io/providers/clonekit-ai/
-  x-github: https://github.com/api-evangelist/clonekit-ai
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: Clonio
-  url: https://artifacts.apis.io/clonio-es/apis.yml
-  x-apis-io: https://apis.io/providers/clonio-es/
-  x-github: https://github.com/api-evangelist/clonio-es
 - name: Cloocus
   url: https://artifacts.apis.io/cloocus/apis.yml
   x-apis-io: https://apis.io/providers/cloocus/
   x-github: https://github.com/api-evangelist/cloocus
-- name: Clootrack
-  url: https://artifacts.apis.io/clootrack-com/apis.yml
-  x-apis-io: https://apis.io/providers/clootrack-com/
-  x-github: https://github.com/api-evangelist/clootrack-com
 - name: Cloover
   url: https://artifacts.apis.io/cloover/apis.yml
   x-apis-io: https://apis.io/providers/cloover/
@@ -1456,11 +1309,6 @@ include:
   url: https://artifacts.apis.io/closedloop/apis.yml
   x-apis-io: https://apis.io/providers/closedloop/
   x-github: https://github.com/api-evangelist/closedloop
-- name: ClosedMCP
-  url: https://artifacts.apis.io/closedmcp-com/apis.yml
-  x-apis-io: https://apis.io/providers/closedmcp-com/
-  x-github: https://github.com/api-evangelist/closedmcp-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Closetbox
   url: https://artifacts.apis.io/closetbox/apis.yml
   x-apis-io: https://apis.io/providers/closetbox/
@@ -1589,10 +1437,6 @@ include:
   url: https://artifacts.apis.io/cloudcover/apis.yml
   x-apis-io: https://apis.io/providers/cloudcover/
   x-github: https://github.com/api-evangelist/cloudcover
-- name: CloudCrane
-  url: https://artifacts.apis.io/cloudcrane-ai/apis.yml
-  x-apis-io: https://apis.io/providers/cloudcrane-ai/
-  x-github: https://github.com/api-evangelist/cloudcrane-ai
 - name: CloudCraze
   url: https://artifacts.apis.io/cloudcraze/apis.yml
   x-apis-io: https://apis.io/providers/cloudcraze/
@@ -1693,10 +1537,6 @@ include:
   url: https://artifacts.apis.io/cloudhelixinc/apis.yml
   x-apis-io: https://apis.io/providers/cloudhelixinc/
   x-github: https://github.com/api-evangelist/cloudhelixinc
-- name: Cloud HPC
-  url: https://artifacts.apis.io/cloudhpc-cloud/apis.yml
-  x-apis-io: https://apis.io/providers/cloudhpc-cloud/
-  x-github: https://github.com/api-evangelist/cloudhpc-cloud
 - name: Cloudian
   url: https://artifacts.apis.io/cloudian/apis.yml
   x-apis-io: https://apis.io/providers/cloudian/
@@ -1737,6 +1577,10 @@ include:
   url: https://artifacts.apis.io/cloudkitchens/apis.yml
   x-apis-io: https://apis.io/providers/cloudkitchens/
   x-github: https://github.com/api-evangelist/cloudkitchens
+- name: CloudLab Works
+  url: https://artifacts.apis.io/cloudlabworks/apis.yml
+  x-apis-io: https://apis.io/providers/cloudlabworks/
+  x-github: https://github.com/api-evangelist/cloudlabworks
 - name: ParkourSC
   url: https://artifacts.apis.io/cloudleaf/apis.yml
   x-apis-io: https://apis.io/providers/cloudleaf/
@@ -1797,10 +1641,6 @@ include:
   url: https://artifacts.apis.io/cloudofgoods/apis.yml
   x-apis-io: https://apis.io/providers/cloudofgoods/
   x-github: https://github.com/api-evangelist/cloudofgoods
-- name: 'Cloudovňa'
-  url: https://artifacts.apis.io/cloudovna-eu/apis.yml
-  x-apis-io: https://apis.io/providers/cloudovna-eu/
-  x-github: https://github.com/api-evangelist/cloudovna-eu
 - name: CloudPassage
   url: https://artifacts.apis.io/cloudpassage/apis.yml
   x-apis-io: https://apis.io/providers/cloudpassage/
@@ -1813,10 +1653,6 @@ include:
   url: https://artifacts.apis.io/cloudpeak-energy/apis.yml
   x-apis-io: https://apis.io/providers/cloudpeak-energy/
   x-github: https://github.com/api-evangelist/cloudpeak-energy
-- name: Cloudpepper
-  url: https://artifacts.apis.io/cloudpepper-io/apis.yml
-  x-apis-io: https://apis.io/providers/cloudpepper-io/
-  x-github: https://github.com/api-evangelist/cloudpepper-io
 - name: CloudPhysics
   url: https://artifacts.apis.io/cloudphysics/apis.yml
   x-apis-io: https://apis.io/providers/cloudphysics/
@@ -1841,19 +1677,10 @@ include:
   url: https://artifacts.apis.io/cloudqix/apis.yml
   x-apis-io: https://apis.io/providers/cloudqix/
   x-github: https://github.com/api-evangelist/cloudqix
-- name: CloudQuell
-  url: https://artifacts.apis.io/cloudquell-com/apis.yml
-  x-apis-io: https://apis.io/providers/cloudquell-com/
-  x-github: https://github.com/api-evangelist/cloudquell-com
 - name: CloudQuery
   url: https://artifacts.apis.io/cloudquery/apis.yml
   x-apis-io: https://apis.io/providers/cloudquery/
   x-github: https://github.com/api-evangelist/cloudquery
-- name: cloudresume.io
-  url: https://artifacts.apis.io/cloudresume-io/apis.yml
-  x-apis-io: https://apis.io/providers/cloudresume-io/
-  x-github: https://github.com/api-evangelist/cloudresume-io
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: CloudRF
   url: https://artifacts.apis.io/cloudrf/apis.yml
   x-apis-io: https://apis.io/providers/cloudrf/
@@ -1930,10 +1757,6 @@ include:
   url: https://artifacts.apis.io/cloudwise/apis.yml
   x-apis-io: https://apis.io/providers/cloudwise/
   x-github: https://github.com/api-evangelist/cloudwise
-- name: Cloud World Model
-  url: https://artifacts.apis.io/cloudworldmodel-ai/apis.yml
-  x-apis-io: https://apis.io/providers/cloudworldmodel-ai/
-  x-github: https://github.com/api-evangelist/cloudworldmodel-ai
 - name: CloudX
   url: https://artifacts.apis.io/cloudx/apis.yml
   x-apis-io: https://apis.io/providers/cloudx/
@@ -1946,10 +1769,6 @@ include:
   url: https://artifacts.apis.io/clounix/apis.yml
   x-apis-io: https://apis.io/providers/clounix/
   x-github: https://github.com/api-evangelist/clounix
-- name: Clousd
-  url: https://artifacts.apis.io/clousd-com/apis.yml
-  x-apis-io: https://apis.io/providers/clousd-com/
-  x-github: https://github.com/api-evangelist/clousd-com
 - name: CloutJam
   url: https://artifacts.apis.io/cloutjam/apis.yml
   x-apis-io: https://apis.io/providers/cloutjam/
@@ -2014,19 +1833,10 @@ include:
   url: https://artifacts.apis.io/clozd/apis.yml
   x-apis-io: https://apis.io/providers/clozd/
   x-github: https://github.com/api-evangelist/clozd
-- name: Cloziq
-  url: https://artifacts.apis.io/cloziq-com/apis.yml
-  x-apis-io: https://apis.io/providers/cloziq-com/
-  x-github: https://github.com/api-evangelist/cloziq-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Clrfacilityservicespvtltd
   url: https://artifacts.apis.io/clrfacilityservicespvtltd/apis.yml
   x-apis-io: https://apis.io/providers/clrfacilityservicespvtltd/
   x-github: https://github.com/api-evangelist/clrfacilityservicespvtltd
-- name: CLSTR
-  url: https://artifacts.apis.io/clstr-news/apis.yml
-  x-apis-io: https://apis.io/providers/clstr-news/
-  x-github: https://github.com/api-evangelist/clstr-news
 - name: Club Feast
   url: https://artifacts.apis.io/club-feast/apis.yml
   x-apis-io: https://apis.io/providers/club-feast/
@@ -2039,11 +1849,6 @@ include:
   url: https://artifacts.apis.io/clubfactory/apis.yml
   x-apis-io: https://apis.io/providers/clubfactory/
   x-github: https://github.com/api-evangelist/clubfactory
-- name: Club Grants
-  url: https://artifacts.apis.io/clubgrants-co-uk/apis.yml
-  x-apis-io: https://apis.io/providers/clubgrants-co-uk/
-  x-github: https://github.com/api-evangelist/clubgrants-co-uk
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Clubhouse
   url: https://artifacts.apis.io/clubhouse/apis.yml
   x-apis-io: https://apis.io/providers/clubhouse/
@@ -2056,11 +1861,6 @@ include:
   url: https://artifacts.apis.io/clubhousevoice/apis.yml
   x-apis-io: https://apis.io/providers/clubhousevoice/
   x-github: https://github.com/api-evangelist/clubhousevoice
-- name: CLUBS
-  url: https://artifacts.apis.io/clubs-place/apis.yml
-  x-apis-io: https://apis.io/providers/clubs-place/
-  x-github: https://github.com/api-evangelist/clubs-place
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: CLUBZERO
   url: https://artifacts.apis.io/clubzero/apis.yml
   x-apis-io: https://apis.io/providers/clubzero/
@@ -2073,10 +1873,6 @@ include:
   url: https://artifacts.apis.io/cluely/apis.yml
   x-apis-io: https://apis.io/providers/cluely/
   x-github: https://github.com/api-evangelist/cluely
-- name: Clueso
-  url: https://artifacts.apis.io/clueso-io/apis.yml
-  x-apis-io: https://apis.io/providers/clueso-io/
-  x-github: https://github.com/api-evangelist/clueso-io
 - name: Clumio
   url: https://artifacts.apis.io/clumio/apis.yml
   x-apis-io: https://apis.io/providers/clumio/
@@ -2089,11 +1885,6 @@ include:
   url: https://artifacts.apis.io/cluster/apis.yml
   x-apis-io: https://apis.io/providers/cluster/
   x-github: https://github.com/api-evangelist/cluster
-- name: ClusterHack
-  url: https://artifacts.apis.io/clusterhack-dev/apis.yml
-  x-apis-io: https://apis.io/providers/clusterhack-dev/
-  x-github: https://github.com/api-evangelist/clusterhack-dev
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Clusterk
   url: https://artifacts.apis.io/clusterk/apis.yml
   x-apis-io: https://apis.io/providers/clusterk/
@@ -2126,27 +1917,14 @@ include:
   url: https://artifacts.apis.io/clutch3/apis.yml
   x-apis-io: https://apis.io/providers/clutch3/
   x-github: https://github.com/api-evangelist/clutch3
-- name: ClutchCall
-  url: https://artifacts.apis.io/clutchcall-dev/apis.yml
-  x-apis-io: https://apis.io/providers/clutchcall-dev/
-  x-github: https://github.com/api-evangelist/clutchcall-dev
 - name: Clutter
   url: https://artifacts.apis.io/clutter/apis.yml
   x-apis-io: https://apis.io/providers/clutter/
   x-github: https://github.com/api-evangelist/clutter
-- name: Cluvi AI
-  url: https://artifacts.apis.io/cluvi-ai/apis.yml
-  x-apis-io: https://apis.io/providers/cluvi-ai/
-  x-github: https://github.com/api-evangelist/cluvi-ai
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Clyde
   url: https://artifacts.apis.io/clyde/apis.yml
   x-apis-io: https://apis.io/providers/clyde/
   x-github: https://github.com/api-evangelist/clyde
-- name: Clypmint
-  url: https://artifacts.apis.io/clypmint-com/apis.yml
-  x-apis-io: https://apis.io/providers/clypmint-com/
-  x-github: https://github.com/api-evangelist/clypmint-com
 - name: CM.com
   url: https://artifacts.apis.io/cm-com/apis.yml
   x-apis-io: https://apis.io/providers/cm-com/
@@ -2175,11 +1953,6 @@ include:
   url: https://artifacts.apis.io/cme-group/apis.yml
   x-apis-io: https://apis.io/providers/cme-group/
   x-github: https://github.com/api-evangelist/cme-group
-- name: CMeIn
-  url: https://artifacts.apis.io/cmein-com/apis.yml
-  x-apis-io: https://apis.io/providers/cmein-com/
-  x-github: https://github.com/api-evangelist/cmein-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Cmesb169
   url: https://artifacts.apis.io/cmesb169/apis.yml
   x-apis-io: https://apis.io/providers/cmesb169/
@@ -2228,10 +2001,6 @@ include:
   url: https://artifacts.apis.io/cnano/apis.yml
   x-apis-io: https://apis.io/providers/cnano/
   x-github: https://github.com/api-evangelist/cnano
-- name: CNAPS.AI
-  url: https://artifacts.apis.io/cnaps-ai/apis.yml
-  x-apis-io: https://apis.io/providers/cnaps-ai/
-  x-github: https://github.com/api-evangelist/cnaps-ai
 - name: CNaught
   url: https://artifacts.apis.io/cnaught/apis.yml
   x-apis-io: https://apis.io/providers/cnaught/
@@ -2244,11 +2013,6 @@ include:
   url: https://artifacts.apis.io/cnc24/apis.yml
   x-apis-io: https://apis.io/providers/cnc24/
   x-github: https://github.com/api-evangelist/cnc24
-- name: CNC Compass
-  url: https://artifacts.apis.io/cnccompass-com/apis.yml
-  x-apis-io: https://apis.io/providers/cnccompass-com/
-  x-github: https://github.com/api-evangelist/cnccompass-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: CNCF
   url: https://artifacts.apis.io/cncf/apis.yml
   x-apis-io: https://apis.io/providers/cncf/
@@ -2265,11 +2029,6 @@ include:
   url: https://artifacts.apis.io/cnes/apis.yml
   x-apis-io: https://apis.io/providers/cnes/
   x-github: https://github.com/api-evangelist/cnes
-- name: CN Evidence
-  url: https://artifacts.apis.io/cnevidence-com/apis.yml
-  x-apis-io: https://apis.io/providers/cnevidence-com/
-  x-github: https://github.com/api-evangelist/cnevidence-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: CNEX Labs
   url: https://artifacts.apis.io/cnex-labs/apis.yml
   x-apis-io: https://apis.io/providers/cnex-labs/
@@ -2294,16 +2053,6 @@ include:
   url: https://artifacts.apis.io/cnote/apis.yml
   x-apis-io: https://apis.io/providers/cnote/
   x-github: https://github.com/api-evangelist/cnote
-- name: cnpj.ai
-  url: https://artifacts.apis.io/cnpj-ai/apis.yml
-  x-apis-io: https://apis.io/providers/cnpj-ai/
-  x-github: https://github.com/api-evangelist/cnpj-ai
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: CN RegWatch
-  url: https://artifacts.apis.io/cnregwatch-com/apis.yml
-  x-apis-io: https://apis.io/providers/cnregwatch-com/
-  x-github: https://github.com/api-evangelist/cnregwatch-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: NBULA - AI As A Service
   url: https://artifacts.apis.io/cntxt/apis.yml
   x-apis-io: https://apis.io/providers/cntxt/
@@ -2356,24 +2105,10 @@ include:
   url: https://artifacts.apis.io/coachhub/apis.yml
   x-apis-io: https://apis.io/providers/coachhub/
   x-github: https://github.com/api-evangelist/coachhub
-- name: Coach Icarus
-  url: https://artifacts.apis.io/coachicarus-com/apis.yml
-  x-apis-io: https://apis.io/providers/coachicarus-com/
-  x-github: https://github.com/api-evangelist/coachicarus-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: CoachSync
-  url: https://artifacts.apis.io/coachsync-io/apis.yml
-  x-apis-io: https://apis.io/providers/coachsync-io/
-  x-github: https://github.com/api-evangelist/coachsync-io
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Coachup
   url: https://artifacts.apis.io/coachup/apis.yml
   x-apis-io: https://apis.io/providers/coachup/
   x-github: https://github.com/api-evangelist/coachup
-- name: Coach Watts
-  url: https://artifacts.apis.io/coachwatts-com/apis.yml
-  x-apis-io: https://apis.io/providers/coachwatts-com/
-  x-github: https://github.com/api-evangelist/coachwatts-com
 - name: Coactive
   url: https://artifacts.apis.io/coactive/apis.yml
   x-apis-io: https://apis.io/providers/coactive/
@@ -2442,19 +2177,10 @@ include:
   url: https://artifacts.apis.io/cobalt-speech/apis.yml
   x-apis-io: https://apis.io/providers/cobalt-speech/
   x-github: https://github.com/api-evangelist/cobalt-speech
-- name: Cobalt Capture
-  url: https://artifacts.apis.io/cobaltcapture-com/apis.yml
-  x-apis-io: https://apis.io/providers/cobaltcapture-com/
-  x-github: https://github.com/api-evangelist/cobaltcapture-com
 - name: Cobaltroboticsinc
   url: https://artifacts.apis.io/cobaltroboticsinc/apis.yml
   x-apis-io: https://apis.io/providers/cobaltroboticsinc/
   x-github: https://github.com/api-evangelist/cobaltroboticsinc
-- name: Cobbles
-  url: https://artifacts.apis.io/cobbles-ai/apis.yml
-  x-apis-io: https://apis.io/providers/cobbles-ai/
-  x-github: https://github.com/api-evangelist/cobbles-ai
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Cobee by Pluxee
   url: https://artifacts.apis.io/cobee/apis.yml
   x-apis-io: https://apis.io/providers/cobee/
@@ -2475,10 +2201,6 @@ include:
   url: https://artifacts.apis.io/cobotbbd4/apis.yml
   x-apis-io: https://apis.io/providers/cobotbbd4/
   x-github: https://github.com/api-evangelist/cobotbbd4
-- name: Cobrain
-  url: https://artifacts.apis.io/cobrain-space/apis.yml
-  x-apis-io: https://apis.io/providers/cobrain-space/
-  x-github: https://github.com/api-evangelist/cobrain-space
 - name: Cobre
   url: https://artifacts.apis.io/cobre/apis.yml
   x-apis-io: https://apis.io/providers/cobre/
@@ -2503,16 +2225,6 @@ include:
   url: https://artifacts.apis.io/cockroach-labs/apis.yml
   x-apis-io: https://apis.io/providers/cockroach-labs/
   x-github: https://github.com/api-evangelist/cockroach-labs
-- name: Cocktail Glass
-  url: https://artifacts.apis.io/cocktail-glass/apis.yml
-  x-apis-io: https://apis.io/providers/cocktail-glass/
-  x-github: https://github.com/api-evangelist/cocktail-glass
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: Cocktailline
-  url: https://artifacts.apis.io/cocktailline-de/apis.yml
-  x-apis-io: https://apis.io/providers/cocktailline-de/
-  x-github: https://github.com/api-evangelist/cocktailline-de
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Coclean
   url: https://artifacts.apis.io/coclean/apis.yml
   x-apis-io: https://apis.io/providers/coclean/
@@ -2521,10 +2233,6 @@ include:
   url: https://artifacts.apis.io/coco/apis.yml
   x-apis-io: https://apis.io/providers/coco/
   x-github: https://github.com/api-evangelist/coco
-- name: Coco Pier
-  url: https://artifacts.apis.io/coco-pier-com/apis.yml
-  x-apis-io: https://apis.io/providers/coco-pier-com/
-  x-github: https://github.com/api-evangelist/coco-pier-com
 - name: Cocokind
   url: https://artifacts.apis.io/cocokind/apis.yml
   x-apis-io: https://apis.io/providers/cocokind/
@@ -2553,11 +2261,6 @@ include:
   url: https://artifacts.apis.io/coctrl/apis.yml
   x-apis-io: https://apis.io/providers/coctrl/
   x-github: https://github.com/api-evangelist/coctrl
-- name: Cocuyo
-  url: https://artifacts.apis.io/cocuyo-ai/apis.yml
-  x-apis-io: https://apis.io/providers/cocuyo-ai/
-  x-github: https://github.com/api-evangelist/cocuyo-ai
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Coda
   url: https://artifacts.apis.io/coda/apis.yml
   x-apis-io: https://apis.io/providers/coda/
@@ -2586,10 +2289,6 @@ include:
   url: https://artifacts.apis.io/codagenixinc/apis.yml
   x-apis-io: https://apis.io/providers/codagenixinc/
   x-github: https://github.com/api-evangelist/codagenixinc
-- name: codai
-  url: https://artifacts.apis.io/codai-ro/apis.yml
-  x-apis-io: https://apis.io/providers/codai-ro/
-  x-github: https://github.com/api-evangelist/codai-ro
 - name: CodaMetrix
   url: https://artifacts.apis.io/codametrix/apis.yml
   x-apis-io: https://apis.io/providers/codametrix/
@@ -2598,11 +2297,6 @@ include:
   url: https://artifacts.apis.io/codan/apis.yml
   x-apis-io: https://apis.io/providers/codan/
   x-github: https://github.com/api-evangelist/codan
-- name: CodaPhone
-  url: https://artifacts.apis.io/codaphone-app/apis.yml
-  x-apis-io: https://apis.io/providers/codaphone-app/
-  x-github: https://github.com/api-evangelist/codaphone-app
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Codat
   url: https://artifacts.apis.io/codat/apis.yml
   x-apis-io: https://apis.io/providers/codat/
@@ -2647,43 +2341,18 @@ include:
   url: https://artifacts.apis.io/code24/apis.yml
   x-apis-io: https://apis.io/providers/code24/
   x-github: https://github.com/api-evangelist/code24
-- name: Code402
-  url: https://artifacts.apis.io/code402-dev/apis.yml
-  x-apis-io: https://apis.io/providers/code402-dev/
-  x-github: https://github.com/api-evangelist/code402-dev
 - name: Code4rena
   url: https://artifacts.apis.io/code4rena/apis.yml
   x-apis-io: https://apis.io/providers/code4rena/
   x-github: https://github.com/api-evangelist/code4rena
-- name: CodeAtlas
-  url: https://artifacts.apis.io/codeatlas-com-br/apis.yml
-  x-apis-io: https://apis.io/providers/codeatlas-com-br/
-  x-github: https://github.com/api-evangelist/codeatlas-com-br
-- name: Code Auditor MCP
-  url: https://artifacts.apis.io/codeauditormcp-com/apis.yml
-  x-apis-io: https://apis.io/providers/codeauditormcp-com/
-  x-github: https://github.com/api-evangelist/codeauditormcp-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: Codebahn
-  url: https://artifacts.apis.io/codebahn-net/apis.yml
-  x-apis-io: https://apis.io/providers/codebahn-net/
-  x-github: https://github.com/api-evangelist/codebahn-net
 - name: Codebase
   url: https://artifacts.apis.io/codebase/apis.yml
   x-apis-io: https://apis.io/providers/codebase/
   x-github: https://github.com/api-evangelist/codebase
 - name: Codebase
-  url: https://artifacts.apis.io/codebase-design/apis.yml
-  x-apis-io: https://apis.io/providers/codebase-design/
-  x-github: https://github.com/api-evangelist/codebase-design
-- name: Codebase
   url: https://artifacts.apis.io/codebasehq/apis.yml
   x-apis-io: https://apis.io/providers/codebasehq/
   x-github: https://github.com/api-evangelist/codebasehq
-- name: Codebeamer
-  url: https://artifacts.apis.io/codebeamer/apis.yml
-  x-apis-io: https://apis.io/providers/codebeamer/
-  x-github: https://github.com/api-evangelist/codebeamer
 - name: Codeberg
   url: https://artifacts.apis.io/codeberg/apis.yml
   x-apis-io: https://apis.io/providers/codeberg/
@@ -2716,19 +2385,10 @@ include:
   url: https://artifacts.apis.io/codecov/apis.yml
   x-apis-io: https://apis.io/providers/codecov/
   x-github: https://github.com/api-evangelist/codecov
-- name: CodeCrafted
-  url: https://artifacts.apis.io/codecrafted-co-uk/apis.yml
-  x-apis-io: https://apis.io/providers/codecrafted-co-uk/
-  x-github: https://github.com/api-evangelist/codecrafted-co-uk
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Coded
   url: https://artifacts.apis.io/coded/apis.yml
   x-apis-io: https://apis.io/providers/coded/
   x-github: https://github.com/api-evangelist/coded
-- name: codefmt
-  url: https://artifacts.apis.io/codefmt-dev/apis.yml
-  x-apis-io: https://apis.io/providers/codefmt-dev/
-  x-github: https://github.com/api-evangelist/codefmt-dev
 - name: Codeforces
   url: https://artifacts.apis.io/codeforces/apis.yml
   x-apis-io: https://apis.io/providers/codeforces/
@@ -2757,37 +2417,14 @@ include:
   url: https://artifacts.apis.io/codel-doors/apis.yml
   x-apis-io: https://apis.io/providers/codel-doors/
   x-github: https://github.com/api-evangelist/codel-doors
-- name: Codelco
-  url: https://artifacts.apis.io/codelco/apis.yml
-  x-apis-io: https://apis.io/providers/codelco/
-  x-github: https://github.com/api-evangelist/codelco
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: codemasters
   url: https://artifacts.apis.io/codemasters/apis.yml
   x-apis-io: https://apis.io/providers/codemasters/
   x-github: https://github.com/api-evangelist/codemasters
-- name: Codemate
-  url: https://artifacts.apis.io/codemate-com/apis.yml
-  x-apis-io: https://apis.io/providers/codemate-com/
-  x-github: https://github.com/api-evangelist/codemate-com
 - name: CodeMentor
   url: https://artifacts.apis.io/codementor/apis.yml
   x-apis-io: https://apis.io/providers/codementor/
   x-github: https://github.com/api-evangelist/codementor
-- name: CodeMind
-  url: https://artifacts.apis.io/codemindhq-dev/apis.yml
-  x-apis-io: https://apis.io/providers/codemindhq-dev/
-  x-github: https://github.com/api-evangelist/codemindhq-dev
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: CodeMouse
-  url: https://artifacts.apis.io/codemouse-ai/apis.yml
-  x-apis-io: https://apis.io/providers/codemouse-ai/
-  x-github: https://github.com/api-evangelist/codemouse-ai
-- name: CODENIVERSE
-  url: https://artifacts.apis.io/codeniverse-com/apis.yml
-  x-apis-io: https://apis.io/providers/codeniverse-com/
-  x-github: https://github.com/api-evangelist/codeniverse-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Codenotary
   url: https://artifacts.apis.io/codenotary/apis.yml
   x-apis-io: https://apis.io/providers/codenotary/
@@ -2808,28 +2445,10 @@ include:
   url: https://artifacts.apis.io/codepen/apis.yml
   x-apis-io: https://apis.io/providers/codepen/
   x-github: https://github.com/api-evangelist/codepen
-- name: CodePic
-  url: https://artifacts.apis.io/codepic-cc/apis.yml
-  x-apis-io: https://apis.io/providers/codepic-cc/
-  x-github: https://github.com/api-evangelist/codepic-cc
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: CodePostalPro
-  url: https://artifacts.apis.io/codepostalpro-com/apis.yml
-  x-apis-io: https://apis.io/providers/codepostalpro-com/
-  x-github: https://github.com/api-evangelist/codepostalpro-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: CodeProject
   url: https://artifacts.apis.io/codeproject/apis.yml
   x-apis-io: https://apis.io/providers/codeproject/
   x-github: https://github.com/api-evangelist/codeproject
-- name: CodeQR
-  url: https://artifacts.apis.io/codeqr-io/apis.yml
-  x-apis-io: https://apis.io/providers/codeqr-io/
-  x-github: https://github.com/api-evangelist/codeqr-io
-- name: Codequiry
-  url: https://artifacts.apis.io/codequiry-com/apis.yml
-  x-apis-io: https://apis.io/providers/codequiry-com/
-  x-github: https://github.com/api-evangelist/codequiry-com
 - name: Coder
   url: https://artifacts.apis.io/coder/apis.yml
   x-apis-io: https://apis.io/providers/coder/
@@ -2838,10 +2457,6 @@ include:
   url: https://artifacts.apis.io/coderabbit/apis.yml
   x-apis-io: https://apis.io/providers/coderabbit/
   x-github: https://github.com/api-evangelist/coderabbit
-- name: Coderbuds
-  url: https://artifacts.apis.io/coderbuds-com/apis.yml
-  x-apis-io: https://apis.io/providers/coderbuds-com/
-  x-github: https://github.com/api-evangelist/coderbuds-com
 - name: CodeRifts
   url: https://artifacts.apis.io/coderifts/apis.yml
   x-apis-io: https://apis.io/providers/coderifts/
@@ -2874,10 +2489,6 @@ include:
   url: https://artifacts.apis.io/codesphere/apis.yml
   x-apis-io: https://apis.io/providers/codesphere/
   x-github: https://github.com/api-evangelist/codesphere
-- name: CodeStringers
-  url: https://artifacts.apis.io/codestringers-com/apis.yml
-  x-apis-io: https://apis.io/providers/codestringers-com/
-  x-github: https://github.com/api-evangelist/codestringers-com
 - name: Code Summary
   url: https://artifacts.apis.io/codesummary/apis.yml
   x-apis-io: https://apis.io/providers/codesummary/
@@ -2902,18 +2513,10 @@ include:
   url: https://artifacts.apis.io/codex-protocol/apis.yml
   x-apis-io: https://apis.io/providers/codex-protocol/
   x-github: https://github.com/api-evangelist/codex-protocol
-- name: Codex Reset
-  url: https://artifacts.apis.io/codex-reset-com/apis.yml
-  x-apis-io: https://apis.io/providers/codex-reset-com/
-  x-github: https://github.com/api-evangelist/codex-reset-com
 - name: Codex54b0
   url: https://artifacts.apis.io/codex54b0/apis.yml
   x-apis-io: https://apis.io/providers/codex54b0/
   x-github: https://github.com/api-evangelist/codex54b0
-- name: CodexGuild
-  url: https://artifacts.apis.io/codexguild-com/apis.yml
-  x-apis-io: https://apis.io/providers/codexguild-com/
-  x-github: https://github.com/api-evangelist/codexguild-com
 - name: Codi
   url: https://artifacts.apis.io/codi/apis.yml
   x-apis-io: https://apis.io/providers/codi/
@@ -2930,11 +2533,6 @@ include:
   url: https://artifacts.apis.io/codiumai/apis.yml
   x-apis-io: https://apis.io/providers/codiumai/
   x-github: https://github.com/api-evangelist/codiumai
-- name: Codon Valuation Advisors
-  url: https://artifacts.apis.io/codonvaluation-com/apis.yml
-  x-apis-io: https://apis.io/providers/codonvaluation-com/
-  x-github: https://github.com/api-evangelist/codonvaluation-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Codoxo
   url: https://artifacts.apis.io/codoxo/apis.yml
   x-apis-io: https://apis.io/providers/codoxo/
@@ -2963,11 +2561,6 @@ include:
   url: https://artifacts.apis.io/coegil/apis.yml
   x-apis-io: https://apis.io/providers/coegil/
   x-github: https://github.com/api-evangelist/coegil
-- name: coExploro
-  url: https://artifacts.apis.io/coexploro-com/apis.yml
-  x-apis-io: https://apis.io/providers/coexploro-com/
-  x-github: https://github.com/api-evangelist/coexploro-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Cofactor AI
   url: https://artifacts.apis.io/cofactor-ai/apis.yml
   x-apis-io: https://apis.io/providers/cofactor-ai/
@@ -3008,11 +2601,6 @@ include:
   url: https://artifacts.apis.io/coffee-meets-bagel/apis.yml
   x-apis-io: https://apis.io/providers/coffee-meets-bagel/
   x-github: https://github.com/api-evangelist/coffee-meets-bagel
-- name: Coffee Addict
-  url: https://artifacts.apis.io/coffeeaddict-nz/apis.yml
-  x-apis-io: https://apis.io/providers/coffeeaddict-nz/
-  x-github: https://github.com/api-evangelist/coffeeaddict-nz
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Coffeecircle
   url: https://artifacts.apis.io/coffeecircle/apis.yml
   x-apis-io: https://apis.io/providers/coffeecircle/
@@ -3485,7 +3073,7 @@ include:
   url: https://artifacts.apis.io/colacloud-us/apis.yml
   x-apis-io: https://apis.io/providers/colacloud-us/
   x-github: https://github.com/api-evangelist/colacloud-us
-- name: COLA Insight
+- name: Colainsight
   url: https://artifacts.apis.io/colainsight-com/apis.yml
   x-apis-io: https://apis.io/providers/colainsight-com/
   x-github: https://github.com/api-evangelist/colainsight-com
@@ -3513,19 +3101,10 @@ include:
   url: https://artifacts.apis.io/coldrig-dev/apis.yml
   x-apis-io: https://apis.io/providers/coldrig-dev/
   x-github: https://github.com/api-evangelist/coldrig-dev
-- name: Cold Room Installation Cost
-  url: https://artifacts.apis.io/coldroominstallationcost-co-uk/apis.yml
-  x-apis-io: https://apis.io/providers/coldroominstallationcost-co-uk/
-  x-github: https://github.com/api-evangelist/coldroominstallationcost-co-uk
 - name: ColdSnap
   url: https://artifacts.apis.io/coldsnap/apis.yml
   x-apis-io: https://apis.io/providers/coldsnap/
   x-github: https://github.com/api-evangelist/coldsnap
-- name: ColdState
-  url: https://artifacts.apis.io/coldstate-ai/apis.yml
-  x-apis-io: https://apis.io/providers/coldstate-ai/
-  x-github: https://github.com/api-evangelist/coldstate-ai
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Colektia
   url: https://artifacts.apis.io/colektia/apis.yml
   x-apis-io: https://apis.io/providers/colektia/
@@ -3558,11 +3137,6 @@ include:
   url: https://artifacts.apis.io/coliveb64a/apis.yml
   x-apis-io: https://apis.io/providers/coliveb64a/
   x-github: https://github.com/api-evangelist/coliveb64a
-- name: ArchiCollab
-  url: https://artifacts.apis.io/collab-archi/apis.yml
-  x-apis-io: https://apis.io/providers/collab-archi/
-  x-github: https://github.com/api-evangelist/collab-archi
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Collabora Ltd.
   url: https://artifacts.apis.io/collabora-ltd/apis.yml
   x-apis-io: https://apis.io/providers/collabora-ltd/
@@ -3587,19 +3161,10 @@ include:
   url: https://artifacts.apis.io/collaborative-robotics-cobot/apis.yml
   x-apis-io: https://apis.io/providers/collaborative-robotics-cobot/
   x-github: https://github.com/api-evangelist/collaborative-robotics-cobot
-- name: CollabPls
-  url: https://artifacts.apis.io/collabpls-com/apis.yml
-  x-apis-io: https://apis.io/providers/collabpls-com/
-  x-github: https://github.com/api-evangelist/collabpls-com
 - name: Collabra
   url: https://artifacts.apis.io/collabra/apis.yml
   x-apis-io: https://apis.io/providers/collabra/
   x-github: https://github.com/api-evangelist/collabra
-- name: Collager.ai
-  url: https://artifacts.apis.io/collager-ai/apis.yml
-  x-apis-io: https://apis.io/providers/collager-ai/
-  x-github: https://github.com/api-evangelist/collager-ai
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Collate
   url: https://artifacts.apis.io/collate/apis.yml
   x-apis-io: https://apis.io/providers/collate/
@@ -3648,15 +3213,6 @@ include:
   url: https://artifacts.apis.io/collectors/apis.yml
   x-apis-io: https://apis.io/providers/collectors/
   x-github: https://github.com/api-evangelist/collectors
-- name: CollectSEA
-  url: https://artifacts.apis.io/collectsea-com/apis.yml
-  x-apis-io: https://apis.io/providers/collectsea-com/
-  x-github: https://github.com/api-evangelist/collectsea-com
-- name: CollegeCalcAI
-  url: https://artifacts.apis.io/collegecalcai-com/apis.yml
-  x-apis-io: https://apis.io/providers/collegecalcai-com/
-  x-github: https://github.com/api-evangelist/collegecalcai-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Collegeconsortium
   url: https://artifacts.apis.io/collegeconsortium/apis.yml
   x-apis-io: https://apis.io/providers/collegeconsortium/
@@ -3689,11 +3245,6 @@ include:
   url: https://artifacts.apis.io/collide/apis.yml
   x-apis-io: https://apis.io/providers/collide/
   x-github: https://github.com/api-evangelist/collide
-- name: Collimer
-  url: https://artifacts.apis.io/collimer-com/apis.yml
-  x-apis-io: https://apis.io/providers/collimer-com/
-  x-github: https://github.com/api-evangelist/collimer-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Collins
   url: https://artifacts.apis.io/collins/apis.yml
   x-apis-io: https://apis.io/providers/collins/
@@ -3722,11 +3273,6 @@ include:
   url: https://artifacts.apis.io/colorado-information-marketplace/apis.yml
   x-apis-io: https://apis.io/providers/colorado-information-marketplace/
   x-github: https://github.com/api-evangelist/colorado-information-marketplace
-- name: Colorado Roof Replacement Cost
-  url: https://artifacts.apis.io/coloradoroofreplacementcost-com/apis.yml
-  x-apis-io: https://apis.io/providers/coloradoroofreplacementcost-com/
-  x-github: https://github.com/api-evangelist/coloradoroofreplacementcost-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: ColorChip
   url: https://artifacts.apis.io/colorchip/apis.yml
   x-apis-io: https://apis.io/providers/colorchip/
@@ -3747,19 +3293,10 @@ include:
   url: https://artifacts.apis.io/colorifix/apis.yml
   x-apis-io: https://apis.io/providers/colorifix/
   x-github: https://github.com/api-evangelist/colorifix
-- name: ColoringBookify
-  url: https://artifacts.apis.io/coloringbookify-com/apis.yml
-  x-apis-io: https://apis.io/providers/coloringbookify-com/
-  x-github: https://github.com/api-evangelist/coloringbookify-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Colormind
   url: https://artifacts.apis.io/colormind/apis.yml
   x-apis-io: https://apis.io/providers/colormind/
   x-github: https://github.com/api-evangelist/colormind
-- name: ColorwayKit
-  url: https://artifacts.apis.io/colorwaykit-com/apis.yml
-  x-apis-io: https://apis.io/providers/colorwaykit-com/
-  x-github: https://github.com/api-evangelist/colorwaykit-com
 - name: Colossal Biosciences
   url: https://artifacts.apis.io/colossal-biosciences/apis.yml
   x-apis-io: https://apis.io/providers/colossal-biosciences/
@@ -3776,10 +3313,6 @@ include:
   url: https://artifacts.apis.io/colourlovers/apis.yml
   x-apis-io: https://apis.io/providers/colourlovers/
   x-github: https://github.com/api-evangelist/colourlovers
-- name: Colour Memory
-  url: https://artifacts.apis.io/colourmemory-com/apis.yml
-  x-apis-io: https://apis.io/providers/colourmemory-com/
-  x-github: https://github.com/api-evangelist/colourmemory-com
 - name: Colubrismx
   url: https://artifacts.apis.io/colubrismx/apis.yml
   x-apis-io: https://apis.io/providers/colubrismx/
@@ -3868,11 +3401,6 @@ include:
   url: https://artifacts.apis.io/comeet/apis.yml
   x-apis-io: https://apis.io/providers/comeet/
   x-github: https://github.com/api-evangelist/comeet
-- name: ComeHome.ai
-  url: https://artifacts.apis.io/comehome-ai/apis.yml
-  x-apis-io: https://apis.io/providers/comehome-ai/
-  x-github: https://github.com/api-evangelist/comehome-ai
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Comento
   url: https://artifacts.apis.io/comento/apis.yml
   x-apis-io: https://apis.io/providers/comento/
@@ -3909,18 +3437,10 @@ include:
   url: https://artifacts.apis.io/cometh/apis.yml
   x-apis-io: https://apis.io/providers/cometh/
   x-github: https://github.com/api-evangelist/cometh
-- name: Comet Messenger Service
-  url: https://artifacts.apis.io/cometmessenger-delivery/apis.yml
-  x-apis-io: https://apis.io/providers/cometmessenger-delivery/
-  x-github: https://github.com/api-evangelist/cometmessenger-delivery
 - name: Comfi
   url: https://artifacts.apis.io/comfi-holdings-limited/apis.yml
   x-apis-io: https://apis.io/providers/comfi-holdings-limited/
   x-github: https://github.com/api-evangelist/comfi-holdings-limited
-- name: Comfone
-  url: https://artifacts.apis.io/comfone/apis.yml
-  x-apis-io: https://apis.io/providers/comfone/
-  x-github: https://github.com/api-evangelist/comfone
 - name: Comfort Systems USA
   url: https://artifacts.apis.io/comfort-systems-usa/apis.yml
   x-apis-io: https://apis.io/providers/comfort-systems-usa/
@@ -3945,10 +3465,6 @@ include:
   url: https://artifacts.apis.io/comind/apis.yml
   x-apis-io: https://apis.io/providers/comind/
   x-github: https://github.com/api-evangelist/comind
-- name: ComingUp Today
-  url: https://artifacts.apis.io/comingup-today/apis.yml
-  x-apis-io: https://apis.io/providers/comingup-today/
-  x-github: https://github.com/api-evangelist/comingup-today
 - name: comiza-lighting
   url: https://artifacts.apis.io/comiza-lighting/apis.yml
   x-apis-io: https://apis.io/providers/comiza-lighting/
@@ -3969,35 +3485,14 @@ include:
   url: https://artifacts.apis.io/commandbar/apis.yml
   x-apis-io: https://apis.io/providers/commandbar/
   x-github: https://github.com/api-evangelist/commandbar
-- name: Command Mail
-  url: https://artifacts.apis.io/commandmail-app/apis.yml
-  x-apis-io: https://apis.io/providers/commandmail-app/
-  x-github: https://github.com/api-evangelist/commandmail-app
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: CMD+K
   url: https://artifacts.apis.io/commandplusk/apis.yml
   x-apis-io: https://apis.io/providers/commandplusk/
   x-github: https://github.com/api-evangelist/commandplusk
-- name: Comma
-  url: https://artifacts.apis.io/commareports-com/apis.yml
-  x-apis-io: https://apis.io/providers/commareports-com/
-  x-github: https://github.com/api-evangelist/commareports-com
 - name: Commenda
   url: https://artifacts.apis.io/commenda/apis.yml
   x-apis-io: https://apis.io/providers/commenda/
   x-github: https://github.com/api-evangelist/commenda
-- name: Comment.io
-  url: https://artifacts.apis.io/comment-io/apis.yml
-  x-apis-io: https://apis.io/providers/comment-io/
-  x-github: https://github.com/api-evangelist/comment-io
-- name: Commentary
-  url: https://artifacts.apis.io/commentary-dev/apis.yml
-  x-apis-io: https://apis.io/providers/commentary-dev/
-  x-github: https://github.com/api-evangelist/commentary-dev
-- name: Commentify
-  url: https://artifacts.apis.io/commentify-one/apis.yml
-  x-apis-io: https://apis.io/providers/commentify-one/
-  x-github: https://github.com/api-evangelist/commentify-one
 - name: Commerce Bank
   url: https://artifacts.apis.io/commerce-bancshares/apis.yml
   x-apis-io: https://apis.io/providers/commerce-bancshares/
@@ -4018,11 +3513,6 @@ include:
   url: https://artifacts.apis.io/commerceblock/apis.yml
   x-apis-io: https://apis.io/providers/commerceblock/
   x-github: https://github.com/api-evangelist/commerceblock
-- name: Commerce for Agents
-  url: https://artifacts.apis.io/commerceforagents-com/apis.yml
-  x-apis-io: https://apis.io/providers/commerceforagents-com/
-  x-github: https://github.com/api-evangelist/commerceforagents-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: CommerceIQ
   url: https://artifacts.apis.io/commerceiq/apis.yml
   x-apis-io: https://apis.io/providers/commerceiq/
@@ -4035,51 +3525,6 @@ include:
   url: https://artifacts.apis.io/commercial-metals/apis.yml
   x-apis-io: https://apis.io/providers/commercial-metals/
   x-github: https://github.com/api-evangelist/commercial-metals
-- name: CommercialBuses
-  url: https://artifacts.apis.io/commercialbuses-com/apis.yml
-  x-apis-io: https://apis.io/providers/commercialbuses-com/
-  x-github: https://github.com/api-evangelist/commercialbuses-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: Commercial Drainage Quotes
-  url: https://artifacts.apis.io/commercialdrainagequotes-co-uk/apis.yml
-  x-apis-io: https://apis.io/providers/commercialdrainagequotes-co-uk/
-  x-github: https://github.com/api-evangelist/commercialdrainagequotes-co-uk
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: Commercial EPC Cost
-  url: https://artifacts.apis.io/commercialepccost-co-uk/apis.yml
-  x-apis-io: https://apis.io/providers/commercialepccost-co-uk/
-  x-github: https://github.com/api-evangelist/commercialepccost-co-uk
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: Commercial Garage Doorman
-  url: https://artifacts.apis.io/commercialgaragedoorman-ca/apis.yml
-  x-apis-io: https://apis.io/providers/commercialgaragedoorman-ca/
-  x-github: https://github.com/api-evangelist/commercialgaragedoorman-ca
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: Commercial Heat Pump Cost
-  url: https://artifacts.apis.io/commercialheatpumpcost-co-uk/apis.yml
-  x-apis-io: https://apis.io/providers/commercialheatpumpcost-co-uk/
-  x-github: https://github.com/api-evangelist/commercialheatpumpcost-co-uk
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: Commercial Kitchen Cost
-  url: https://artifacts.apis.io/commercialkitchencost-co-uk/apis.yml
-  x-apis-io: https://apis.io/providers/commercialkitchencost-co-uk/
-  x-github: https://github.com/api-evangelist/commercialkitchencost-co-uk
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: Commercial Laundry Cost
-  url: https://artifacts.apis.io/commerciallaundrycost-co-uk/apis.yml
-  x-apis-io: https://apis.io/providers/commerciallaundrycost-co-uk/
-  x-github: https://github.com/api-evangelist/commerciallaundrycost-co-uk
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: Commercial Mortgage Calculator
-  url: https://artifacts.apis.io/commercialmortgagecalculator-uk/apis.yml
-  x-apis-io: https://apis.io/providers/commercialmortgagecalculator-uk/
-  x-github: https://github.com/api-evangelist/commercialmortgagecalculator-uk
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: Commercial Refinance Quotes
-  url: https://artifacts.apis.io/commercialrefinancequotes-com/apis.yml
-  x-apis-io: https://apis.io/providers/commercialrefinancequotes-com/
-  x-github: https://github.com/api-evangelist/commercialrefinancequotes-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: 'Commercient, Inc.'
   url: https://artifacts.apis.io/commercient/apis.yml
   x-apis-io: https://apis.io/providers/commercient/
@@ -4104,11 +3549,6 @@ include:
   url: https://artifacts.apis.io/commmune/apis.yml
   x-apis-io: https://apis.io/providers/commmune/
   x-github: https://github.com/api-evangelist/commmune
-- name: commodities.sh
-  url: https://artifacts.apis.io/commodities-sh/apis.yml
-  x-apis-io: https://apis.io/providers/commodities-sh/
-  x-github: https://github.com/api-evangelist/commodities-sh
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Commodity Futures Trading Commission
   url: https://artifacts.apis.io/commodity-futures-trading-commission/apis.yml
   x-apis-io: https://apis.io/providers/commodity-futures-trading-commission/
@@ -4149,10 +3589,6 @@ include:
   url: https://artifacts.apis.io/commoncomputer/apis.yml
   x-apis-io: https://apis.io/providers/commoncomputer/
   x-github: https://github.com/api-evangelist/commoncomputer
-- name: Common Elements
-  url: https://artifacts.apis.io/commonelements-com/apis.yml
-  x-apis-io: https://apis.io/providers/commonelements-com/
-  x-github: https://github.com/api-evangelist/commonelements-com
 - name: CommonGround
   url: https://artifacts.apis.io/commonground/apis.yml
   x-apis-io: https://apis.io/providers/commonground/
@@ -4161,18 +3597,6 @@ include:
   url: https://artifacts.apis.io/commongroundai/apis.yml
   x-apis-io: https://apis.io/providers/commongroundai/
   x-github: https://github.com/api-evangelist/commongroundai
-- name: Common Ninja
-  url: https://artifacts.apis.io/commoninja-com/apis.yml
-  x-apis-io: https://apis.io/providers/commoninja-com/
-  x-github: https://github.com/api-evangelist/commoninja-com
-- name: Commonlands Optics
-  url: https://artifacts.apis.io/commonlands-com/apis.yml
-  x-apis-io: https://apis.io/providers/commonlands-com/
-  x-github: https://github.com/api-evangelist/commonlands-com
-- name: CommonRig
-  url: https://artifacts.apis.io/commonrig-com/apis.yml
-  x-apis-io: https://apis.io/providers/commonrig-com/
-  x-github: https://github.com/api-evangelist/commonrig-com
 - name: Commons
   url: https://artifacts.apis.io/commons/apis.yml
   x-apis-io: https://apis.io/providers/commons/
@@ -4181,19 +3605,10 @@ include:
   url: https://artifacts.apis.io/commons-clinic/apis.yml
   x-apis-io: https://apis.io/providers/commons-clinic/
   x-github: https://github.com/api-evangelist/commons-clinic
-- name: commonspecs
-  url: https://artifacts.apis.io/commonspecs-com/apis.yml
-  x-apis-io: https://apis.io/providers/commonspecs-com/
-  x-github: https://github.com/api-evangelist/commonspecs-com
 - name: CommonStock
   url: https://artifacts.apis.io/commonstock/apis.yml
   x-apis-io: https://apis.io/providers/commonstock/
   x-github: https://github.com/api-evangelist/commonstock
-- name: CommonTape
-  url: https://artifacts.apis.io/commontape-com/apis.yml
-  x-apis-io: https://apis.io/providers/commontape-com/
-  x-github: https://github.com/api-evangelist/commontape-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Commonwealth
   url: https://artifacts.apis.io/commonwealth/apis.yml
   x-apis-io: https://apis.io/providers/commonwealth/
@@ -4226,11 +3641,6 @@ include:
   url: https://artifacts.apis.io/commsor/apis.yml
   x-apis-io: https://apis.io/providers/commsor/
   x-github: https://github.com/api-evangelist/commsor
-- name: CommSync
-  url: https://artifacts.apis.io/commsync-ai/apis.yml
-  x-apis-io: https://apis.io/providers/commsync-ai/
-  x-github: https://github.com/api-evangelist/commsync-ai
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Communebbcd
   url: https://artifacts.apis.io/communebbcd/apis.yml
   x-apis-io: https://apis.io/providers/communebbcd/
@@ -4263,10 +3673,6 @@ include:
   url: https://artifacts.apis.io/community-transit/apis.yml
   x-apis-io: https://apis.io/providers/community-transit/
   x-github: https://github.com/api-evangelist/community-transit
-- name: CommunityMentions
-  url: https://artifacts.apis.io/communitymentions-com/apis.yml
-  x-apis-io: https://apis.io/providers/communitymentions-com/
-  x-github: https://github.com/api-evangelist/communitymentions-com
 - name: Commure
   url: https://artifacts.apis.io/commure/apis.yml
   x-apis-io: https://apis.io/providers/commure/
@@ -4275,19 +3681,10 @@ include:
   url: https://artifacts.apis.io/commusoft/apis.yml
   x-apis-io: https://apis.io/providers/commusoft/
   x-github: https://github.com/api-evangelist/commusoft
-- name: CommuteScout
-  url: https://artifacts.apis.io/commutescout-com/apis.yml
-  x-apis-io: https://apis.io/providers/commutescout-com/
-  x-github: https://github.com/api-evangelist/commutescout-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Commvault
   url: https://artifacts.apis.io/commvault/apis.yml
   x-apis-io: https://apis.io/providers/commvault/
   x-github: https://github.com/api-evangelist/commvault
-- name: Comontel
-  url: https://artifacts.apis.io/comontel-fr/apis.yml
-  x-apis-io: https://apis.io/providers/comontel-fr/
-  x-github: https://github.com/api-evangelist/comontel-fr
 - name: ComoQuiero
   url: https://artifacts.apis.io/comoquiero/apis.yml
   x-apis-io: https://apis.io/providers/comoquiero/
@@ -4308,11 +3705,6 @@ include:
   url: https://artifacts.apis.io/compabase/apis.yml
   x-apis-io: https://apis.io/providers/compabase/
   x-github: https://github.com/api-evangelist/compabase
-- name: COMPAMIR
-  url: https://artifacts.apis.io/compamir-com/apis.yml
-  x-apis-io: https://apis.io/providers/compamir-com/
-  x-github: https://github.com/api-evangelist/compamir-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Companies House
   url: https://artifacts.apis.io/companies-house/apis.yml
   x-apis-io: https://apis.io/providers/companies-house/
@@ -4325,15 +3717,6 @@ include:
   url: https://artifacts.apis.io/companycam/apis.yml
   x-apis-io: https://apis.io/providers/companycam/
   x-github: https://github.com/api-evangelist/companycam
-- name: CompanyData
-  url: https://artifacts.apis.io/companydata-com/apis.yml
-  x-apis-io: https://apis.io/providers/companydata-com/
-  x-github: https://github.com/api-evangelist/companydata-com
-- name: companydata.dk
-  url: https://artifacts.apis.io/companydata-dk/apis.yml
-  x-apis-io: https://apis.io/providers/companydata-dk/
-  x-github: https://github.com/api-evangelist/companydata-dk
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: CompanyEnrich
   url: https://artifacts.apis.io/companyenrich/apis.yml
   x-apis-io: https://apis.io/providers/companyenrich/
@@ -4358,54 +3741,10 @@ include:
   url: https://artifacts.apis.io/compareaimodels/apis.yml
   x-apis-io: https://apis.io/providers/compareaimodels/
   x-github: https://github.com/api-evangelist/compareaimodels
-- name: Compare Answering
-  url: https://artifacts.apis.io/compareanswering-com/apis.yml
-  x-apis-io: https://apis.io/providers/compareanswering-com/
-  x-github: https://github.com/api-evangelist/compareanswering-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Compareasiagroup
   url: https://artifacts.apis.io/compareasiagroup/apis.yml
   x-apis-io: https://apis.io/providers/compareasiagroup/
   x-github: https://github.com/api-evangelist/compareasiagroup
-- name: Compare Call Answering
-  url: https://artifacts.apis.io/comparecallanswering-com/apis.yml
-  x-apis-io: https://apis.io/providers/comparecallanswering-com/
-  x-github: https://github.com/api-evangelist/comparecallanswering-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: ComparEdge
-  url: https://artifacts.apis.io/comparedge-com/apis.yml
-  x-apis-io: https://apis.io/providers/comparedge-com/
-  x-github: https://github.com/api-evangelist/comparedge-com
-- name: CompareFairly
-  url: https://artifacts.apis.io/comparefairly-com/apis.yml
-  x-apis-io: https://apis.io/providers/comparefairly-com/
-  x-github: https://github.com/api-evangelist/comparefairly-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: Compare HVAC Software
-  url: https://artifacts.apis.io/comparehvacsoftware-com/apis.yml
-  x-apis-io: https://apis.io/providers/comparehvacsoftware-com/
-  x-github: https://github.com/api-evangelist/comparehvacsoftware-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: Compare My Conveyancing
-  url: https://artifacts.apis.io/comparemyconveyancing-co-uk/apis.yml
-  x-apis-io: https://apis.io/providers/comparemyconveyancing-co-uk/
-  x-github: https://github.com/api-evangelist/comparemyconveyancing-co-uk
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: Compare Trade Software
-  url: https://artifacts.apis.io/comparetradesoftware-com/apis.yml
-  x-apis-io: https://apis.io/providers/comparetradesoftware-com/
-  x-github: https://github.com/api-evangelist/comparetradesoftware-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: Compare Vet Software
-  url: https://artifacts.apis.io/comparevetsoftware-com/apis.yml
-  x-apis-io: https://apis.io/providers/comparevetsoftware-com/
-  x-github: https://github.com/api-evangelist/comparevetsoftware-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: Comparr
-  url: https://artifacts.apis.io/comparr-fr/apis.yml
-  x-apis-io: https://apis.io/providers/comparr-fr/
-  x-github: https://github.com/api-evangelist/comparr-fr
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Compass
   url: https://artifacts.apis.io/compass/apis.yml
   x-apis-io: https://apis.io/providers/compass/
@@ -4426,34 +3765,6 @@ include:
   url: https://artifacts.apis.io/compassjapan/apis.yml
   x-apis-io: https://apis.io/providers/compassjapan/
   x-github: https://github.com/api-evangelist/compassjapan
-- name: CompatAir
-  url: https://artifacts.apis.io/compatair-fr/apis.yml
-  x-apis-io: https://apis.io/providers/compatair-fr/
-  x-github: https://github.com/api-evangelist/compatair-fr
-- name: CompatLab
-  url: https://artifacts.apis.io/compatlab-me/apis.yml
-  x-apis-io: https://apis.io/providers/compatlab-me/
-  x-github: https://github.com/api-evangelist/compatlab-me
-- name: Compeller
-  url: https://artifacts.apis.io/compeller-ai/apis.yml
-  x-apis-io: https://apis.io/providers/compeller-ai/
-  x-github: https://github.com/api-evangelist/compeller-ai
-- name: Compelling
-  url: https://artifacts.apis.io/compelling-ai/apis.yml
-  x-apis-io: https://apis.io/providers/compelling-ai/
-  x-github: https://github.com/api-evangelist/compelling-ai
-- name: Compensation Professional
-  url: https://artifacts.apis.io/compensationprofessional-com/apis.yml
-  x-apis-io: https://apis.io/providers/compensationprofessional-com/
-  x-github: https://github.com/api-evangelist/compensationprofessional-com
-- name: Compera
-  url: https://artifacts.apis.io/compera-se/apis.yml
-  x-apis-io: https://apis.io/providers/compera-se/
-  x-github: https://github.com/api-evangelist/compera-se
-- name: Competitor Tracker & Co.
-  url: https://artifacts.apis.io/competitortracker-io/apis.yml
-  x-apis-io: https://apis.io/providers/competitortracker-io/
-  x-github: https://github.com/api-evangelist/competitortracker-io
 - name: CompGen DES / domus.genealogy.net historical building map
   url: https://artifacts.apis.io/compgen/apis.yml
   x-apis-io: https://apis.io/providers/compgen/
@@ -4486,10 +3797,6 @@ include:
   url: https://artifacts.apis.io/completeomics/apis.yml
   x-apis-io: https://apis.io/providers/completeomics/
   x-github: https://github.com/api-evangelist/completeomics
-- name: CompletionKit
-  url: https://artifacts.apis.io/completionkit-com/apis.yml
-  x-apis-io: https://apis.io/providers/completionkit-com/
-  x-github: https://github.com/api-evangelist/completionkit-com
 - name: Complexa
   url: https://artifacts.apis.io/complexa/apis.yml
   x-apis-io: https://apis.io/providers/complexa/
@@ -4498,10 +3805,6 @@ include:
   url: https://artifacts.apis.io/complexpolygon/apis.yml
   x-apis-io: https://apis.io/providers/complexpolygon/
   x-github: https://github.com/api-evangelist/complexpolygon
-- name: ComplianceAutomator
-  url: https://artifacts.apis.io/complianceautomator-com/apis.yml
-  x-apis-io: https://apis.io/providers/complianceautomator-com/
-  x-github: https://github.com/api-evangelist/complianceautomator-com
 - name: ComplianceQuest
   url: https://artifacts.apis.io/compliancequest/apis.yml
   x-apis-io: https://apis.io/providers/compliancequest/
@@ -4538,28 +3841,6 @@ include:
   url: https://artifacts.apis.io/complybridge-inc/apis.yml
   x-apis-io: https://apis.io/providers/complybridge-inc/
   x-github: https://github.com/api-evangelist/complybridge-inc
-- name: ComplyLayer
-  url: https://artifacts.apis.io/complylayer-com/apis.yml
-  x-apis-io: https://apis.io/providers/complylayer-com/
-  x-github: https://github.com/api-evangelist/complylayer-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: ComplyOnSite
-  url: https://artifacts.apis.io/complyonsite-com/apis.yml
-  x-apis-io: https://apis.io/providers/complyonsite-com/
-  x-github: https://github.com/api-evangelist/complyonsite-com
-- name: Complyzard
-  url: https://artifacts.apis.io/complyzard-com/apis.yml
-  x-apis-io: https://apis.io/providers/complyzard-com/
-  x-github: https://github.com/api-evangelist/complyzard-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: Compoid
-  url: https://artifacts.apis.io/compoid-com/apis.yml
-  x-apis-io: https://apis.io/providers/compoid-com/
-  x-github: https://github.com/api-evangelist/compoid-com
-- name: Componecat
-  url: https://artifacts.apis.io/componecat-ai/apis.yml
-  x-apis-io: https://apis.io/providers/componecat-ai/
-  x-github: https://github.com/api-evangelist/componecat-ai
 - name: Component Model
   url: https://artifacts.apis.io/component-model/apis.yml
   x-apis-io: https://apis.io/providers/component-model/
@@ -4588,11 +3869,6 @@ include:
   url: https://artifacts.apis.io/compound-finance/apis.yml
   x-apis-io: https://apis.io/providers/compound-finance/
   x-github: https://github.com/api-evangelist/compound-finance
-- name: Compound Interesting
-  url: https://artifacts.apis.io/compoundinterest-ing/apis.yml
-  x-apis-io: https://apis.io/providers/compoundinterest-ing/
-  x-github: https://github.com/api-evangelist/compoundinterest-ing
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Compredict
   url: https://artifacts.apis.io/compredict/apis.yml
   x-apis-io: https://apis.io/providers/compredict/
@@ -4613,21 +3889,6 @@ include:
   url: https://artifacts.apis.io/compresr/apis.yml
   x-apis-io: https://apis.io/providers/compresr/
   x-github: https://github.com/api-evangelist/compresr
-- name: Compressed Air Servicing
-  url: https://artifacts.apis.io/compressedairservicing-co-uk/apis.yml
-  x-apis-io: https://apis.io/providers/compressedairservicing-co-uk/
-  x-github: https://github.com/api-evangelist/compressedairservicing-co-uk
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: CompressGIF
-  url: https://artifacts.apis.io/compressgif-net/apis.yml
-  x-apis-io: https://apis.io/providers/compressgif-net/
-  x-github: https://github.com/api-evangelist/compressgif-net
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: CompressIO
-  url: https://artifacts.apis.io/compressio-cc/apis.yml
-  x-apis-io: https://apis.io/providers/compressio-cc/
-  x-github: https://github.com/api-evangelist/compressio-cc
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: compsapi-com
   url: https://artifacts.apis.io/compsapi-com/apis.yml
   x-apis-io: https://apis.io/providers/compsapi-com/
@@ -4636,10 +3897,6 @@ include:
   url: https://artifacts.apis.io/compscience/apis.yml
   x-apis-io: https://apis.io/providers/compscience/
   x-github: https://github.com/api-evangelist/compscience
-- name: CompSlate
-  url: https://artifacts.apis.io/compslate-com/apis.yml
-  x-apis-io: https://apis.io/providers/compslate-com/
-  x-github: https://github.com/api-evangelist/compslate-com
 - name: compsniper-com
   url: https://artifacts.apis.io/compsniper-com/apis.yml
   x-apis-io: https://apis.io/providers/compsniper-com/
@@ -4652,10 +3909,6 @@ include:
   url: https://artifacts.apis.io/compt/apis.yml
   x-apis-io: https://apis.io/providers/compt/
   x-github: https://github.com/api-evangelist/compt
-- name: CompTeam
-  url: https://artifacts.apis.io/compteam-io/apis.yml
-  x-apis-io: https://apis.io/providers/compteam-io/
-  x-github: https://github.com/api-evangelist/compteam-io
 - name: Compumatrix
   url: https://artifacts.apis.io/compumatrix/apis.yml
   x-apis-io: https://apis.io/providers/compumatrix/
@@ -4672,16 +3925,6 @@ include:
   url: https://artifacts.apis.io/compute-comparison/apis.yml
   x-apis-io: https://apis.io/providers/compute-comparison/
   x-github: https://github.com/api-evangelist/compute-comparison
-- name: ComputeFirst
-  url: https://artifacts.apis.io/computefirst-net/apis.yml
-  x-apis-io: https://apis.io/providers/computefirst-net/
-  x-github: https://github.com/api-evangelist/computefirst-net
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: ComputeGpu
-  url: https://artifacts.apis.io/computegpu-com/apis.yml
-  x-apis-io: https://apis.io/providers/computegpu-com/
-  x-github: https://github.com/api-evangelist/computegpu-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Computer Sciences Corporation
   url: https://artifacts.apis.io/computer-sciences/apis.yml
   x-apis-io: https://apis.io/providers/computer-sciences/
@@ -4730,18 +3973,6 @@ include:
   url: https://artifacts.apis.io/comun/apis.yml
   x-apis-io: https://apis.io/providers/comun/
   x-github: https://github.com/api-evangelist/comun
-- name: Comuna
-  url: https://artifacts.apis.io/comuna-work/apis.yml
-  x-apis-io: https://apis.io/providers/comuna-work/
-  x-github: https://github.com/api-evangelist/comuna-work
-- name: Comunicate.eu
-  url: https://artifacts.apis.io/comunicate-eu/apis.yml
-  x-apis-io: https://apis.io/providers/comunicate-eu/
-  x-github: https://github.com/api-evangelist/comunicate-eu
-- name: Comunicate.top API
-  url: https://artifacts.apis.io/comunicate-top-api/apis.yml
-  x-apis-io: https://apis.io/providers/comunicate-top-api/
-  x-github: https://github.com/api-evangelist/comunicate-top-api
 - name: Comunix
   url: https://artifacts.apis.io/comunix/apis.yml
   x-apis-io: https://apis.io/providers/comunix/
@@ -4862,11 +4093,6 @@ include:
   url: https://artifacts.apis.io/concertocare/apis.yml
   x-apis-io: https://apis.io/providers/concertocare/
   x-github: https://github.com/api-evangelist/concertocare
-- name: Concessio
-  url: https://artifacts.apis.io/concessio-io/apis.yml
-  x-apis-io: https://apis.io/providers/concessio-io/
-  x-github: https://github.com/api-evangelist/concessio-io
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Concho Resources
   url: https://artifacts.apis.io/concho-resources/apis.yml
   x-apis-io: https://apis.io/providers/concho-resources/
@@ -4899,11 +4125,6 @@ include:
   url: https://artifacts.apis.io/concourse/apis.yml
   x-apis-io: https://apis.io/providers/concourse/
   x-github: https://github.com/api-evangelist/concourse
-- name: Concrete Pumping Hire
-  url: https://artifacts.apis.io/concretepumpinghire-co-uk/apis.yml
-  x-apis-io: https://apis.io/providers/concretepumpinghire-co-uk/
-  x-github: https://github.com/api-evangelist/concretepumpinghire-co-uk
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: SAP Concur
   url: https://artifacts.apis.io/concur/apis.yml
   x-apis-io: https://apis.io/providers/concur/
@@ -4960,11 +4181,6 @@ include:
   url: https://artifacts.apis.io/conductorone/apis.yml
   x-apis-io: https://apis.io/providers/conductorone/
   x-github: https://github.com/api-evangelist/conductorone
-- name: Conductor Relay
-  url: https://artifacts.apis.io/conductorrelay-com/apis.yml
-  x-apis-io: https://apis.io/providers/conductorrelay-com/
-  x-github: https://github.com/api-evangelist/conductorrelay-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Conduent
   url: https://artifacts.apis.io/conduent/apis.yml
   x-apis-io: https://apis.io/providers/conduent/
@@ -4981,19 +4197,10 @@ include:
   url: https://artifacts.apis.io/conduitly/apis.yml
   x-apis-io: https://apis.io/providers/conduitly/
   x-github: https://github.com/api-evangelist/conduitly
-- name: Conduit Mail
-  url: https://artifacts.apis.io/conduitmail-app/apis.yml
-  x-apis-io: https://apis.io/providers/conduitmail-app/
-  x-github: https://github.com/api-evangelist/conduitmail-app
 - name: Conduktor
   url: https://artifacts.apis.io/conduktor/apis.yml
   x-apis-io: https://apis.io/providers/conduktor/
   x-github: https://github.com/api-evangelist/conduktor
-- name: Condux
-  url: https://artifacts.apis.io/condux-ai/apis.yml
-  x-apis-io: https://apis.io/providers/condux-ai/
-  x-github: https://github.com/api-evangelist/condux-ai
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Conduyt
   url: https://artifacts.apis.io/conduyt-com/apis.yml
   x-apis-io: https://apis.io/providers/conduyt-com/
@@ -5018,27 +4225,14 @@ include:
   url: https://artifacts.apis.io/conexus-credit-union/apis.yml
   x-apis-io: https://apis.io/providers/conexus-credit-union/
   x-github: https://github.com/api-evangelist/conexus-credit-union
-- name: confcall
-  url: https://artifacts.apis.io/confcall-app/apis.yml
-  x-apis-io: https://apis.io/providers/confcall-app/
-  x-github: https://github.com/api-evangelist/confcall-app
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Confer Technologies
   url: https://artifacts.apis.io/confer/apis.yml
   x-apis-io: https://apis.io/providers/confer/
   x-github: https://github.com/api-evangelist/confer
-- name: ConferenceGrid
-  url: https://artifacts.apis.io/conferencegrid-com/apis.yml
-  x-apis-io: https://apis.io/providers/conferencegrid-com/
-  x-github: https://github.com/api-evangelist/conferencegrid-com
 - name: Conferma
   url: https://artifacts.apis.io/conferma/apis.yml
   x-apis-io: https://apis.io/providers/conferma/
   x-github: https://github.com/api-evangelist/conferma
-- name: confession.md
-  url: https://artifacts.apis.io/confession-md/apis.yml
-  x-apis-io: https://apis.io/providers/confession-md/
-  x-github: https://github.com/api-evangelist/confession-md
 - name: ConfiAbogado
   url: https://artifacts.apis.io/confiabogado/apis.yml
   x-apis-io: https://apis.io/providers/confiabogado/
@@ -5075,10 +4269,6 @@ include:
   url: https://artifacts.apis.io/configcat/apis.yml
   x-apis-io: https://apis.io/providers/configcat/
   x-github: https://github.com/api-evangelist/configcat
-- name: ConfigDirector
-  url: https://artifacts.apis.io/configdirector-com/apis.yml
-  x-apis-io: https://apis.io/providers/configdirector-com/
-  x-github: https://github.com/api-evangelist/configdirector-com
 - name: ConfigHub
   url: https://artifacts.apis.io/confighub/apis.yml
   x-apis-io: https://apis.io/providers/confighub/
@@ -5087,25 +4277,10 @@ include:
   url: https://artifacts.apis.io/configo-health/apis.yml
   x-apis-io: https://apis.io/providers/configo-health/
   x-github: https://github.com/api-evangelist/configo-health
-- name: Configo
-  url: https://artifacts.apis.io/configo-org/apis.yml
-  x-apis-io: https://apis.io/providers/configo-org/
-  x-github: https://github.com/api-evangelist/configo-org
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: Configure
-  url: https://artifacts.apis.io/configure-dev/apis.yml
-  x-apis-io: https://apis.io/providers/configure-dev/
-  x-github: https://github.com/api-evangelist/configure-dev
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Configure8
   url: https://artifacts.apis.io/configure8/apis.yml
   x-apis-io: https://apis.io/providers/configure8/
   x-github: https://github.com/api-evangelist/configure8
-- name: Confined Space Training Cost
-  url: https://artifacts.apis.io/confinedspacetrainingcost-co-uk/apis.yml
-  x-apis-io: https://apis.io/providers/confinedspacetrainingcost-co-uk/
-  x-github: https://github.com/api-evangelist/confinedspacetrainingcost-co-uk
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Confluence
   url: https://artifacts.apis.io/confluence/apis.yml
   x-apis-io: https://apis.io/providers/confluence/
@@ -5142,11 +4317,6 @@ include:
   url: https://artifacts.apis.io/conformal-medical/apis.yml
   x-apis-io: https://apis.io/providers/conformal-medical/
   x-github: https://github.com/api-evangelist/conformal-medical
-- name: ConformRadar
-  url: https://artifacts.apis.io/conformradar-com/apis.yml
-  x-apis-io: https://apis.io/providers/conformradar-com/
-  x-github: https://github.com/api-evangelist/conformradar-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Confotherapeutics
   url: https://artifacts.apis.io/confotherapeutics/apis.yml
   x-apis-io: https://apis.io/providers/confotherapeutics/
@@ -5175,11 +4345,6 @@ include:
   url: https://artifacts.apis.io/congressional-budget-office/apis.yml
   x-apis-io: https://apis.io/providers/congressional-budget-office/
   x-github: https://github.com/api-evangelist/congressional-budget-office
-- name: CongressMCP
-  url: https://artifacts.apis.io/congressmcp-com/apis.yml
-  x-apis-io: https://apis.io/providers/congressmcp-com/
-  x-github: https://github.com/api-evangelist/congressmcp-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Congruencetherapeutics
   url: https://artifacts.apis.io/congruencetherapeutics/apis.yml
   x-apis-io: https://apis.io/providers/congruencetherapeutics/
@@ -5292,11 +4457,6 @@ include:
   url: https://artifacts.apis.io/connecting-software/apis.yml
   x-apis-io: https://apis.io/providers/connecting-software/
   x-github: https://github.com/api-evangelist/connecting-software
-- name: Connections
-  url: https://artifacts.apis.io/connections-icu/apis.yml
-  x-apis-io: https://apis.io/providers/connections-icu/
-  x-github: https://github.com/api-evangelist/connections-icu
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Hilltops IT
   url: https://artifacts.apis.io/connectit-software/apis.yml
   x-apis-io: https://apis.io/providers/connectit-software/
@@ -5313,28 +4473,6 @@ include:
   url: https://artifacts.apis.io/connectly/apis.yml
   x-apis-io: https://apis.io/providers/connectly/
   x-github: https://github.com/api-evangelist/connectly
-- name: ConnectMachine
-  url: https://artifacts.apis.io/connectmachine-ai/apis.yml
-  x-apis-io: https://apis.io/providers/connectmachine-ai/
-  x-github: https://github.com/api-evangelist/connectmachine-ai
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: ConnectMeGuru
-  url: https://artifacts.apis.io/connectmeguru-com/apis.yml
-  x-apis-io: https://apis.io/providers/connectmeguru-com/
-  x-github: https://github.com/api-evangelist/connectmeguru-com
-- name: Connect My Bot
-  url: https://artifacts.apis.io/connectmybot-com/apis.yml
-  x-apis-io: https://apis.io/providers/connectmybot-com/
-  x-github: https://github.com/api-evangelist/connectmybot-com
-- name: ConnectMyShop
-  url: https://artifacts.apis.io/connectmyshop-app/apis.yml
-  x-apis-io: https://apis.io/providers/connectmyshop-app/
-  x-github: https://github.com/api-evangelist/connectmyshop-app
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: ConnectorReport
-  url: https://artifacts.apis.io/connectorreport-com/apis.yml
-  x-apis-io: https://apis.io/providers/connectorreport-com/
-  x-github: https://github.com/api-evangelist/connectorreport-com
 - name: Maicell
   url: https://artifacts.apis.io/connectplaza/apis.yml
   x-apis-io: https://apis.io/providers/connectplaza/
@@ -5375,6 +4513,10 @@ include:
   url: https://artifacts.apis.io/connexus/apis.yml
   x-apis-io: https://apis.io/providers/connexus/
   x-github: https://github.com/api-evangelist/connexus
+- name: Connic
+  url: https://artifacts.apis.io/connic-co/apis.yml
+  x-apis-io: https://apis.io/providers/connic-co/
+  x-github: https://github.com/api-evangelist/connic-co
 - name: Conniehealth
   url: https://artifacts.apis.io/conniehealth/apis.yml
   x-apis-io: https://apis.io/providers/conniehealth/
@@ -5391,6 +4533,14 @@ include:
   url: https://artifacts.apis.io/conocophillips/apis.yml
   x-apis-io: https://apis.io/providers/conocophillips/
   x-github: https://github.com/api-evangelist/conocophillips
+- name: conqueia-com
+  url: https://artifacts.apis.io/conqueia-com/apis.yml
+  x-apis-io: https://apis.io/providers/conqueia-com/
+  x-github: https://github.com/api-evangelist/conqueia-com
+- name: Conqueror
+  url: https://artifacts.apis.io/conquerorapp-com/apis.yml
+  x-apis-io: https://apis.io/providers/conquerorapp-com/
+  x-github: https://github.com/api-evangelist/conquerorapp-com
 - name: Conquestplanning
   url: https://artifacts.apis.io/conquestplanning/apis.yml
   x-apis-io: https://apis.io/providers/conquestplanning/
@@ -5407,6 +4557,18 @@ include:
   url: https://artifacts.apis.io/consensys/apis.yml
   x-apis-io: https://apis.io/providers/consensys/
   x-github: https://github.com/api-evangelist/consensys
+- name: ConsentEase
+  url: https://artifacts.apis.io/consentease-io/apis.yml
+  x-apis-io: https://apis.io/providers/consentease-io/
+  x-github: https://github.com/api-evangelist/consentease-io
+- name: ConsentLayer
+  url: https://artifacts.apis.io/consentlayer-com/apis.yml
+  x-apis-io: https://apis.io/providers/consentlayer-com/
+  x-github: https://github.com/api-evangelist/consentlayer-com
+- name: ConsentStack
+  url: https://artifacts.apis.io/consentstack-io/apis.yml
+  x-apis-io: https://apis.io/providers/consentstack-io/
+  x-github: https://github.com/api-evangelist/consentstack-io
 - name: consentvia-com
   url: https://artifacts.apis.io/consentvia-com/apis.yml
   x-apis-io: https://apis.io/providers/consentvia-com/
@@ -5415,10 +4577,18 @@ include:
   url: https://artifacts.apis.io/consentx/apis.yml
   x-apis-io: https://apis.io/providers/consentx/
   x-github: https://github.com/api-evangelist/consentx
+- name: Consequential
+  url: https://artifacts.apis.io/consequential-io/apis.yml
+  x-apis-io: https://apis.io/providers/consequential-io/
+  x-github: https://github.com/api-evangelist/consequential-io
 - name: Conservation Labs
   url: https://artifacts.apis.io/conservation-labs/apis.yml
   x-apis-io: https://apis.io/providers/conservation-labs/
   x-github: https://github.com/api-evangelist/conservation-labs
+- name: Consistency Calendar
+  url: https://artifacts.apis.io/consistencycalendar-com/apis.yml
+  x-apis-io: https://apis.io/providers/consistencycalendar-com/
+  x-github: https://github.com/api-evangelist/consistencycalendar-com
 - name: CONSOL Energy
   url: https://artifacts.apis.io/consol-energy/apis.yml
   x-apis-io: https://apis.io/providers/consol-energy/
@@ -5455,6 +4625,18 @@ include:
   url: https://artifacts.apis.io/constantinople/apis.yml
   x-apis-io: https://apis.io/providers/constantinople/
   x-github: https://github.com/api-evangelist/constantinople
+- name: Constants
+  url: https://artifacts.apis.io/constants-io/apis.yml
+  x-apis-io: https://apis.io/providers/constants-io/
+  x-github: https://github.com/api-evangelist/constants-io
+- name: Constat Auto
+  url: https://artifacts.apis.io/constat-auto-com/apis.yml
+  x-apis-io: https://apis.io/providers/constat-auto-com/
+  x-github: https://github.com/api-evangelist/constat-auto-com
+- name: Constat
+  url: https://artifacts.apis.io/constat-dev/apis.yml
+  x-apis-io: https://apis.io/providers/constat-dev/
+  x-github: https://github.com/api-evangelist/constat-dev
 - name: Constellaintelligence
   url: https://artifacts.apis.io/constellaintelligence/apis.yml
   x-apis-io: https://apis.io/providers/constellaintelligence/
@@ -5491,6 +4673,10 @@ include:
   url: https://artifacts.apis.io/construction-monitor/apis.yml
   x-apis-io: https://apis.io/providers/construction-monitor/
   x-github: https://github.com/api-evangelist/construction-monitor
+- name: Construction Leader Guide
+  url: https://artifacts.apis.io/constructionleader-guide/apis.yml
+  x-apis-io: https://apis.io/providers/constructionleader-guide/
+  x-github: https://github.com/api-evangelist/constructionleader-guide
 - name: ConstructionOnline
   url: https://artifacts.apis.io/constructiononline/apis.yml
   x-apis-io: https://apis.io/providers/constructiononline/
@@ -5511,6 +4697,10 @@ include:
   url: https://artifacts.apis.io/consul-connect/apis.yml
   x-apis-io: https://apis.io/providers/consul-connect/
   x-github: https://github.com/api-evangelist/consul-connect
+- name: consulatehq-com
+  url: https://artifacts.apis.io/consulatehq-com/apis.yml
+  x-apis-io: https://apis.io/providers/consulatehq-com/
+  x-github: https://github.com/api-evangelist/consulatehq-com
 - name: Consumer Product Safety Commission
   url: https://artifacts.apis.io/consumer-product-safety-commission/apis.yml
   x-apis-io: https://apis.io/providers/consumer-product-safety-commission/
@@ -5543,10 +4733,18 @@ include:
   url: https://artifacts.apis.io/contactually/apis.yml
   x-apis-io: https://apis.io/providers/contactually/
   x-github: https://github.com/api-evangelist/contactually
+- name: Contadeo
+  url: https://artifacts.apis.io/contadeo-com/apis.yml
+  x-apis-io: https://apis.io/providers/contadeo-com/
+  x-github: https://github.com/api-evangelist/contadeo-com
 - name: Containerd
   url: https://artifacts.apis.io/containerd/apis.yml
   x-apis-io: https://apis.io/providers/containerd/
   x-github: https://github.com/api-evangelist/containerd
+- name: ContainerMath
+  url: https://artifacts.apis.io/containermath-com/apis.yml
+  x-apis-io: https://apis.io/providers/containermath-com/
+  x-github: https://github.com/api-evangelist/containermath-com
 - name: Containous (Traefik Labs)
   url: https://artifacts.apis.io/containo/apis.yml
   x-apis-io: https://apis.io/providers/containo/
@@ -5555,6 +4753,10 @@ include:
   url: https://artifacts.apis.io/contalink/apis.yml
   x-apis-io: https://apis.io/providers/contalink/
   x-github: https://github.com/api-evangelist/contalink
+- name: Contamos
+  url: https://artifacts.apis.io/contamos-xyz/apis.yml
+  x-apis-io: https://apis.io/providers/contamos-xyz/
+  x-github: https://github.com/api-evangelist/contamos-xyz
 - name: Contasimples
   url: https://artifacts.apis.io/contasimples/apis.yml
   x-apis-io: https://apis.io/providers/contasimples/
@@ -5567,6 +4769,10 @@ include:
   url: https://artifacts.apis.io/conteller/apis.yml
   x-apis-io: https://apis.io/providers/conteller/
   x-github: https://github.com/api-evangelist/conteller
+- name: Contendeo
+  url: https://artifacts.apis.io/contendeo-app/apis.yml
+  x-apis-io: https://apis.io/providers/contendeo-app/
+  x-github: https://github.com/api-evangelist/contendeo-app
 - name: Contensis
   url: https://artifacts.apis.io/contensis/apis.yml
   x-apis-io: https://apis.io/providers/contensis/
@@ -5591,10 +4797,22 @@ include:
   url: https://artifacts.apis.io/contentguru/apis.yml
   x-apis-io: https://apis.io/providers/contentguru/
   x-github: https://github.com/api-evangelist/contentguru
+- name: ContentIn
+  url: https://artifacts.apis.io/contentin-io/apis.yml
+  x-apis-io: https://apis.io/providers/contentin-io/
+  x-github: https://github.com/api-evangelist/contentin-io
 - name: Contently
   url: https://artifacts.apis.io/contently/apis.yml
   x-apis-io: https://apis.io/providers/contently/
   x-github: https://github.com/api-evangelist/contently
+- name: Content Rabbit
+  url: https://artifacts.apis.io/contentrabbitai-com/apis.yml
+  x-apis-io: https://apis.io/providers/contentrabbitai-com/
+  x-github: https://github.com/api-evangelist/contentrabbitai-com
+- name: Contentrain
+  url: https://artifacts.apis.io/contentrain-io/apis.yml
+  x-apis-io: https://apis.io/providers/contentrain-io/
+  x-github: https://github.com/api-evangelist/contentrain-io
 - name: Contents.com
   url: https://artifacts.apis.io/contentsdotcom/apis.yml
   x-apis-io: https://apis.io/providers/contentsdotcom/
@@ -5615,22 +4833,78 @@ include:
   url: https://artifacts.apis.io/contentsweep-ai/apis.yml
   x-apis-io: https://apis.io/providers/contentsweep-ai/
   x-github: https://github.com/api-evangelist/contentsweep-ai
+- name: Contexel
+  url: https://artifacts.apis.io/contexel-ai/apis.yml
+  x-apis-io: https://apis.io/providers/contexel-ai/
+  x-github: https://github.com/api-evangelist/contexel-ai
+- name: Context Awesome
+  url: https://artifacts.apis.io/context-awesome-com/apis.yml
+  x-apis-io: https://apis.io/providers/context-awesome-com/
+  x-github: https://github.com/api-evangelist/context-awesome-com
+- name: Context Link
+  url: https://artifacts.apis.io/context-link-ai/apis.yml
+  x-apis-io: https://apis.io/providers/context-link-ai/
+  x-github: https://github.com/api-evangelist/context-link-ai
 - name: Context7
   url: https://artifacts.apis.io/context7/apis.yml
   x-apis-io: https://apis.io/providers/context7/
   x-github: https://github.com/api-evangelist/context7
+- name: Contextaco
+  url: https://artifacts.apis.io/contextaco-com/apis.yml
+  x-apis-io: https://apis.io/providers/contextaco-com/
+  x-github: https://github.com/api-evangelist/contextaco-com
 - name: 'Context.ai *'
   url: https://artifacts.apis.io/contextai/apis.yml
   x-apis-io: https://apis.io/providers/contextai/
   x-github: https://github.com/api-evangelist/contextai
+- name: ContextDB
+  url: https://artifacts.apis.io/contextdb-ai/apis.yml
+  x-apis-io: https://apis.io/providers/contextdb-ai/
+  x-github: https://github.com/api-evangelist/contextdb-ai
 - name: Context.dev
   url: https://artifacts.apis.io/contextdev/apis.yml
   x-apis-io: https://apis.io/providers/contextdev/
   x-github: https://github.com/api-evangelist/contextdev
+- name: Contexter
+  url: https://artifacts.apis.io/contexterai-com/apis.yml
+  x-apis-io: https://apis.io/providers/contexterai-com/
+  x-github: https://github.com/api-evangelist/contexterai-com
+- name: Contexte Tech
+  url: https://artifacts.apis.io/contextetech-com/apis.yml
+  x-apis-io: https://apis.io/providers/contextetech-com/
+  x-github: https://github.com/api-evangelist/contextetech-com
+- name: Contextflo
+  url: https://artifacts.apis.io/contextflo-com/apis.yml
+  x-apis-io: https://apis.io/providers/contextflo-com/
+  x-github: https://github.com/api-evangelist/contextflo-com
 - name: ContextGem
   url: https://artifacts.apis.io/contextgem/apis.yml
   x-apis-io: https://apis.io/providers/contextgem/
   x-github: https://github.com/api-evangelist/contextgem
+- name: Context Lattice
+  url: https://artifacts.apis.io/contextlattice-io/apis.yml
+  x-apis-io: https://apis.io/providers/contextlattice-io/
+  x-github: https://github.com/api-evangelist/contextlattice-io
+- name: Contextli
+  url: https://artifacts.apis.io/contextli-com/apis.yml
+  x-apis-io: https://apis.io/providers/contextli-com/
+  x-github: https://github.com/api-evangelist/contextli-com
+- name: ContextLM
+  url: https://artifacts.apis.io/contextlm-top/apis.yml
+  x-apis-io: https://apis.io/providers/contextlm-top/
+  x-github: https://github.com/api-evangelist/contextlm-top
+- name: ContextOverflow
+  url: https://artifacts.apis.io/contextoverflow-org/apis.yml
+  x-apis-io: https://apis.io/providers/contextoverflow-org/
+  x-github: https://github.com/api-evangelist/contextoverflow-org
+- name: Context Pill
+  url: https://artifacts.apis.io/contextpill-com/apis.yml
+  x-apis-io: https://apis.io/providers/contextpill-com/
+  x-github: https://github.com/api-evangelist/contextpill-com
+- name: ContextQ
+  url: https://artifacts.apis.io/contextq-dev/apis.yml
+  x-apis-io: https://apis.io/providers/contextq-dev/
+  x-github: https://github.com/api-evangelist/contextq-dev
 - name: ContextSDK
   url: https://artifacts.apis.io/contextsdk/apis.yml
   x-apis-io: https://apis.io/providers/contextsdk/
@@ -5639,10 +4913,22 @@ include:
   url: https://artifacts.apis.io/contextstream-io/apis.yml
   x-apis-io: https://apis.io/providers/contextstream-io/
   x-github: https://github.com/api-evangelist/contextstream-io
+- name: Context Studios
+  url: https://artifacts.apis.io/contextstudios-ai/apis.yml
+  x-apis-io: https://apis.io/providers/contextstudios-ai/
+  x-github: https://github.com/api-evangelist/contextstudios-ai
 - name: Contextual AI
   url: https://artifacts.apis.io/contextual-ai/apis.yml
   x-apis-io: https://apis.io/providers/contextual-ai/
   x-github: https://github.com/api-evangelist/contextual-ai
+- name: Context Window Supply
+  url: https://artifacts.apis.io/contextwindowsupply-com/apis.yml
+  x-apis-io: https://apis.io/providers/contextwindowsupply-com/
+  x-github: https://github.com/api-evangelist/contextwindowsupply-com
+- name: ContHunt
+  url: https://artifacts.apis.io/conthunt-app/apis.yml
+  x-apis-io: https://apis.io/providers/conthunt-app/
+  x-github: https://github.com/api-evangelist/conthunt-app
 - name: Contify
   url: https://artifacts.apis.io/contify/apis.yml
   x-apis-io: https://apis.io/providers/contify/
@@ -5667,6 +4953,10 @@ include:
   url: https://artifacts.apis.io/continue-dev/apis.yml
   x-apis-io: https://apis.io/providers/continue-dev/
   x-github: https://github.com/api-evangelist/continue-dev
+- name: Continuity by Ouroboros Apps
+  url: https://artifacts.apis.io/continuitywriter-com/apis.yml
+  x-apis-io: https://apis.io/providers/continuitywriter-com/
+  x-github: https://github.com/api-evangelist/continuitywriter-com
 - name: Continuous Composites
   url: https://artifacts.apis.io/continuous-composites/apis.yml
   x-apis-io: https://apis.io/providers/continuous-composites/
@@ -5695,6 +4985,10 @@ include:
   url: https://artifacts.apis.io/continuumtechnology/apis.yml
   x-apis-io: https://apis.io/providers/continuumtechnology/
   x-github: https://github.com/api-evangelist/continuumtechnology
+- name: Contio
+  url: https://artifacts.apis.io/contio-ai/apis.yml
+  x-apis-io: https://apis.io/providers/contio-ai/
+  x-github: https://github.com/api-evangelist/contio-ai
 - name: contix-es
   url: https://artifacts.apis.io/contix-es/apis.yml
   x-apis-io: https://apis.io/providers/contix-es/
@@ -5715,10 +5009,6 @@ include:
   url: https://artifacts.apis.io/contra/apis.yml
   x-apis-io: https://apis.io/providers/contra/
   x-github: https://github.com/api-evangelist/contra
-- name: Contracko
-  url: https://artifacts.apis.io/contracko-com/apis.yml
-  x-apis-io: https://apis.io/providers/contracko-com/
-  x-github: https://github.com/api-evangelist/contracko-com
 - name: Contract Guard / Autonomous Utility Factory
   url: https://artifacts.apis.io/contract-guard/apis.yml
   x-apis-io: https://apis.io/providers/contract-guard/
@@ -5731,26 +5021,6 @@ include:
   url: https://artifacts.apis.io/contractorforeman/apis.yml
   x-apis-io: https://apis.io/providers/contractorforeman/
   x-github: https://github.com/api-evangelist/contractorforeman
-- name: Contractor Lead Quotes
-  url: https://artifacts.apis.io/contractorleadquotes-com/apis.yml
-  x-apis-io: https://apis.io/providers/contractorleadquotes-com/
-  x-github: https://github.com/api-evangelist/contractorleadquotes-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: Contractor Pay Calculator
-  url: https://artifacts.apis.io/contractorpaycalculator-co-uk/apis.yml
-  x-apis-io: https://apis.io/providers/contractorpaycalculator-co-uk/
-  x-github: https://github.com/api-evangelist/contractorpaycalculator-co-uk
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: ContractorRoster
-  url: https://artifacts.apis.io/contractorroster-com/apis.yml
-  x-apis-io: https://apis.io/providers/contractorroster-com/
-  x-github: https://github.com/api-evangelist/contractorroster-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: contractors.fyi
-  url: https://artifacts.apis.io/contractors-fyi/apis.yml
-  x-apis-io: https://apis.io/providers/contractors-fyi/
-  x-github: https://github.com/api-evangelist/contractors-fyi
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: ContractPodAi
   url: https://artifacts.apis.io/contractpodai/apis.yml
   x-apis-io: https://apis.io/providers/contractpodai/
@@ -5771,11 +5041,6 @@ include:
   url: https://artifacts.apis.io/contributing-md/apis.yml
   x-apis-io: https://apis.io/providers/contributing-md/
   x-github: https://github.com/api-evangelist/contributing-md
-- name: Contrie
-  url: https://artifacts.apis.io/contrie-com/apis.yml
-  x-apis-io: https://apis.io/providers/contrie-com/
-  x-github: https://github.com/api-evangelist/contrie-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Control Seat
   url: https://artifacts.apis.io/control-seat/apis.yml
   x-apis-io: https://apis.io/providers/control-seat/
@@ -5788,14 +5053,6 @@ include:
   url: https://artifacts.apis.io/controlant/apis.yml
   x-apis-io: https://apis.io/providers/controlant/
   x-github: https://github.com/api-evangelist/controlant
-- name: ControlDrill
-  url: https://artifacts.apis.io/controldrill-com/apis.yml
-  x-apis-io: https://apis.io/providers/controldrill-com/
-  x-github: https://github.com/api-evangelist/controldrill-com
-- name: Controlflare
-  url: https://artifacts.apis.io/controlflare-com/apis.yml
-  x-apis-io: https://apis.io/providers/controlflare-com/
-  x-github: https://github.com/api-evangelist/controlflare-com
 - name: Controlled Thermal Resources
   url: https://artifacts.apis.io/controlled-thermal-resources/apis.yml
   x-apis-io: https://apis.io/providers/controlled-thermal-resources/
@@ -5828,16 +5085,6 @@ include:
   url: https://artifacts.apis.io/convalifepharmaceuticals/apis.yml
   x-apis-io: https://apis.io/providers/convalifepharmaceuticals/
   x-github: https://github.com/api-evangelist/convalifepharmaceuticals
-- name: Convalytics
-  url: https://artifacts.apis.io/convalytics-dev/apis.yml
-  x-apis-io: https://apis.io/providers/convalytics-dev/
-  x-github: https://github.com/api-evangelist/convalytics-dev
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: conved.com
-  url: https://artifacts.apis.io/conved-com/apis.yml
-  x-apis-io: https://apis.io/providers/conved-com/
-  x-github: https://github.com/api-evangelist/conved-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Convelio
   url: https://artifacts.apis.io/convelio/apis.yml
   x-apis-io: https://apis.io/providers/convelio/
@@ -5854,10 +5101,6 @@ include:
   url: https://artifacts.apis.io/conventus-flower-orthopedics/apis.yml
   x-apis-io: https://apis.io/providers/conventus-flower-orthopedics/
   x-github: https://github.com/api-evangelist/conventus-flower-orthopedics
-- name: Conveo
-  url: https://artifacts.apis.io/conveo-ai/apis.yml
-  x-apis-io: https://apis.io/providers/conveo-ai/
-  x-github: https://github.com/api-evangelist/conveo-ai
 - name: Convercent
   url: https://artifacts.apis.io/convercent/apis.yml
   x-apis-io: https://apis.io/providers/convercent/
@@ -5890,14 +5133,6 @@ include:
   url: https://artifacts.apis.io/convergys/apis.yml
   x-apis-io: https://apis.io/providers/convergys/
   x-github: https://github.com/api-evangelist/convergys
-- name: Converly
-  url: https://artifacts.apis.io/converly-io/apis.yml
-  x-apis-io: https://apis.io/providers/converly-io/
-  x-github: https://github.com/api-evangelist/converly-io
-- name: Converra
-  url: https://artifacts.apis.io/converra-ai/apis.yml
-  x-apis-io: https://apis.io/providers/converra-ai/
-  x-github: https://github.com/api-evangelist/converra-ai
 - name: ConverseNow
   url: https://artifacts.apis.io/conversenow/apis.yml
   x-apis-io: https://apis.io/providers/conversenow/
@@ -5922,28 +5157,10 @@ include:
   url: https://artifacts.apis.io/conversionpoint-technologies/apis.yml
   x-apis-io: https://apis.io/providers/conversionpoint-technologies/
   x-github: https://github.com/api-evangelist/conversionpoint-technologies
-- name: Converso
-  url: https://artifacts.apis.io/converso-work/apis.yml
-  x-apis-io: https://apis.io/providers/converso-work/
-  x-github: https://github.com/api-evangelist/converso-work
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: Conversor IAE CNAE
-  url: https://artifacts.apis.io/conversoriaecnae-es/apis.yml
-  x-apis-io: https://apis.io/providers/conversoriaecnae-es/
-  x-github: https://github.com/api-evangelist/conversoriaecnae-es
 - name: Convert
   url: https://artifacts.apis.io/convert/apis.yml
   x-apis-io: https://apis.io/providers/convert/
   x-github: https://github.com/api-evangelist/convert
-- name: convert.express
-  url: https://artifacts.apis.io/convert-express/apis.yml
-  x-apis-io: https://apis.io/providers/convert-express/
-  x-github: https://github.com/api-evangelist/convert-express
-- name: Convert.Online
-  url: https://artifacts.apis.io/convert-online/apis.yml
-  x-apis-io: https://apis.io/providers/convert-online/
-  x-github: https://github.com/api-evangelist/convert-online
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Convertabankstatement
   url: https://artifacts.apis.io/convertabankstatement/apis.yml
   x-apis-io: https://apis.io/providers/convertabankstatement/
@@ -5964,19 +5181,10 @@ include:
   url: https://artifacts.apis.io/convertkit/apis.yml
   x-apis-io: https://apis.io/providers/convertkit/
   x-github: https://github.com/api-evangelist/convertkit
-- name: Convertlyft
-  url: https://artifacts.apis.io/convertlyft-com/apis.yml
-  x-apis-io: https://apis.io/providers/convertlyft-com/
-  x-github: https://github.com/api-evangelist/convertlyft-com
 - name: 'Convertro, Inc.'
   url: https://artifacts.apis.io/convertro-inc/apis.yml
   x-apis-io: https://apis.io/providers/convertro-inc/
   x-github: https://github.com/api-evangelist/convertro-inc
-- name: Convert To It
-  url: https://artifacts.apis.io/converttoit-com/apis.yml
-  x-apis-io: https://apis.io/providers/converttoit-com/
-  x-github: https://github.com/api-evangelist/converttoit-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Converus
   url: https://artifacts.apis.io/converus/apis.yml
   x-apis-io: https://apis.io/providers/converus/
@@ -5997,33 +5205,10 @@ include:
   url: https://artifacts.apis.io/convex-insurance/apis.yml
   x-apis-io: https://apis.io/providers/convex-insurance/
   x-github: https://github.com/api-evangelist/convex-insurance
-- name: Convex Lake
-  url: https://artifacts.apis.io/convexlake-com/apis.yml
-  x-apis-io: https://apis.io/providers/convexlake-com/
-  x-github: https://github.com/api-evangelist/convexlake-com
-- name: ConvexValue
-  url: https://artifacts.apis.io/convexvalue-com/apis.yml
-  x-apis-io: https://apis.io/providers/convexvalue-com/
-  x-github: https://github.com/api-evangelist/convexvalue-com
 - name: Convey
   url: https://artifacts.apis.io/convey/apis.yml
   x-apis-io: https://apis.io/providers/convey/
   x-github: https://github.com/api-evangelist/convey
-- name: Conveyancing Fees NZ
-  url: https://artifacts.apis.io/conveyancingfees-co-nz/apis.yml
-  x-apis-io: https://apis.io/providers/conveyancingfees-co-nz/
-  x-github: https://github.com/api-evangelist/conveyancingfees-co-nz
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: Conveyancing Fees Australia
-  url: https://artifacts.apis.io/conveyancingfeesaustralia-com/apis.yml
-  x-apis-io: https://apis.io/providers/conveyancingfeesaustralia-com/
-  x-github: https://github.com/api-evangelist/conveyancingfeesaustralia-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: Conveyancing Fees Ireland
-  url: https://artifacts.apis.io/conveyancingfeesireland-com/apis.yml
-  x-apis-io: https://apis.io/providers/conveyancingfeesireland-com/
-  x-github: https://github.com/api-evangelist/conveyancingfeesireland-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Conveyor
   url: https://artifacts.apis.io/conveyor/apis.yml
   x-apis-io: https://apis.io/providers/conveyor/
@@ -6032,10 +5217,6 @@ include:
   url: https://artifacts.apis.io/convictional/apis.yml
   x-apis-io: https://apis.io/providers/convictional/
   x-github: https://github.com/api-evangelist/convictional
-- name: Convika
-  url: https://artifacts.apis.io/convika-com/apis.yml
-  x-apis-io: https://apis.io/providers/convika-com/
-  x-github: https://github.com/api-evangelist/convika-com
 - name: Convirza
   url: https://artifacts.apis.io/convirza/apis.yml
   x-apis-io: https://apis.io/providers/convirza/
@@ -6056,10 +5237,6 @@ include:
   url: https://artifacts.apis.io/convoy/apis.yml
   x-apis-io: https://apis.io/providers/convoy/
   x-github: https://github.com/api-evangelist/convoy
-- name: Conversion Radar
-  url: https://artifacts.apis.io/convradar-com/apis.yml
-  x-apis-io: https://apis.io/providers/convradar-com/
-  x-github: https://github.com/api-evangelist/convradar-com
 - name: convrgent-ai
   url: https://artifacts.apis.io/convrgent-ai/apis.yml
   x-apis-io: https://apis.io/providers/convrgent-ai/
@@ -6080,20 +5257,6 @@ include:
   url: https://artifacts.apis.io/coohua/apis.yml
   x-apis-io: https://apis.io/providers/coohua/
   x-github: https://github.com/api-evangelist/coohua
-- name: Cookie Compliance
-  url: https://artifacts.apis.io/cookie-compliance-co/apis.yml
-  x-apis-io: https://apis.io/providers/cookie-compliance-co/
-  x-github: https://github.com/api-evangelist/cookie-compliance-co
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: Cookie Free Analytics
-  url: https://artifacts.apis.io/cookiefreeanalytics-com/apis.yml
-  x-apis-io: https://apis.io/providers/cookiefreeanalytics-com/
-  x-github: https://github.com/api-evangelist/cookiefreeanalytics-com
-- name: Cookievo
-  url: https://artifacts.apis.io/cookievo-com/apis.yml
-  x-apis-io: https://apis.io/providers/cookievo-com/
-  x-github: https://github.com/api-evangelist/cookievo-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Cookieyes
   url: https://artifacts.apis.io/cookieyes/apis.yml
   x-apis-io: https://apis.io/providers/cookieyes/
@@ -6102,10 +5265,6 @@ include:
   url: https://artifacts.apis.io/cookingenie/apis.yml
   x-apis-io: https://apis.io/providers/cookingenie/
   x-github: https://github.com/api-evangelist/cookingenie
-- name: Cookiy AI
-  url: https://artifacts.apis.io/cookiy-ai/apis.yml
-  x-apis-io: https://apis.io/providers/cookiy-ai/
-  x-github: https://github.com/api-evangelist/cookiy-ai
 - name: Cooklist
   url: https://artifacts.apis.io/cooklist/apis.yml
   x-apis-io: https://apis.io/providers/cooklist/
@@ -6122,11 +5281,6 @@ include:
   url: https://artifacts.apis.io/coolant/apis.yml
   x-apis-io: https://apis.io/providers/coolant/
   x-github: https://github.com/api-evangelist/coolant
-- name: Coolant
-  url: https://artifacts.apis.io/coolant-run/apis.yml
-  x-apis-io: https://apis.io/providers/coolant-run/
-  x-github: https://github.com/api-evangelist/coolant-run
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: '酷学院 (Cool College)'
   url: https://artifacts.apis.io/coolcollege/apis.yml
   x-apis-io: https://apis.io/providers/coolcollege/
@@ -6183,28 +5337,10 @@ include:
   url: https://artifacts.apis.io/cooperators/apis.yml
   x-apis-io: https://apis.io/providers/cooperators/
   x-github: https://github.com/api-evangelist/cooperators
-- name: Cooper Email
-  url: https://artifacts.apis.io/cooperemail-com/apis.yml
-  x-apis-io: https://apis.io/providers/cooperemail-com/
-  x-github: https://github.com/api-evangelist/cooperemail-com
-- name: Cooper Pet Care
-  url: https://artifacts.apis.io/cooperpetcare-app/apis.yml
-  x-apis-io: https://apis.io/providers/cooperpetcare-app/
-  x-github: https://github.com/api-evangelist/cooperpetcare-app
 - name: Coople
   url: https://artifacts.apis.io/coople/apis.yml
   x-apis-io: https://apis.io/providers/coople/
   x-github: https://github.com/api-evangelist/coople
-- name: Coordigent
-  url: https://artifacts.apis.io/coordigent-com/apis.yml
-  x-apis-io: https://apis.io/providers/coordigent-com/
-  x-github: https://github.com/api-evangelist/coordigent-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: 'Coordínalo'
-  url: https://artifacts.apis.io/coordinalo-com/apis.yml
-  x-apis-io: https://apis.io/providers/coordinalo-com/
-  x-github: https://github.com/api-evangelist/coordinalo-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Coordinate
   url: https://artifacts.apis.io/coordinate/apis.yml
   x-apis-io: https://apis.io/providers/coordinate/
@@ -6253,10 +5389,6 @@ include:
   url: https://artifacts.apis.io/copify/apis.yml
   x-apis-io: https://apis.io/providers/copify/
   x-github: https://github.com/api-evangelist/copify
-- name: Copilot
-  url: https://artifacts.apis.io/copilot/apis.yml
-  x-apis-io: https://apis.io/providers/copilot/
-  x-github: https://github.com/api-evangelist/copilot
 - name: CopilotIQ
   url: https://artifacts.apis.io/copilotiq/apis.yml
   x-apis-io: https://apis.io/providers/copilotiq/
@@ -6305,15 +5437,6 @@ include:
   url: https://artifacts.apis.io/copperlane/apis.yml
   x-apis-io: https://apis.io/providers/copperlane/
   x-github: https://github.com/api-evangelist/copperlane
-- name: Copperleaf
-  url: https://artifacts.apis.io/copperleaf/apis.yml
-  x-apis-io: https://apis.io/providers/copperleaf/
-  x-github: https://github.com/api-evangelist/copperleaf
-- name: Coppica
-  url: https://artifacts.apis.io/coppica-com/apis.yml
-  x-apis-io: https://apis.io/providers/coppica-com/
-  x-github: https://github.com/api-evangelist/coppica-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: CopThis
   url: https://artifacts.apis.io/copthis/apis.yml
   x-apis-io: https://apis.io/providers/copthis/
@@ -6326,20 +5449,6 @@ include:
   url: https://artifacts.apis.io/copyleaksplagiarismchecker/apis.yml
   x-apis-io: https://apis.io/providers/copyleaksplagiarismchecker/
   x-github: https://github.com/api-evangelist/copyleaksplagiarismchecker
-- name: Copyright01
-  url: https://artifacts.apis.io/copyright01-com/apis.yml
-  x-apis-io: https://apis.io/providers/copyright01-com/
-  x-github: https://github.com/api-evangelist/copyright01-com
-- name: Copywriting MCP
-  url: https://artifacts.apis.io/copywriting-sh/apis.yml
-  x-apis-io: https://apis.io/providers/copywriting-sh/
-  x-github: https://github.com/api-evangelist/copywriting-sh
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: Copywriting for SEO
-  url: https://artifacts.apis.io/copywritingseo-co-uk/apis.yml
-  x-apis-io: https://apis.io/providers/copywritingseo-co-uk/
-  x-github: https://github.com/api-evangelist/copywritingseo-co-uk
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: COR
   url: https://artifacts.apis.io/cor/apis.yml
   x-apis-io: https://apis.io/providers/cor/
@@ -6360,19 +5469,10 @@ include:
   url: https://artifacts.apis.io/coralogix/apis.yml
   x-apis-io: https://apis.io/providers/coralogix/
   x-github: https://github.com/api-evangelist/coralogix
-- name: CoralSwarm
-  url: https://artifacts.apis.io/coralswarm-com/apis.yml
-  x-apis-io: https://apis.io/providers/coralswarm-com/
-  x-github: https://github.com/api-evangelist/coralswarm-com
 - name: Coram Ai
   url: https://artifacts.apis.io/coram-ai/apis.yml
   x-apis-io: https://apis.io/providers/coram-ai/
   x-github: https://github.com/api-evangelist/coram-ai
-- name: CoraPilot
-  url: https://artifacts.apis.io/corapilot-com/apis.yml
-  x-apis-io: https://apis.io/providers/corapilot-com/
-  x-github: https://github.com/api-evangelist/corapilot-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Coravin
   url: https://artifacts.apis.io/coravin/apis.yml
   x-apis-io: https://apis.io/providers/coravin/
@@ -6389,15 +5489,6 @@ include:
   url: https://artifacts.apis.io/corcentric/apis.yml
   x-apis-io: https://apis.io/providers/corcentric/
   x-github: https://github.com/api-evangelist/corcentric
-- name: COrdering
-  url: https://artifacts.apis.io/cordering-com/apis.yml
-  x-apis-io: https://apis.io/providers/cordering-com/
-  x-github: https://github.com/api-evangelist/cordering-com
-- name: CordFind
-  url: https://artifacts.apis.io/cordfind-com/apis.yml
-  x-apis-io: https://apis.io/providers/cordfind-com/
-  x-github: https://github.com/api-evangelist/cordfind-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Cordial
   url: https://artifacts.apis.io/cordial/apis.yml
   x-apis-io: https://apis.io/providers/cordial/
@@ -6418,10 +5509,6 @@ include:
   url: https://artifacts.apis.io/corduro/apis.yml
   x-apis-io: https://apis.io/providers/corduro/
   x-github: https://github.com/api-evangelist/corduro
-- name: Corduroy Labs
-  url: https://artifacts.apis.io/corduroy-labs-ai/apis.yml
-  x-apis-io: https://apis.io/providers/corduroy-labs-ai/
-  x-github: https://github.com/api-evangelist/corduroy-labs-ai
 - name: CORE
   url: https://artifacts.apis.io/core/apis.yml
   x-apis-io: https://apis.io/providers/core/
@@ -6434,11 +5521,6 @@ include:
   url: https://artifacts.apis.io/core-automation/apis.yml
   x-apis-io: https://apis.io/providers/core-automation/
   x-github: https://github.com/api-evangelist/core-automation
-- name: core.blue
-  url: https://artifacts.apis.io/core-blue/apis.yml
-  x-apis-io: https://apis.io/providers/core-blue/
-  x-github: https://github.com/api-evangelist/core-blue
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Core Labs
   url: https://artifacts.apis.io/core-labs/apis.yml
   x-apis-io: https://apis.io/providers/core-labs/
@@ -6467,10 +5549,6 @@ include:
   url: https://artifacts.apis.io/coreauto-com/apis.yml
   x-apis-io: https://apis.io/providers/coreauto-com/
   x-github: https://github.com/api-evangelist/coreauto-com
-- name: Corebee
-  url: https://artifacts.apis.io/corebee-ai/apis.yml
-  x-apis-io: https://apis.io/providers/corebee-ai/
-  x-github: https://github.com/api-evangelist/corebee-ai
 - name: Corebridge Financial
   url: https://artifacts.apis.io/corebridge-financial/apis.yml
   x-apis-io: https://apis.io/providers/corebridge-financial/
@@ -6479,11 +5557,6 @@ include:
   url: https://artifacts.apis.io/corechain-technologies/apis.yml
   x-apis-io: https://apis.io/providers/corechain-technologies/
   x-github: https://github.com/api-evangelist/corechain-technologies
-- name: CoreDash
-  url: https://artifacts.apis.io/coredash-app/apis.yml
-  x-apis-io: https://apis.io/providers/coredash-app/
-  x-github: https://github.com/api-evangelist/coredash-app
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: CoreDNS
   url: https://artifacts.apis.io/coredns/apis.yml
   x-apis-io: https://apis.io/providers/coredns/
@@ -6516,10 +5589,6 @@ include:
   url: https://artifacts.apis.io/corelogic-au/apis.yml
   x-apis-io: https://apis.io/providers/corelogic-au/
   x-github: https://github.com/api-evangelist/corelogic-au
-- name: CoreLoop
-  url: https://artifacts.apis.io/coreloop-so/apis.yml
-  x-apis-io: https://apis.io/providers/coreloop-so/
-  x-github: https://github.com/api-evangelist/coreloop-so
 - name: coremed
   url: https://artifacts.apis.io/coremed/apis.yml
   x-apis-io: https://apis.io/providers/coremed/
@@ -6556,11 +5625,6 @@ include:
   url: https://artifacts.apis.io/coreos/apis.yml
   x-apis-io: https://apis.io/providers/coreos/
   x-github: https://github.com/api-evangelist/coreos
-- name: Coreplex
-  url: https://artifacts.apis.io/coreplex-ai/apis.yml
-  x-apis-io: https://apis.io/providers/coreplex-ai/
-  x-github: https://github.com/api-evangelist/coreplex-ai
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Corepowerholdingspteltd
   url: https://artifacts.apis.io/corepowerholdingspteltd/apis.yml
   x-apis-io: https://apis.io/providers/corepowerholdingspteltd/
@@ -6581,11 +5645,6 @@ include:
   url: https://artifacts.apis.io/corestory/apis.yml
   x-apis-io: https://apis.io/providers/corestory/
   x-github: https://github.com/api-evangelist/corestory
-- name: coret.id
-  url: https://artifacts.apis.io/coret-id/apis.yml
-  x-apis-io: https://apis.io/providers/coret-id/
-  x-github: https://github.com/api-evangelist/coret-id
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Coretigo
   url: https://artifacts.apis.io/coretigo/apis.yml
   x-apis-io: https://apis.io/providers/coretigo/
@@ -6610,15 +5669,6 @@ include:
   url: https://artifacts.apis.io/coreweave/apis.yml
   x-apis-io: https://apis.io/providers/coreweave/
   x-github: https://github.com/api-evangelist/coreweave
-- name: CoreWebVitals.io
-  url: https://artifacts.apis.io/corewebvitals-io/apis.yml
-  x-apis-io: https://apis.io/providers/corewebvitals-io/
-  x-github: https://github.com/api-evangelist/corewebvitals-io
-- name: CoreWise
-  url: https://artifacts.apis.io/corewise-video/apis.yml
-  x-apis-io: https://apis.io/providers/corewise-video/
-  x-github: https://github.com/api-evangelist/corewise-video
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Corflowtherapeuticsag
   url: https://artifacts.apis.io/corflowtherapeuticsag/apis.yml
   x-apis-io: https://apis.io/providers/corflowtherapeuticsag/
@@ -6647,11 +5697,6 @@ include:
   url: https://artifacts.apis.io/cority/apis.yml
   x-apis-io: https://apis.io/providers/cority/
   x-github: https://github.com/api-evangelist/cority
-- name: Cork & Curve
-  url: https://artifacts.apis.io/corkandcurve-com/apis.yml
-  x-apis-io: https://apis.io/providers/corkandcurve-com/
-  x-github: https://github.com/api-evangelist/corkandcurve-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Corma
   url: https://artifacts.apis.io/corma/apis.yml
   x-apis-io: https://apis.io/providers/corma/
@@ -6676,11 +5721,6 @@ include:
   url: https://artifacts.apis.io/cornelisnetworks/apis.yml
   x-apis-io: https://apis.io/providers/cornelisnetworks/
   x-github: https://github.com/api-evangelist/cornelisnetworks
-- name: Cornelius
-  url: https://artifacts.apis.io/cornelius-bot/apis.yml
-  x-apis-io: https://apis.io/providers/cornelius-bot/
-  x-github: https://github.com/api-evangelist/cornelius-bot
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Cornell University
   url: https://artifacts.apis.io/cornell/apis.yml
   x-apis-io: https://apis.io/providers/cornell/
@@ -6729,11 +5769,6 @@ include:
   url: https://artifacts.apis.io/coronet/apis.yml
   x-apis-io: https://apis.io/providers/coronet/
   x-github: https://github.com/api-evangelist/coronet
-- name: Coronet Arcade
-  url: https://artifacts.apis.io/coronet-one/apis.yml
-  x-apis-io: https://apis.io/providers/coronet-one/
-  x-github: https://github.com/api-evangelist/coronet-one
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: COROS
   url: https://artifacts.apis.io/coros/apis.yml
   x-apis-io: https://apis.io/providers/coros/
@@ -6746,20 +5781,6 @@ include:
   url: https://artifacts.apis.io/corpay/apis.yml
   x-apis-io: https://apis.io/providers/corpay/
   x-github: https://github.com/api-evangelist/corpay
-- name: Corply
-  url: https://artifacts.apis.io/corply-dev/apis.yml
-  x-apis-io: https://apis.io/providers/corply-dev/
-  x-github: https://github.com/api-evangelist/corply-dev
-- name: CorPole
-  url: https://artifacts.apis.io/corpole-com/apis.yml
-  x-apis-io: https://apis.io/providers/corpole-com/
-  x-github: https://github.com/api-evangelist/corpole-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: corporary
-  url: https://artifacts.apis.io/corporary-com/apis.yml
-  x-apis-io: https://apis.io/providers/corporary-com/
-  x-github: https://github.com/api-evangelist/corporary-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Corporate Bullshit Generator API
   url: https://artifacts.apis.io/corporate-bullshit-generator-api/apis.yml
   x-apis-io: https://apis.io/providers/corporate-bullshit-generator-api/
@@ -6780,24 +5801,6 @@ include:
   url: https://artifacts.apis.io/corpowerocean/apis.yml
   x-apis-io: https://apis.io/providers/corpowerocean/
   x-github: https://github.com/api-evangelist/corpowerocean
-- name: Corp Tax Calculator
-  url: https://artifacts.apis.io/corptaxcalculator-co-uk/apis.yml
-  x-apis-io: https://apis.io/providers/corptaxcalculator-co-uk/
-  x-github: https://github.com/api-evangelist/corptaxcalculator-co-uk
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: CorpusIQ
-  url: https://artifacts.apis.io/corpusiq-io/apis.yml
-  x-apis-io: https://apis.io/providers/corpusiq-io/
-  x-github: https://github.com/api-evangelist/corpusiq-io
-- name: Corpus Iuris
-  url: https://artifacts.apis.io/corpusiuris-mx/apis.yml
-  x-apis-io: https://apis.io/providers/corpusiuris-mx/
-  x-github: https://github.com/api-evangelist/corpusiuris-mx
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
-- name: Corpus
-  url: https://artifacts.apis.io/corpuslaw-us/apis.yml
-  x-apis-io: https://apis.io/providers/corpuslaw-us/
-  x-github: https://github.com/api-evangelist/corpuslaw-us
 - name: Corractions
   url: https://artifacts.apis.io/corractions/apis.yml
   x-apis-io: https://apis.io/providers/corractions/
@@ -6822,15 +5825,6 @@ include:
   url: https://artifacts.apis.io/corridor/apis.yml
   x-apis-io: https://apis.io/providers/corridor/
   x-github: https://github.com/api-evangelist/corridor
-- name: CorroborateMe
-  url: https://artifacts.apis.io/corroborateme-com/apis.yml
-  x-apis-io: https://apis.io/providers/corroborateme-com/
-  x-github: https://github.com/api-evangelist/corroborateme-com
-- name: Corroborum
-  url: https://artifacts.apis.io/corroborum-com/apis.yml
-  x-apis-io: https://apis.io/providers/corroborum-com/
-  x-github: https://github.com/api-evangelist/corroborum-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Corrosionradar
   url: https://artifacts.apis.io/corrosionradar/apis.yml
   x-apis-io: https://apis.io/providers/corrosionradar/
@@ -6875,11 +5869,6 @@ include:
   url: https://artifacts.apis.io/cortex-applications-inc/apis.yml
   x-apis-io: https://apis.io/providers/cortex-applications-inc/
   x-github: https://github.com/api-evangelist/cortex-applications-inc
-- name: Cortex Gateway
-  url: https://artifacts.apis.io/cortex-gateway-dev/apis.yml
-  x-apis-io: https://apis.io/providers/cortex-gateway-dev/
-  x-github: https://github.com/api-evangelist/cortex-gateway-dev
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Cortex
   url: https://artifacts.apis.io/cortex-idp/apis.yml
   x-apis-io: https://apis.io/providers/cortex-idp/
@@ -6892,11 +5881,6 @@ include:
   url: https://artifacts.apis.io/cortexcloud-org/apis.yml
   x-apis-io: https://apis.io/providers/cortexcloud-org/
   x-github: https://github.com/api-evangelist/cortexcloud-org
-- name: CortexPlus
-  url: https://artifacts.apis.io/cortexplus-io/apis.yml
-  x-apis-io: https://apis.io/providers/cortexplus-io/
-  x-github: https://github.com/api-evangelist/cortexplus-io
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Corti
   url: https://artifacts.apis.io/corti/apis.yml
   x-apis-io: https://apis.io/providers/corti/
@@ -6937,10 +5921,6 @@ include:
   url: https://artifacts.apis.io/corvia/apis.yml
   x-apis-io: https://apis.io/providers/corvia/
   x-github: https://github.com/api-evangelist/corvia
-- name: Corvio
-  url: https://artifacts.apis.io/corvio-ai/apis.yml
-  x-apis-io: https://apis.io/providers/corvio-ai/
-  x-github: https://github.com/api-evangelist/corvio-ai
 - name: Corvus Insurance
   url: https://artifacts.apis.io/corvus-insurance/apis.yml
   x-apis-io: https://apis.io/providers/corvus-insurance/
@@ -6961,10 +5941,6 @@ include:
   url: https://artifacts.apis.io/corxel/apis.yml
   x-apis-io: https://apis.io/providers/corxel/
   x-github: https://github.com/api-evangelist/corxel
-- name: CoSchedule
-  url: https://artifacts.apis.io/coschedule-com/apis.yml
-  x-apis-io: https://apis.io/providers/coschedule-com/
-  x-github: https://github.com/api-evangelist/coschedule-com
 - name: COSCO Shipping
   url: https://artifacts.apis.io/cosco-shipping/apis.yml
   x-apis-io: https://apis.io/providers/cosco-shipping/
@@ -6973,11 +5949,6 @@ include:
   url: https://artifacts.apis.io/cosemitech/apis.yml
   x-apis-io: https://apis.io/providers/cosemitech/
   x-github: https://github.com/api-evangelist/cosemitech
-- name: Coservices
-  url: https://artifacts.apis.io/coservices-ee/apis.yml
-  x-apis-io: https://apis.io/providers/coservices-ee/
-  x-github: https://github.com/api-evangelist/coservices-ee
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: COSGrid Networks
   url: https://artifacts.apis.io/cosgrid/apis.yml
   x-apis-io: https://apis.io/providers/cosgrid/
@@ -7014,11 +5985,6 @@ include:
   url: https://artifacts.apis.io/cosmic-shielding/apis.yml
   x-apis-io: https://apis.io/providers/cosmic-shielding/
   x-github: https://github.com/api-evangelist/cosmic-shielding
-- name: Cosmic Chemistry
-  url: https://artifacts.apis.io/cosmicchemistry-co/apis.yml
-  x-apis-io: https://apis.io/providers/cosmicchemistry-co/
-  x-github: https://github.com/api-evangelist/cosmicchemistry-co
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Cosmiccloud
   url: https://artifacts.apis.io/cosmiccloud/apis.yml
   x-apis-io: https://apis.io/providers/cosmiccloud/
@@ -7815,6 +6781,10 @@ include:
   url: https://artifacts.apis.io/creatoriq/apis.yml
   x-apis-io: https://apis.io/providers/creatoriq/
   x-github: https://github.com/api-evangelist/creatoriq
+- name: Creavily
+  url: https://artifacts.apis.io/creavily/apis.yml
+  x-apis-io: https://apis.io/providers/creavily/
+  x-github: https://github.com/api-evangelist/creavily
 - name: CRED
   url: https://artifacts.apis.io/cred/apis.yml
   x-apis-io: https://apis.io/providers/cred/
@@ -7939,6 +6909,10 @@ include:
   url: https://artifacts.apis.io/creem/apis.yml
   x-apis-io: https://apis.io/providers/creem/
   x-github: https://github.com/api-evangelist/creem
+- name: Crelvo
+  url: https://artifacts.apis.io/crelvo-dev/apis.yml
+  x-apis-io: https://apis.io/providers/crelvo-dev/
+  x-github: https://github.com/api-evangelist/crelvo-dev
 - name: Crema
   url: https://artifacts.apis.io/crema/apis.yml
   x-apis-io: https://apis.io/providers/crema/
@@ -7959,6 +6933,10 @@ include:
   url: https://artifacts.apis.io/crescendo-lab/apis.yml
   x-apis-io: https://apis.io/providers/crescendo-lab/
   x-github: https://github.com/api-evangelist/crescendo-lab
+- name: Crescendo Magazine
+  url: https://artifacts.apis.io/crescendo-magazine-be/apis.yml
+  x-apis-io: https://apis.io/providers/crescendo-magazine-be/
+  x-github: https://github.com/api-evangelist/crescendo-magazine-be
 - name: Crescitalia
   url: https://artifacts.apis.io/crescitalia/apis.yml
   x-apis-io: https://apis.io/providers/crescitalia/
@@ -7991,6 +6969,10 @@ include:
   url: https://artifacts.apis.io/cretelligent/apis.yml
   x-apis-io: https://apis.io/providers/cretelligent/
   x-github: https://github.com/api-evangelist/cretelligent
+- name: Crevio
+  url: https://artifacts.apis.io/crevio-co/apis.yml
+  x-apis-io: https://apis.io/providers/crevio-co/
+  x-github: https://github.com/api-evangelist/crevio-co
 - name: Crew
   url: https://artifacts.apis.io/crew/apis.yml
   x-apis-io: https://apis.io/providers/crew/
@@ -8011,6 +6993,10 @@ include:
   url: https://artifacts.apis.io/crewline/apis.yml
   x-apis-io: https://apis.io/providers/crewline/
   x-github: https://github.com/api-evangelist/crewline
+- name: Crew of the Captain
+  url: https://artifacts.apis.io/crewofthecaptain-com/apis.yml
+  x-apis-io: https://apis.io/providers/crewofthecaptain-com/
+  x-github: https://github.com/api-evangelist/crewofthecaptain-com
 - name: 'Crews By Core *'
   url: https://artifacts.apis.io/crews-by-core/apis.yml
   x-apis-io: https://apis.io/providers/crews-by-core/
@@ -8043,10 +7029,22 @@ include:
   url: https://artifacts.apis.io/cricket-api/apis.yml
   x-apis-io: https://apis.io/providers/cricket-api/
   x-github: https://github.com/api-evangelist/cricket-api
+- name: Cricket for Noobs
+  url: https://artifacts.apis.io/cricketfornoobs-com/apis.yml
+  x-apis-io: https://apis.io/providers/cricketfornoobs-com/
+  x-github: https://github.com/api-evangelist/cricketfornoobs-com
+- name: Crier
+  url: https://artifacts.apis.io/crier-network/apis.yml
+  x-apis-io: https://apis.io/providers/crier-network/
+  x-github: https://github.com/api-evangelist/crier-network
 - name: crimescore-io
   url: https://artifacts.apis.io/crimescore-io/apis.yml
   x-apis-io: https://apis.io/providers/crimescore-io/
   x-github: https://github.com/api-evangelist/crimescore-io
+- name: Crimp
+  url: https://artifacts.apis.io/crimp-studio/apis.yml
+  x-apis-io: https://apis.io/providers/crimp-studio/
+  x-github: https://github.com/api-evangelist/crimp-studio
 - name: Crimson
   url: https://artifacts.apis.io/crimson/apis.yml
   x-apis-io: https://apis.io/providers/crimson/
@@ -8063,6 +7061,14 @@ include:
   url: https://artifacts.apis.io/cringle/apis.yml
   x-apis-io: https://apis.io/providers/cringle/
   x-github: https://github.com/api-evangelist/cringle
+- name: Crinkl
+  url: https://artifacts.apis.io/crinkl-xyz/apis.yml
+  x-apis-io: https://apis.io/providers/crinkl-xyz/
+  x-github: https://github.com/api-evangelist/crinkl-xyz
+- name: CriptoNoticias BR
+  url: https://artifacts.apis.io/criptonoticias-com-br/apis.yml
+  x-apis-io: https://apis.io/providers/criptonoticias-com-br/
+  x-github: https://github.com/api-evangelist/criptonoticias-com-br
 - name: Crisp
   url: https://artifacts.apis.io/crisp/apis.yml
   x-apis-io: https://apis.io/providers/crisp/
@@ -8095,10 +7101,22 @@ include:
   url: https://artifacts.apis.io/critical-loop/apis.yml
   x-apis-io: https://apis.io/providers/critical-loop/
   x-github: https://github.com/api-evangelist/critical-loop
+- name: Critical Path Partners
+  url: https://artifacts.apis.io/criticalpathpartners-ca/apis.yml
+  x-apis-io: https://apis.io/providers/criticalpathpartners-ca/
+  x-github: https://github.com/api-evangelist/criticalpathpartners-ca
+- name: Crivum
+  url: https://artifacts.apis.io/crivum-org/apis.yml
+  x-apis-io: https://apis.io/providers/crivum-org/
+  x-github: https://github.com/api-evangelist/crivum-org
 - name: CRM Bonus
   url: https://artifacts.apis.io/crm-bonus/apis.yml
   x-apis-io: https://apis.io/providers/crm-bonus/
   x-github: https://github.com/api-evangelist/crm-bonus
+- name: CRM Agency
+  url: https://artifacts.apis.io/crmagency-co-uk/apis.yml
+  x-apis-io: https://apis.io/providers/crmagency-co-uk/
+  x-github: https://github.com/api-evangelist/crmagency-co-uk
 - name: 'Crmbônus'
   url: https://artifacts.apis.io/crmbonus/apis.yml
   x-apis-io: https://apis.io/providers/crmbonus/
@@ -8107,6 +7125,10 @@ include:
   url: https://artifacts.apis.io/crmls/apis.yml
   x-apis-io: https://apis.io/providers/crmls/
   x-github: https://github.com/api-evangelist/crmls
+- name: CRM for Trades
+  url: https://artifacts.apis.io/crmtrades-co-uk/apis.yml
+  x-apis-io: https://apis.io/providers/crmtrades-co-uk/
+  x-github: https://github.com/api-evangelist/crmtrades-co-uk
 - name: crob.at
   url: https://artifacts.apis.io/crob-at/apis.yml
   x-apis-io: https://apis.io/providers/crob-at/
@@ -8135,6 +7157,10 @@ include:
   url: https://artifacts.apis.io/croivalve/apis.yml
   x-apis-io: https://apis.io/providers/croivalve/
   x-github: https://github.com/api-evangelist/croivalve
+- name: Cromanion
+  url: https://artifacts.apis.io/cromanion-com/apis.yml
+  x-apis-io: https://apis.io/providers/cromanion-com/
+  x-github: https://github.com/api-evangelist/cromanion-com
 - name: Cromatic
   url: https://artifacts.apis.io/cromatic/apis.yml
   x-apis-io: https://apis.io/providers/cromatic/
@@ -8147,10 +7173,22 @@ include:
   url: https://artifacts.apis.io/cron-systems/apis.yml
   x-apis-io: https://apis.io/providers/cron-systems/
   x-github: https://github.com/api-evangelist/cron-systems
+- name: Cronache Valtellinesi
+  url: https://artifacts.apis.io/cronachevaltellinesi-it/apis.yml
+  x-apis-io: https://apis.io/providers/cronachevaltellinesi-it/
+  x-github: https://github.com/api-evangelist/cronachevaltellinesi-it
+- name: Cronch
+  url: https://artifacts.apis.io/cronch-io/apis.yml
+  x-apis-io: https://apis.io/providers/cronch-io/
+  x-github: https://github.com/api-evangelist/cronch-io
 - name: Cronitor
   url: https://artifacts.apis.io/cronitor/apis.yml
   x-apis-io: https://apis.io/providers/cronitor/
   x-github: https://github.com/api-evangelist/cronitor
+- name: Cronjob.de
+  url: https://artifacts.apis.io/cronjob-de/apis.yml
+  x-apis-io: https://apis.io/providers/cronjob-de/
+  x-github: https://github.com/api-evangelist/cronjob-de
 - name: Cronofy
   url: https://artifacts.apis.io/cronofy/apis.yml
   x-apis-io: https://apis.io/providers/cronofy/
@@ -8159,6 +7197,14 @@ include:
   url: https://artifacts.apis.io/cronometer/apis.yml
   x-apis-io: https://apis.io/providers/cronometer/
   x-github: https://github.com/api-evangelist/cronometer
+- name: CronPulser
+  url: https://artifacts.apis.io/cronpulser-com/apis.yml
+  x-apis-io: https://apis.io/providers/cronpulser-com/
+  x-github: https://github.com/api-evangelist/cronpulser-com
+- name: Cron Translator
+  url: https://artifacts.apis.io/crontoenglish-com/apis.yml
+  x-apis-io: https://apis.io/providers/crontoenglish-com/
+  x-github: https://github.com/api-evangelist/crontoenglish-com
 - name: CropConex
   url: https://artifacts.apis.io/cropconex/apis.yml
   x-apis-io: https://apis.io/providers/cropconex/
@@ -8179,10 +7225,18 @@ include:
   url: https://artifacts.apis.io/crosby/apis.yml
   x-apis-io: https://apis.io/providers/crosby/
   x-github: https://github.com/api-evangelist/crosby
+- name: Crosby News
+  url: https://artifacts.apis.io/crosbynews-com/apis.yml
+  x-apis-io: https://apis.io/providers/crosbynews-com/
+  x-github: https://github.com/api-evangelist/crosbynews-com
 - name: Cross Access
   url: https://artifacts.apis.io/cross-access/apis.yml
   x-apis-io: https://apis.io/providers/cross-access/
   x-github: https://github.com/api-evangelist/cross-access
+- name: Crossdeck
+  url: https://artifacts.apis.io/cross-deck-com/apis.yml
+  x-apis-io: https://apis.io/providers/cross-deck-com/
+  x-github: https://github.com/api-evangelist/cross-deck-com
 - name: Cross Universe
   url: https://artifacts.apis.io/cross-universe/apis.yml
   x-apis-io: https://apis.io/providers/cross-universe/
@@ -8195,6 +7249,10 @@ include:
   url: https://artifacts.apis.io/crossandcovenant-co/apis.yml
   x-apis-io: https://apis.io/providers/crossandcovenant-co/
   x-github: https://github.com/api-evangelist/crossandcovenant-co
+- name: Crossave
+  url: https://artifacts.apis.io/crossave-com/apis.yml
+  x-apis-io: https://apis.io/providers/crossave-com/
+  x-github: https://github.com/api-evangelist/crossave-com
 - name: Crossbar
   url: https://artifacts.apis.io/crossbar/apis.yml
   x-apis-io: https://apis.io/providers/crossbar/
@@ -8203,6 +7261,10 @@ include:
   url: https://artifacts.apis.io/crossbeam/apis.yml
   x-apis-io: https://apis.io/providers/crossbeam/
   x-github: https://github.com/api-evangelist/crossbeam
+- name: Crosscheck
+  url: https://artifacts.apis.io/crosscheckapi-com/apis.yml
+  x-apis-io: https://apis.io/providers/crosscheckapi-com/
+  x-github: https://github.com/api-evangelist/crosscheckapi-com
 - name: Crosschq
   url: https://artifacts.apis.io/crosschq/apis.yml
   x-apis-io: https://apis.io/providers/crosschq/
@@ -8235,6 +7297,10 @@ include:
   url: https://artifacts.apis.io/crosslend/apis.yml
   x-apis-io: https://apis.io/providers/crosslend/
   x-github: https://github.com/api-evangelist/crosslend
+- name: CROSSLOAD
+  url: https://artifacts.apis.io/crossload-org/apis.yml
+  x-apis-io: https://apis.io/providers/crossload-org/
+  x-github: https://github.com/api-evangelist/crossload-org
 - name: Crosslogix
   url: https://artifacts.apis.io/crosslogix/apis.yml
   x-apis-io: https://apis.io/providers/crosslogix/
@@ -8275,6 +7341,26 @@ include:
   url: https://artifacts.apis.io/crossriver/apis.yml
   x-apis-io: https://apis.io/providers/crossriver/
   x-github: https://github.com/api-evangelist/crossriver
+- name: Crosstabs
+  url: https://artifacts.apis.io/crosstabs-com/apis.yml
+  x-apis-io: https://apis.io/providers/crosstabs-com/
+  x-github: https://github.com/api-evangelist/crosstabs-com
+- name: crosswalk
+  url: https://artifacts.apis.io/crosswalk-to/apis.yml
+  x-apis-io: https://apis.io/providers/crosswalk-to/
+  x-github: https://github.com/api-evangelist/crosswalk-to
+- name: Crosswire
+  url: https://artifacts.apis.io/crosswire-api-com/apis.yml
+  x-apis-io: https://apis.io/providers/crosswire-api-com/
+  x-github: https://github.com/api-evangelist/crosswire-api-com
+- name: Crosswire
+  url: https://artifacts.apis.io/crosswirepay-com/apis.yml
+  x-apis-io: https://apis.io/providers/crosswirepay-com/
+  x-github: https://github.com/api-evangelist/crosswirepay-com
+- name: Crovia
+  url: https://artifacts.apis.io/croviatrust-com/apis.yml
+  x-apis-io: https://apis.io/providers/croviatrust-com/
+  x-github: https://github.com/api-evangelist/croviatrust-com
 - name: Crow
   url: https://artifacts.apis.io/crow/apis.yml
   x-apis-io: https://apis.io/providers/crow/
@@ -8331,6 +7417,10 @@ include:
   url: https://artifacts.apis.io/crowdhealth/apis.yml
   x-apis-io: https://apis.io/providers/crowdhealth/
   x-github: https://github.com/api-evangelist/crowdhealth
+- name: CrowdHum
+  url: https://artifacts.apis.io/crowdhum-com/apis.yml
+  x-apis-io: https://apis.io/providers/crowdhum-com/
+  x-github: https://github.com/api-evangelist/crowdhum-com
 - name: Crowdin
   url: https://artifacts.apis.io/crowdin/apis.yml
   x-apis-io: https://apis.io/providers/crowdin/
@@ -8347,6 +7437,10 @@ include:
   url: https://artifacts.apis.io/crowdmob/apis.yml
   x-apis-io: https://apis.io/providers/crowdmob/
   x-github: https://github.com/api-evangelist/crowdmob
+- name: CrowdOS
+  url: https://artifacts.apis.io/crowdos-ai/apis.yml
+  x-apis-io: https://apis.io/providers/crowdos-ai/
+  x-github: https://github.com/api-evangelist/crowdos-ai
 - name: Crowdplat
   url: https://artifacts.apis.io/crowdplat/apis.yml
   x-apis-io: https://apis.io/providers/crowdplat/
@@ -8387,6 +7481,10 @@ include:
   url: https://artifacts.apis.io/crowdwise/apis.yml
   x-apis-io: https://apis.io/providers/crowdwise/
   x-github: https://github.com/api-evangelist/crowdwise
+- name: Crowe Logic
+  url: https://artifacts.apis.io/crowelogic-com/apis.yml
+  x-apis-io: https://apis.io/providers/crowelogic-com/
+  x-github: https://github.com/api-evangelist/crowelogic-com
 - name: Crown Holdings
   url: https://artifacts.apis.io/crown/apis.yml
   x-apis-io: https://apis.io/providers/crown/
@@ -8411,10 +7509,18 @@ include:
   url: https://artifacts.apis.io/crownit/apis.yml
   x-apis-io: https://apis.io/providers/crownit/
   x-github: https://github.com/api-evangelist/crownit
+- name: Crown of Silence
+  url: https://artifacts.apis.io/crownofsilence-com/apis.yml
+  x-apis-io: https://apis.io/providers/crownofsilence-com/
+  x-github: https://github.com/api-evangelist/crownofsilence-com
 - name: crowvault-ai
   url: https://artifacts.apis.io/crowvault-ai/apis.yml
   x-apis-io: https://apis.io/providers/crowvault-ai/
   x-github: https://github.com/api-evangelist/crowvault-ai
+- name: Croxy
+  url: https://artifacts.apis.io/croxy/apis.yml
+  x-apis-io: https://apis.io/providers/croxy/
+  x-github: https://github.com/api-evangelist/croxy
 - name: Crozdesk
   url: https://artifacts.apis.io/crozdesk/apis.yml
   x-apis-io: https://apis.io/providers/crozdesk/
@@ -8427,6 +7533,14 @@ include:
   url: https://artifacts.apis.io/cru-kafe/apis.yml
   x-apis-io: https://apis.io/providers/cru-kafe/
   x-github: https://github.com/api-evangelist/cru-kafe
+- name: Crub
+  url: https://artifacts.apis.io/crub-ai/apis.yml
+  x-apis-io: https://apis.io/providers/crub-ai/
+  x-github: https://github.com/api-evangelist/crub-ai
+- name: Crucible
+  url: https://artifacts.apis.io/crucibleui-com/apis.yml
+  x-apis-io: https://apis.io/providers/crucibleui-com/
+  x-github: https://github.com/api-evangelist/crucibleui-com
 - name: Cruise
   url: https://artifacts.apis.io/cruise/apis.yml
   x-apis-io: https://apis.io/providers/cruise/
@@ -8443,6 +7557,10 @@ include:
   url: https://artifacts.apis.io/cruisebound/apis.yml
   x-apis-io: https://apis.io/providers/cruisebound/
   x-github: https://github.com/api-evangelist/cruisebound
+- name: Cruisify
+  url: https://artifacts.apis.io/cruisify-co-uk/apis.yml
+  x-apis-io: https://apis.io/providers/cruisify-co-uk/
+  x-github: https://github.com/api-evangelist/cruisify-co-uk
 - name: Crunchbase
   url: https://artifacts.apis.io/crunchbase-data/apis.yml
   x-apis-io: https://apis.io/providers/crunchbase-data/
@@ -8483,6 +7601,10 @@ include:
   url: https://artifacts.apis.io/crustapi/apis.yml
   x-apis-io: https://apis.io/providers/crustapi/
   x-github: https://github.com/api-evangelist/crustapi
+- name: Crustdata
+  url: https://artifacts.apis.io/crustdata-com/apis.yml
+  x-apis-io: https://apis.io/providers/crustdata-com/
+  x-github: https://github.com/api-evangelist/crustdata-com
 - name: Crux
   url: https://artifacts.apis.io/crux/apis.yml
   x-apis-io: https://apis.io/providers/crux/
@@ -8523,6 +7645,14 @@ include:
   url: https://artifacts.apis.io/crypto-com/apis.yml
   x-apis-io: https://apis.io/providers/crypto-com/
   x-github: https://github.com/api-evangelist/crypto-com
+- name: Crypto Accountants Directory
+  url: https://artifacts.apis.io/cryptoaccountantsdirectory-co-uk/apis.yml
+  x-apis-io: https://apis.io/providers/cryptoaccountantsdirectory-co-uk/
+  x-github: https://github.com/api-evangelist/cryptoaccountantsdirectory-co-uk
+- name: Crypto AML Policy
+  url: https://artifacts.apis.io/cryptoamlpolicy-com/apis.yml
+  x-apis-io: https://apis.io/providers/cryptoamlpolicy-com/
+  x-github: https://github.com/api-evangelist/cryptoamlpolicy-com
 - name: CryptoCompare
   url: https://artifacts.apis.io/cryptocompare/apis.yml
   x-apis-io: https://apis.io/providers/cryptocompare/
@@ -8531,18 +7661,46 @@ include:
   url: https://artifacts.apis.io/cryptodataapi-com/apis.yml
   x-apis-io: https://apis.io/providers/cryptodataapi-com/
   x-github: https://github.com/api-evangelist/cryptodataapi-com
+- name: CryptoDecentral
+  url: https://artifacts.apis.io/cryptodecentral-co-za/apis.yml
+  x-apis-io: https://apis.io/providers/cryptodecentral-co-za/
+  x-github: https://github.com/api-evangelist/cryptodecentral-co-za
+- name: CryptoETF
+  url: https://artifacts.apis.io/cryptoetf-today/apis.yml
+  x-apis-io: https://apis.io/providers/cryptoetf-today/
+  x-github: https://github.com/api-evangelist/cryptoetf-today
+- name: Crypto Exchange Discount
+  url: https://artifacts.apis.io/cryptoexchange-discount/apis.yml
+  x-apis-io: https://apis.io/providers/cryptoexchange-discount/
+  x-github: https://github.com/api-evangelist/cryptoexchange-discount
+- name: Crypto Exchange Compare HQ
+  url: https://artifacts.apis.io/cryptoexchangecomparehq-com/apis.yml
+  x-apis-io: https://apis.io/providers/cryptoexchangecomparehq-com/
+  x-github: https://github.com/api-evangelist/cryptoexchangecomparehq-com
 - name: Cryptogpt
   url: https://artifacts.apis.io/cryptogpt/apis.yml
   x-apis-io: https://apis.io/providers/cryptogpt/
   x-github: https://github.com/api-evangelist/cryptogpt
+- name: Cryptohopper
+  url: https://artifacts.apis.io/cryptohopper-com/apis.yml
+  x-apis-io: https://apis.io/providers/cryptohopper-com/
+  x-github: https://github.com/api-evangelist/cryptohopper-com
 - name: CryptoKeyhole
   url: https://artifacts.apis.io/cryptokeyhole/apis.yml
   x-apis-io: https://apis.io/providers/cryptokeyhole/
   x-github: https://github.com/api-evangelist/cryptokeyhole
+- name: Crypto Licence Costs
+  url: https://artifacts.apis.io/cryptolicencecosts-com/apis.yml
+  x-apis-io: https://apis.io/providers/cryptolicencecosts-com/
+  x-github: https://github.com/api-evangelist/cryptolicencecosts-com
 - name: CryptoMarket
   url: https://artifacts.apis.io/cryptomarket/apis.yml
   x-apis-io: https://apis.io/providers/cryptomarket/
   x-github: https://github.com/api-evangelist/cryptomarket
+- name: Cryptominium
+  url: https://artifacts.apis.io/cryptominium-com/apis.yml
+  x-apis-io: https://apis.io/providers/cryptominium-com/
+  x-github: https://github.com/api-evangelist/cryptominium-com
 - name: Cryptomus
   url: https://artifacts.apis.io/cryptomus/apis.yml
   x-apis-io: https://apis.io/providers/cryptomus/
@@ -8683,11 +7841,10 @@ include:
   url: https://artifacts.apis.io/cstorepro/apis.yml
   x-apis-io: https://apis.io/providers/cstorepro/
   x-github: https://github.com/api-evangelist/cstorepro
-- name: CSV Convert
-  url: https://artifacts.apis.io/csvconvert-uk/apis.yml
-  x-apis-io: https://apis.io/providers/csvconvert-uk/
-  x-github: https://github.com/api-evangelist/csvconvert-uk
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
+- name: Czech Statistical Office (CZSO)
+  url: https://artifacts.apis.io/csu-gov-cz/apis.yml
+  x-apis-io: https://apis.io/providers/csu-gov-cz/
+  x-github: https://github.com/api-evangelist/csu-gov-cz
 - name: CSV Gateway
   url: https://artifacts.apis.io/csvgateway/apis.yml
   x-apis-io: https://apis.io/providers/csvgateway/
@@ -8716,15 +7873,6 @@ include:
   url: https://artifacts.apis.io/cti-biopharma/apis.yml
   x-apis-io: https://apis.io/providers/cti-biopharma/
   x-github: https://github.com/api-evangelist/cti-biopharma
-- name: CTlogs.io
-  url: https://artifacts.apis.io/ctlogs-io/apis.yml
-  x-apis-io: https://apis.io/providers/ctlogs-io/
-  x-github: https://github.com/api-evangelist/ctlogs-io
-- name: ctlsurf
-  url: https://artifacts.apis.io/ctlsurf-com/apis.yml
-  x-apis-io: https://apis.io/providers/ctlsurf-com/
-  x-github: https://github.com/api-evangelist/ctlsurf-com
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Ctpparking
   url: https://artifacts.apis.io/ctpparking/apis.yml
   x-apis-io: https://apis.io/providers/ctpparking/
@@ -8761,15 +7909,735 @@ include:
   url: https://artifacts.apis.io/cts/apis.yml
   x-apis-io: https://apis.io/providers/cts/
   x-github: https://github.com/api-evangelist/cts
-- name: ctxstore.ai
-  url: https://artifacts.apis.io/ctxstore-ai/apis.yml
-  x-apis-io: https://apis.io/providers/ctxstore-ai/
-  x-github: https://github.com/api-evangelist/ctxstore-ai
-- name: Context
-  url: https://artifacts.apis.io/ctxt-io/apis.yml
-  x-apis-io: https://apis.io/providers/ctxt-io/
-  x-github: https://github.com/api-evangelist/ctxt-io
 - name: Numina
   url: https://artifacts.apis.io/cty/apis.yml
   x-apis-io: https://apis.io/providers/cty/
   x-github: https://github.com/api-evangelist/cty
+- name: Cubbit
+  url: https://artifacts.apis.io/cubbit/apis.yml
+  x-apis-io: https://apis.io/providers/cubbit/
+  x-github: https://github.com/api-evangelist/cubbit
+- name: Cubby
+  url: https://artifacts.apis.io/cubby/apis.yml
+  x-apis-io: https://apis.io/providers/cubby/
+  x-github: https://github.com/api-evangelist/cubby
+- name: Cube
+  url: https://artifacts.apis.io/cube/apis.yml
+  x-apis-io: https://apis.io/providers/cube/
+  x-github: https://github.com/api-evangelist/cube
+- name: Cube Dev
+  url: https://artifacts.apis.io/cube-dev/apis.yml
+  x-apis-io: https://apis.io/providers/cube-dev/
+  x-github: https://github.com/api-evangelist/cube-dev
+- name: Cube3.ai
+  url: https://artifacts.apis.io/cube3-ai/apis.yml
+  x-apis-io: https://apis.io/providers/cube3-ai/
+  x-github: https://github.com/api-evangelist/cube3-ai
+- name: Cubefabs
+  url: https://artifacts.apis.io/cubefabs/apis.yml
+  x-apis-io: https://apis.io/providers/cubefabs/
+  x-github: https://github.com/api-evangelist/cubefabs
+- name: CubeFS
+  url: https://artifacts.apis.io/cubefs/apis.yml
+  x-apis-io: https://apis.io/providers/cubefs/
+  x-github: https://github.com/api-evangelist/cubefs
+- name: Cubenergy
+  url: https://artifacts.apis.io/cubenergy/apis.yml
+  x-apis-io: https://apis.io/providers/cubenergy/
+  x-github: https://github.com/api-evangelist/cubenergy
+- name: Cubenergytechnology
+  url: https://artifacts.apis.io/cubenergytechnology/apis.yml
+  x-apis-io: https://apis.io/providers/cubenergytechnology/
+  x-github: https://github.com/api-evangelist/cubenergytechnology
+- name: CubeNexus Inc
+  url: https://artifacts.apis.io/cubenexus-inc/apis.yml
+  x-apis-io: https://apis.io/providers/cubenexus-inc/
+  x-github: https://github.com/api-evangelist/cubenexus-inc
+- name: CubeSmart
+  url: https://artifacts.apis.io/cubesmart/apis.yml
+  x-apis-io: https://apis.io/providers/cubesmart/
+  x-github: https://github.com/api-evangelist/cubesmart
+- name: Cube
+  url: https://artifacts.apis.io/cubesoftware/apis.yml
+  x-apis-io: https://apis.io/providers/cubesoftware/
+  x-github: https://github.com/api-evangelist/cubesoftware
+- name: CubeTree
+  url: https://artifacts.apis.io/cubetree/apis.yml
+  x-apis-io: https://apis.io/providers/cubetree/
+  x-github: https://github.com/api-evangelist/cubetree
+- name: CubeWerx
+  url: https://artifacts.apis.io/cubewerx/apis.yml
+  x-apis-io: https://apis.io/providers/cubewerx/
+  x-github: https://github.com/api-evangelist/cubewerx
+- name: Cubic
+  url: https://artifacts.apis.io/cubic/apis.yml
+  x-apis-io: https://apis.io/providers/cubic/
+  x-github: https://github.com/api-evangelist/cubic
+- name: Cubist
+  url: https://artifacts.apis.io/cubist/apis.yml
+  x-apis-io: https://apis.io/providers/cubist/
+  x-github: https://github.com/api-evangelist/cubist
+- name: Cubixel
+  url: https://artifacts.apis.io/cubixel/apis.yml
+  x-apis-io: https://apis.io/providers/cubixel/
+  x-github: https://github.com/api-evangelist/cubixel
+- name: Cuboai
+  url: https://artifacts.apis.io/cuboai/apis.yml
+  x-apis-io: https://apis.io/providers/cuboai/
+  x-github: https://github.com/api-evangelist/cuboai
+- name: Cuboh
+  url: https://artifacts.apis.io/cuboh/apis.yml
+  x-apis-io: https://apis.io/providers/cuboh/
+  x-github: https://github.com/api-evangelist/cuboh
+- name: Cubox
+  url: https://artifacts.apis.io/cubox/apis.yml
+  x-apis-io: https://apis.io/providers/cubox/
+  x-github: https://github.com/api-evangelist/cubox
+- name: Cuby Technologies
+  url: https://artifacts.apis.io/cuby-technologies/apis.yml
+  x-apis-io: https://apis.io/providers/cuby-technologies/
+  x-github: https://github.com/api-evangelist/cuby-technologies
+- name: Cubyn
+  url: https://artifacts.apis.io/cubyn/apis.yml
+  x-apis-io: https://apis.io/providers/cubyn/
+  x-github: https://github.com/api-evangelist/cubyn
+- name: Cucumber
+  url: https://artifacts.apis.io/cucumber/apis.yml
+  x-apis-io: https://apis.io/providers/cucumber/
+  x-github: https://github.com/api-evangelist/cucumber
+- name: CucumberTown
+  url: https://artifacts.apis.io/cucumbertown/apis.yml
+  x-apis-io: https://apis.io/providers/cucumbertown/
+  x-github: https://github.com/api-evangelist/cucumbertown
+- name: CUDDLY
+  url: https://artifacts.apis.io/cuddly/apis.yml
+  x-apis-io: https://apis.io/providers/cuddly/
+  x-github: https://github.com/api-evangelist/cuddly
+- name: CUDO Compute
+  url: https://artifacts.apis.io/cudo-compute/apis.yml
+  x-apis-io: https://apis.io/providers/cudo-compute/
+  x-github: https://github.com/api-evangelist/cudo-compute
+- name: CUE Labs
+  url: https://artifacts.apis.io/cue-labs/apis.yml
+  x-apis-io: https://apis.io/providers/cue-labs/
+  x-github: https://github.com/api-evangelist/cue-labs
+- name: Cuebiq
+  url: https://artifacts.apis.io/cuebiq/apis.yml
+  x-apis-io: https://apis.io/providers/cuebiq/
+  x-github: https://github.com/api-evangelist/cuebiq
+- name: Cuein
+  url: https://artifacts.apis.io/cuein/apis.yml
+  x-apis-io: https://apis.io/providers/cuein/
+  x-github: https://github.com/api-evangelist/cuein
+- name: Cuemarc
+  url: https://artifacts.apis.io/cuemarc/apis.yml
+  x-apis-io: https://apis.io/providers/cuemarc/
+  x-github: https://github.com/api-evangelist/cuemarc
+- name: Cuemath
+  url: https://artifacts.apis.io/cuemath/apis.yml
+  x-apis-io: https://apis.io/providers/cuemath/
+  x-github: https://github.com/api-evangelist/cuemath
+- name: Cuenca
+  url: https://artifacts.apis.io/cuenca/apis.yml
+  x-apis-io: https://apis.io/providers/cuenca/
+  x-github: https://github.com/api-evangelist/cuenca
+- name: Cuida Mi Mascota
+  url: https://artifacts.apis.io/cuida-mi-mascota/apis.yml
+  x-apis-io: https://apis.io/providers/cuida-mi-mascota/
+  x-github: https://github.com/api-evangelist/cuida-mi-mascota
+- name: Culdesac
+  url: https://artifacts.apis.io/culdesac/apis.yml
+  x-apis-io: https://apis.io/providers/culdesac/
+  x-github: https://github.com/api-evangelist/culdesac
+- name: Culina Health
+  url: https://artifacts.apis.io/culina-health/apis.yml
+  x-apis-io: https://apis.io/providers/culina-health/
+  x-github: https://github.com/api-evangelist/culina-health
+- name: Culinary Sciences
+  url: https://artifacts.apis.io/culinary-sciences/apis.yml
+  x-apis-io: https://apis.io/providers/culinary-sciences/
+  x-github: https://github.com/api-evangelist/culinary-sciences
+- name: Culinarybrands
+  url: https://artifacts.apis.io/culinarybrands/apis.yml
+  x-apis-io: https://apis.io/providers/culinarybrands/
+  x-github: https://github.com/api-evangelist/culinarybrands
+- name: Cullen/Frost Bankers
+  url: https://artifacts.apis.io/cullen-frost-bankers/apis.yml
+  x-apis-io: https://apis.io/providers/cullen-frost-bankers/
+  x-github: https://github.com/api-evangelist/cullen-frost-bankers
+- name: Cullgen
+  url: https://artifacts.apis.io/cullgen/apis.yml
+  x-apis-io: https://apis.io/providers/cullgen/
+  x-github: https://github.com/api-evangelist/cullgen
+- name: Cullinet Software
+  url: https://artifacts.apis.io/cullinet-software/apis.yml
+  x-apis-io: https://apis.io/providers/cullinet-software/
+  x-github: https://github.com/api-evangelist/cullinet-software
+- name: Culqi
+  url: https://artifacts.apis.io/culqi/apis.yml
+  x-apis-io: https://apis.io/providers/culqi/
+  x-github: https://github.com/api-evangelist/culqi
+- name: Cult of the North
+  url: https://artifacts.apis.io/cult-of-the-north/apis.yml
+  x-apis-io: https://apis.io/providers/cult-of-the-north/
+  x-github: https://github.com/api-evangelist/cult-of-the-north
+- name: Cult.fit
+  url: https://artifacts.apis.io/cultfit/apis.yml
+  x-apis-io: https://apis.io/providers/cultfit/
+  x-github: https://github.com/api-evangelist/cultfit
+- name: Cultivaet
+  url: https://artifacts.apis.io/cultivaet-technologies-holding-ltd/apis.yml
+  x-apis-io: https://apis.io/providers/cultivaet-technologies-holding-ltd/
+  x-github: https://github.com/api-evangelist/cultivaet-technologies-holding-ltd
+- name: Cultivate
+  url: https://artifacts.apis.io/cultivate/apis.yml
+  x-apis-io: https://apis.io/providers/cultivate/
+  x-github: https://github.com/api-evangelist/cultivate
+- name: Culture
+  url: https://artifacts.apis.io/culture/apis.yml
+  x-apis-io: https://apis.io/providers/culture/
+  x-github: https://github.com/api-evangelist/culture
+- name: Culture Amp
+  url: https://artifacts.apis.io/culture-amp/apis.yml
+  x-apis-io: https://apis.io/providers/culture-amp/
+  x-github: https://github.com/api-evangelist/culture-amp
+- name: Culture Biosciences
+  url: https://artifacts.apis.io/culture-biosciences/apis.yml
+  x-apis-io: https://apis.io/providers/culture-biosciences/
+  x-github: https://github.com/api-evangelist/culture-biosciences
+- name: The Culture Commons
+  url: https://artifacts.apis.io/culture-sbs/apis.yml
+  x-apis-io: https://apis.io/providers/culture-sbs/
+  x-github: https://github.com/api-evangelist/culture-sbs
+- name: Culturehero
+  url: https://artifacts.apis.io/culturehero/apis.yml
+  x-apis-io: https://apis.io/providers/culturehero/
+  x-github: https://github.com/api-evangelist/culturehero
+- name: Culturerobotics
+  url: https://artifacts.apis.io/culturerobotics/apis.yml
+  x-apis-io: https://apis.io/providers/culturerobotics/
+  x-github: https://github.com/api-evangelist/culturerobotics
+- name: Cumberland
+  url: https://artifacts.apis.io/cumberland/apis.yml
+  x-apis-io: https://apis.io/providers/cumberland/
+  x-github: https://github.com/api-evangelist/cumberland
+- name: Cumbuca
+  url: https://artifacts.apis.io/cumbuca/apis.yml
+  x-apis-io: https://apis.io/providers/cumbuca/
+  x-github: https://github.com/api-evangelist/cumbuca
+- name: Cummins
+  url: https://artifacts.apis.io/cummins/apis.yml
+  x-apis-io: https://apis.io/providers/cummins/
+  x-github: https://github.com/api-evangelist/cummins
+- name: Cumulio
+  url: https://artifacts.apis.io/cumulio/apis.yml
+  x-apis-io: https://apis.io/providers/cumulio/
+  x-github: https://github.com/api-evangelist/cumulio
+- name: Cumulocity
+  url: https://artifacts.apis.io/cumulocity/apis.yml
+  x-apis-io: https://apis.io/providers/cumulocity/
+  x-github: https://github.com/api-evangelist/cumulocity
+- name: Cumulus Labs
+  url: https://artifacts.apis.io/cumulus-labs/apis.yml
+  x-apis-io: https://apis.io/providers/cumulus-labs/
+  x-github: https://github.com/api-evangelist/cumulus-labs
+- name: Cumulus Networks
+  url: https://artifacts.apis.io/cumulus-networks/apis.yml
+  x-apis-io: https://apis.io/providers/cumulus-networks/
+  x-github: https://github.com/api-evangelist/cumulus-networks
+- name: CUNA Mutual Group (TruStage)
+  url: https://artifacts.apis.io/cuna-mutual-group/apis.yml
+  x-apis-io: https://apis.io/providers/cuna-mutual-group/
+  x-github: https://github.com/api-evangelist/cuna-mutual-group
+- name: Cupix
+  url: https://artifacts.apis.io/cupix/apis.yml
+  x-apis-io: https://apis.io/providers/cupix/
+  x-github: https://github.com/api-evangelist/cupix
+- name: Cuponation
+  url: https://artifacts.apis.io/cuponation/apis.yml
+  x-apis-io: https://apis.io/providers/cuponation/
+  x-github: https://github.com/api-evangelist/cuponation
+- name: Cuponomia
+  url: https://artifacts.apis.io/cuponomia/apis.yml
+  x-apis-io: https://apis.io/providers/cuponomia/
+  x-github: https://github.com/api-evangelist/cuponomia
+- name: Cur8
+  url: https://artifacts.apis.io/cur8/apis.yml
+  x-apis-io: https://apis.io/providers/cur8/
+  x-github: https://github.com/api-evangelist/cur8
+- name: curagent-io
+  url: https://artifacts.apis.io/curagent-io/apis.yml
+  x-apis-io: https://apis.io/providers/curagent-io/
+  x-github: https://github.com/api-evangelist/curagent-io
+- name: Curai
+  url: https://artifacts.apis.io/curai/apis.yml
+  x-apis-io: https://apis.io/providers/curai/
+  x-github: https://github.com/api-evangelist/curai
+- name: Curalate
+  url: https://artifacts.apis.io/curalate/apis.yml
+  x-apis-io: https://apis.io/providers/curalate/
+  x-github: https://github.com/api-evangelist/curalate
+- name: Curaleaf Holdings
+  url: https://artifacts.apis.io/curaleaf/apis.yml
+  x-apis-io: https://apis.io/providers/curaleaf/
+  x-github: https://github.com/api-evangelist/curaleaf
+- name: Curana Health
+  url: https://artifacts.apis.io/curana-health/apis.yml
+  x-apis-io: https://apis.io/providers/curana-health/
+  x-github: https://github.com/api-evangelist/curana-health
+- name: Curasen
+  url: https://artifacts.apis.io/curasen/apis.yml
+  x-apis-io: https://apis.io/providers/curasen/
+  x-github: https://github.com/api-evangelist/curasen
+- name: Curated for You
+  url: https://artifacts.apis.io/curated-for-you/apis.yml
+  x-apis-io: https://apis.io/providers/curated-for-you/
+  x-github: https://github.com/api-evangelist/curated-for-you
+- name: Curated
+  url: https://artifacts.apis.io/curated-network/apis.yml
+  x-apis-io: https://apis.io/providers/curated-network/
+  x-github: https://github.com/api-evangelist/curated-network
+- name: Curative
+  url: https://artifacts.apis.io/curative/apis.yml
+  x-apis-io: https://apis.io/providers/curative/
+  x-github: https://github.com/api-evangelist/curative
+- name: CuratorSearch
+  url: https://artifacts.apis.io/curatorsearch/apis.yml
+  x-apis-io: https://apis.io/providers/curatorsearch/
+  x-github: https://github.com/api-evangelist/curatorsearch
+- name: Curaum
+  url: https://artifacts.apis.io/curaum/apis.yml
+  x-apis-io: https://apis.io/providers/curaum/
+  x-github: https://github.com/api-evangelist/curaum
+- name: Curavit
+  url: https://artifacts.apis.io/curavit/apis.yml
+  x-apis-io: https://apis.io/providers/curavit/
+  x-github: https://github.com/api-evangelist/curavit
+- name: Curaway
+  url: https://artifacts.apis.io/curaway/apis.yml
+  x-apis-io: https://apis.io/providers/curaway/
+  x-github: https://github.com/api-evangelist/curaway
+- name: Curb
+  url: https://artifacts.apis.io/curb/apis.yml
+  x-apis-io: https://apis.io/providers/curb/
+  x-github: https://github.com/api-evangelist/curb
+- name: Curbio
+  url: https://artifacts.apis.io/curbio/apis.yml
+  x-apis-io: https://apis.io/providers/curbio/
+  x-github: https://github.com/api-evangelist/curbio
+- name: Curbside SOS
+  url: https://artifacts.apis.io/curbside-sos/apis.yml
+  x-apis-io: https://apis.io/providers/curbside-sos/
+  x-github: https://github.com/api-evangelist/curbside-sos
+- name: CurbStand
+  url: https://artifacts.apis.io/curbstand/apis.yml
+  x-apis-io: https://apis.io/providers/curbstand/
+  x-github: https://github.com/api-evangelist/curbstand
+- name: Curbwaste
+  url: https://artifacts.apis.io/curbwaste/apis.yml
+  x-apis-io: https://apis.io/providers/curbwaste/
+  x-github: https://github.com/api-evangelist/curbwaste
+- name: Cure Hydration
+  url: https://artifacts.apis.io/cure-hydration/apis.yml
+  x-apis-io: https://apis.io/providers/cure-hydration/
+  x-github: https://github.com/api-evangelist/cure-hydration
+- name: CureApp
+  url: https://artifacts.apis.io/cureapp/apis.yml
+  x-apis-io: https://apis.io/providers/cureapp/
+  x-github: https://github.com/api-evangelist/cureapp
+- name: Curebase
+  url: https://artifacts.apis.io/curebase/apis.yml
+  x-apis-io: https://apis.io/providers/curebase/
+  x-github: https://github.com/api-evangelist/curebase
+- name: Curefit
+  url: https://artifacts.apis.io/curefit/apis.yml
+  x-apis-io: https://apis.io/providers/curefit/
+  x-github: https://github.com/api-evangelist/curefit
+- name: Curefoods
+  url: https://artifacts.apis.io/curefoods/apis.yml
+  x-apis-io: https://apis.io/providers/curefoods/
+  x-github: https://github.com/api-evangelist/curefoods
+- name: Cure Genetics
+  url: https://artifacts.apis.io/curegenetics/apis.yml
+  x-apis-io: https://apis.io/providers/curegenetics/
+  x-github: https://github.com/api-evangelist/curegenetics
+- name: Curejoy
+  url: https://artifacts.apis.io/curejoy/apis.yml
+  x-apis-io: https://apis.io/providers/curejoy/
+  x-github: https://github.com/api-evangelist/curejoy
+- name: Cureskin
+  url: https://artifacts.apis.io/cureskin/apis.yml
+  x-apis-io: https://apis.io/providers/cureskin/
+  x-github: https://github.com/api-evangelist/cureskin
+- name: Cureverse
+  url: https://artifacts.apis.io/cureverse/apis.yml
+  x-apis-io: https://apis.io/providers/cureverse/
+  x-github: https://github.com/api-evangelist/cureverse
+- name: Curevo
+  url: https://artifacts.apis.io/curevo/apis.yml
+  x-apis-io: https://apis.io/providers/curevo/
+  x-github: https://github.com/api-evangelist/curevo
+- name: Curi Bio
+  url: https://artifacts.apis.io/curi-bio/apis.yml
+  x-apis-io: https://apis.io/providers/curi-bio/
+  x-github: https://github.com/api-evangelist/curi-bio
+- name: Curie
+  url: https://artifacts.apis.io/curie/apis.yml
+  x-apis-io: https://apis.io/providers/curie/
+  x-github: https://github.com/api-evangelist/curie
+- name: Curie.Bio
+  url: https://artifacts.apis.io/curiebio/apis.yml
+  x-apis-io: https://apis.io/providers/curiebio/
+  x-github: https://github.com/api-evangelist/curiebio
+- name: Curio Labs
+  url: https://artifacts.apis.io/curio-labs/apis.yml
+  x-apis-io: https://apis.io/providers/curio-labs/
+  x-github: https://github.com/api-evangelist/curio-labs
+- name: Curios
+  url: https://artifacts.apis.io/curios/apis.yml
+  x-apis-io: https://apis.io/providers/curios/
+  x-github: https://github.com/api-evangelist/curios
+- name: Curiosity
+  url: https://artifacts.apis.io/curiosity/apis.yml
+  x-apis-io: https://apis.io/providers/curiosity/
+  x-github: https://github.com/api-evangelist/curiosity
+- name: Curious Ai
+  url: https://artifacts.apis.io/curious-ai/apis.yml
+  x-apis-io: https://apis.io/providers/curious-ai/
+  x-github: https://github.com/api-evangelist/curious-ai
+- name: Curity
+  url: https://artifacts.apis.io/curity/apis.yml
+  x-apis-io: https://apis.io/providers/curity/
+  x-github: https://github.com/api-evangelist/curity
+- name: cURL
+  url: https://artifacts.apis.io/curl/apis.yml
+  x-apis-io: https://apis.io/providers/curl/
+  x-github: https://github.com/api-evangelist/curl
+- name: Curlec
+  url: https://artifacts.apis.io/curlec/apis.yml
+  x-apis-io: https://apis.io/providers/curlec/
+  x-github: https://github.com/api-evangelist/curlec
+- name: Curlie
+  url: https://artifacts.apis.io/curlie/apis.yml
+  x-apis-io: https://apis.io/providers/curlie/
+  x-github: https://github.com/api-evangelist/curlie
+- name: curlshot-com
+  url: https://artifacts.apis.io/curlshot-com/apis.yml
+  x-apis-io: https://apis.io/providers/curlshot-com/
+  x-github: https://github.com/api-evangelist/curlshot-com
+- name: Curocell
+  url: https://artifacts.apis.io/curocell/apis.yml
+  x-apis-io: https://apis.io/providers/curocell/
+  x-github: https://github.com/api-evangelist/curocell
+- name: Curogram
+  url: https://artifacts.apis.io/curogram/apis.yml
+  x-apis-io: https://apis.io/providers/curogram/
+  x-github: https://github.com/api-evangelist/curogram
+- name: Curology
+  url: https://artifacts.apis.io/curology/apis.yml
+  x-apis-io: https://apis.io/providers/curology/
+  x-github: https://github.com/api-evangelist/curology
+- name: Curovax
+  url: https://artifacts.apis.io/curovax/apis.yml
+  x-apis-io: https://apis.io/providers/curovax/
+  x-github: https://github.com/api-evangelist/curovax
+- name: CurrencyAPI
+  url: https://artifacts.apis.io/currencyapi/apis.yml
+  x-apis-io: https://apis.io/providers/currencyapi/
+  x-github: https://github.com/api-evangelist/currencyapi
+- name: CurrencyBeacon
+  url: https://artifacts.apis.io/currencybeacon/apis.yml
+  x-apis-io: https://apis.io/providers/currencybeacon/
+  x-github: https://github.com/api-evangelist/currencybeacon
+- name: Currencycloud
+  url: https://artifacts.apis.io/currencycloud/apis.yml
+  x-apis-io: https://apis.io/providers/currencycloud/
+  x-github: https://github.com/api-evangelist/currencycloud
+- name: Currencyfair
+  url: https://artifacts.apis.io/currencyfair/apis.yml
+  x-apis-io: https://apis.io/providers/currencyfair/
+  x-github: https://github.com/api-evangelist/currencyfair
+- name: CurrencyFreaks
+  url: https://artifacts.apis.io/currencyfreaks/apis.yml
+  x-apis-io: https://apis.io/providers/currencyfreaks/
+  x-github: https://github.com/api-evangelist/currencyfreaks
+- name: Currencylayer
+  url: https://artifacts.apis.io/currencylayer/apis.yml
+  x-apis-io: https://apis.io/providers/currencylayer/
+  x-github: https://github.com/api-evangelist/currencylayer
+- name: CurrencyScoop
+  url: https://artifacts.apis.io/currencyscoop/apis.yml
+  x-apis-io: https://apis.io/providers/currencyscoop/
+  x-github: https://github.com/api-evangelist/currencyscoop
+- name: Current
+  url: https://artifacts.apis.io/current/apis.yml
+  x-apis-io: https://apis.io/providers/current/
+  x-github: https://github.com/api-evangelist/current
+- name: Current Surgical
+  url: https://artifacts.apis.io/current-surgical/apis.yml
+  x-apis-io: https://apis.io/providers/current-surgical/
+  x-github: https://github.com/api-evangelist/current-surgical
+- name: Currents
+  url: https://artifacts.apis.io/currents/apis.yml
+  x-apis-io: https://apis.io/providers/currents/
+  x-github: https://github.com/api-evangelist/currents
+- name: Curri
+  url: https://artifacts.apis.io/curri/apis.yml
+  x-apis-io: https://apis.io/providers/curri/
+  x-github: https://github.com/api-evangelist/curri
+- name: Curse
+  url: https://artifacts.apis.io/curse/apis.yml
+  x-apis-io: https://apis.io/providers/curse/
+  x-github: https://github.com/api-evangelist/curse
+- name: Cursor
+  url: https://artifacts.apis.io/cursor/apis.yml
+  x-apis-io: https://apis.io/providers/cursor/
+  x-github: https://github.com/api-evangelist/cursor
+- name: '.cursorrules'
+  url: https://artifacts.apis.io/cursorrules/apis.yml
+  x-apis-io: https://apis.io/providers/cursorrules/
+  x-github: https://github.com/api-evangelist/cursorrules
+- name: Curtin University
+  url: https://artifacts.apis.io/curtin/apis.yml
+  x-apis-io: https://apis.io/providers/curtin/
+  x-github: https://github.com/api-evangelist/curtin
+- name: Curtiss-Wright
+  url: https://artifacts.apis.io/curtiss-wright/apis.yml
+  x-apis-io: https://apis.io/providers/curtiss-wright/
+  x-github: https://github.com/api-evangelist/curtiss-wright
+- name: Curtsy
+  url: https://artifacts.apis.io/curtsy/apis.yml
+  x-apis-io: https://apis.io/providers/curtsy/
+  x-github: https://github.com/api-evangelist/curtsy
+- name: Curvafix
+  url: https://artifacts.apis.io/curvafix/apis.yml
+  x-apis-io: https://apis.io/providers/curvafix/
+  x-github: https://github.com/api-evangelist/curvafix
+- name: Curve
+  url: https://artifacts.apis.io/curve/apis.yml
+  x-apis-io: https://apis.io/providers/curve/
+  x-github: https://github.com/api-evangelist/curve
+- name: Curve Biosciences
+  url: https://artifacts.apis.io/curve-biosciences/apis.yml
+  x-apis-io: https://apis.io/providers/curve-biosciences/
+  x-github: https://github.com/api-evangelist/curve-biosciences
+- name: Curve Dental
+  url: https://artifacts.apis.io/curve-dental/apis.yml
+  x-apis-io: https://apis.io/providers/curve-dental/
+  x-github: https://github.com/api-evangelist/curve-dental
+- name: Curve Finance
+  url: https://artifacts.apis.io/curve-finance/apis.yml
+  x-apis-io: https://apis.io/providers/curve-finance/
+  x-github: https://github.com/api-evangelist/curve-finance
+- name: Curve Health
+  url: https://artifacts.apis.io/curve-health/apis.yml
+  x-apis-io: https://apis.io/providers/curve-health/
+  x-github: https://github.com/api-evangelist/curve-health
+- name: curviate-com
+  url: https://artifacts.apis.io/curviate-com/apis.yml
+  x-apis-io: https://apis.io/providers/curviate-com/
+  x-github: https://github.com/api-evangelist/curviate-com
+- name: Cuscal
+  url: https://artifacts.apis.io/cuscal/apis.yml
+  x-apis-io: https://apis.io/providers/cuscal/
+  x-github: https://github.com/api-evangelist/cuscal
+- name: Cuseum
+  url: https://artifacts.apis.io/cuseum/apis.yml
+  x-apis-io: https://apis.io/providers/cuseum/
+  x-github: https://github.com/api-evangelist/cuseum
+- name: Cushion.ai
+  url: https://artifacts.apis.io/cushion-ai/apis.yml
+  x-apis-io: https://apis.io/providers/cushion-ai/
+  x-github: https://github.com/api-evangelist/cushion-ai
+- name: Cuspai
+  url: https://artifacts.apis.io/cuspai/apis.yml
+  x-apis-io: https://apis.io/providers/cuspai/
+  x-github: https://github.com/api-evangelist/cuspai
+- name: Cuspai
+  url: https://artifacts.apis.io/cuspai-com/apis.yml
+  x-apis-io: https://apis.io/providers/cuspai-com/
+  x-github: https://github.com/api-evangelist/cuspai-com
+- name: Custodian
+  url: https://artifacts.apis.io/custodian/apis.yml
+  x-apis-io: https://apis.io/providers/custodian/
+  x-github: https://github.com/api-evangelist/custodian
+- name: Custom Chat API / MirrorFly
+  url: https://artifacts.apis.io/custom-chat-api-mirrorfly/apis.yml
+  x-apis-io: https://apis.io/providers/custom-chat-api-mirrorfly/
+  x-github: https://github.com/api-evangelist/custom-chat-api-mirrorfly
+- name: Customer Alliance
+  url: https://artifacts.apis.io/customer-alliance/apis.yml
+  x-apis-io: https://apis.io/providers/customer-alliance/
+  x-github: https://github.com/api-evangelist/customer-alliance
+- name: Customer Analytics
+  url: https://artifacts.apis.io/customer-analytics/apis.yml
+  x-apis-io: https://apis.io/providers/customer-analytics/
+  x-github: https://github.com/api-evangelist/customer-analytics
+- name: Customer Database
+  url: https://artifacts.apis.io/customer-database/apis.yml
+  x-apis-io: https://apis.io/providers/customer-database/
+  x-github: https://github.com/api-evangelist/customer-database
+- name: Customer.io
+  url: https://artifacts.apis.io/customer-io/apis.yml
+  x-apis-io: https://apis.io/providers/customer-io/
+  x-github: https://github.com/api-evangelist/customer-io
+- name: Customermates
+  url: https://artifacts.apis.io/customermates-com/apis.yml
+  x-apis-io: https://apis.io/providers/customermates-com/
+  x-github: https://github.com/api-evangelist/customermates-com
+- name: CustomerOS
+  url: https://artifacts.apis.io/customeros/apis.yml
+  x-apis-io: https://apis.io/providers/customeros/
+  x-github: https://github.com/api-evangelist/customeros
+- name: Customers Bank
+  url: https://artifacts.apis.io/customers-bank/apis.yml
+  x-apis-io: https://apis.io/providers/customers-bank/
+  x-github: https://github.com/api-evangelist/customers-bank
+- name: Customersai
+  url: https://artifacts.apis.io/customersai/apis.yml
+  x-apis-io: https://apis.io/providers/customersai/
+  x-github: https://github.com/api-evangelist/customersai
+- name: Custom Ink
+  url: https://artifacts.apis.io/customink-api/apis.yml
+  x-apis-io: https://apis.io/providers/customink-api/
+  x-github: https://github.com/api-evangelist/customink-api
+- name: Customs and Border Protection
+  url: https://artifacts.apis.io/customs-and-border-protection/apis.yml
+  x-apis-io: https://apis.io/providers/customs-and-border-protection/
+  x-github: https://github.com/api-evangelist/customs-and-border-protection
+- name: customs.dog
+  url: https://artifacts.apis.io/customs-dog/apis.yml
+  x-apis-io: https://apis.io/providers/customs-dog/
+  x-github: https://github.com/api-evangelist/customs-dog
+- name: Custosa
+  url: https://artifacts.apis.io/custosa-com/apis.yml
+  x-apis-io: https://apis.io/providers/custosa-com/
+  x-github: https://github.com/api-evangelist/custosa-com
+- name: Cut.Pro
+  url: https://artifacts.apis.io/cut-pro/apis.yml
+  x-apis-io: https://apis.io/providers/cut-pro/
+  x-github: https://github.com/api-evangelist/cut-pro
+- name: Cutback Coach
+  url: https://artifacts.apis.io/cutback-coach/apis.yml
+  x-apis-io: https://apis.io/providers/cutback-coach/
+  x-github: https://github.com/api-evangelist/cutback-coach
+- name: CutConvert
+  url: https://artifacts.apis.io/cutconvert-com/apis.yml
+  x-apis-io: https://apis.io/providers/cutconvert-com/
+  x-github: https://github.com/api-evangelist/cutconvert-com
+- name: cutGPT
+  url: https://artifacts.apis.io/cutgpt-app/apis.yml
+  x-apis-io: https://apis.io/providers/cutgpt-app/
+  x-github: https://github.com/api-evangelist/cutgpt-app
+- name: CUTISS
+  url: https://artifacts.apis.io/cutiss/apis.yml
+  x-apis-io: https://apis.io/providers/cutiss/
+  x-github: https://github.com/api-evangelist/cutiss
+- name: CutLuma
+  url: https://artifacts.apis.io/cutluma-com/apis.yml
+  x-apis-io: https://apis.io/providers/cutluma-com/
+  x-github: https://github.com/api-evangelist/cutluma-com
+- name: Cutover
+  url: https://artifacts.apis.io/cutover/apis.yml
+  x-apis-io: https://apis.io/providers/cutover/
+  x-github: https://github.com/api-evangelist/cutover
+- name: cutt
+  url: https://artifacts.apis.io/cutt/apis.yml
+  x-apis-io: https://apis.io/providers/cutt/
+  x-github: https://github.com/api-evangelist/cutt
+- name: Cutt.ly
+  url: https://artifacts.apis.io/cutt-ly/apis.yml
+  x-apis-io: https://apis.io/providers/cutt-ly/
+  x-github: https://github.com/api-evangelist/cutt-ly
+- name: cuttingtoolsai-eu
+  url: https://artifacts.apis.io/cuttingtoolsai-eu/apis.yml
+  x-apis-io: https://apis.io/providers/cuttingtoolsai-eu/
+  x-github: https://github.com/api-evangelist/cuttingtoolsai-eu
+- name: CUUP
+  url: https://artifacts.apis.io/cuup-inc/apis.yml
+  x-apis-io: https://apis.io/providers/cuup-inc/
+  x-github: https://github.com/api-evangelist/cuup-inc
+- name: Cuure4978
+  url: https://artifacts.apis.io/cuure4978/apis.yml
+  x-apis-io: https://apis.io/providers/cuure4978/
+  x-github: https://github.com/api-evangelist/cuure4978
+- name: Cuvo Health
+  url: https://artifacts.apis.io/cuvo-co/apis.yml
+  x-apis-io: https://apis.io/providers/cuvo-co/
+  x-github: https://github.com/api-evangelist/cuvo-co
+- name: Cuvva
+  url: https://artifacts.apis.io/cuvva/apis.yml
+  x-apis-io: https://apis.io/providers/cuvva/
+  x-github: https://github.com/api-evangelist/cuvva
+- name: Cuyana
+  url: https://artifacts.apis.io/cuyana/apis.yml
+  x-apis-io: https://apis.io/providers/cuyana/
+  x-github: https://github.com/api-evangelist/cuyana
+- name: Cvachip
+  url: https://artifacts.apis.io/cvachip/apis.yml
+  x-apis-io: https://apis.io/providers/cvachip/
+  x-github: https://github.com/api-evangelist/cvachip
+- name: CVAT
+  url: https://artifacts.apis.io/cvat/apis.yml
+  x-apis-io: https://apis.io/providers/cvat/
+  x-github: https://github.com/api-evangelist/cvat
+- name: CVE Security
+  url: https://artifacts.apis.io/cve-security-com/apis.yml
+  x-apis-io: https://apis.io/providers/cve-security-com/
+  x-github: https://github.com/api-evangelist/cve-security-com
+- name: Cvent
+  url: https://artifacts.apis.io/cvent/apis.yml
+  x-apis-io: https://apis.io/providers/cvent/
+  x-github: https://github.com/api-evangelist/cvent
+- name: Cvent Community
+  url: https://artifacts.apis.io/cvent-community/apis.yml
+  x-apis-io: https://apis.io/providers/cvent-community/
+  x-github: https://github.com/api-evangelist/cvent-community
+- name: Cvent Event Cloud
+  url: https://artifacts.apis.io/cvent-event-cloud/apis.yml
+  x-apis-io: https://apis.io/providers/cvent-event-cloud/
+  x-github: https://github.com/api-evangelist/cvent-event-cloud
+- name: Cvent Hospitality Cloud
+  url: https://artifacts.apis.io/cvent-hospitality-cloud/apis.yml
+  x-apis-io: https://apis.io/providers/cvent-hospitality-cloud/
+  x-github: https://github.com/api-evangelist/cvent-hospitality-cloud
+- name: Cvent Registration
+  url: https://artifacts.apis.io/cvent-registration/apis.yml
+  x-apis-io: https://apis.io/providers/cvent-registration/
+  x-github: https://github.com/api-evangelist/cvent-registration
+- name: Cvent Social Tables
+  url: https://artifacts.apis.io/cvent-social-tables/apis.yml
+  x-apis-io: https://apis.io/providers/cvent-social-tables/
+  x-github: https://github.com/api-evangelist/cvent-social-tables
+- name: cVidya Networks
+  url: https://artifacts.apis.io/cvidya-networks/apis.yml
+  x-apis-io: https://apis.io/providers/cvidya-networks/
+  x-github: https://github.com/api-evangelist/cvidya-networks
+- name: CVRx
+  url: https://artifacts.apis.io/cvrx/apis.yml
+  x-apis-io: https://apis.io/providers/cvrx/
+  x-github: https://github.com/api-evangelist/cvrx
+- name: CVS Health
+  url: https://artifacts.apis.io/cvs-health/apis.yml
+  x-apis-io: https://apis.io/providers/cvs-health/
+  x-github: https://github.com/api-evangelist/cvs-health
+- name: Citizen Weather Observer Program
+  url: https://artifacts.apis.io/cwop/apis.yml
+  x-apis-io: https://apis.io/providers/cwop/
+  x-github: https://github.com/api-evangelist/cwop
+- name: CWSI
+  url: https://artifacts.apis.io/cwsi/apis.yml
+  x-apis-io: https://apis.io/providers/cwsi/
+  x-github: https://github.com/api-evangelist/cwsi
+- name: CWSI
+  url: https://artifacts.apis.io/cwsi-net/apis.yml
+  x-apis-io: https://apis.io/providers/cwsi-net/
+  x-github: https://github.com/api-evangelist/cwsi-net
+- name: Cx2
+  url: https://artifacts.apis.io/cx2/apis.yml
+  x-apis-io: https://apis.io/providers/cx2/
+  x-github: https://github.com/api-evangelist/cx2
+- name: Cxindex
+  url: https://artifacts.apis.io/cxindex/apis.yml
+  x-apis-io: https://apis.io/providers/cxindex/
+  x-github: https://github.com/api-evangelist/cxindex

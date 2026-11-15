@@ -1,8 +1,8 @@
 name: API Evangelist Network — providers J
-description: 'The 407 API providers in the API Evangelist network whose repository name begins with J. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
+description: 'The 405 API providers in the API Evangelist network whose repository name begins with J. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
 url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/j.yml
 created: '2026-02-27'
-modified: '2026-11-06'
+modified: '2026-11-15'
 specificationVersion: '0.23'
 tags:
 - Directory
@@ -129,10 +129,6 @@ include:
   url: https://artifacts.apis.io/jakarta-ee/apis.yml
   x-apis-io: https://apis.io/providers/jakarta-ee/
   x-github: https://github.com/api-evangelist/jakarta-ee
-- name: Jake Gaylor
-  url: https://artifacts.apis.io/jakegaylor-com/apis.yml
-  x-apis-io: https://apis.io/providers/jakegaylor-com/
-  x-github: https://github.com/api-evangelist/jakegaylor-com
 - name: Jala
   url: https://artifacts.apis.io/jala/apis.yml
   x-apis-io: https://apis.io/providers/jala/
@@ -789,10 +785,6 @@ include:
   url: https://artifacts.apis.io/jmock/apis.yml
   x-apis-io: https://apis.io/providers/jmock/
   x-github: https://github.com/api-evangelist/jmock
-- name: jmrp-io
-  url: https://artifacts.apis.io/jmrp-io/apis.yml
-  x-apis-io: https://apis.io/providers/jmrp-io/
-  x-github: https://github.com/api-evangelist/jmrp-io
 - name: Jnana Therapeutics
   url: https://artifacts.apis.io/jnana-therapeutics/apis.yml
   x-apis-io: https://apis.io/providers/jnana-therapeutics/

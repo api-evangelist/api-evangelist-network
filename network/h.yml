@@ -1,8 +1,8 @@
 name: API Evangelist Network — providers H
-description: 'The 1042 API providers in the API Evangelist network whose repository name begins with H. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
+description: 'The 1045 API providers in the API Evangelist network whose repository name begins with H. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
 url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/h.yml
 created: '2026-02-27'
-modified: '2026-11-06'
+modified: '2026-11-15'
 specificationVersion: '0.23'
 tags:
 - Directory
@@ -325,6 +325,10 @@ include:
   url: https://artifacts.apis.io/hamama/apis.yml
   x-apis-io: https://apis.io/providers/hamama/
   x-github: https://github.com/api-evangelist/hamama
+- name: Freie und Hansestadt Hamburg
+  url: https://artifacts.apis.io/hamburg-de/apis.yml
+  x-apis-io: https://apis.io/providers/hamburg-de/
+  x-github: https://github.com/api-evangelist/hamburg-de
 - name: HAMi
   url: https://artifacts.apis.io/hami/apis.yml
   x-apis-io: https://apis.io/providers/hami/
@@ -1325,10 +1329,6 @@ include:
   url: https://artifacts.apis.io/heeler/apis.yml
   x-apis-io: https://apis.io/providers/heeler/
   x-github: https://github.com/api-evangelist/heeler
-- name: heera-it
-  url: https://artifacts.apis.io/heera-it/apis.yml
-  x-apis-io: https://apis.io/providers/heera-it/
-  x-github: https://github.com/api-evangelist/heera-it
 - name: Heex Technologies
   url: https://artifacts.apis.io/heex-technologies/apis.yml
   x-apis-io: https://apis.io/providers/heex-technologies/
@@ -1953,6 +1953,10 @@ include:
   url: https://artifacts.apis.io/hifi/apis.yml
   x-apis-io: https://apis.io/providers/hifi/
   x-github: https://github.com/api-evangelist/hifi
+- name: Frank
+  url: https://artifacts.apis.io/hifrank-ai/apis.yml
+  x-apis-io: https://apis.io/providers/hifrank-ai/
+  x-github: https://github.com/api-evangelist/hifrank-ai
 - name: HiGear
   url: https://artifacts.apis.io/higear/apis.yml
   x-apis-io: https://apis.io/providers/higear/
@@ -2813,6 +2817,10 @@ include:
   url: https://artifacts.apis.io/hooklogic-criteo/apis.yml
   x-apis-io: https://apis.io/providers/hooklogic-criteo/
   x-github: https://github.com/api-evangelist/hooklogic-criteo
+- name: Hookpie
+  url: https://artifacts.apis.io/hookpie/apis.yml
+  x-apis-io: https://apis.io/providers/hookpie/
+  x-github: https://github.com/api-evangelist/hookpie
 - name: HookPulse
   url: https://artifacts.apis.io/hookpulse/apis.yml
   x-apis-io: https://apis.io/providers/hookpulse/
@@ -2849,6 +2857,10 @@ include:
   url: https://artifacts.apis.io/hoplite/apis.yml
   x-apis-io: https://apis.io/providers/hoplite/
   x-github: https://github.com/api-evangelist/hoplite
+- name: Hoplix
+  url: https://artifacts.apis.io/hoplix-com/apis.yml
+  x-apis-io: https://apis.io/providers/hoplix-com/
+  x-github: https://github.com/api-evangelist/hoplix-com
 - name: Hopper
   url: https://artifacts.apis.io/hopper-com/apis.yml
   x-apis-io: https://apis.io/providers/hopper-com/
@@ -3101,6 +3113,10 @@ include:
   url: https://artifacts.apis.io/hourone/apis.yml
   x-apis-io: https://apis.io/providers/hourone/
   x-github: https://github.com/api-evangelist/hourone
+- name: HourSquare
+  url: https://artifacts.apis.io/hoursquare/apis.yml
+  x-apis-io: https://apis.io/providers/hoursquare/
+  x-github: https://github.com/api-evangelist/hoursquare
 - name: Hourtick
   url: https://artifacts.apis.io/hourtick/apis.yml
   x-apis-io: https://apis.io/providers/hourtick/
@@ -3593,10 +3609,6 @@ include:
   url: https://artifacts.apis.io/humana/apis.yml
   x-apis-io: https://apis.io/providers/humana/
   x-github: https://github.com/api-evangelist/humana
-- name: Virix Labs
-  url: https://artifacts.apis.io/humanbrowser-cloud/apis.yml
-  x-apis-io: https://apis.io/providers/humanbrowser-cloud/
-  x-github: https://github.com/api-evangelist/humanbrowser-cloud
 - name: HumanCo
   url: https://artifacts.apis.io/humanco/apis.yml
   x-apis-io: https://apis.io/providers/humanco/

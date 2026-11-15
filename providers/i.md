@@ -1,6 +1,6 @@
 # API Evangelist Network — providers I
 
-1,031 providers whose repository name begins with **I**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/i.yml](../network/i.yml).
+1,037 providers whose repository name begins with **I**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/i.yml](../network/i.yml).
 
 [← All providers](../README.md)
 
@@ -188,6 +188,7 @@
 | IKF Finance | [ikffinance](https://apis.io/providers/ikffinance/) | [ikffinance](https://github.com/api-evangelist/ikffinance) |
 | IKI AI | [iki-ai](https://apis.io/providers/iki-ai/) | [iki-ai](https://github.com/api-evangelist/iki-ai) |
 | Ikigai | [ikigai](https://apis.io/providers/ikigai/) | [ikigai](https://github.com/api-evangelist/ikigai) |
+| iLang | [ilang-ai](https://apis.io/providers/ilang-ai/) | [ilang-ai](https://github.com/api-evangelist/ilang-ai) |
 | ilert | [ilert](https://apis.io/providers/ilert/) | [ilert](https://github.com/api-evangelist/ilert) |
 | ILiAD Biotechnologies | [iliad-biotechnologies](https://apis.io/providers/iliad-biotechnologies/) | [iliad-biotechnologies](https://github.com/api-evangelist/iliad-biotechnologies) |
 | ilik | [ilik](https://apis.io/providers/ilik/) | [ilik](https://github.com/api-evangelist/ilik) |
@@ -212,6 +213,7 @@
 | Image API | [image-api](https://apis.io/providers/image-api/) | [image-api](https://github.com/api-evangelist/image-api) |
 | Image-Charts | [image-charts](https://apis.io/providers/image-charts/) | [image-charts](https://github.com/api-evangelist/image-charts) |
 | Image Upload | [image-upload](https://apis.io/providers/image-upload/) | [image-upload](https://github.com/api-evangelist/image-upload) |
+| Image3D | [image3d-io](https://apis.io/providers/image3d-io/) | [image3d-io](https://github.com/api-evangelist/image3d-io) |
 | ImageKit | [imagekit](https://apis.io/providers/imagekit/) | [imagekit](https://github.com/api-evangelist/imagekit) |
 | Imagen | [imagen](https://apis.io/providers/imagen/) | [imagen](https://github.com/api-evangelist/imagen) |
 | ImageTyperz | [imagetyperz](https://apis.io/providers/imagetyperz/) | [imagetyperz](https://github.com/api-evangelist/imagetyperz) |
@@ -244,6 +246,7 @@
 | Imgflip | [imgflip](https://apis.io/providers/imgflip/) | [imgflip](https://github.com/api-evangelist/imgflip) |
 | Imgix | [imgix](https://apis.io/providers/imgix/) | [imgix](https://github.com/api-evangelist/imgix) |
 | Imgur | [imgur](https://apis.io/providers/imgur/) | [imgur](https://github.com/api-evangelist/imgur) |
+| IMGW-PIB | [imgw-pl](https://apis.io/providers/imgw-pl/) | [imgw-pl](https://github.com/api-evangelist/imgw-pl) |
 | iMile | [imile](https://apis.io/providers/imile/) | [imile](https://github.com/api-evangelist/imile) |
 | iMin | [imin](https://apis.io/providers/imin/) | [imin](https://github.com/api-evangelist/imin) |
 | Immersa | [immersa](https://apis.io/providers/immersa/) | [immersa](https://github.com/api-evangelist/immersa) |
@@ -466,6 +469,7 @@
 | Infracost | [infracost](https://apis.io/providers/infracost/) | [infracost](https://github.com/api-evangelist/infracost) |
 | Inframappa, Inc. | [inframappa-inc](https://apis.io/providers/inframappa-inc/) | [inframappa-inc](https://github.com/api-evangelist/inframappa-inc) |
 | Infra.Market | [inframarket](https://apis.io/providers/inframarket/) | [inframarket](https://github.com/api-evangelist/inframarket) |
+| InfraNest | [infranest](https://apis.io/providers/infranest/) | [infranest](https://github.com/api-evangelist/infranest) |
 | infranode-dev | [infranode-dev](https://apis.io/providers/infranode-dev/) | [infranode-dev](https://github.com/api-evangelist/infranode-dev) |
 | Infraspeak | [infraspeak](https://apis.io/providers/infraspeak/) | [infraspeak](https://github.com/api-evangelist/infraspeak) |
 | InfStones | [infstones](https://apis.io/providers/infstones/) | [infstones](https://github.com/api-evangelist/infstones) |
@@ -879,6 +883,7 @@
 | IPLocate (formerly GeoIPs) | [iplocate](https://apis.io/providers/iplocate/) | [iplocate](https://github.com/api-evangelist/iplocate) |
 | IPLogs | [iplogs](https://apis.io/providers/iplogs/) | [iplogs](https://github.com/api-evangelist/iplogs) |
 | IPMA | [ipma](https://apis.io/providers/ipma/) | [ipma](https://github.com/api-evangelist/ipma) |
+| IPO Radar | [ipogmpradar-com](https://apis.io/providers/ipogmpradar-com/) | [ipogmpradar-com](https://github.com/api-evangelist/ipogmpradar-com) |
 | IPQualityScore | [ipqualityscore](https://apis.io/providers/ipqualityscore/) | [ipqualityscore](https://github.com/api-evangelist/ipqualityscore) |
 | IPregistry | [ipregistry](https://apis.io/providers/ipregistry/) | [ipregistry](https://github.com/api-evangelist/ipregistry) |
 | iPrice | [iprice](https://apis.io/providers/iprice/) | [iprice](https://github.com/api-evangelist/iprice) |
@@ -912,6 +917,7 @@
 | Iris Software | [irissoftware](https://apis.io/providers/irissoftware/) | [irissoftware](https://github.com/api-evangelist/irissoftware) |
 | IrisVR | [irisvr](https://apis.io/providers/irisvr/) | [irisvr](https://github.com/api-evangelist/irisvr) |
 | IRL | [irl](https://apis.io/providers/irl/) | [irl](https://github.com/api-evangelist/irl) |
+| Irmu | [irmu-com](https://apis.io/providers/irmu-com/) | [irmu-com](https://github.com/api-evangelist/irmu-com) |
 | iRobot | [irobot](https://apis.io/providers/irobot/) | [irobot](https://github.com/api-evangelist/irobot) |
 | Iron Fish | [iron-fish](https://apis.io/providers/iron-fish/) | [iron-fish](https://github.com/api-evangelist/iron-fish) |
 | Iron Mountain | [iron-mountain](https://apis.io/providers/iron-mountain/) | [iron-mountain](https://github.com/api-evangelist/iron-mountain) |

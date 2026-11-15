@@ -131,6 +131,7 @@
 | MailerLite | [mailerlite](https://apis.io/providers/mailerlite/) | [mailerlite](https://github.com/api-evangelist/mailerlite) |
 | Maileroo | [maileroo](https://apis.io/providers/maileroo/) | [maileroo](https://github.com/api-evangelist/maileroo) |
 | MailerSend | [mailersend](https://apis.io/providers/mailersend/) | [mailersend](https://github.com/api-evangelist/mailersend) |
+| mailfloss | [mailfloss](https://apis.io/providers/mailfloss/) | [mailfloss](https://github.com/api-evangelist/mailfloss) |
 | Mailgun | [mailgun](https://apis.io/providers/mailgun/) | [mailgun](https://github.com/api-evangelist/mailgun) |
 | Mailhaven | [mailhaven](https://apis.io/providers/mailhaven/) | [mailhaven](https://github.com/api-evangelist/mailhaven) |
 | Mailjet | [mailjet](https://apis.io/providers/mailjet/) | [mailjet](https://github.com/api-evangelist/mailjet) |
@@ -583,6 +584,7 @@
 | Mechanical Orchard | [mechanical-orchard](https://apis.io/providers/mechanical-orchard/) | [mechanical-orchard](https://github.com/api-evangelist/mechanical-orchard) |
 | Mechanize | [mechanize-work](https://apis.io/providers/mechanize-work/) | [mechanize-work](https://github.com/api-evangelist/mechanize-work) |
 | Mecka AI | [mecka-ai](https://apis.io/providers/mecka-ai/) | [mecka-ai](https://github.com/api-evangelist/mecka-ai) |
+| MedReveal | [med-reveal-com](https://apis.io/providers/med-reveal-com/) | [med-reveal-com](https://github.com/api-evangelist/med-reveal-com) |
 | Medable | [medable](https://apis.io/providers/medable/) | [medable](https://github.com/api-evangelist/medable) |
 | MedAdvisor | [medadvisor](https://apis.io/providers/medadvisor/) | [medadvisor](https://github.com/api-evangelist/medadvisor) |
 | MedAll | [medall](https://apis.io/providers/medall/) | [medall](https://github.com/api-evangelist/medall) |
@@ -666,7 +668,6 @@
 | Meeno | [meeno](https://apis.io/providers/meeno/) | [meeno](https://github.com/api-evangelist/meeno) |
 | Meero | [meero](https://apis.io/providers/meero/) | [meero](https://github.com/api-evangelist/meero) |
 | Meesho | [meesho](https://apis.io/providers/meesho/) | [meesho](https://github.com/api-evangelist/meesho) |
-| Google Meet | [meet](https://apis.io/providers/meet/) | [meet](https://github.com/api-evangelist/meet) |
 | Cedric | [meet-cedric](https://apis.io/providers/meet-cedric/) | [meet-cedric](https://github.com/api-evangelist/meet-cedric) |
 | Meet Cute | [meet-cute](https://apis.io/providers/meet-cute/) | [meet-cute](https://github.com/api-evangelist/meet-cute) |
 | MeetAndy AI | [meetandy-ai](https://apis.io/providers/meetandy-ai/) | [meetandy-ai](https://github.com/api-evangelist/meetandy-ai) |
@@ -1033,7 +1034,6 @@
 | Microsoft Azure Private Link | [microsoft-azure-private-link](https://apis.io/providers/microsoft-azure-private-link/) | [microsoft-azure-private-link](https://github.com/api-evangelist/microsoft-azure-private-link) |
 | Azure Queue Storage | [microsoft-azure-queue-storage](https://apis.io/providers/microsoft-azure-queue-storage/) | [microsoft-azure-queue-storage](https://github.com/api-evangelist/microsoft-azure-queue-storage) |
 | Azure Repos | [microsoft-azure-repo](https://apis.io/providers/microsoft-azure-repo/) | [microsoft-azure-repo](https://github.com/api-evangelist/microsoft-azure-repo) |
-| Azure AI Search | [microsoft-azure-search](https://apis.io/providers/microsoft-azure-search/) | [microsoft-azure-search](https://github.com/api-evangelist/microsoft-azure-search) |
 | Azure Service Fabric | [microsoft-azure-service-fabric](https://apis.io/providers/microsoft-azure-service-fabric/) | [microsoft-azure-service-fabric](https://github.com/api-evangelist/microsoft-azure-service-fabric) |
 | Azure SignalR Service | [microsoft-azure-signalr](https://apis.io/providers/microsoft-azure-signalr/) | [microsoft-azure-signalr](https://github.com/api-evangelist/microsoft-azure-signalr) |
 | Azure Site Recovery | [microsoft-azure-site-recovery](https://apis.io/providers/microsoft-azure-site-recovery/) | [microsoft-azure-site-recovery](https://github.com/api-evangelist/microsoft-azure-site-recovery) |
@@ -1044,7 +1044,6 @@
 | Azure Virtual Machines | [microsoft-azure-virtual-machines](https://apis.io/providers/microsoft-azure-virtual-machines/) | [microsoft-azure-virtual-machines](https://github.com/api-evangelist/microsoft-azure-virtual-machines) |
 | Azure Web PubSub | [microsoft-azure-web-pubsub](https://apis.io/providers/microsoft-azure-web-pubsub/) | [microsoft-azure-web-pubsub](https://github.com/api-evangelist/microsoft-azure-web-pubsub) |
 | Microsoft Bicep | [microsoft-bicep](https://apis.io/providers/microsoft-bicep/) | [microsoft-bicep](https://github.com/api-evangelist/microsoft-bicep) |
-| Microsoft Bing | [microsoft-bing](https://apis.io/providers/microsoft-bing/) | [microsoft-bing](https://github.com/api-evangelist/microsoft-bing) |
 | Microsoft Bookings | [microsoft-bookings](https://apis.io/providers/microsoft-bookings/) | [microsoft-bookings](https://github.com/api-evangelist/microsoft-bookings) |
 | Microsoft Bot Framework | [microsoft-bot-framework](https://apis.io/providers/microsoft-bot-framework/) | [microsoft-bot-framework](https://github.com/api-evangelist/microsoft-bot-framework) |
 | Microsoft Clarity | [microsoft-clarity](https://apis.io/providers/microsoft-clarity/) | [microsoft-clarity](https://github.com/api-evangelist/microsoft-clarity) |
@@ -1398,7 +1397,7 @@
 | Model N | [model-n](https://apis.io/providers/model-n/) | [model-n](https://github.com/api-evangelist/model-n) |
 | Modelbit | [modelbit](https://apis.io/providers/modelbit/) | [modelbit](https://github.com/api-evangelist/modelbit) |
 | Modelcode | [modelcode](https://apis.io/providers/modelcode/) | [modelcode](https://github.com/api-evangelist/modelcode) |
-| modelcostcomparison-com | [modelcostcomparison-com](https://apis.io/providers/modelcostcomparison-com/) | [modelcostcomparison-com](https://github.com/api-evangelist/modelcostcomparison-com) |
+| Model Cost Comparison | [modelcostcomparison-com](https://apis.io/providers/modelcostcomparison-com/) | [modelcostcomparison-com](https://github.com/api-evangelist/modelcostcomparison-com) |
 | Modelfusion | [modelfusion](https://apis.io/providers/modelfusion/) | [modelfusion](https://github.com/api-evangelist/modelfusion) |
 | ModelOp | [modelop](https://apis.io/providers/modelop/) | [modelop](https://github.com/api-evangelist/modelop) |
 | ModelPartFinder Error Codes | [modelpartfinder-error-codes](https://apis.io/providers/modelpartfinder-error-codes/) | [modelpartfinder-error-codes](https://github.com/api-evangelist/modelpartfinder-error-codes) |
@@ -1759,6 +1758,7 @@
 | mudko-com | [mudko-com](https://apis.io/providers/mudko-com/) | [mudko-com](https://github.com/api-evangelist/mudko-com) |
 | Mudrex | [mudrex](https://apis.io/providers/mudrex/) | [mudrex](https://github.com/api-evangelist/mudrex) |
 | Mueller Industries | [mueller-industries](https://apis.io/providers/mueller-industries/) | [mueller-industries](https://github.com/api-evangelist/mueller-industries) |
+| Landeshauptstadt München | [muenchen-de](https://apis.io/providers/muenchen-de/) | [muenchen-de](https://github.com/api-evangelist/muenchen-de) |
 | muffintech | [muffintech](https://apis.io/providers/muffintech/) | [muffintech](https://github.com/api-evangelist/muffintech) |
 | Muir Test Systems | [muir-test-systems](https://apis.io/providers/muir-test-systems/) | [muir-test-systems](https://github.com/api-evangelist/muir-test-systems) |
 | MUJ428 | [muj428-com](https://apis.io/providers/muj428-com/) | [muj428-com](https://github.com/api-evangelist/muj428-com) |

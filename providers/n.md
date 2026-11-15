@@ -1,6 +1,6 @@
 # API Evangelist Network — providers N
 
-1,031 providers whose repository name begins with **N**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/n.yml](../network/n.yml).
+1,032 providers whose repository name begins with **N**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/n.yml](../network/n.yml).
 
 [← All providers](../README.md)
 
@@ -189,6 +189,7 @@
 | Nautilus Biotechnology | [nautilus-biotechnology](https://apis.io/providers/nautilus-biotechnology/) | [nautilus-biotechnology](https://github.com/api-evangelist/nautilus-biotechnology) |
 | Nauto | [nauto](https://apis.io/providers/nauto/) | [nauto](https://github.com/api-evangelist/nauto) |
 | Nav | [nav](https://apis.io/providers/nav/) | [nav](https://github.com/api-evangelist/nav) |
+| NAV (Norwegian Labour and Welfare Administration) | [nav-no](https://apis.io/providers/nav-no/) | [nav-no](https://github.com/api-evangelist/nav-no) |
 | Nava Benefits | [nava-benefits](https://apis.io/providers/nava-benefits/) | [nava-benefits](https://github.com/api-evangelist/nava-benefits) |
 | Nava Therapeutics | [nava-therapeutics](https://apis.io/providers/nava-therapeutics/) | [nava-therapeutics](https://github.com/api-evangelist/nava-therapeutics) |
 | navabi | [navabi](https://apis.io/providers/navabi/) | [navabi](https://github.com/api-evangelist/navabi) |
@@ -306,7 +307,6 @@
 | Nervonik | [nervonik](https://apis.io/providers/nervonik/) | [nervonik](https://github.com/api-evangelist/nervonik) |
 | Nervos | [nervos](https://apis.io/providers/nervos/) | [nervos](https://github.com/api-evangelist/nervos) |
 | National Energy System Operator (NESO) | [neso](https://apis.io/providers/neso/) | [neso](https://github.com/api-evangelist/neso) |
-| Nest | [nest](https://apis.io/providers/nest/) | [nest](https://github.com/api-evangelist/nest) |
 | Nestcoin | [nestcoin](https://apis.io/providers/nestcoin/) | [nestcoin](https://github.com/api-evangelist/nestcoin) |
 | nested | [nested](https://apis.io/providers/nested/) | [nested](https://github.com/api-evangelist/nested) |
 | Nested Therapeutics | [nested-therapeutics](https://apis.io/providers/nested-therapeutics/) | [nested-therapeutics](https://github.com/api-evangelist/nested-therapeutics) |
@@ -490,7 +490,6 @@
 | Nexite | [nexite](https://apis.io/providers/nexite/) | [nexite](https://github.com/api-evangelist/nexite) |
 | Nexiu | [nexiu](https://apis.io/providers/nexiu/) | [nexiu](https://github.com/api-evangelist/nexiu) |
 | Nexla | [nexla](https://apis.io/providers/nexla/) | [nexla](https://github.com/api-evangelist/nexla) |
-| nexlab-net | [nexlab-net](https://apis.io/providers/nexlab-net/) | [nexlab-net](https://github.com/api-evangelist/nexlab-net) |
 | NexLP | [nexlp](https://apis.io/providers/nexlp/) | [nexlp](https://github.com/api-evangelist/nexlp) |
 | NexMind | [nexmind](https://apis.io/providers/nexmind/) | [nexmind](https://github.com/api-evangelist/nexmind) |
 | Nexo | [nexo](https://apis.io/providers/nexo/) | [nexo](https://github.com/api-evangelist/nexo) |
@@ -545,6 +544,7 @@
 | Nfon | [nfon](https://apis.io/providers/nfon/) | [nfon](https://github.com/api-evangelist/nfon) |
 | NFTgo | [nftgo](https://apis.io/providers/nftgo/) | [nftgo](https://github.com/api-evangelist/nftgo) |
 | NG.Cash | [ngcash](https://apis.io/providers/ngcash/) | [ngcash](https://github.com/api-evangelist/ngcash) |
+| National Geographic Institute (NGI) | [ngi-be](https://apis.io/providers/ngi-be/) | [ngi-be](https://github.com/api-evangelist/ngi-be) |
 | NGINX | [nginx](https://apis.io/providers/nginx/) | [nginx](https://github.com/api-evangelist/nginx) |
 | Nginx Proxy Manager | [nginx-proxy-manager](https://apis.io/providers/nginx-proxy-manager/) | [nginx-proxy-manager](https://github.com/api-evangelist/nginx-proxy-manager) |
 | NGINX Service Mesh | [nginx-service-mesh](https://apis.io/providers/nginx-service-mesh/) | [nginx-service-mesh](https://github.com/api-evangelist/nginx-service-mesh) |
@@ -565,7 +565,7 @@
 | nib | [nib-health-funds](https://apis.io/providers/nib-health-funds/) | [nib-health-funds](https://github.com/api-evangelist/nib-health-funds) |
 | Nibbles PBC | [nibbles-pbc](https://apis.io/providers/nibbles-pbc/) | [nibbles-pbc](https://github.com/api-evangelist/nibbles-pbc) |
 | Nibras.com | [nibrascom](https://apis.io/providers/nibrascom/) | [nibrascom](https://github.com/api-evangelist/nibrascom) |
-| NICE | [nice](https://apis.io/providers/nice/) | [nice](https://github.com/api-evangelist/nice) |
+| NiCE | [nice](https://apis.io/providers/nice/) | [nice](https://github.com/api-evangelist/nice) |
 | NiceJob | [nicejob](https://apis.io/providers/nicejob/) | [nicejob](https://github.com/api-evangelist/nicejob) |
 | Nicereply | [nicereply](https://apis.io/providers/nicereply/) | [nicereply](https://github.com/api-evangelist/nicereply) |
 | niche | [niche](https://apis.io/providers/niche/) | [niche](https://github.com/api-evangelist/niche) |
@@ -648,6 +648,7 @@
 | Nixpacks | [nixpacks](https://apis.io/providers/nixpacks/) | [nixpacks](https://github.com/api-evangelist/nixpacks) |
 | Nixtla | [nixtla](https://apis.io/providers/nixtla/) | [nixtla](https://github.com/api-evangelist/nixtla) |
 | Niyo Solutions | [niyo-solutions](https://apis.io/providers/niyo-solutions/) | [niyo-solutions](https://github.com/api-evangelist/niyo-solutions) |
+| Nizlo | [nizlo-com](https://apis.io/providers/nizlo-com/) | [nizlo-com](https://github.com/api-evangelist/nizlo-com) |
 | Nizthewiz | [nizthewiz](https://apis.io/providers/nizthewiz/) | [nizthewiz](https://github.com/api-evangelist/nizthewiz) |
 | Nlight | [nlight](https://apis.io/providers/nlight/) | [nlight](https://github.com/api-evangelist/nlight) |
 | NLP Cloud | [nlp-cloud](https://apis.io/providers/nlp-cloud/) | [nlp-cloud](https://github.com/api-evangelist/nlp-cloud) |
@@ -677,6 +678,7 @@
 | Nocion Therapeutics | [nocion](https://apis.io/providers/nocion/) | [nocion](https://github.com/api-evangelist/nocion) |
 | NocoDB | [nocodb](https://apis.io/providers/nocodb/) | [nocodb](https://github.com/api-evangelist/nocodb) |
 | NoCodeAPI Pte. Ltd. | [nocodeapi](https://apis.io/providers/nocodeapi/) | [nocodeapi](https://github.com/api-evangelist/nocodeapi) |
+| NoctHost | [nocthost](https://apis.io/providers/nocthost/) | [nocthost](https://github.com/api-evangelist/nocthost) |
 | Noctrix Health | [noctrix-health](https://apis.io/providers/noctrix-health/) | [noctrix-health](https://github.com/api-evangelist/noctrix-health) |
 | Noctua | [noctua](https://apis.io/providers/noctua/) | [noctua](https://github.com/api-evangelist/noctua) |
 | NOD Games | [nod-games](https://apis.io/providers/nod-games/) | [nod-games](https://github.com/api-evangelist/nod-games) |
@@ -809,7 +811,7 @@
 | Notco | [notco](https://apis.io/providers/notco/) | [notco](https://github.com/api-evangelist/notco) |
 | Not Diamond | [notdiamond](https://apis.io/providers/notdiamond/) | [notdiamond](https://github.com/api-evangelist/notdiamond) |
 | Noteable | [noteable](https://apis.io/providers/noteable/) | [noteable](https://github.com/api-evangelist/noteable) |
-| Google NotebookLM | [notebooklm](https://apis.io/providers/notebooklm/) | [notebooklm](https://github.com/api-evangelist/notebooklm) |
+| Gemini Notebook (NotebookLM) | [notebooklm](https://apis.io/providers/notebooklm/) | [notebooklm](https://github.com/api-evangelist/notebooklm) |
 | NotePass | [notepass](https://apis.io/providers/notepass/) | [notepass](https://github.com/api-evangelist/notepass) |
 | Noteworth | [noteworth](https://apis.io/providers/noteworth/) | [noteworth](https://github.com/api-evangelist/noteworth) |
 | Noteworthy AI | [noteworthy-ai](https://apis.io/providers/noteworthy-ai/) | [noteworthy-ai](https://github.com/api-evangelist/noteworthy-ai) |
@@ -886,7 +888,6 @@
 | NPco | [npco](https://apis.io/providers/npco/) | [npco](https://github.com/api-evangelist/npco) |
 | nPlan | [nplan](https://apis.io/providers/nplan/) | [nplan](https://github.com/api-evangelist/nplan) |
 | npm | [npm](https://apis.io/providers/npm/) | [npm](https://github.com/api-evangelist/npm) |
-| npm Registry | [npm-registry](https://apis.io/providers/npm-registry/) | [npm-registry](https://github.com/api-evangelist/npm-registry) |
 | NPP Australia (AP+) | [npp-australia](https://apis.io/providers/npp-australia/) | [npp-australia](https://github.com/api-evangelist/npp-australia) |
 | NPPES | [nppes](https://apis.io/providers/nppes/) | [nppes](https://github.com/api-evangelist/nppes) |
 | NPR | [npr](https://apis.io/providers/npr/) | [npr](https://github.com/api-evangelist/npr) |
@@ -1013,7 +1014,7 @@
 | NV5 Geospatial, Inc. | [nv5-geospatial-inc](https://apis.io/providers/nv5-geospatial-inc/) | [nv5-geospatial-inc](https://github.com/api-evangelist/nv5-geospatial-inc) |
 | NVD | [nvd](https://apis.io/providers/nvd/) | [nvd](https://github.com/api-evangelist/nvd) |
 | NVE | [nve](https://apis.io/providers/nve/) | [nve](https://github.com/api-evangelist/nve) |
-| NVIDIA | [nvidia](https://apis.io/providers/nvidia/) | [nvidia](https://github.com/api-evangelist/nvidia) |
+| Nvidia | [nvidia](https://apis.io/providers/nvidia/) | [nvidia](https://github.com/api-evangelist/nvidia) |
 | NVIDIA NIM | [nvidia-nim](https://apis.io/providers/nvidia-nim/) | [nvidia-nim](https://github.com/api-evangelist/nvidia-nim) |
 | NVision Imaging Technologies | [nvision-imaging-technologies](https://apis.io/providers/nvision-imaging-technologies/) | [nvision-imaging-technologies](https://github.com/api-evangelist/nvision-imaging-technologies) |
 | Nvp | [nvp](https://apis.io/providers/nvp/) | [nvp](https://github.com/api-evangelist/nvp) |

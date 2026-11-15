@@ -1,6 +1,6 @@
 # API Evangelist Network — providers U
 
-672 providers whose repository name begins with **U**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/u.yml](../network/u.yml).
+675 providers whose repository name begins with **U**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/u.yml](../network/u.yml).
 
 [← All providers](../README.md)
 
@@ -72,6 +72,7 @@
 | Udio | [udio](https://apis.io/providers/udio/) | [udio](https://github.com/api-evangelist/udio) |
 | Uebermaps | [uebermaps](https://apis.io/providers/uebermaps/) | [uebermaps](https://github.com/api-evangelist/uebermaps) |
 | UEFA | [uefa](https://apis.io/providers/uefa/) | [uefa](https://github.com/api-evangelist/uefa) |
+| SWIFT UETR Tracker | [uetr-ai](https://apis.io/providers/uetr-ai/) | [uetr-ai](https://github.com/api-evangelist/uetr-ai) |
 | ugc-fans | [ugc-fans](https://apis.io/providers/ugc-fans/) | [ugc-fans](https://github.com/api-evangelist/ugc-fans) |
 | UGC Agent | [ugcagent](https://apis.io/providers/ugcagent/) | [ugcagent](https://github.com/api-evangelist/ugcagent) |
 | UGI | [ugi](https://apis.io/providers/ugi/) | [ugi](https://github.com/api-evangelist/ugi) |
@@ -432,7 +433,7 @@
 | UpLead | [uplead](https://apis.io/providers/uplead/) | [uplead](https://github.com/api-evangelist/uplead) |
 | Uplevel | [uplevelteam](https://apis.io/providers/uplevelteam/) | [uplevelteam](https://github.com/api-evangelist/uplevelteam) |
 | Uplight | [uplight](https://apis.io/providers/uplight/) | [uplight](https://github.com/api-evangelist/uplight) |
-| uplika-com | [uplika-com](https://apis.io/providers/uplika-com/) | [uplika-com](https://github.com/api-evangelist/uplika-com) |
+| Uplika | [uplika-com](https://apis.io/providers/uplika-com/) | [uplika-com](https://github.com/api-evangelist/uplika-com) |
 | Uplimit | [uplimit](https://apis.io/providers/uplimit/) | [uplimit](https://github.com/api-evangelist/uplimit) |
 | UplinkSwitch | [uplinkswitch](https://apis.io/providers/uplinkswitch/) | [uplinkswitch](https://github.com/api-evangelist/uplinkswitch) |
 | Uplisting | [uplisting](https://apis.io/providers/uplisting/) | [uplisting](https://github.com/api-evangelist/uplisting) |
@@ -574,6 +575,7 @@
 | USAA | [usaa](https://apis.io/providers/usaa/) | [usaa](https://github.com/api-evangelist/usaa) |
 | USACallerLookup | [usacallerlookup](https://apis.io/providers/usacallerlookup/) | [usacallerlookup](https://github.com/api-evangelist/usacallerlookup) |
 | USADATA | [usadata-inc](https://apis.io/providers/usadata-inc/) | [usadata-inc](https://github.com/api-evangelist/usadata-inc) |
+| UsageRail | [usagerail](https://apis.io/providers/usagerail/) | [usagerail](https://github.com/api-evangelist/usagerail) |
 | USAID | [usaid](https://apis.io/providers/usaid/) | [usaid](https://github.com/api-evangelist/usaid) |
 | USAJOBS | [usajobs](https://apis.io/providers/usajobs/) | [usajobs](https://github.com/api-evangelist/usajobs) |
 | USAspending.gov | [usaspending](https://apis.io/providers/usaspending/) | [usaspending](https://github.com/api-evangelist/usaspending) |
@@ -627,11 +629,13 @@
 | UserTesting | [usertesting](https://apis.io/providers/usertesting/) | [usertesting](https://github.com/api-evangelist/usertesting) |
 | UserVoice | [uservoice](https://apis.io/providers/uservoice/) | [uservoice](https://github.com/api-evangelist/uservoice) |
 | usesignal-dev | [usesignal-dev](https://apis.io/providers/usesignal-dev/) | [usesignal-dev](https://github.com/api-evangelist/usesignal-dev) |
-| usestring-ai | [usestring-ai](https://apis.io/providers/usestring-ai/) | [usestring-ai](https://github.com/api-evangelist/usestring-ai) |
+| String | [usestring-ai](https://apis.io/providers/usestring-ai/) | [usestring-ai](https://github.com/api-evangelist/usestring-ai) |
 | Tapestry | [usetapestry-dev](https://apis.io/providers/usetapestry-dev/) | [usetapestry-dev](https://github.com/api-evangelist/usetapestry-dev) |
 | Tola | [usetola-com](https://apis.io/providers/usetola-com/) | [usetola-com](https://github.com/api-evangelist/usetola-com) |
 | Shoppr | [usetrace-com](https://apis.io/providers/usetrace-com/) | [usetrace-com](https://github.com/api-evangelist/usetrace-com) |
 | usetyton-com | [usetyton-com](https://apis.io/providers/usetyton-com/) | [usetyton-com](https://github.com/api-evangelist/usetyton-com) |
+| Warble | [usewarble](https://apis.io/providers/usewarble/) | [usewarble](https://github.com/api-evangelist/usewarble) |
+| Wheelhouse | [usewheelhouse](https://apis.io/providers/usewheelhouse/) | [usewheelhouse](https://github.com/api-evangelist/usewheelhouse) |
 | usewire-io | [usewire-io](https://apis.io/providers/usewire-io/) | [usewire-io](https://github.com/api-evangelist/usewire-io) |
 | usewrit-app | [usewrit-app](https://apis.io/providers/usewrit-app/) | [usewrit-app](https://github.com/api-evangelist/usewrit-app) |
 | USG | [usg](https://apis.io/providers/usg/) | [usg](https://github.com/api-evangelist/usg) |
@@ -657,7 +661,6 @@
 | Utility Global | [utility-global](https://apis.io/providers/utility-global/) | [utility-global](https://github.com/api-evangelist/utility-global) |
 | UtilityAPI | [utilityapi](https://apis.io/providers/utilityapi/) | [utilityapi](https://github.com/api-evangelist/utilityapi) |
 | utilityhouse-xyz | [utilityhouse-xyz](https://apis.io/providers/utilityhouse-xyz/) | [utilityhouse-xyz](https://github.com/api-evangelist/utilityhouse-xyz) |
-| Utkarsh Gupta | [utkarshgupta-org](https://apis.io/providers/utkarshgupta-org/) | [utkarshgupta-org](https://github.com/api-evangelist/utkarshgupta-org) |
 | Universiti Teknologi Malaysia | [utm](https://apis.io/providers/utm/) | [utm](https://github.com/api-evangelist/utm) |
 | Utopia | [utopia](https://apis.io/providers/utopia/) | [utopia](https://github.com/api-evangelist/utopia) |
 | Utopia Labs | [utopia-labs](https://apis.io/providers/utopia-labs/) | [utopia-labs](https://github.com/api-evangelist/utopia-labs) |

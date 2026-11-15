@@ -1,8 +1,8 @@
 name: API Evangelist Network — providers O
-description: 'The 1148 API providers in the API Evangelist network whose repository name begins with O. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
+description: 'The 1151 API providers in the API Evangelist network whose repository name begins with O. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
 url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/o.yml
 created: '2026-02-27'
-modified: '2026-11-06'
+modified: '2026-11-15'
 specificationVersion: '0.23'
 tags:
 - Directory
@@ -789,10 +789,6 @@ include:
   url: https://artifacts.apis.io/okhttp/apis.yml
   x-apis-io: https://apis.io/providers/okhttp/
   x-github: https://github.com/api-evangelist/okhttp
-- name: oklahomaautoquotes-com
-  url: https://artifacts.apis.io/oklahomaautoquotes-com/apis.yml
-  x-apis-io: https://apis.io/providers/oklahomaautoquotes-com/
-  x-github: https://github.com/api-evangelist/oklahomaautoquotes-com
 - name: Oklo
   url: https://artifacts.apis.io/oklo/apis.yml
   x-apis-io: https://apis.io/providers/oklo/
@@ -997,10 +993,6 @@ include:
   url: https://artifacts.apis.io/omie-es/apis.yml
   x-apis-io: https://apis.io/providers/omie-es/
   x-github: https://github.com/api-evangelist/omie-es
-- name: omikuji-dev
-  url: https://artifacts.apis.io/omikuji-dev/apis.yml
-  x-apis-io: https://apis.io/providers/omikuji-dev/
-  x-github: https://github.com/api-evangelist/omikuji-dev
 - name: omio
   url: https://artifacts.apis.io/omio/apis.yml
   x-apis-io: https://apis.io/providers/omio/
@@ -1089,6 +1081,10 @@ include:
   url: https://artifacts.apis.io/omnipresent/apis.yml
   x-apis-io: https://apis.io/providers/omnipresent/
   x-github: https://github.com/api-evangelist/omnipresent
+- name: OmniRx
+  url: https://artifacts.apis.io/omnirx-org/apis.yml
+  x-apis-io: https://apis.io/providers/omnirx-org/
+  x-github: https://github.com/api-evangelist/omnirx-org
 - name: Omniscient
   url: https://artifacts.apis.io/omniscient/apis.yml
   x-apis-io: https://apis.io/providers/omniscient/
@@ -1573,6 +1569,10 @@ include:
   url: https://artifacts.apis.io/onlia/apis.yml
   x-apis-io: https://apis.io/providers/onlia/
   x-github: https://github.com/api-evangelist/onlia
+- name: Date Calculator MCP
+  url: https://artifacts.apis.io/onlinealarmkur-com/apis.yml
+  x-apis-io: https://apis.io/providers/onlinealarmkur-com/
+  x-github: https://github.com/api-evangelist/onlinealarmkur-com
 - name: onlinecompiler-io
   url: https://artifacts.apis.io/onlinecompiler-io/apis.yml
   x-apis-io: https://apis.io/providers/onlinecompiler-io/
@@ -1889,7 +1889,7 @@ include:
   url: https://artifacts.apis.io/open-government-australia/apis.yml
   x-apis-io: https://apis.io/providers/open-government-australia/
   x-github: https://github.com/api-evangelist/open-government-australia
-- name: 'Open Government, Austria'
+- name: data.gv.at (Open Government Data Austria)
   url: https://artifacts.apis.io/open-government-austria/apis.yml
   x-apis-io: https://apis.io/providers/open-government-austria/
   x-github: https://github.com/api-evangelist/open-government-austria
@@ -1905,7 +1905,7 @@ include:
   url: https://artifacts.apis.io/open-government-cyprus/apis.yml
   x-apis-io: https://apis.io/providers/open-government-cyprus/
   x-github: https://github.com/api-evangelist/open-government-cyprus
-- name: 'Open Government, Czech Republic'
+- name: 'Národní katalog otevřených dat (data.gov.cz)'
   url: https://artifacts.apis.io/open-government-czech-republic/apis.yml
   x-apis-io: https://apis.io/providers/open-government-czech-republic/
   x-github: https://github.com/api-evangelist/open-government-czech-republic
@@ -1949,7 +1949,7 @@ include:
   url: https://artifacts.apis.io/open-government-korea/apis.yml
   x-apis-io: https://apis.io/providers/open-government-korea/
   x-github: https://github.com/api-evangelist/open-government-korea
-- name: 'Open Government, Lithuania'
+- name: Lithuanian Open Data Portal (data.gov.lt)
   url: https://artifacts.apis.io/open-government-lithuania/apis.yml
   x-apis-io: https://apis.io/providers/open-government-lithuania/
   x-github: https://github.com/api-evangelist/open-government-lithuania
@@ -1989,7 +1989,7 @@ include:
   url: https://artifacts.apis.io/open-government-poland/apis.yml
   x-apis-io: https://apis.io/providers/open-government-poland/
   x-github: https://github.com/api-evangelist/open-government-poland
-- name: 'Open Government, Portugal'
+- name: dados.gov.pt
   url: https://artifacts.apis.io/open-government-portugal/apis.yml
   x-apis-io: https://apis.io/providers/open-government-portugal/
   x-github: https://github.com/api-evangelist/open-government-portugal
@@ -2197,6 +2197,10 @@ include:
   url: https://artifacts.apis.io/openalex/apis.yml
   x-apis-io: https://apis.io/providers/openalex/
   x-github: https://github.com/api-evangelist/openalex
+- name: OpenAny
+  url: https://artifacts.apis.io/openany/apis.yml
+  x-apis-io: https://apis.io/providers/openany/
+  x-github: https://github.com/api-evangelist/openany
 - name: OpenAPI
   url: https://artifacts.apis.io/openapi/apis.yml
   x-apis-io: https://apis.io/providers/openapi/
@@ -3837,6 +3841,10 @@ include:
   url: https://artifacts.apis.io/oslash/apis.yml
   x-apis-io: https://apis.io/providers/oslash/
   x-github: https://github.com/api-evangelist/oslash
+- name: Oslo kommune
+  url: https://artifacts.apis.io/oslo-kommune-no/apis.yml
+  x-apis-io: https://apis.io/providers/oslo-kommune-no/
+  x-github: https://github.com/api-evangelist/oslo-kommune-no
 - name: Osly
   url: https://artifacts.apis.io/osly/apis.yml
   x-apis-io: https://apis.io/providers/osly/
@@ -4101,6 +4109,10 @@ include:
   url: https://artifacts.apis.io/outcomes4me/apis.yml
   x-apis-io: https://apis.io/providers/outcomes4me/
   x-github: https://github.com/api-evangelist/outcomes4me
+- name: Outcrawl
+  url: https://artifacts.apis.io/outcrawl/apis.yml
+  x-apis-io: https://apis.io/providers/outcrawl/
+  x-github: https://github.com/api-evangelist/outcrawl
 - name: Outdoor Voices
   url: https://artifacts.apis.io/outdoor-voices/apis.yml
   x-apis-io: https://apis.io/providers/outdoor-voices/

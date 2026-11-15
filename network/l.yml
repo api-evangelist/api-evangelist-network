@@ -1,8 +1,8 @@
 name: API Evangelist Network — providers L
-description: 'The 1167 API providers in the API Evangelist network whose repository name begins with L. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
+description: 'The 1169 API providers in the API Evangelist network whose repository name begins with L. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
 url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/l.yml
 created: '2026-02-27'
-modified: '2026-11-06'
+modified: '2026-11-15'
 specificationVersion: '0.23'
 tags:
 - Directory
@@ -249,6 +249,10 @@ include:
   url: https://artifacts.apis.io/laminar/apis.yml
   x-apis-io: https://apis.io/providers/laminar/
   x-github: https://github.com/api-evangelist/laminar
+- name: LaminarForge API
+  url: https://artifacts.apis.io/laminarforge-dev/apis.yml
+  x-apis-io: https://apis.io/providers/laminarforge-dev/
+  x-github: https://github.com/api-evangelist/laminarforge-dev
 - name: Lamini
   url: https://artifacts.apis.io/lamini/apis.yml
   x-apis-io: https://apis.io/providers/lamini/
@@ -2697,10 +2701,6 @@ include:
   url: https://artifacts.apis.io/linx-security/apis.yml
   x-apis-io: https://apis.io/providers/linx-security/
   x-github: https://github.com/api-evangelist/linx-security
-- name: linxule-com
-  url: https://artifacts.apis.io/linxule-com/apis.yml
-  x-apis-io: https://apis.io/providers/linxule-com/
-  x-github: https://github.com/api-evangelist/linxule-com
 - name: Linxup
   url: https://artifacts.apis.io/linxup/apis.yml
   x-apis-io: https://apis.io/providers/linxup/
@@ -2785,6 +2785,10 @@ include:
   url: https://artifacts.apis.io/liquity/apis.yml
   x-apis-io: https://apis.io/providers/liquity/
   x-github: https://github.com/api-evangelist/liquity
+- name: Liqwall
+  url: https://artifacts.apis.io/liqwall-com/apis.yml
+  x-apis-io: https://apis.io/providers/liqwall-com/
+  x-github: https://github.com/api-evangelist/liqwall-com
 - name: LiRiS
   url: https://artifacts.apis.io/liris/apis.yml
   x-apis-io: https://apis.io/providers/liris/
@@ -3045,7 +3049,7 @@ include:
   url: https://artifacts.apis.io/livermore-club/apis.yml
   x-apis-io: https://apis.io/providers/livermore-club/
   x-github: https://github.com/api-evangelist/livermore-club
-- name: livescoremcp-com
+- name: LiveScore MCP
   url: https://artifacts.apis.io/livescoremcp-com/apis.yml
   x-apis-io: https://apis.io/providers/livescoremcp-com/
   x-github: https://github.com/api-evangelist/livescoremcp-com
@@ -3345,6 +3349,10 @@ include:
   url: https://artifacts.apis.io/localgov-jp/apis.yml
   x-apis-io: https://apis.io/providers/localgov-jp/
   x-github: https://github.com/api-evangelist/localgov-jp
+- name: LocalImpact
+  url: https://artifacts.apis.io/localimpact/apis.yml
+  x-apis-io: https://apis.io/providers/localimpact/
+  x-github: https://github.com/api-evangelist/localimpact
 - name: LocalOn
   url: https://artifacts.apis.io/localon/apis.yml
   x-apis-io: https://apis.io/providers/localon/
@@ -3565,7 +3573,7 @@ include:
   url: https://artifacts.apis.io/logmeal/apis.yml
   x-apis-io: https://apis.io/providers/logmeal/
   x-github: https://github.com/api-evangelist/logmeal
-- name: logo-dev
+- name: Logo.dev
   url: https://artifacts.apis.io/logo-dev/apis.yml
   x-apis-io: https://apis.io/providers/logo-dev/
   x-github: https://github.com/api-evangelist/logo-dev
@@ -3761,10 +3769,6 @@ include:
   url: https://artifacts.apis.io/loopholetape-com/apis.yml
   x-apis-io: https://apis.io/providers/loopholetape-com/
   x-github: https://github.com/api-evangelist/loopholetape-com
-- name: loopingagent-com
-  url: https://artifacts.apis.io/loopingagent-com/apis.yml
-  x-apis-io: https://apis.io/providers/loopingagent-com/
-  x-github: https://github.com/api-evangelist/loopingagent-com
 - name: Loopio
   url: https://artifacts.apis.io/loopio/apis.yml
   x-apis-io: https://apis.io/providers/loopio/
@@ -4489,6 +4493,10 @@ include:
   url: https://artifacts.apis.io/lura-project/apis.yml
   x-apis-io: https://apis.io/providers/lura-project/
   x-github: https://github.com/api-evangelist/lura-project
+- name: LurkAPI
+  url: https://artifacts.apis.io/lurkapi/apis.yml
+  x-apis-io: https://apis.io/providers/lurkapi/
+  x-github: https://github.com/api-evangelist/lurkapi
 - name: Lusha
   url: https://artifacts.apis.io/lusha/apis.yml
   x-apis-io: https://apis.io/providers/lusha/

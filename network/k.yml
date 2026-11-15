@@ -1,8 +1,8 @@
 name: API Evangelist Network — providers K
-description: 'The 760 API providers in the API Evangelist network whose repository name begins with K. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
+description: 'The 762 API providers in the API Evangelist network whose repository name begins with K. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
 url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/k.yml
 created: '2026-02-27'
-modified: '2026-11-06'
+modified: '2026-11-15'
 specificationVersion: '0.23'
 tags:
 - Directory
@@ -729,6 +729,10 @@ include:
   url: https://artifacts.apis.io/kbb/apis.yml
   x-apis-io: https://apis.io/providers/kbb/
   x-github: https://github.com/api-evangelist/kbb
+- name: Crossroads Bank for Enterprises (CBE / KBO / BCE)
+  url: https://artifacts.apis.io/kbopub-economie-fgov-be/apis.yml
+  x-apis-io: https://apis.io/providers/kbopub-economie-fgov-be/
+  x-github: https://github.com/api-evangelist/kbopub-economie-fgov-be
 - name: kboxglobal
   url: https://artifacts.apis.io/kboxglobal/apis.yml
   x-apis-io: https://apis.io/providers/kboxglobal/
@@ -1405,10 +1409,6 @@ include:
   url: https://artifacts.apis.io/kinder-morgan/apis.yml
   x-apis-io: https://apis.io/providers/kinder-morgan/
   x-github: https://github.com/api-evangelist/kinder-morgan
-- name: kindoflost-com
-  url: https://artifacts.apis.io/kindoflost-com/apis.yml
-  x-apis-io: https://apis.io/providers/kindoflost-com/
-  x-github: https://github.com/api-evangelist/kindoflost-com
 - name: Kindor
   url: https://artifacts.apis.io/kindor/apis.yml
   x-apis-io: https://apis.io/providers/kindor/
@@ -1753,6 +1753,10 @@ include:
   url: https://artifacts.apis.io/kizik/apis.yml
   x-apis-io: https://apis.io/providers/kizik/
   x-github: https://github.com/api-evangelist/kizik
+- name: 'Københavns Kommune'
+  url: https://artifacts.apis.io/kk-dk/apis.yml
+  x-apis-io: https://apis.io/providers/kk-dk/
+  x-github: https://github.com/api-evangelist/kk-dk
 - name: KKBOX
   url: https://artifacts.apis.io/kkbox/apis.yml
   x-apis-io: https://apis.io/providers/kkbox/
@@ -1765,6 +1769,10 @@ include:
   url: https://artifacts.apis.io/kktv5/apis.yml
   x-apis-io: https://apis.io/providers/kktv5/
   x-github: https://github.com/api-evangelist/kktv5
+- name: Kommunernes Landsforening
+  url: https://artifacts.apis.io/kl-dk/apis.yml
+  x-apis-io: https://apis.io/providers/kl-dk/
+  x-github: https://github.com/api-evangelist/kl-dk
 - name: KLA
   url: https://artifacts.apis.io/kla-tencor/apis.yml
   x-apis-io: https://apis.io/providers/kla-tencor/
@@ -2713,11 +2721,6 @@ include:
   url: https://artifacts.apis.io/kuaishou/apis.yml
   x-apis-io: https://apis.io/providers/kuaishou/
   x-github: https://github.com/api-evangelist/kuaishou
-- name: Kubb Studio
-  url: https://artifacts.apis.io/kubb-studio/apis.yml
-  x-apis-io: https://apis.io/providers/kubb-studio/
-  x-github: https://github.com/api-evangelist/kubb-studio
-  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Kubeark
   url: https://artifacts.apis.io/kubeark/apis.yml
   x-apis-io: https://apis.io/providers/kubeark/
@@ -2950,6 +2953,10 @@ include:
   url: https://artifacts.apis.io/kvdb/apis.yml
   x-apis-io: https://apis.io/providers/kvdb/
   x-github: https://github.com/api-evangelist/kvdb
+- name: Kamer van Koophandel (KVK)
+  url: https://artifacts.apis.io/kvk-nl/apis.yml
+  x-apis-io: https://apis.io/providers/kvk-nl/
+  x-github: https://github.com/api-evangelist/kvk-nl
 - name: Kwest
   url: https://artifacts.apis.io/kwest/apis.yml
   x-apis-io: https://apis.io/providers/kwest/

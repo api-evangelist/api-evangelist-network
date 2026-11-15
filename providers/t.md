@@ -1,6 +1,6 @@
 # API Evangelist Network — providers T
 
-1,867 providers whose repository name begins with **T**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/t.yml](../network/t.yml).
+1,871 providers whose repository name begins with **T**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/t.yml](../network/t.yml).
 
 [← All providers](../README.md)
 
@@ -122,6 +122,7 @@
 | Talkspace | [talkspace](https://apis.io/providers/talkspace/) | [talkspace](https://github.com/api-evangelist/talkspace) |
 | Talkwalker | [talkwalker](https://apis.io/providers/talkwalker/) | [talkwalker](https://github.com/api-evangelist/talkwalker) |
 | Tallan | [tallan](https://apis.io/providers/tallan/) | [tallan](https://github.com/api-evangelist/tallan) |
+| Tallinn | [tallinn-ee](https://apis.io/providers/tallinn-ee/) | [tallinn-ee](https://github.com/api-evangelist/tallinn-ee) |
 | Tally | [tally](https://apis.io/providers/tally/) | [tally](https://github.com/api-evangelist/tally) |
 | Tally Labs | [tally-labs](https://apis.io/providers/tally-labs/) | [tally-labs](https://github.com/api-evangelist/tally-labs) |
 | Tallyfy | [tallyfy](https://apis.io/providers/tallyfy/) | [tallyfy](https://github.com/api-evangelist/tallyfy) |
@@ -1123,6 +1124,7 @@
 | Tomorrow Health | [tomorrow-health](https://apis.io/providers/tomorrow-health/) | [tomorrow-health](https://github.com/api-evangelist/tomorrow-health) |
 | Tomorrow.io | [tomorrow-io](https://apis.io/providers/tomorrow-io/) | [tomorrow-io](https://github.com/api-evangelist/tomorrow-io) |
 | tomorrowlives-com | [tomorrowlives-com](https://apis.io/providers/tomorrowlives-com/) | [tomorrowlives-com](https://github.com/api-evangelist/tomorrowlives-com) |
+| Tom's Shit Jokes | [tomsshitjokes-com](https://apis.io/providers/tomsshitjokes-com/) | [tomsshitjokes-com](https://github.com/api-evangelist/tomsshitjokes-com) |
 | TomTom | [tomtom](https://apis.io/providers/tomtom/) | [tomtom](https://github.com/api-evangelist/tomtom) |
 | Tonal | [tonal](https://apis.io/providers/tonal/) | [tonal](https://github.com/api-evangelist/tonal) |
 | Tone | [tone](https://apis.io/providers/tone/) | [tone](https://github.com/api-evangelist/tone) |
@@ -1339,6 +1341,7 @@
 | Transcend Medical | [transcend-medical](https://apis.io/providers/transcend-medical/) | [transcend-medical](https://github.com/api-evangelist/transcend-medical) |
 | SQL Projekt | [transconnect-online](https://apis.io/providers/transconnect-online/) | [transconnect-online](https://github.com/api-evangelist/transconnect-online) |
 | transcript-yt-com | [transcript-yt-com](https://apis.io/providers/transcript-yt-com/) | [transcript-yt-com](https://github.com/api-evangelist/transcript-yt-com) |
+| transcript1-com | [transcript1-com](https://apis.io/providers/transcript1-com/) | [transcript1-com](https://github.com/api-evangelist/transcript1-com) |
 | transcriptapi-com | [transcriptapi-com](https://apis.io/providers/transcriptapi-com/) | [transcriptapi-com](https://github.com/api-evangelist/transcriptapi-com) |
 | transcriptapi-io | [transcriptapi-io](https://apis.io/providers/transcriptapi-io/) | [transcriptapi-io](https://github.com/api-evangelist/transcriptapi-io) |
 | TranscriptFetch | [transcriptfetch](https://apis.io/providers/transcriptfetch/) | [transcriptfetch](https://github.com/api-evangelist/transcriptfetch) |
@@ -1357,6 +1360,7 @@
 | Transit | [transit](https://apis.io/providers/transit/) | [transit](https://github.com/api-evangelist/transit) |
 | Transition Bio | [transition-bio](https://apis.io/providers/transition-bio/) | [transition-bio](https://github.com/api-evangelist/transition-bio) |
 | TransitLand | [transitland](https://apis.io/providers/transitland/) | [transitland](https://github.com/api-evangelist/transitland) |
+| TranslateManga | [translatemanga](https://apis.io/providers/translatemanga/) | [translatemanga](https://github.com/api-evangelist/translatemanga) |
 | TranslateMyImage | [translatemyimage](https://apis.io/providers/translatemyimage/) | [translatemyimage](https://github.com/api-evangelist/translatemyimage) |
 | Translink | [translink-queensland](https://apis.io/providers/translink-queensland/) | [translink-queensland](https://github.com/api-evangelist/translink-queensland) |
 | Transload | [transload](https://apis.io/providers/transload/) | [transload](https://github.com/api-evangelist/transload) |
@@ -1682,7 +1686,6 @@
 | Adeli | [tryadeli-com](https://apis.io/providers/tryadeli-com/) | [tryadeli-com](https://github.com/api-evangelist/tryadeli-com) |
 | Tryadonis | [tryadonis](https://apis.io/providers/tryadonis/) | [tryadonis](https://github.com/api-evangelist/tryadonis) |
 | Asimov | [tryasimov-ai](https://apis.io/providers/tryasimov-ai/) | [tryasimov-ai](https://github.com/api-evangelist/tryasimov-ai) |
-| Bloom | [trybloom](https://apis.io/providers/trybloom/) | [trybloom](https://github.com/api-evangelist/trybloom) |
 | Cardinal | [trycardinal-ai](https://apis.io/providers/trycardinal-ai/) | [trycardinal-ai](https://github.com/api-evangelist/trycardinal-ai) |
 | Driver | [trydriver-com](https://apis.io/providers/trydriver-com/) | [trydriver-com](https://github.com/api-evangelist/trydriver-com) |
 | Gatsby | [trygatsby-com](https://apis.io/providers/trygatsby-com/) | [trygatsby-com](https://github.com/api-evangelist/trygatsby-com) |
@@ -1820,6 +1823,7 @@
 | Twenty-First Century Fox | [twenty-first-century-fox](https://apis.io/providers/twenty-first-century-fox/) | [twenty-first-century-fox](https://github.com/api-evangelist/twenty-first-century-fox) |
 | Twenty20 | [twenty20](https://apis.io/providers/twenty20/) | [twenty20](https://github.com/api-evangelist/twenty20) |
 | TwentyCi | [twentyci](https://apis.io/providers/twentyci/) | [twentyci](https://github.com/api-evangelist/twentyci) |
+| twexapi-io | [twexapi-io](https://apis.io/providers/twexapi-io/) | [twexapi-io](https://github.com/api-evangelist/twexapi-io) |
 | Twice | [twice](https://apis.io/providers/twice/) | [twice](https://github.com/api-evangelist/twice) |
 | Twig | [twig](https://apis.io/providers/twig/) | [twig](https://github.com/api-evangelist/twig) |
 | Twilio | [twilio](https://apis.io/providers/twilio/) | [twilio](https://github.com/api-evangelist/twilio) |

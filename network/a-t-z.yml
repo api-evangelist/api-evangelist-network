@@ -1,8 +1,8 @@
 name: API Evangelist Network — providers At-Az
-description: 'The 920 API providers in the API Evangelist network whose repository name begins with At-Az. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
+description: 'The 919 API providers in the API Evangelist network whose repository name begins with At-Az. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
 url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/a-t-z.yml
 created: '2026-02-27'
-modified: '2026-11-06'
+modified: '2026-11-15'
 specificationVersion: '0.23'
 tags:
 - Directory
@@ -785,7 +785,7 @@ include:
   url: https://artifacts.apis.io/attestedmemory-net/apis.yml
   x-apis-io: https://apis.io/providers/attestedmemory-net/
   x-github: https://github.com/api-evangelist/attestedmemory-net
-- name: Attester Dev
+- name: attester-dev
   url: https://artifacts.apis.io/attester-dev/apis.yml
   x-apis-io: https://apis.io/providers/attester-dev/
   x-github: https://github.com/api-evangelist/attester-dev
@@ -2689,6 +2689,10 @@ include:
   url: https://artifacts.apis.io/avina-clean-hydrogen/apis.yml
   x-apis-io: https://apis.io/providers/avina-clean-hydrogen/
   x-github: https://github.com/api-evangelist/avina-clean-hydrogen
+- name: Avinor
+  url: https://artifacts.apis.io/avinor/apis.yml
+  x-apis-io: https://apis.io/providers/avinor/
+  x-github: https://github.com/api-evangelist/avinor
 - name: Aviomindiahousingfinance
   url: https://artifacts.apis.io/aviomindiahousingfinance/apis.yml
   x-apis-io: https://apis.io/providers/aviomindiahousingfinance/
@@ -2809,6 +2813,10 @@ include:
   url: https://artifacts.apis.io/avoindata-fi/apis.yml
   x-apis-io: https://apis.io/providers/avoindata-fi/
   x-github: https://github.com/api-evangelist/avoindata-fi
+- name: PRH Open Data (Finland)
+  url: https://artifacts.apis.io/avoindata-prh-fi/apis.yml
+  x-apis-io: https://apis.io/providers/avoindata-prh-fi/
+  x-github: https://github.com/api-evangelist/avoindata-prh-fi
 - name: Avoma
   url: https://artifacts.apis.io/avoma/apis.yml
   x-apis-io: https://apis.io/providers/avoma/
@@ -2993,10 +3001,6 @@ include:
   url: https://artifacts.apis.io/aws-api-gateway/apis.yml
   x-apis-io: https://apis.io/providers/aws-api-gateway/
   x-github: https://github.com/api-evangelist/aws-api-gateway
-- name: AWS App Mesh
-  url: https://artifacts.apis.io/aws-app-mesh/apis.yml
-  x-apis-io: https://apis.io/providers/aws-app-mesh/
-  x-github: https://github.com/api-evangelist/aws-app-mesh
 - name: AWS App Runner
   url: https://artifacts.apis.io/aws-app-runner/apis.yml
   x-apis-io: https://apis.io/providers/aws-app-runner/
@@ -3045,10 +3049,6 @@ include:
   url: https://artifacts.apis.io/aws-waf/apis.yml
   x-apis-io: https://apis.io/providers/aws-waf/
   x-github: https://github.com/api-evangelist/aws-waf
-- name: AWS X-Ray
-  url: https://artifacts.apis.io/aws-x-ray/apis.yml
-  x-apis-io: https://apis.io/providers/aws-x-ray/
-  x-github: https://github.com/api-evangelist/aws-x-ray
 - name: AWST
   url: https://artifacts.apis.io/awst/apis.yml
   x-apis-io: https://apis.io/providers/awst/
@@ -3121,6 +3121,10 @@ include:
   url: https://artifacts.apis.io/axflow/apis.yml
   x-apis-io: https://apis.io/providers/axflow/
   x-github: https://github.com/api-evangelist/axflow
+- name: Axfood
+  url: https://artifacts.apis.io/axfood/apis.yml
+  x-apis-io: https://apis.io/providers/axfood/
+  x-github: https://github.com/api-evangelist/axfood
 - name: Axiom
   url: https://artifacts.apis.io/axi-om/apis.yml
   x-apis-io: https://apis.io/providers/axi-om/
@@ -3625,7 +3629,7 @@ include:
   url: https://artifacts.apis.io/azure-cosmos-db/apis.yml
   x-apis-io: https://apis.io/providers/azure-cosmos-db/
   x-github: https://github.com/api-evangelist/azure-cosmos-db
-- name: Azure DevOps Health
+- name: Azure Resource Health
   url: https://artifacts.apis.io/azure-devops-health/apis.yml
   x-apis-io: https://apis.io/providers/azure-devops-health/
   x-github: https://github.com/api-evangelist/azure-devops-health
@@ -3641,10 +3645,6 @@ include:
   url: https://artifacts.apis.io/azure-file-storage/apis.yml
   x-apis-io: https://apis.io/providers/azure-file-storage/
   x-github: https://github.com/api-evangelist/azure-file-storage
-- name: Azure Function Apps
-  url: https://artifacts.apis.io/azure-function-apps/apis.yml
-  x-apis-io: https://apis.io/providers/azure-function-apps/
-  x-github: https://github.com/api-evangelist/azure-function-apps
 - name: Microsoft Azure Health Data Services
   url: https://artifacts.apis.io/azure-health/apis.yml
   x-apis-io: https://apis.io/providers/azure-health/
@@ -3661,10 +3661,6 @@ include:
   url: https://artifacts.apis.io/azure-networking-services/apis.yml
   x-apis-io: https://apis.io/providers/azure-networking-services/
   x-github: https://github.com/api-evangelist/azure-networking-services
-- name: Azure Notebooks
-  url: https://artifacts.apis.io/azure-notebooks/apis.yml
-  x-apis-io: https://apis.io/providers/azure-notebooks/
-  x-github: https://github.com/api-evangelist/azure-notebooks
 - name: Azure Service Bus
   url: https://artifacts.apis.io/azure-service-bus/apis.yml
   x-apis-io: https://apis.io/providers/azure-service-bus/

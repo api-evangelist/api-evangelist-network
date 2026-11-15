@@ -1,8 +1,8 @@
 name: API Evangelist Network — providers X
-description: 'The 142 API providers in the API Evangelist network whose repository name begins with X. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
+description: 'The 145 API providers in the API Evangelist network whose repository name begins with X. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
 url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/x.yml
 created: '2026-02-27'
-modified: '2026-11-06'
+modified: '2026-11-15'
 specificationVersion: '0.23'
 tags:
 - Directory
@@ -21,6 +21,10 @@ include:
   url: https://artifacts.apis.io/x-mart/apis.yml
   x-apis-io: https://apis.io/providers/x-mart/
   x-github: https://github.com/api-evangelist/x-mart
+- name: X-Road (NIIS)
+  url: https://artifacts.apis.io/x-road-global/apis.yml
+  x-apis-io: https://apis.io/providers/x-road-global/
+  x-github: https://github.com/api-evangelist/x-road-global
 - name: x-tention
   url: https://artifacts.apis.io/x-tention/apis.yml
   x-apis-io: https://apis.io/providers/x-tention/
@@ -109,6 +113,10 @@ include:
   url: https://artifacts.apis.io/xata/apis.yml
   x-apis-io: https://apis.io/providers/xata/
   x-github: https://github.com/api-evangelist/xata
+- name: XAUConnect
+  url: https://artifacts.apis.io/xauconnect-com/apis.yml
+  x-apis-io: https://apis.io/providers/xauconnect-com/
+  x-github: https://github.com/api-evangelist/xauconnect-com
 - name: xavio-in
   url: https://artifacts.apis.io/xavio-in/apis.yml
   x-apis-io: https://apis.io/providers/xavio-in/
@@ -401,6 +409,10 @@ include:
   url: https://artifacts.apis.io/xoom/apis.yml
   x-apis-io: https://apis.io/providers/xoom/
   x-github: https://github.com/api-evangelist/xoom
+- name: XOOMAR
+  url: https://artifacts.apis.io/xoomar-com/apis.yml
+  x-apis-io: https://apis.io/providers/xoomar-com/
+  x-github: https://github.com/api-evangelist/xoomar-com
 - name: Xoserve
   url: https://artifacts.apis.io/xoserve/apis.yml
   x-apis-io: https://apis.io/providers/xoserve/

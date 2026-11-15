@@ -1,6 +1,6 @@
 # API Evangelist Network — providers L
 
-1,167 providers whose repository name begins with **L**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/l.yml](../network/l.yml).
+1,169 providers whose repository name begins with **L**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/l.yml](../network/l.yml).
 
 [← All providers](../README.md)
 
@@ -66,6 +66,7 @@
 | TestMu AI | [lambdatest](https://apis.io/providers/lambdatest/) | [lambdatest](https://github.com/api-evangelist/lambdatest) |
 | Lamina Labs | [lamina-labs](https://apis.io/providers/lamina-labs/) | [lamina-labs](https://github.com/api-evangelist/lamina-labs) |
 | Laminar | [laminar](https://apis.io/providers/laminar/) | [laminar](https://github.com/api-evangelist/laminar) |
+| LaminarForge API | [laminarforge-dev](https://apis.io/providers/laminarforge-dev/) | [laminarforge-dev](https://github.com/api-evangelist/laminarforge-dev) |
 | Lamini | [lamini](https://apis.io/providers/lamini/) | [lamini](https://github.com/api-evangelist/lamini) |
 | Lampata LTD | [lampata-ltd](https://apis.io/providers/lampata-ltd/) | [lampata-ltd](https://github.com/api-evangelist/lampata-ltd) |
 | Lamudi | [lamudi](https://apis.io/providers/lamudi/) | [lamudi](https://github.com/api-evangelist/lamudi) |
@@ -678,7 +679,6 @@
 | Linux Foundation Europe | [linux-foundation-europe](https://apis.io/providers/linux-foundation-europe/) | [linux-foundation-europe](https://github.com/api-evangelist/linux-foundation-europe) |
 | LinuxBoot | [linuxboot](https://apis.io/providers/linuxboot/) | [linuxboot](https://github.com/api-evangelist/linuxboot) |
 | Linx Security | [linx-security](https://apis.io/providers/linx-security/) | [linx-security](https://github.com/api-evangelist/linx-security) |
-| linxule-com | [linxule-com](https://apis.io/providers/linxule-com/) | [linxule-com](https://github.com/api-evangelist/linxule-com) |
 | Linxup | [linxup](https://apis.io/providers/linxup/) | [linxup](https://github.com/api-evangelist/linxup) |
 | Linzumi | [linzumi](https://apis.io/providers/linzumi/) | [linzumi](https://github.com/api-evangelist/linzumi) |
 | Liontown Ltd | [liontown-resources](https://apis.io/providers/liontown-resources/) | [liontown-resources](https://github.com/api-evangelist/liontown-resources) |
@@ -700,6 +700,7 @@
 | LiquidTrust | [liquidtrust](https://apis.io/providers/liquidtrust/) | [liquidtrust](https://github.com/api-evangelist/liquidtrust) |
 | LIQUILENS PRIVATE LIMITED -- LiquiLens financial research APIs | [liquilens](https://apis.io/providers/liquilens/) | [liquilens](https://github.com/api-evangelist/liquilens) |
 | Liquity | [liquity](https://apis.io/providers/liquity/) | [liquity](https://github.com/api-evangelist/liquity) |
+| Liqwall | [liqwall-com](https://apis.io/providers/liqwall-com/) | [liqwall-com](https://github.com/api-evangelist/liqwall-com) |
 | LiRiS | [liris](https://apis.io/providers/liris/) | [liris](https://github.com/api-evangelist/liris) |
 | Lisan | [lisan](https://apis.io/providers/lisan/) | [lisan](https://github.com/api-evangelist/lisan) |
 | Lish | [lish](https://apis.io/providers/lish/) | [lish](https://github.com/api-evangelist/lish) |
@@ -765,7 +766,7 @@
 | Liveprofile | [liveprofile](https://apis.io/providers/liveprofile/) | [liveprofile](https://github.com/api-evangelist/liveprofile) |
 | LiveRamp | [liveramp](https://apis.io/providers/liveramp/) | [liveramp](https://github.com/api-evangelist/liveramp) |
 | livermore-club | [livermore-club](https://apis.io/providers/livermore-club/) | [livermore-club](https://github.com/api-evangelist/livermore-club) |
-| livescoremcp-com | [livescoremcp-com](https://apis.io/providers/livescoremcp-com/) | [livescoremcp-com](https://github.com/api-evangelist/livescoremcp-com) |
+| LiveScore MCP | [livescoremcp-com](https://apis.io/providers/livescoremcp-com/) | [livescoremcp-com](https://github.com/api-evangelist/livescoremcp-com) |
 | Live Tennis API | [livetennisapi-com](https://apis.io/providers/livetennisapi-com/) | [livetennisapi-com](https://github.com/api-evangelist/livetennisapi-com) |
 | Liveu | [liveu](https://apis.io/providers/liveu/) | [liveu](https://github.com/api-evangelist/liveu) |
 | LiveWire | [livewire](https://apis.io/providers/livewire/) | [livewire](https://github.com/api-evangelist/livewire) |
@@ -840,6 +841,7 @@
 | LocalClarity | [localclarity](https://apis.io/providers/localclarity/) | [localclarity](https://github.com/api-evangelist/localclarity) |
 | Locale | [locale](https://apis.io/providers/locale/) | [locale](https://github.com/api-evangelist/locale) |
 | LocalGov.jp | [localgov-jp](https://apis.io/providers/localgov-jp/) | [localgov-jp](https://github.com/api-evangelist/localgov-jp) |
+| LocalImpact | [localimpact](https://apis.io/providers/localimpact/) | [localimpact](https://github.com/api-evangelist/localimpact) |
 | LocalOn | [localon](https://apis.io/providers/localon/) | [localon](https://github.com/api-evangelist/localon) |
 | localscreenshot | [localscreenshot](https://apis.io/providers/localscreenshot/) | [localscreenshot](https://github.com/api-evangelist/localscreenshot) |
 | LocalStack | [localstack](https://apis.io/providers/localstack/) | [localstack](https://github.com/api-evangelist/localstack) |
@@ -895,7 +897,7 @@
 | Logiwa | [logiwa](https://apis.io/providers/logiwa/) | [logiwa](https://github.com/api-evangelist/logiwa) |
 | Logixboard | [logixboard](https://apis.io/providers/logixboard/) | [logixboard](https://github.com/api-evangelist/logixboard) |
 | LogMeal | [logmeal](https://apis.io/providers/logmeal/) | [logmeal](https://github.com/api-evangelist/logmeal) |
-| logo-dev | [logo-dev](https://apis.io/providers/logo-dev/) | [logo-dev](https://github.com/api-evangelist/logo-dev) |
+| Logo.dev | [logo-dev](https://apis.io/providers/logo-dev/) | [logo-dev](https://github.com/api-evangelist/logo-dev) |
 | logokit-com | [logokit-com](https://apis.io/providers/logokit-com/) | [logokit-com](https://github.com/api-evangelist/logokit-com) |
 | LogRocket | [logrocket](https://apis.io/providers/logrocket/) | [logrocket](https://github.com/api-evangelist/logrocket) |
 | Logs.to | [logs-to](https://apis.io/providers/logs-to/) | [logs-to](https://github.com/api-evangelist/logs-to) |
@@ -944,7 +946,6 @@
 | Loop Returns | [loop-returns](https://apis.io/providers/loop-returns/) | [loop-returns](https://github.com/api-evangelist/loop-returns) |
 | Loopay | [loopay](https://apis.io/providers/loopay/) | [loopay](https://github.com/api-evangelist/loopay) |
 | loopholetape-com | [loopholetape-com](https://apis.io/providers/loopholetape-com/) | [loopholetape-com](https://github.com/api-evangelist/loopholetape-com) |
-| loopingagent-com | [loopingagent-com](https://apis.io/providers/loopingagent-com/) | [loopingagent-com](https://github.com/api-evangelist/loopingagent-com) |
 | Loopio | [loopio](https://apis.io/providers/loopio/) | [loopio](https://github.com/api-evangelist/loopio) |
 | LoopMe | [loopme](https://apis.io/providers/loopme/) | [loopme](https://github.com/api-evangelist/loopme) |
 | LoopNet | [loopnet](https://apis.io/providers/loopnet/) | [loopnet](https://github.com/api-evangelist/loopnet) |
@@ -1126,6 +1127,7 @@
 | Lu Pu Investment (陆浦投资) | [lupuamc](https://apis.io/providers/lupuamc/) | [lupuamc](https://github.com/api-evangelist/lupuamc) |
 | Luqia Technologies | [luqia-technologies](https://apis.io/providers/luqia-technologies/) | [luqia-technologies](https://github.com/api-evangelist/luqia-technologies) |
 | Lura Project | [lura-project](https://apis.io/providers/lura-project/) | [lura-project](https://github.com/api-evangelist/lura-project) |
+| LurkAPI | [lurkapi](https://apis.io/providers/lurkapi/) | [lurkapi](https://github.com/api-evangelist/lurkapi) |
 | Lusha | [lusha](https://apis.io/providers/lusha/) | [lusha](https://github.com/api-evangelist/lusha) |
 | Luther Systems | [luthersystems-com](https://apis.io/providers/luthersystems-com/) | [luthersystems-com](https://github.com/api-evangelist/luthersystems-com) |
 | Lutron (Caseta) | [lutron](https://apis.io/providers/lutron/) | [lutron](https://github.com/api-evangelist/lutron) |

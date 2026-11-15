@@ -1,8 +1,8 @@
 name: API Evangelist Network — providers Q
-description: 'The 295 API providers in the API Evangelist network whose repository name begins with Q. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
+description: 'The 296 API providers in the API Evangelist network whose repository name begins with Q. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
 url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/q.yml
 created: '2026-02-27'
-modified: '2026-11-06'
+modified: '2026-11-15'
 specificationVersion: '0.23'
 tags:
 - Directory
@@ -469,6 +469,10 @@ include:
   url: https://artifacts.apis.io/quadrillion/apis.yml
   x-apis-io: https://apis.io/providers/quadrillion/
   x-github: https://github.com/api-evangelist/quadrillion
+- name: Quady3D AI
+  url: https://artifacts.apis.io/quady3d-com/apis.yml
+  x-apis-io: https://apis.io/providers/quady3d-com/
+  x-github: https://github.com/api-evangelist/quady3d-com
 - name: Quago Technologies
   url: https://artifacts.apis.io/quago-technologies-ltd/apis.yml
   x-apis-io: https://apis.io/providers/quago-technologies-ltd/

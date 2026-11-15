@@ -1,8 +1,8 @@
 name: API Evangelist Network — providers U
-description: 'The 672 API providers in the API Evangelist network whose repository name begins with U. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
+description: 'The 675 API providers in the API Evangelist network whose repository name begins with U. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
 url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/u.yml
 created: '2026-02-27'
-modified: '2026-11-06'
+modified: '2026-11-15'
 specificationVersion: '0.23'
 tags:
 - Directory
@@ -273,6 +273,10 @@ include:
   url: https://artifacts.apis.io/uefa/apis.yml
   x-apis-io: https://apis.io/providers/uefa/
   x-github: https://github.com/api-evangelist/uefa
+- name: SWIFT UETR Tracker
+  url: https://artifacts.apis.io/uetr-ai/apis.yml
+  x-apis-io: https://apis.io/providers/uetr-ai/
+  x-github: https://github.com/api-evangelist/uetr-ai
 - name: ugc-fans
   url: https://artifacts.apis.io/ugc-fans/apis.yml
   x-apis-io: https://apis.io/providers/ugc-fans/
@@ -1713,7 +1717,7 @@ include:
   url: https://artifacts.apis.io/uplight/apis.yml
   x-apis-io: https://apis.io/providers/uplight/
   x-github: https://github.com/api-evangelist/uplight
-- name: uplika-com
+- name: Uplika
   url: https://artifacts.apis.io/uplika-com/apis.yml
   x-apis-io: https://apis.io/providers/uplika-com/
   x-github: https://github.com/api-evangelist/uplika-com
@@ -2281,6 +2285,10 @@ include:
   url: https://artifacts.apis.io/usadata-inc/apis.yml
   x-apis-io: https://apis.io/providers/usadata-inc/
   x-github: https://github.com/api-evangelist/usadata-inc
+- name: UsageRail
+  url: https://artifacts.apis.io/usagerail/apis.yml
+  x-apis-io: https://apis.io/providers/usagerail/
+  x-github: https://github.com/api-evangelist/usagerail
 - name: USAID
   url: https://artifacts.apis.io/usaid/apis.yml
   x-apis-io: https://apis.io/providers/usaid/
@@ -2493,7 +2501,7 @@ include:
   url: https://artifacts.apis.io/usesignal-dev/apis.yml
   x-apis-io: https://apis.io/providers/usesignal-dev/
   x-github: https://github.com/api-evangelist/usesignal-dev
-- name: usestring-ai
+- name: String
   url: https://artifacts.apis.io/usestring-ai/apis.yml
   x-apis-io: https://apis.io/providers/usestring-ai/
   x-github: https://github.com/api-evangelist/usestring-ai
@@ -2513,6 +2521,14 @@ include:
   url: https://artifacts.apis.io/usetyton-com/apis.yml
   x-apis-io: https://apis.io/providers/usetyton-com/
   x-github: https://github.com/api-evangelist/usetyton-com
+- name: Warble
+  url: https://artifacts.apis.io/usewarble/apis.yml
+  x-apis-io: https://apis.io/providers/usewarble/
+  x-github: https://github.com/api-evangelist/usewarble
+- name: Wheelhouse
+  url: https://artifacts.apis.io/usewheelhouse/apis.yml
+  x-apis-io: https://apis.io/providers/usewheelhouse/
+  x-github: https://github.com/api-evangelist/usewheelhouse
 - name: usewire-io
   url: https://artifacts.apis.io/usewire-io/apis.yml
   x-apis-io: https://apis.io/providers/usewire-io/
@@ -2613,10 +2629,6 @@ include:
   url: https://artifacts.apis.io/utilityhouse-xyz/apis.yml
   x-apis-io: https://apis.io/providers/utilityhouse-xyz/
   x-github: https://github.com/api-evangelist/utilityhouse-xyz
-- name: Utkarsh Gupta
-  url: https://artifacts.apis.io/utkarshgupta-org/apis.yml
-  x-apis-io: https://apis.io/providers/utkarshgupta-org/
-  x-github: https://github.com/api-evangelist/utkarshgupta-org
 - name: Universiti Teknologi Malaysia
   url: https://artifacts.apis.io/utm/apis.yml
   x-apis-io: https://apis.io/providers/utm/

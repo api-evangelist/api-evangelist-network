@@ -1,6 +1,6 @@
 # API Evangelist Network — providers H
 
-1,042 providers whose repository name begins with **H**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/h.yml](../network/h.yml).
+1,045 providers whose repository name begins with **H**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/h.yml](../network/h.yml).
 
 [← All providers](../README.md)
 
@@ -85,6 +85,7 @@
 | Halp | [halp](https://apis.io/providers/halp/) | [halp](https://github.com/api-evangelist/halp) |
 | Halter | [halter](https://apis.io/providers/halter/) | [halter](https://github.com/api-evangelist/halter) |
 | HAMAMA | [hamama](https://apis.io/providers/hamama/) | [hamama](https://github.com/api-evangelist/hamama) |
+| Freie und Hansestadt Hamburg | [hamburg-de](https://apis.io/providers/hamburg-de/) | [hamburg-de](https://github.com/api-evangelist/hamburg-de) |
 | HAMi | [hami](https://apis.io/providers/hami/) | [hami](https://github.com/api-evangelist/hami) |
 | Hamilton Lane | [hamilton-lane](https://apis.io/providers/hamilton-lane/) | [hamilton-lane](https://github.com/api-evangelist/hamilton-lane) |
 | Hammerhead | [hammerhead](https://apis.io/providers/hammerhead/) | [hammerhead](https://github.com/api-evangelist/hammerhead) |
@@ -335,7 +336,6 @@
 | HEDNA | [hedna](https://apis.io/providers/hedna/) | [hedna](https://github.com/api-evangelist/hedna) |
 | Hedvig | [hedvig](https://apis.io/providers/hedvig/) | [hedvig](https://github.com/api-evangelist/hedvig) |
 | Heeler | [heeler](https://apis.io/providers/heeler/) | [heeler](https://github.com/api-evangelist/heeler) |
-| heera-it | [heera-it](https://apis.io/providers/heera-it/) | [heera-it](https://github.com/api-evangelist/heera-it) |
 | Heex Technologies | [heex-technologies](https://apis.io/providers/heex-technologies/) | [heex-technologies](https://github.com/api-evangelist/heex-technologies) |
 | Hegic | [hegic](https://apis.io/providers/hegic/) | [hegic](https://github.com/api-evangelist/hegic) |
 | HEICO | [heico](https://apis.io/providers/heico/) | [heico](https://github.com/api-evangelist/heico) |
@@ -492,6 +492,7 @@
 | Hidrate | [hidrate](https://apis.io/providers/hidrate/) | [hidrate](https://github.com/api-evangelist/hidrate) |
 | STRATO HiDrive | [hidrive](https://apis.io/providers/hidrive/) | [hidrive](https://github.com/api-evangelist/hidrive) |
 | Hifi | [hifi](https://apis.io/providers/hifi/) | [hifi](https://github.com/api-evangelist/hifi) |
+| Frank | [hifrank-ai](https://apis.io/providers/hifrank-ai/) | [hifrank-ai](https://github.com/api-evangelist/hifrank-ai) |
 | HiGear | [higear](https://apis.io/providers/higear/) | [higear](https://github.com/api-evangelist/higear) |
 | Higgsfield | [higgsfield](https://apis.io/providers/higgsfield/) | [higgsfield](https://github.com/api-evangelist/higgsfield) |
 | High Alpha | [high-alpha](https://apis.io/providers/high-alpha/) | [high-alpha](https://github.com/api-evangelist/high-alpha) |
@@ -707,6 +708,7 @@
 | Hooker Furniture | [hooker-furniture](https://apis.io/providers/hooker-furniture/) | [hooker-furniture](https://github.com/api-evangelist/hooker-furniture) |
 | hooklayer-dev | [hooklayer-dev](https://apis.io/providers/hooklayer-dev/) | [hooklayer-dev](https://github.com/api-evangelist/hooklayer-dev) |
 | HookLogic (Criteo) | [hooklogic-criteo](https://apis.io/providers/hooklogic-criteo/) | [hooklogic-criteo](https://github.com/api-evangelist/hooklogic-criteo) |
+| Hookpie | [hookpie](https://apis.io/providers/hookpie/) | [hookpie](https://github.com/api-evangelist/hookpie) |
 | HookPulse | [hookpulse](https://apis.io/providers/hookpulse/) | [hookpulse](https://github.com/api-evangelist/hookpulse) |
 | Hooksbase | [hooksbase](https://apis.io/providers/hooksbase/) | [hooksbase](https://github.com/api-evangelist/hooksbase) |
 | Hoop | [hoop](https://apis.io/providers/hoop/) | [hoop](https://github.com/api-evangelist/hoop) |
@@ -716,6 +718,7 @@
 | Hop Aero | [hopaero-com](https://apis.io/providers/hopaero-com/) | [hopaero-com](https://github.com/api-evangelist/hopaero-com) |
 | RingCentral Events | [hopin](https://apis.io/providers/hopin/) | [hopin](https://github.com/api-evangelist/hopin) |
 | Hoplite | [hoplite](https://apis.io/providers/hoplite/) | [hoplite](https://github.com/api-evangelist/hoplite) |
+| Hoplix | [hoplix-com](https://apis.io/providers/hoplix-com/) | [hoplix-com](https://github.com/api-evangelist/hoplix-com) |
 | Hopper | [hopper-com](https://apis.io/providers/hopper-com/) | [hopper-com](https://github.com/api-evangelist/hopper-com) |
 | Hoppscotch | [hoppscotch](https://apis.io/providers/hoppscotch/) | [hoppscotch](https://github.com/api-evangelist/hoppscotch) |
 | Hopscotch | [hopscotch](https://apis.io/providers/hopscotch/) | [hopscotch](https://github.com/api-evangelist/hopscotch) |
@@ -779,6 +782,7 @@
 | Hound Labs | [hound-labs](https://apis.io/providers/hound-labs/) | [hound-labs](https://github.com/api-evangelist/hound-labs) |
 | Hourglass | [hourglass](https://apis.io/providers/hourglass/) | [hourglass](https://github.com/api-evangelist/hourglass) |
 | Hourone | [hourone](https://apis.io/providers/hourone/) | [hourone](https://github.com/api-evangelist/hourone) |
+| HourSquare | [hoursquare](https://apis.io/providers/hoursquare/) | [hoursquare](https://github.com/api-evangelist/hoursquare) |
 | Hourtick | [hourtick](https://apis.io/providers/hourtick/) | [hourtick](https://github.com/api-evangelist/hourtick) |
 | Housable | [housable](https://apis.io/providers/housable/) | [housable](https://github.com/api-evangelist/housable) |
 | House Rx | [house-rx](https://apis.io/providers/house-rx/) | [house-rx](https://github.com/api-evangelist/house-rx) |
@@ -902,7 +906,6 @@
 | Human Longevity | [human-longevity](https://apis.io/providers/human-longevity/) | [human-longevity](https://github.com/api-evangelist/human-longevity) |
 | HUMAN Security | [human-security](https://apis.io/providers/human-security/) | [human-security](https://github.com/api-evangelist/human-security) |
 | Humana | [humana](https://apis.io/providers/humana/) | [humana](https://github.com/api-evangelist/humana) |
-| Virix Labs | [humanbrowser-cloud](https://apis.io/providers/humanbrowser-cloud/) | [humanbrowser-cloud](https://github.com/api-evangelist/humanbrowser-cloud) |
 | HumanCo | [humanco](https://apis.io/providers/humanco/) | [humanco](https://github.com/api-evangelist/humanco) |
 | Humane | [humane](https://apis.io/providers/humane/) | [humane](https://github.com/api-evangelist/humane) |
 | Humane Genomics | [humane-genomics](https://apis.io/providers/humane-genomics/) | [humane-genomics](https://github.com/api-evangelist/humane-genomics) |

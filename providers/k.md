@@ -1,6 +1,6 @@
 # API Evangelist Network — providers K
 
-760 providers whose repository name begins with **K**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/k.yml](../network/k.yml).
+762 providers whose repository name begins with **K**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/k.yml](../network/k.yml).
 
 [← All providers](../README.md)
 
@@ -186,6 +186,7 @@
 | Kazeon | [kazeon](https://apis.io/providers/kazeon/) | [kazeon](https://github.com/api-evangelist/kazeon) |
 | KB Home | [kb-home](https://apis.io/providers/kb-home/) | [kb-home](https://github.com/api-evangelist/kb-home) |
 | Kelley Blue Book | [kbb](https://apis.io/providers/kbb/) | [kbb](https://github.com/api-evangelist/kbb) |
+| Crossroads Bank for Enterprises (CBE / KBO / BCE) | [kbopub-economie-fgov-be](https://apis.io/providers/kbopub-economie-fgov-be/) | [kbopub-economie-fgov-be](https://github.com/api-evangelist/kbopub-economie-fgov-be) |
 | kboxglobal | [kboxglobal](https://apis.io/providers/kboxglobal/) | [kboxglobal](https://github.com/api-evangelist/kboxglobal) |
 | KBR | [kbr](https://apis.io/providers/kbr/) | [kbr](https://github.com/api-evangelist/kbr) |
 | KCL | [kcl](https://apis.io/providers/kcl/) | [kcl](https://github.com/api-evangelist/kcl) |
@@ -355,7 +356,6 @@
 | Kindbody | [kindbody](https://apis.io/providers/kindbody/) | [kindbody](https://github.com/api-evangelist/kindbody) |
 | Kinde | [kinde](https://apis.io/providers/kinde/) | [kinde](https://github.com/api-evangelist/kinde) |
 | Kinder Morgan | [kinder-morgan](https://apis.io/providers/kinder-morgan/) | [kinder-morgan](https://github.com/api-evangelist/kinder-morgan) |
-| kindoflost-com | [kindoflost-com](https://apis.io/providers/kindoflost-com/) | [kindoflost-com](https://github.com/api-evangelist/kindoflost-com) |
 | Kindor | [kindor](https://apis.io/providers/kindor/) | [kindor](https://github.com/api-evangelist/kindor) |
 | Kindred | [kindred](https://apis.io/providers/kindred/) | [kindred](https://github.com/api-evangelist/kindred) |
 | Kindred Ai | [kindred-ai](https://apis.io/providers/kindred-ai/) | [kindred-ai](https://github.com/api-evangelist/kindred-ai) |
@@ -442,9 +442,11 @@
 | Kixeye | [kixeye](https://apis.io/providers/kixeye/) | [kixeye](https://github.com/api-evangelist/kixeye) |
 | Kixie | [kixie](https://apis.io/providers/kixie/) | [kixie](https://github.com/api-evangelist/kixie) |
 | Kizik | [kizik](https://apis.io/providers/kizik/) | [kizik](https://github.com/api-evangelist/kizik) |
+| Københavns Kommune | [kk-dk](https://apis.io/providers/kk-dk/) | [kk-dk](https://github.com/api-evangelist/kk-dk) |
 | KKBOX | [kkbox](https://apis.io/providers/kkbox/) | [kkbox](https://github.com/api-evangelist/kkbox) |
 | KKR | [kkr](https://apis.io/providers/kkr/) | [kkr](https://github.com/api-evangelist/kkr) |
 | KK直播 (KK Live) | [kktv5](https://apis.io/providers/kktv5/) | [kktv5](https://github.com/api-evangelist/kktv5) |
+| Kommunernes Landsforening | [kl-dk](https://apis.io/providers/kl-dk/) | [kl-dk](https://github.com/api-evangelist/kl-dk) |
 | KLA | [kla-tencor](https://apis.io/providers/kla-tencor/) | [kla-tencor](https://github.com/api-evangelist/kla-tencor) |
 | Klaim | [klaim](https://apis.io/providers/klaim/) | [klaim](https://github.com/api-evangelist/klaim) |
 | Klaimee | [klaimee](https://apis.io/providers/klaimee/) | [klaimee](https://github.com/api-evangelist/klaimee) |
@@ -682,7 +684,6 @@
 | Kuaidian Reading | [kuaidian-reading](https://apis.io/providers/kuaidian-reading/) | [kuaidian-reading](https://github.com/api-evangelist/kuaidian-reading) |
 | Kuaikan Comics | [kuaikan-comics](https://apis.io/providers/kuaikan-comics/) | [kuaikan-comics](https://github.com/api-evangelist/kuaikan-comics) |
 | Kuaishou | [kuaishou](https://apis.io/providers/kuaishou/) | [kuaishou](https://github.com/api-evangelist/kuaishou) |
-| Kubb Studio | [kubb-studio](https://apis.io/providers/kubb-studio/) | [kubb-studio](https://github.com/api-evangelist/kubb-studio) |
 | Kubeark | [kubeark](https://apis.io/providers/kubeark/) | [kubeark](https://github.com/api-evangelist/kubeark) |
 | Kubecost | [kubecost](https://apis.io/providers/kubecost/) | [kubecost](https://github.com/api-evangelist/kubecost) |
 | Kubectl | [kubectl](https://apis.io/providers/kubectl/) | [kubectl](https://github.com/api-evangelist/kubectl) |
@@ -741,6 +742,7 @@
 | Kuwo Music | [kuwo](https://apis.io/providers/kuwo/) | [kuwo](https://github.com/api-evangelist/kuwo) |
 | Inside Real Estate (kvCORE / BoldTrail) | [kvcore](https://apis.io/providers/kvcore/) | [kvcore](https://github.com/api-evangelist/kvcore) |
 | KVdb | [kvdb](https://apis.io/providers/kvdb/) | [kvdb](https://github.com/api-evangelist/kvdb) |
+| Kamer van Koophandel (KVK) | [kvk-nl](https://apis.io/providers/kvk-nl/) | [kvk-nl](https://github.com/api-evangelist/kvk-nl) |
 | Kwest | [kwest](https://apis.io/providers/kwest/) | [kwest](https://github.com/api-evangelist/kwest) |
 | kWh Analytics | [kwh-analytics](https://apis.io/providers/kwh-analytics/) | [kwh-analytics](https://github.com/api-evangelist/kwh-analytics) |
 | KWI | [kwi](https://apis.io/providers/kwi/) | [kwi](https://github.com/api-evangelist/kwi) |

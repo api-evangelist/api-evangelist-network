@@ -1,6 +1,6 @@
 # API Evangelist Network — providers J
 
-407 providers whose repository name begins with **J**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/j.yml](../network/j.yml).
+405 providers whose repository name begins with **J**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/j.yml](../network/j.yml).
 
 [← All providers](../README.md)
 
@@ -36,7 +36,6 @@
 | Jaipur Robotics | [jaipur-robotics](https://apis.io/providers/jaipur-robotics/) | [jaipur-robotics](https://github.com/api-evangelist/jaipur-robotics) |
 | JAKA | [jaka](https://apis.io/providers/jaka/) | [jaka](https://github.com/api-evangelist/jaka) |
 | Jakarta EE | [jakarta-ee](https://apis.io/providers/jakarta-ee/) | [jakarta-ee](https://github.com/api-evangelist/jakarta-ee) |
-| Jake Gaylor | [jakegaylor-com](https://apis.io/providers/jakegaylor-com/) | [jakegaylor-com](https://github.com/api-evangelist/jakegaylor-com) |
 | Jala | [jala](https://apis.io/providers/jala/) | [jala](https://github.com/api-evangelist/jala) |
 | Jam | [jam](https://apis.io/providers/jam/) | [jam](https://github.com/api-evangelist/jam) |
 | Jam City | [jam-city](https://apis.io/providers/jam-city/) | [jam-city](https://github.com/api-evangelist/jam-city) |
@@ -201,7 +200,6 @@
 | JMEM | [jmem](https://apis.io/providers/jmem/) | [jmem](https://github.com/api-evangelist/jmem) |
 | Apache JMeter | [jmeter](https://apis.io/providers/jmeter/) | [jmeter](https://github.com/api-evangelist/jmeter) |
 | JMock | [jmock](https://apis.io/providers/jmock/) | [jmock](https://github.com/api-evangelist/jmock) |
-| jmrp-io | [jmrp-io](https://apis.io/providers/jmrp-io/) | [jmrp-io](https://github.com/api-evangelist/jmrp-io) |
 | Jnana Therapeutics | [jnana-therapeutics](https://apis.io/providers/jnana-therapeutics/) | [jnana-therapeutics](https://github.com/api-evangelist/jnana-therapeutics) |
 | Join and Tasker (joaoapps) | [joaoapps-join](https://apis.io/providers/joaoapps-join/) | [joaoapps-join](https://github.com/api-evangelist/joaoapps-join) |
 | Job Corps | [job-corps](https://apis.io/providers/job-corps/) | [job-corps](https://github.com/api-evangelist/job-corps) |

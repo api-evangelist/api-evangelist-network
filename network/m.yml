@@ -2,7 +2,7 @@ name: API Evangelist Network — providers M
 description: 'The 1897 API providers in the API Evangelist network whose repository name begins with M. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
 url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/m.yml
 created: '2026-02-27'
-modified: '2026-11-06'
+modified: '2026-11-15'
 specificationVersion: '0.23'
 tags:
 - Directory
@@ -509,6 +509,10 @@ include:
   url: https://artifacts.apis.io/mailersend/apis.yml
   x-apis-io: https://apis.io/providers/mailersend/
   x-github: https://github.com/api-evangelist/mailersend
+- name: mailfloss
+  url: https://artifacts.apis.io/mailfloss/apis.yml
+  x-apis-io: https://apis.io/providers/mailfloss/
+  x-github: https://github.com/api-evangelist/mailfloss
 - name: Mailgun
   url: https://artifacts.apis.io/mailgun/apis.yml
   x-apis-io: https://apis.io/providers/mailgun/
@@ -2317,6 +2321,10 @@ include:
   url: https://artifacts.apis.io/mecka-ai/apis.yml
   x-apis-io: https://apis.io/providers/mecka-ai/
   x-github: https://github.com/api-evangelist/mecka-ai
+- name: MedReveal
+  url: https://artifacts.apis.io/med-reveal-com/apis.yml
+  x-apis-io: https://apis.io/providers/med-reveal-com/
+  x-github: https://github.com/api-evangelist/med-reveal-com
 - name: Medable
   url: https://artifacts.apis.io/medable/apis.yml
   x-apis-io: https://apis.io/providers/medable/
@@ -2649,10 +2657,6 @@ include:
   url: https://artifacts.apis.io/meesho/apis.yml
   x-apis-io: https://apis.io/providers/meesho/
   x-github: https://github.com/api-evangelist/meesho
-- name: Google Meet
-  url: https://artifacts.apis.io/meet/apis.yml
-  x-apis-io: https://apis.io/providers/meet/
-  x-github: https://github.com/api-evangelist/meet
 - name: Cedric
   url: https://artifacts.apis.io/meet-cedric/apis.yml
   x-apis-io: https://apis.io/providers/meet-cedric/
@@ -4117,10 +4121,6 @@ include:
   url: https://artifacts.apis.io/microsoft-azure-repo/apis.yml
   x-apis-io: https://apis.io/providers/microsoft-azure-repo/
   x-github: https://github.com/api-evangelist/microsoft-azure-repo
-- name: Azure AI Search
-  url: https://artifacts.apis.io/microsoft-azure-search/apis.yml
-  x-apis-io: https://apis.io/providers/microsoft-azure-search/
-  x-github: https://github.com/api-evangelist/microsoft-azure-search
 - name: Azure Service Fabric
   url: https://artifacts.apis.io/microsoft-azure-service-fabric/apis.yml
   x-apis-io: https://apis.io/providers/microsoft-azure-service-fabric/
@@ -4161,10 +4161,6 @@ include:
   url: https://artifacts.apis.io/microsoft-bicep/apis.yml
   x-apis-io: https://apis.io/providers/microsoft-bicep/
   x-github: https://github.com/api-evangelist/microsoft-bicep
-- name: Microsoft Bing
-  url: https://artifacts.apis.io/microsoft-bing/apis.yml
-  x-apis-io: https://apis.io/providers/microsoft-bing/
-  x-github: https://github.com/api-evangelist/microsoft-bing
 - name: Microsoft Bookings
   url: https://artifacts.apis.io/microsoft-bookings/apis.yml
   x-apis-io: https://apis.io/providers/microsoft-bookings/
@@ -5577,7 +5573,7 @@ include:
   url: https://artifacts.apis.io/modelcode/apis.yml
   x-apis-io: https://apis.io/providers/modelcode/
   x-github: https://github.com/api-evangelist/modelcode
-- name: modelcostcomparison-com
+- name: Model Cost Comparison
   url: https://artifacts.apis.io/modelcostcomparison-com/apis.yml
   x-apis-io: https://apis.io/providers/modelcostcomparison-com/
   x-github: https://github.com/api-evangelist/modelcostcomparison-com
@@ -7021,6 +7017,10 @@ include:
   url: https://artifacts.apis.io/mueller-industries/apis.yml
   x-apis-io: https://apis.io/providers/mueller-industries/
   x-github: https://github.com/api-evangelist/mueller-industries
+- name: 'Landeshauptstadt München'
+  url: https://artifacts.apis.io/muenchen-de/apis.yml
+  x-apis-io: https://apis.io/providers/muenchen-de/
+  x-github: https://github.com/api-evangelist/muenchen-de
 - name: muffintech
   url: https://artifacts.apis.io/muffintech/apis.yml
   x-apis-io: https://apis.io/providers/muffintech/

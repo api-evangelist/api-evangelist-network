@@ -1,8 +1,8 @@
 name: API Evangelist Network — providers Sp-Sy
-description: 'The 1225 API providers in the API Evangelist network whose repository name begins with Sp-Sy. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
+description: 'The 1231 API providers in the API Evangelist network whose repository name begins with Sp-Sy. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
 url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/s-p-y.yml
 created: '2026-02-27'
-modified: '2026-11-06'
+modified: '2026-11-15'
 specificationVersion: '0.23'
 tags:
 - Directory
@@ -1481,6 +1481,10 @@ include:
   url: https://artifacts.apis.io/stackyard/apis.yml
   x-apis-io: https://apis.io/providers/stackyard/
   x-github: https://github.com/api-evangelist/stackyard
+- name: Stad Gent
+  url: https://artifacts.apis.io/stad-gent/apis.yml
+  x-apis-io: https://apis.io/providers/stad-gent/
+  x-github: https://github.com/api-evangelist/stad-gent
 - name: Stader Labs
   url: https://artifacts.apis.io/stader-labs/apis.yml
   x-apis-io: https://apis.io/providers/stader-labs/
@@ -1853,10 +1857,22 @@ include:
   url: https://artifacts.apis.io/stat-api-com/apis.yml
   x-apis-io: https://apis.io/providers/stat-api-com/
   x-github: https://github.com/api-evangelist/stat-api-com
+- name: Statistics Finland
+  url: https://artifacts.apis.io/stat-fi/apis.yml
+  x-apis-io: https://apis.io/providers/stat-fi/
+  x-github: https://github.com/api-evangelist/stat-fi
+- name: Statistics Poland (GUS)
+  url: https://artifacts.apis.io/stat-gov-pl/apis.yml
+  x-apis-io: https://apis.io/providers/stat-gov-pl/
+  x-github: https://github.com/api-evangelist/stat-gov-pl
 - name: Statable Stats API
   url: https://artifacts.apis.io/statable-stats-api/apis.yml
   x-apis-io: https://apis.io/providers/statable-stats-api/
   x-github: https://github.com/api-evangelist/statable-stats-api
+- name: Statbel (Belgian statistics)
+  url: https://artifacts.apis.io/statbel-be/apis.yml
+  x-apis-io: https://apis.io/providers/statbel-be/
+  x-github: https://github.com/api-evangelist/statbel-be
 - name: StatCounter
   url: https://artifacts.apis.io/statcounter/apis.yml
   x-apis-io: https://apis.io/providers/statcounter/
@@ -1901,6 +1917,10 @@ include:
   url: https://artifacts.apis.io/statistics-centre-abu-dhabi/apis.yml
   x-apis-io: https://apis.io/providers/statistics-centre-abu-dhabi/
   x-github: https://github.com/api-evangelist/statistics-centre-abu-dhabi
+- name: Statistik Austria
+  url: https://artifacts.apis.io/statistik-at/apis.yml
+  x-apis-io: https://apis.io/providers/statistik-at/
+  x-github: https://github.com/api-evangelist/statistik-at
 - name: StatMuse
   url: https://artifacts.apis.io/statmuse/apis.yml
   x-apis-io: https://apis.io/providers/statmuse/
@@ -3077,10 +3097,6 @@ include:
   url: https://artifacts.apis.io/succinct/apis.yml
   x-apis-io: https://apis.io/providers/succinct/
   x-github: https://github.com/api-evangelist/succinct
-- name: sudhanva-me
-  url: https://artifacts.apis.io/sudhanva-me/apis.yml
-  x-apis-io: https://apis.io/providers/sudhanva-me/
-  x-github: https://github.com/api-evangelist/sudhanva-me
 - name: sudomock-com
   url: https://artifacts.apis.io/sudomock-com/apis.yml
   x-apis-io: https://apis.io/providers/sudomock-com/
@@ -3409,6 +3425,10 @@ include:
   url: https://artifacts.apis.io/sunyur/apis.yml
   x-apis-io: https://apis.io/providers/sunyur/
   x-github: https://github.com/api-evangelist/sunyur
+- name: Suomi.fi
+  url: https://artifacts.apis.io/suomi-fi/apis.yml
+  x-apis-io: https://apis.io/providers/suomi-fi/
+  x-github: https://github.com/api-evangelist/suomi-fi
 - name: SUPA
   url: https://artifacts.apis.io/supa/apis.yml
   x-apis-io: https://apis.io/providers/supa/
@@ -4657,6 +4677,10 @@ include:
   url: https://artifacts.apis.io/syndio/apis.yml
   x-apis-io: https://apis.io/providers/syndio/
   x-github: https://github.com/api-evangelist/syndio
+- name: Synento
+  url: https://artifacts.apis.io/synento-com/apis.yml
+  x-apis-io: https://apis.io/providers/synento-com/
+  x-github: https://github.com/api-evangelist/synento-com
 - name: Syneos Health
   url: https://artifacts.apis.io/syneos-health/apis.yml
   x-apis-io: https://apis.io/providers/syneos-health/

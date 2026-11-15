@@ -1,8 +1,8 @@
 name: API Evangelist Network — providers F
-description: 'The 1288 API providers in the API Evangelist network whose repository name begins with F. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
+description: 'The 1460 API providers in the API Evangelist network whose repository name begins with F. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
 url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/f.yml
 created: '2026-02-27'
-modified: '2026-11-06'
+modified: '2026-11-15'
 specificationVersion: '0.23'
 tags:
 - Directory
@@ -493,6 +493,10 @@ include:
   url: https://artifacts.apis.io/farmlogs/apis.yml
   x-apis-io: https://apis.io/providers/farmlogs/
   x-github: https://github.com/api-evangelist/farmlogs
+- name: FarmNeural
+  url: https://artifacts.apis.io/farmneural-com/apis.yml
+  x-apis-io: https://apis.io/providers/farmneural-com/
+  x-github: https://github.com/api-evangelist/farmneural-com
 - name: Farmo
   url: https://artifacts.apis.io/farmo/apis.yml
   x-apis-io: https://apis.io/providers/farmo/
@@ -521,10 +525,22 @@ include:
   url: https://artifacts.apis.io/faro/apis.yml
   x-apis-io: https://apis.io/providers/faro/
   x-github: https://github.com/api-evangelist/faro
+- name: farofinance-app
+  url: https://artifacts.apis.io/farofinance-app/apis.yml
+  x-apis-io: https://apis.io/providers/farofinance-app/
+  x-github: https://github.com/api-evangelist/farofinance-app
 - name: Faros AI
   url: https://artifacts.apis.io/faros/apis.yml
   x-apis-io: https://apis.io/providers/faros/
   x-github: https://github.com/api-evangelist/faros
+- name: Faroz
+  url: https://artifacts.apis.io/faroz-uz/apis.yml
+  x-apis-io: https://apis.io/providers/faroz-uz/
+  x-github: https://github.com/api-evangelist/faroz-uz
+- name: Farpy
+  url: https://artifacts.apis.io/farpy-com/apis.yml
+  x-apis-io: https://apis.io/providers/farpy-com/
+  x-github: https://github.com/api-evangelist/farpy-com
 - name: Farther
   url: https://artifacts.apis.io/farther/apis.yml
   x-apis-io: https://apis.io/providers/farther/
@@ -561,10 +577,18 @@ include:
   url: https://artifacts.apis.io/fast-break-labs/apis.yml
   x-apis-io: https://apis.io/providers/fast-break-labs/
   x-github: https://github.com/api-evangelist/fast-break-labs
+- name: Fastio
+  url: https://artifacts.apis.io/fast-io/apis.yml
+  x-apis-io: https://apis.io/providers/fast-io/
+  x-github: https://github.com/api-evangelist/fast-io
 - name: Fast Retailing
   url: https://artifacts.apis.io/fast-retailing/apis.yml
   x-apis-io: https://apis.io/providers/fast-retailing/
   x-github: https://github.com/api-evangelist/fast-retailing
+- name: Fast Surveys
+  url: https://artifacts.apis.io/fast-surveys-com/apis.yml
+  x-apis-io: https://apis.io/providers/fast-surveys-com/
+  x-github: https://github.com/api-evangelist/fast-surveys-com
 - name: FastAF
   url: https://artifacts.apis.io/fastaf/apis.yml
   x-apis-io: https://apis.io/providers/fastaf/
@@ -593,6 +617,10 @@ include:
   url: https://artifacts.apis.io/fastdol/apis.yml
   x-apis-io: https://apis.io/providers/fastdol/
   x-github: https://github.com/api-evangelist/fastdol
+- name: FastDrop
+  url: https://artifacts.apis.io/fastdrop-dev/apis.yml
+  x-apis-io: https://apis.io/providers/fastdrop-dev/
+  x-github: https://github.com/api-evangelist/fastdrop-dev
 - name: Fasten Health
   url: https://artifacts.apis.io/fasten-health/apis.yml
   x-apis-io: https://apis.io/providers/fasten-health/
@@ -601,6 +629,14 @@ include:
   url: https://artifacts.apis.io/fastenal/apis.yml
   x-apis-io: https://apis.io/providers/fastenal/
   x-github: https://github.com/api-evangelist/fastenal
+- name: Fastero
+  url: https://artifacts.apis.io/fastero-com/apis.yml
+  x-apis-io: https://apis.io/providers/fastero-com/
+  x-github: https://github.com/api-evangelist/fastero-com
+- name: FastestRank
+  url: https://artifacts.apis.io/fastestrank-com/apis.yml
+  x-apis-io: https://apis.io/providers/fastestrank-com/
+  x-github: https://github.com/api-evangelist/fastestrank-com
 - name: FastForex
   url: https://artifacts.apis.io/fastforex/apis.yml
   x-apis-io: https://apis.io/providers/fastforex/
@@ -609,6 +645,10 @@ include:
   url: https://artifacts.apis.io/fastgpu/apis.yml
   x-apis-io: https://apis.io/providers/fastgpu/
   x-github: https://github.com/api-evangelist/fastgpu
+- name: Fast GST Refund
+  url: https://artifacts.apis.io/fastgstrefund-com/apis.yml
+  x-apis-io: https://apis.io/providers/fastgstrefund-com/
+  x-github: https://github.com/api-evangelist/fastgstrefund-com
 - name: Fastify
   url: https://artifacts.apis.io/fastify/apis.yml
   x-apis-io: https://apis.io/providers/fastify/
@@ -617,6 +657,10 @@ include:
   url: https://artifacts.apis.io/fastino-labs/apis.yml
   x-apis-io: https://apis.io/providers/fastino-labs/
   x-github: https://github.com/api-evangelist/fastino-labs
+- name: Fast Insight
+  url: https://artifacts.apis.io/fastinsight-ai/apis.yml
+  x-apis-io: https://apis.io/providers/fastinsight-ai/
+  x-github: https://github.com/api-evangelist/fastinsight-ai
 - name: FastLane
   url: https://artifacts.apis.io/fastlane/apis.yml
   x-apis-io: https://apis.io/providers/fastlane/
@@ -653,6 +697,10 @@ include:
   url: https://artifacts.apis.io/fastshot/apis.yml
   x-apis-io: https://apis.io/providers/fastshot/
   x-github: https://github.com/api-evangelist/fastshot
+- name: FastSocial
+  url: https://artifacts.apis.io/fastsocial-co/apis.yml
+  x-apis-io: https://apis.io/providers/fastsocial-co/
+  x-github: https://github.com/api-evangelist/fastsocial-co
 - name: FastSpring
   url: https://artifacts.apis.io/fastspring/apis.yml
   x-apis-io: https://apis.io/providers/fastspring/
@@ -673,6 +721,14 @@ include:
   url: https://artifacts.apis.io/fatcat/apis.yml
   x-apis-io: https://apis.io/providers/fatcat/
   x-github: https://github.com/api-evangelist/fatcat
+- name: Fate & Stars
+  url: https://artifacts.apis.io/fateandstars-com/apis.yml
+  x-apis-io: https://apis.io/providers/fateandstars-com/
+  x-github: https://github.com/api-evangelist/fateandstars-com
+- name: FateStar
+  url: https://artifacts.apis.io/fatestar-top/apis.yml
+  x-apis-io: https://apis.io/providers/fatestar-top/
+  x-github: https://github.com/api-evangelist/fatestar-top
 - name: fatheron-dev
   url: https://artifacts.apis.io/fatheron-dev/apis.yml
   x-apis-io: https://apis.io/providers/fatheron-dev/
@@ -681,6 +737,10 @@ include:
   url: https://artifacts.apis.io/fathom/apis.yml
   x-apis-io: https://apis.io/providers/fathom/
   x-github: https://github.com/api-evangelist/fathom
+- name: Fathom AI
+  url: https://artifacts.apis.io/fathom-ai/apis.yml
+  x-apis-io: https://apis.io/providers/fathom-ai/
+  x-github: https://github.com/api-evangelist/fathom-ai
 - name: Fathom
   url: https://artifacts.apis.io/fathomhealth-co/apis.yml
   x-apis-io: https://apis.io/providers/fathomhealth-co/
@@ -693,6 +753,14 @@ include:
   url: https://artifacts.apis.io/fatsecret/apis.yml
   x-apis-io: https://apis.io/providers/fatsecret/
   x-github: https://github.com/api-evangelist/fatsecret
+- name: Fattly AI
+  url: https://artifacts.apis.io/fattly-app/apis.yml
+  x-apis-io: https://apis.io/providers/fattly-app/
+  x-github: https://github.com/api-evangelist/fattly-app
+- name: FaultKey
+  url: https://artifacts.apis.io/faultkey-com/apis.yml
+  x-apis-io: https://apis.io/providers/faultkey-com/
+  x-github: https://github.com/api-evangelist/faultkey-com
 - name: Fauna
   url: https://artifacts.apis.io/fauna/apis.yml
   x-apis-io: https://apis.io/providers/fauna/
@@ -705,14 +773,34 @@ include:
   url: https://artifacts.apis.io/faunarobotics-com/apis.yml
   x-apis-io: https://apis.io/providers/faunarobotics-com/
   x-github: https://github.com/api-evangelist/faunarobotics-com
+- name: FavCRM
+  url: https://artifacts.apis.io/favcrm-io/apis.yml
+  x-apis-io: https://apis.io/providers/favcrm-io/
+  x-github: https://github.com/api-evangelist/favcrm-io
 - name: Fave
   url: https://artifacts.apis.io/fave/apis.yml
   x-apis-io: https://apis.io/providers/fave/
   x-github: https://github.com/api-evangelist/fave
+- name: favicon.zip
+  url: https://artifacts.apis.io/favicon-zip/apis.yml
+  x-apis-io: https://apis.io/providers/favicon-zip/
+  x-github: https://github.com/api-evangelist/favicon-zip
+- name: FaviconTools
+  url: https://artifacts.apis.io/favicontools-com/apis.yml
+  x-apis-io: https://apis.io/providers/favicontools-com/
+  x-github: https://github.com/api-evangelist/favicontools-com
 - name: favorited
   url: https://artifacts.apis.io/favorited/apis.yml
   x-apis-io: https://apis.io/providers/favorited/
   x-github: https://github.com/api-evangelist/favorited
+- name: Favorize
+  url: https://artifacts.apis.io/favorize-app/apis.yml
+  x-apis-io: https://apis.io/providers/favorize-app/
+  x-github: https://github.com/api-evangelist/favorize-app
+- name: favowe
+  url: https://artifacts.apis.io/favowe-com/apis.yml
+  x-apis-io: https://apis.io/providers/favowe-com/
+  x-github: https://github.com/api-evangelist/favowe-com
 - name: FavQs.com
   url: https://artifacts.apis.io/favqs-com/apis.yml
   x-apis-io: https://apis.io/providers/favqs-com/
@@ -729,10 +817,34 @@ include:
   url: https://artifacts.apis.io/fawry/apis.yml
   x-apis-io: https://apis.io/providers/fawry/
   x-github: https://github.com/api-evangelist/fawry
+- name: 'فوتّر'
+  url: https://artifacts.apis.io/fawtar-app/apis.yml
+  x-apis-io: https://apis.io/providers/fawtar-app/
+  x-github: https://github.com/api-evangelist/fawtar-app
+- name: Fax.Plus
+  url: https://artifacts.apis.io/fax-plus/apis.yml
+  x-apis-io: https://apis.io/providers/fax-plus/
+  x-github: https://github.com/api-evangelist/fax-plus
+- name: Faxer
+  url: https://artifacts.apis.io/faxer-me/apis.yml
+  x-apis-io: https://apis.io/providers/faxer-me/
+  x-github: https://github.com/api-evangelist/faxer-me
 - name: Fax for Agents
   url: https://artifacts.apis.io/faxforagents/apis.yml
   x-apis-io: https://apis.io/providers/faxforagents/
   x-github: https://github.com/api-evangelist/faxforagents
+- name: 'Const Agility, LLC'
+  url: https://artifacts.apis.io/faxify-com/apis.yml
+  x-apis-io: https://apis.io/providers/faxify-com/
+  x-github: https://github.com/api-evangelist/faxify-com
+- name: Faxivo
+  url: https://artifacts.apis.io/faxivo-com/apis.yml
+  x-apis-io: https://apis.io/providers/faxivo-com/
+  x-github: https://github.com/api-evangelist/faxivo-com
+- name: FaxOnline
+  url: https://artifacts.apis.io/faxonline-app/apis.yml
+  x-apis-io: https://apis.io/providers/faxonline-app/
+  x-github: https://github.com/api-evangelist/faxonline-app
 - name: FaxSav
   url: https://artifacts.apis.io/faxsav/apis.yml
   x-apis-io: https://apis.io/providers/faxsav/
@@ -741,6 +853,10 @@ include:
   url: https://artifacts.apis.io/fay/apis.yml
   x-apis-io: https://apis.io/providers/fay/
   x-github: https://github.com/api-evangelist/fay
+- name: Faylee
+  url: https://artifacts.apis.io/faylee-app/apis.yml
+  x-apis-io: https://apis.io/providers/faylee-app/
+  x-github: https://github.com/api-evangelist/faylee-app
 - name: Fazla Gida
   url: https://artifacts.apis.io/fazla-gida/apis.yml
   x-apis-io: https://apis.io/providers/fazla-gida/
@@ -757,6 +873,14 @@ include:
   url: https://artifacts.apis.io/fazz/apis.yml
   x-apis-io: https://apis.io/providers/fazz/
   x-github: https://github.com/api-evangelist/fazz
+- name: FBA Forwarders
+  url: https://artifacts.apis.io/fbaforwarders-com/apis.yml
+  x-apis-io: https://apis.io/providers/fbaforwarders-com/
+  x-github: https://github.com/api-evangelist/fbaforwarders-com
+- name: fbetteo-com
+  url: https://artifacts.apis.io/fbetteo-com/apis.yml
+  x-apis-io: https://apis.io/providers/fbetteo-com/
+  x-github: https://github.com/api-evangelist/fbetteo-com
 - name: FBG Capital
   url: https://artifacts.apis.io/fbg-capital/apis.yml
   x-apis-io: https://apis.io/providers/fbg-capital/
@@ -777,6 +901,10 @@ include:
   url: https://artifacts.apis.io/fcsapi/apis.yml
   x-apis-io: https://apis.io/providers/fcsapi/
   x-github: https://github.com/api-evangelist/fcsapi
+- name: FDB4
+  url: https://artifacts.apis.io/fdb4-io/apis.yml
+  x-apis-io: https://apis.io/providers/fdb4-io/
+  x-github: https://github.com/api-evangelist/fdb4-io
 - name: FDC3
   url: https://artifacts.apis.io/fdc3/apis.yml
   x-apis-io: https://apis.io/providers/fdc3/
@@ -797,6 +925,14 @@ include:
   url: https://artifacts.apis.io/fearn/apis.yml
   x-apis-io: https://apis.io/providers/fearn/
   x-github: https://github.com/api-evangelist/fearn
+- name: Feasibly
+  url: https://artifacts.apis.io/feasibly-com-au/apis.yml
+  x-apis-io: https://apis.io/providers/feasibly-com-au/
+  x-github: https://github.com/api-evangelist/feasibly-com-au
+- name: Feason
+  url: https://artifacts.apis.io/feason-com/apis.yml
+  x-apis-io: https://apis.io/providers/feason-com/
+  x-github: https://github.com/api-evangelist/feason-com
 - name: Feastables
   url: https://artifacts.apis.io/feastables/apis.yml
   x-apis-io: https://apis.io/providers/feastables/
@@ -825,14 +961,30 @@ include:
   url: https://artifacts.apis.io/featureflip/apis.yml
   x-apis-io: https://apis.io/providers/featureflip/
   x-github: https://github.com/api-evangelist/featureflip
+- name: FeatureJet
+  url: https://artifacts.apis.io/featurejet-com/apis.yml
+  x-apis-io: https://apis.io/providers/featurejet-com/
+  x-github: https://github.com/api-evangelist/featurejet-com
 - name: Featurespace
   url: https://artifacts.apis.io/featurespace/apis.yml
   x-apis-io: https://apis.io/providers/featurespace/
   x-github: https://github.com/api-evangelist/featurespace
+- name: Featurevote
+  url: https://artifacts.apis.io/featurevote-app/apis.yml
+  x-apis-io: https://apis.io/providers/featurevote-app/
+  x-github: https://github.com/api-evangelist/featurevote-app
+- name: featury
+  url: https://artifacts.apis.io/featury-app/apis.yml
+  x-apis-io: https://apis.io/providers/featury-app/
+  x-github: https://github.com/api-evangelist/featury-app
 - name: FEC
   url: https://artifacts.apis.io/fec/apis.yml
   x-apis-io: https://apis.io/providers/fec/
   x-github: https://github.com/api-evangelist/fec
+- name: Fed-Spend
+  url: https://artifacts.apis.io/fed-spend-com/apis.yml
+  x-apis-io: https://apis.io/providers/fed-spend-com/
+  x-github: https://github.com/api-evangelist/fed-spend-com
 - name: Fed Treasury
   url: https://artifacts.apis.io/fed-treasury/apis.yml
   x-apis-io: https://apis.io/providers/fed-treasury/
@@ -933,10 +1085,46 @@ include:
   url: https://artifacts.apis.io/fedica/apis.yml
   x-apis-io: https://apis.io/providers/fedica/
   x-github: https://github.com/api-evangelist/fedica
+- name: Fedlex Connector
+  url: https://artifacts.apis.io/fedlex-connector-ch/apis.yml
+  x-apis-io: https://apis.io/providers/fedlex-connector-ch/
+  x-github: https://github.com/api-evangelist/fedlex-connector-ch
+- name: FEDLIN
+  url: https://artifacts.apis.io/fedlin-com/apis.yml
+  x-apis-io: https://apis.io/providers/fedlin-com/
+  x-github: https://github.com/api-evangelist/fedlin-com
 - name: FedNow Service
   url: https://artifacts.apis.io/fednow/apis.yml
   x-apis-io: https://apis.io/providers/fednow/
   x-github: https://github.com/api-evangelist/fednow
+- name: Fedor Chishchin
+  url: https://artifacts.apis.io/fedorthinks-com/apis.yml
+  x-apis-io: https://apis.io/providers/fedorthinks-com/
+  x-github: https://github.com/api-evangelist/fedorthinks-com
+- name: FedReg Tracker
+  url: https://artifacts.apis.io/fedregtracker-com/apis.yml
+  x-apis-io: https://apis.io/providers/fedregtracker-com/
+  x-github: https://github.com/api-evangelist/fedregtracker-com
+- name: FedTally
+  url: https://artifacts.apis.io/fedtally-com/apis.yml
+  x-apis-io: https://apis.io/providers/fedtally-com/
+  x-github: https://github.com/api-evangelist/fedtally-com
+- name: Feed America
+  url: https://artifacts.apis.io/feedam-org/apis.yml
+  x-apis-io: https://apis.io/providers/feedam-org/
+  x-github: https://github.com/api-evangelist/feedam-org
+- name: Feedback.tools
+  url: https://artifacts.apis.io/feedback-tools/apis.yml
+  x-apis-io: https://apis.io/providers/feedback-tools/
+  x-github: https://github.com/api-evangelist/feedback-tools
+- name: Feedback1
+  url: https://artifacts.apis.io/feedback1-ai/apis.yml
+  x-apis-io: https://apis.io/providers/feedback1-ai/
+  x-github: https://github.com/api-evangelist/feedback1-ai
+- name: FeedbackRobot
+  url: https://artifacts.apis.io/feedbackrobot-com/apis.yml
+  x-apis-io: https://apis.io/providers/feedbackrobot-com/
+  x-github: https://github.com/api-evangelist/feedbackrobot-com
 - name: Feedbin
   url: https://artifacts.apis.io/feedbin/apis.yml
   x-apis-io: https://apis.io/providers/feedbin/
@@ -1473,6 +1661,10 @@ include:
   url: https://artifacts.apis.io/filed/apis.yml
   x-apis-io: https://apis.io/providers/filed/
   x-github: https://github.com/api-evangelist/filed
+- name: filedone
+  url: https://artifacts.apis.io/filedone-ai/apis.yml
+  x-apis-io: https://apis.io/providers/filedone-ai/
+  x-github: https://github.com/api-evangelist/filedone-ai
 - name: FileFlows
   url: https://artifacts.apis.io/fileflows/apis.yml
   x-apis-io: https://apis.io/providers/fileflows/
@@ -1485,6 +1677,10 @@ include:
   url: https://artifacts.apis.io/filen/apis.yml
   x-apis-io: https://apis.io/providers/filen/
   x-github: https://github.com/api-evangelist/filen
+- name: Filepad
+  url: https://artifacts.apis.io/filepad-ai/apis.yml
+  x-apis-io: https://apis.io/providers/filepad-ai/
+  x-github: https://github.com/api-evangelist/filepad-ai
 - name: Fileread
   url: https://artifacts.apis.io/fileread/apis.yml
   x-apis-io: https://apis.io/providers/fileread/
@@ -1497,6 +1693,18 @@ include:
   url: https://artifacts.apis.io/filestack/apis.yml
   x-apis-io: https://apis.io/providers/filestack/
   x-github: https://github.com/api-evangelist/filestack
+- name: FileToPDF.dev
+  url: https://artifacts.apis.io/filetopdf-dev/apis.yml
+  x-apis-io: https://apis.io/providers/filetopdf-dev/
+  x-github: https://github.com/api-evangelist/filetopdf-dev
+- name: FileToUrl.org
+  url: https://artifacts.apis.io/filetourl-org/apis.yml
+  x-apis-io: https://apis.io/providers/filetourl-org/
+  x-github: https://github.com/api-evangelist/filetourl-org
+- name: FileType Converters
+  url: https://artifacts.apis.io/filetypeconverters-com/apis.yml
+  x-apis-io: https://apis.io/providers/filetypeconverters-com/
+  x-github: https://github.com/api-evangelist/filetypeconverters-com
 - name: FileUp
   url: https://artifacts.apis.io/fileup/apis.yml
   x-apis-io: https://apis.io/providers/fileup/
@@ -1509,22 +1717,66 @@ include:
   url: https://artifacts.apis.io/filigran/apis.yml
   x-apis-io: https://apis.io/providers/filigran/
   x-github: https://github.com/api-evangelist/filigran
+- name: FilingAPI
+  url: https://artifacts.apis.io/filingapi-dev/apis.yml
+  x-apis-io: https://apis.io/providers/filingapi-dev/
+  x-github: https://github.com/api-evangelist/filingapi-dev
+- name: FilingDesk
+  url: https://artifacts.apis.io/filingdesk-com/apis.yml
+  x-apis-io: https://apis.io/providers/filingdesk-com/
+  x-github: https://github.com/api-evangelist/filingdesk-com
 - name: filingfirehose-com
   url: https://artifacts.apis.io/filingfirehose-com/apis.yml
   x-apis-io: https://apis.io/providers/filingfirehose-com/
   x-github: https://github.com/api-evangelist/filingfirehose-com
+- name: FilingPulse
+  url: https://artifacts.apis.io/filingpulse-io/apis.yml
+  x-apis-io: https://apis.io/providers/filingpulse-io/
+  x-github: https://github.com/api-evangelist/filingpulse-io
+- name: filings.tools
+  url: https://artifacts.apis.io/filings-tools/apis.yml
+  x-apis-io: https://apis.io/providers/filings-tools/
+  x-github: https://github.com/api-evangelist/filings-tools
 - name: FilingSift
   url: https://artifacts.apis.io/filingsift/apis.yml
   x-apis-io: https://apis.io/providers/filingsift/
   x-github: https://github.com/api-evangelist/filingsift
+- name: FilingSpy
+  url: https://artifacts.apis.io/filingspy-com/apis.yml
+  x-apis-io: https://apis.io/providers/filingspy-com/
+  x-github: https://github.com/api-evangelist/filingspy-com
+- name: Filipe Santos Fotografia
+  url: https://artifacts.apis.io/filipesantosfotografia-com/apis.yml
+  x-apis-io: https://apis.io/providers/filipesantosfotografia-com/
+  x-github: https://github.com/api-evangelist/filipesantosfotografia-com
+- name: Fillfolio
+  url: https://artifacts.apis.io/fillfolio-com/apis.yml
+  x-apis-io: https://apis.io/providers/fillfolio-com/
+  x-github: https://github.com/api-evangelist/fillfolio-com
+- name: Fillo
+  url: https://artifacts.apis.io/fillo-so/apis.yml
+  x-apis-io: https://apis.io/providers/fillo-so/
+  x-github: https://github.com/api-evangelist/fillo-so
 - name: Fillout
   url: https://artifacts.apis.io/fillout/apis.yml
   x-apis-io: https://apis.io/providers/fillout/
   x-github: https://github.com/api-evangelist/fillout
+- name: FillStub
+  url: https://artifacts.apis.io/fillstub-com/apis.yml
+  x-apis-io: https://apis.io/providers/fillstub-com/
+  x-github: https://github.com/api-evangelist/fillstub-com
+- name: FillTrust
+  url: https://artifacts.apis.io/filltrust-com/apis.yml
+  x-apis-io: https://apis.io/providers/filltrust-com/
+  x-github: https://github.com/api-evangelist/filltrust-com
 - name: film-fun
   url: https://artifacts.apis.io/film-fun/apis.yml
   x-apis-io: https://apis.io/providers/film-fun/
   x-github: https://github.com/api-evangelist/film-fun
+- name: Cinema Master Pro
+  url: https://artifacts.apis.io/filmai-ai/apis.yml
+  x-apis-io: https://apis.io/providers/filmai-ai/
+  x-github: https://github.com/api-evangelist/filmai-ai
 - name: Filmgrail
   url: https://artifacts.apis.io/filmgrail/apis.yml
   x-apis-io: https://apis.io/providers/filmgrail/
@@ -1537,6 +1789,10 @@ include:
   url: https://artifacts.apis.io/filmtrack/apis.yml
   x-apis-io: https://apis.io/providers/filmtrack/
   x-github: https://github.com/api-evangelist/filmtrack
+- name: FiLot
+  url: https://artifacts.apis.io/filot-me/apis.yml
+  x-apis-io: https://apis.io/providers/filot-me/
+  x-github: https://github.com/api-evangelist/filot-me
 - name: FilSekka
   url: https://artifacts.apis.io/filsekka/apis.yml
   x-apis-io: https://apis.io/providers/filsekka/
@@ -1545,10 +1801,22 @@ include:
   url: https://artifacts.apis.io/filterlists/apis.yml
   x-apis-io: https://apis.io/providers/filterlists/
   x-github: https://github.com/api-evangelist/filterlists
+- name: Filter Solutions Ltd
+  url: https://artifacts.apis.io/filtersolutions-co-uk/apis.yml
+  x-apis-io: https://apis.io/providers/filtersolutions-co-uk/
+  x-github: https://github.com/api-evangelist/filtersolutions-co-uk
+- name: FiltreCharbon.com
+  url: https://artifacts.apis.io/filtrecharbon-com/apis.yml
+  x-apis-io: https://apis.io/providers/filtrecharbon-com/
+  x-github: https://github.com/api-evangelist/filtrecharbon-com
 - name: Filtricine
   url: https://artifacts.apis.io/filtricine/apis.yml
   x-apis-io: https://apis.io/providers/filtricine/
   x-github: https://github.com/api-evangelist/filtricine
+- name: Filtrix AI
+  url: https://artifacts.apis.io/filtrix-ai/apis.yml
+  x-apis-io: https://apis.io/providers/filtrix-ai/
+  x-github: https://github.com/api-evangelist/filtrix-ai
 - name: FIMI Technology
   url: https://artifacts.apis.io/fimi/apis.yml
   x-apis-io: https://apis.io/providers/fimi/
@@ -1561,10 +1829,18 @@ include:
   url: https://artifacts.apis.io/fin/apis.yml
   x-apis-io: https://apis.io/providers/fin/
   x-github: https://github.com/api-evangelist/fin
+- name: Fintel Discovery
+  url: https://artifacts.apis.io/fin-discovery-com/apis.yml
+  x-apis-io: https://apis.io/providers/fin-discovery-com/
+  x-github: https://github.com/api-evangelist/fin-discovery-com
 - name: Fin
   url: https://artifacts.apis.io/fin-tech/apis.yml
   x-apis-io: https://apis.io/providers/fin-tech/
   x-github: https://github.com/api-evangelist/fin-tech
+- name: Fin3000.com
+  url: https://artifacts.apis.io/fin3000-com/apis.yml
+  x-apis-io: https://apis.io/providers/fin3000-com/
+  x-github: https://github.com/api-evangelist/fin3000-com
 - name: Finaccess
   url: https://artifacts.apis.io/finaccess/apis.yml
   x-apis-io: https://apis.io/providers/finaccess/
@@ -1597,6 +1873,14 @@ include:
   url: https://artifacts.apis.io/finaloop/apis.yml
   x-apis-io: https://apis.io/providers/finaloop/
   x-github: https://github.com/api-evangelist/finaloop
+- name: Final Pay Calculator NZ
+  url: https://artifacts.apis.io/finalpaycalculator-co-nz/apis.yml
+  x-apis-io: https://apis.io/providers/finalpaycalculator-co-nz/
+  x-github: https://github.com/api-evangelist/finalpaycalculator-co-nz
+- name: FinalPeace
+  url: https://artifacts.apis.io/finalpeace-co/apis.yml
+  x-apis-io: https://apis.io/providers/finalpeace-co/
+  x-github: https://github.com/api-evangelist/finalpeace-co
 - name: finalpos-com
   url: https://artifacts.apis.io/finalpos-com/apis.yml
   x-apis-io: https://apis.io/providers/finalpos-com/
@@ -1605,6 +1889,10 @@ include:
   url: https://artifacts.apis.io/finance-foundation/apis.yml
   x-apis-io: https://apis.io/providers/finance-foundation/
   x-github: https://github.com/api-evangelist/finance-foundation
+- name: FinanceGenius.AI
+  url: https://artifacts.apis.io/financegenius-ai/apis.yml
+  x-apis-io: https://apis.io/providers/financegenius-ai/
+  x-github: https://github.com/api-evangelist/financegenius-ai
 - name: FinanceKey
   url: https://artifacts.apis.io/financekey/apis.yml
   x-apis-io: https://apis.io/providers/financekey/
@@ -1625,7 +1913,7 @@ include:
   url: https://artifacts.apis.io/financialdata-net/apis.yml
   x-apis-io: https://apis.io/providers/financialdata-net/
   x-github: https://github.com/api-evangelist/financialdata-net
-- name: financialfilings-com
+- name: FinancialFilings
   url: https://artifacts.apis.io/financialfilings-com/apis.yml
   x-apis-io: https://apis.io/providers/financialfilings-com/
   x-github: https://github.com/api-evangelist/financialfilings-com
@@ -1657,6 +1945,10 @@ include:
   url: https://artifacts.apis.io/fincentric/apis.yml
   x-apis-io: https://apis.io/providers/fincentric/
   x-github: https://github.com/api-evangelist/fincentric
+- name: Fincept Terminal
+  url: https://artifacts.apis.io/fincept-in/apis.yml
+  x-apis-io: https://apis.io/providers/fincept-in/
+  x-github: https://github.com/api-evangelist/fincept-in
 - name: Finch
   url: https://artifacts.apis.io/finch/apis.yml
   x-apis-io: https://apis.io/providers/finch/
@@ -1673,6 +1965,10 @@ include:
   url: https://artifacts.apis.io/fincompare/apis.yml
   x-apis-io: https://apis.io/providers/fincompare/
   x-github: https://github.com/api-evangelist/fincompare
+- name: FinContext
+  url: https://artifacts.apis.io/fincontext-ai/apis.yml
+  x-apis-io: https://apis.io/providers/fincontext-ai/
+  x-github: https://github.com/api-evangelist/fincontext-ai
 - name: Fincra
   url: https://artifacts.apis.io/fincra/apis.yml
   x-apis-io: https://apis.io/providers/fincra/
@@ -1681,38 +1977,98 @@ include:
   url: https://artifacts.apis.io/fincura/apis.yml
   x-apis-io: https://apis.io/providers/fincura/
   x-github: https://github.com/api-evangelist/fincura
+- name: find.codes
+  url: https://artifacts.apis.io/find-codes/apis.yml
+  x-apis-io: https://apis.io/providers/find-codes/
+  x-github: https://github.com/api-evangelist/find-codes
+- name: find-ref
+  url: https://artifacts.apis.io/find-ref-com/apis.yml
+  x-apis-io: https://apis.io/providers/find-ref-com/
+  x-github: https://github.com/api-evangelist/find-ref-com
 - name: Finda
   url: https://artifacts.apis.io/finda/apis.yml
   x-apis-io: https://apis.io/providers/finda/
   x-github: https://github.com/api-evangelist/finda
+- name: Findabis
+  url: https://artifacts.apis.io/findabis-com/apis.yml
+  x-apis-io: https://apis.io/providers/findabis-com/
+  x-github: https://github.com/api-evangelist/findabis-com
 - name: Findable
   url: https://artifacts.apis.io/findable/apis.yml
   x-apis-io: https://apis.io/providers/findable/
   x-github: https://github.com/api-evangelist/findable
+- name: Find A Co-Packer
+  url: https://artifacts.apis.io/findacopacker-co-uk/apis.yml
+  x-apis-io: https://apis.io/providers/findacopacker-co-uk/
+  x-github: https://github.com/api-evangelist/findacopacker-co-uk
 - name: findadoctor-si
   url: https://artifacts.apis.io/findadoctor-si/apis.yml
   x-apis-io: https://apis.io/providers/findadoctor-si/
   x-github: https://github.com/api-evangelist/findadoctor-si
+- name: Findadomain.name
+  url: https://artifacts.apis.io/findadomain-name/apis.yml
+  x-apis-io: https://apis.io/providers/findadomain-name/
+  x-github: https://github.com/api-evangelist/findadomain-name
 - name: findagencyhq-com
   url: https://artifacts.apis.io/findagencyhq-com/apis.yml
   x-apis-io: https://apis.io/providers/findagencyhq-com/
   x-github: https://github.com/api-evangelist/findagencyhq-com
+- name: FindAgent
+  url: https://artifacts.apis.io/findagent-cloud/apis.yml
+  x-apis-io: https://apis.io/providers/findagent-cloud/
+  x-github: https://github.com/api-evangelist/findagent-cloud
+- name: Anomaly AI
+  url: https://artifacts.apis.io/findanomaly-ai/apis.yml
+  x-apis-io: https://apis.io/providers/findanomaly-ai/
+  x-github: https://github.com/api-evangelist/findanomaly-ai
 - name: findbroadbanddeals-com
   url: https://artifacts.apis.io/findbroadbanddeals-com/apis.yml
   x-apis-io: https://apis.io/providers/findbroadbanddeals-com/
   x-github: https://github.com/api-evangelist/findbroadbanddeals-com
+- name: FindDoc
+  url: https://artifacts.apis.io/finddoc-ca/apis.yml
+  x-apis-io: https://apis.io/providers/finddoc-ca/
+  x-github: https://github.com/api-evangelist/finddoc-ca
+- name: FinDefend
+  url: https://artifacts.apis.io/findefend-com/apis.yml
+  x-apis-io: https://apis.io/providers/findefend-com/
+  x-github: https://github.com/api-evangelist/findefend-com
 - name: Findem
   url: https://artifacts.apis.io/findem/apis.yml
   x-apis-io: https://apis.io/providers/findem/
   x-github: https://github.com/api-evangelist/findem
+- name: Find Energy Rates
+  url: https://artifacts.apis.io/findenergyrates-com/apis.yml
+  x-apis-io: https://apis.io/providers/findenergyrates-com/
+  x-github: https://github.com/api-evangelist/findenergyrates-com
 - name: Findigs
   url: https://artifacts.apis.io/findigs/apis.yml
   x-apis-io: https://apis.io/providers/findigs/
   x-github: https://github.com/api-evangelist/findigs
+- name: Finding Horizons
+  url: https://artifacts.apis.io/findinghorizons-ca/apis.yml
+  x-apis-io: https://apis.io/providers/findinghorizons-ca/
+  x-github: https://github.com/api-evangelist/findinghorizons-ca
+- name: FindingLeads
+  url: https://artifacts.apis.io/findingleads-com/apis.yml
+  x-apis-io: https://apis.io/providers/findingleads-com/
+  x-github: https://github.com/api-evangelist/findingleads-com
+- name: FindingSteel
+  url: https://artifacts.apis.io/findingsteel-com/apis.yml
+  x-apis-io: https://apis.io/providers/findingsteel-com/
+  x-github: https://github.com/api-evangelist/findingsteel-com
+- name: Findip
+  url: https://artifacts.apis.io/findip-ai/apis.yml
+  x-apis-io: https://apis.io/providers/findip-ai/
+  x-github: https://github.com/api-evangelist/findip-ai
 - name: FinditParts
   url: https://artifacts.apis.io/finditparts/apis.yml
   x-apis-io: https://apis.io/providers/finditparts/
   x-github: https://github.com/api-evangelist/finditparts
+- name: FindLeadEmails
+  url: https://artifacts.apis.io/findleademails-com/apis.yml
+  x-apis-io: https://apis.io/providers/findleademails-com/
+  x-github: https://github.com/api-evangelist/findleademails-com
 - name: FindLocal
   url: https://artifacts.apis.io/findlocal/apis.yml
   x-apis-io: https://apis.io/providers/findlocal/
@@ -1721,18 +2077,46 @@ include:
   url: https://artifacts.apis.io/findmecure/apis.yml
   x-apis-io: https://apis.io/providers/findmecure/
   x-github: https://github.com/api-evangelist/findmecure
+- name: Findmetry
+  url: https://artifacts.apis.io/findmetry-com/apis.yml
+  x-apis-io: https://apis.io/providers/findmetry-com/
+  x-github: https://github.com/api-evangelist/findmetry-com
 - name: Findmypast WebHints
   url: https://artifacts.apis.io/findmypast/apis.yml
   x-apis-io: https://apis.io/providers/findmypast/
   x-github: https://github.com/api-evangelist/findmypast
+- name: Find My Tide
+  url: https://artifacts.apis.io/findmytide-com/apis.yml
+  x-apis-io: https://apis.io/providers/findmytide-com/
+  x-github: https://github.com/api-evangelist/findmytide-com
 - name: Findoctave
   url: https://artifacts.apis.io/findoctave/apis.yml
   x-apis-io: https://apis.io/providers/findoctave/
   x-github: https://github.com/api-evangelist/findoctave
+- name: FindSaunaPlunge
+  url: https://artifacts.apis.io/findsaunaplunge-com/apis.yml
+  x-apis-io: https://apis.io/providers/findsaunaplunge-com/
+  x-github: https://github.com/api-evangelist/findsaunaplunge-com
+- name: Ticker
+  url: https://artifacts.apis.io/findticker-com/apis.yml
+  x-apis-io: https://apis.io/providers/findticker-com/
+  x-github: https://github.com/api-evangelist/findticker-com
+- name: FindWeedNY
+  url: https://artifacts.apis.io/findweedny-com/apis.yml
+  x-apis-io: https://apis.io/providers/findweedny-com/
+  x-github: https://github.com/api-evangelist/findweedny-com
 - name: Findwork
   url: https://artifacts.apis.io/findwork/apis.yml
   x-apis-io: https://apis.io/providers/findwork/
   x-github: https://github.com/api-evangelist/findwork
+- name: FindYourFivePM
+  url: https://artifacts.apis.io/findyourfivepm-com/apis.yml
+  x-apis-io: https://apis.io/providers/findyourfivepm-com/
+  x-github: https://github.com/api-evangelist/findyourfivepm-com
+- name: Find your role first
+  url: https://artifacts.apis.io/findyourrolefirst-click/apis.yml
+  x-apis-io: https://apis.io/providers/findyourrolefirst-click/
+  x-github: https://github.com/api-evangelist/findyourrolefirst-click
 - name: finedata-ai
   url: https://artifacts.apis.io/finedata-ai/apis.yml
   x-apis-io: https://apis.io/providers/finedata-ai/
@@ -1749,10 +2133,18 @@ include:
   url: https://artifacts.apis.io/finern/apis.yml
   x-apis-io: https://apis.io/providers/finern/
   x-github: https://github.com/api-evangelist/finern
+- name: FineRx
+  url: https://artifacts.apis.io/finerxfinder-com/apis.yml
+  x-apis-io: https://apis.io/providers/finerxfinder-com/
+  x-github: https://github.com/api-evangelist/finerxfinder-com
 - name: FINESSE
   url: https://artifacts.apis.io/finesse/apis.yml
   x-apis-io: https://apis.io/providers/finesse/
   x-github: https://github.com/api-evangelist/finesse
+- name: Fine Structure
+  url: https://artifacts.apis.io/finestructure-ai/apis.yml
+  x-apis-io: https://apis.io/providers/finestructure-ai/
+  x-github: https://github.com/api-evangelist/finestructure-ai
 - name: FinetuneDB
   url: https://artifacts.apis.io/finetunedb/apis.yml
   x-apis-io: https://apis.io/providers/finetunedb/
@@ -1765,6 +2157,10 @@ include:
   url: https://artifacts.apis.io/finevoice/apis.yml
   x-apis-io: https://apis.io/providers/finevoice/
   x-github: https://github.com/api-evangelist/finevoice
+- name: FinFam
+  url: https://artifacts.apis.io/finfam-app/apis.yml
+  x-apis-io: https://apis.io/providers/finfam-app/
+  x-github: https://github.com/api-evangelist/finfam-app
 - name: Fingerprint
   url: https://artifacts.apis.io/fingerprint/apis.yml
   x-apis-io: https://apis.io/providers/fingerprint/
@@ -1793,10 +2189,18 @@ include:
   url: https://artifacts.apis.io/finicom/apis.yml
   x-apis-io: https://apis.io/providers/finicom/
   x-github: https://github.com/api-evangelist/finicom
+- name: '金融情報站'
+  url: https://artifacts.apis.io/fininfostation-com/apis.yml
+  x-apis-io: https://apis.io/providers/fininfostation-com/
+  x-github: https://github.com/api-evangelist/fininfostation-com
 - name: Finisar
   url: https://artifacts.apis.io/finisar/apis.yml
   x-apis-io: https://apis.io/providers/finisar/
   x-github: https://github.com/api-evangelist/finisar
+- name: 'Paulibytes UG (haftungsbeschränkt)'
+  url: https://artifacts.apis.io/finisma-de/apis.yml
+  x-apis-io: https://apis.io/providers/finisma-de/
+  x-github: https://github.com/api-evangelist/finisma-de
 - name: Finite State
   url: https://artifacts.apis.io/finite-state/apis.yml
   x-apis-io: https://apis.io/providers/finite-state/
@@ -1813,6 +2217,10 @@ include:
   url: https://artifacts.apis.io/finku/apis.yml
   x-apis-io: https://apis.io/providers/finku/
   x-github: https://github.com/api-evangelist/finku
+- name: FinLab
+  url: https://artifacts.apis.io/finlab-finance/apis.yml
+  x-apis-io: https://apis.io/providers/finlab-finance/
+  x-github: https://github.com/api-evangelist/finlab-finance
 - name: Finless Foods
   url: https://artifacts.apis.io/finless-foods/apis.yml
   x-apis-io: https://apis.io/providers/finless-foods/
@@ -1829,6 +2237,10 @@ include:
   url: https://artifacts.apis.io/finlight/apis.yml
   x-apis-io: https://apis.io/providers/finlight/
   x-github: https://github.com/api-evangelist/finlight
+- name: FinManager AI
+  url: https://artifacts.apis.io/finmanagerai-com/apis.yml
+  x-apis-io: https://apis.io/providers/finmanagerai-com/
+  x-github: https://github.com/api-evangelist/finmanagerai-com
 - name: Finmark
   url: https://artifacts.apis.io/finmark/apis.yml
   x-apis-io: https://apis.io/providers/finmark/
@@ -1909,10 +2321,18 @@ include:
   url: https://artifacts.apis.io/finsify/apis.yml
   x-apis-io: https://apis.io/providers/finsify/
   x-github: https://github.com/api-evangelist/finsify
+- name: FinStat
+  url: https://artifacts.apis.io/finstat-ai/apis.yml
+  x-apis-io: https://apis.io/providers/finstat-ai/
+  x-github: https://github.com/api-evangelist/finstat-ai
 - name: Finsweet
   url: https://artifacts.apis.io/finsweet/apis.yml
   x-apis-io: https://apis.io/providers/finsweet/
   x-github: https://github.com/api-evangelist/finsweet
+- name: Fintalio
+  url: https://artifacts.apis.io/fintalio-com/apis.yml
+  x-apis-io: https://apis.io/providers/fintalio-com/
+  x-github: https://github.com/api-evangelist/fintalio-com
 - name: Fintary
   url: https://artifacts.apis.io/fintary/apis.yml
   x-apis-io: https://apis.io/providers/fintary/
@@ -1925,10 +2345,18 @@ include:
   url: https://artifacts.apis.io/fintechos/apis.yml
   x-apis-io: https://apis.io/providers/fintechos/
   x-github: https://github.com/api-evangelist/fintechos
+- name: FinTech Studios
+  url: https://artifacts.apis.io/fintechstudios-com/apis.yml
+  x-apis-io: https://apis.io/providers/fintechstudios-com/
+  x-github: https://github.com/api-evangelist/fintechstudios-com
 - name: Fintecture
   url: https://artifacts.apis.io/fintecture/apis.yml
   x-apis-io: https://apis.io/providers/fintecture/
   x-github: https://github.com/api-evangelist/fintecture
+- name: Fintent
+  url: https://artifacts.apis.io/fintent-ai/apis.yml
+  x-apis-io: https://apis.io/providers/fintent-ai/
+  x-github: https://github.com/api-evangelist/fintent-ai
 - name: Fintesa
   url: https://artifacts.apis.io/fintesa-inc/apis.yml
   x-apis-io: https://apis.io/providers/fintesa-inc/
@@ -1965,6 +2393,10 @@ include:
   url: https://artifacts.apis.io/finverse/apis.yml
   x-apis-io: https://apis.io/providers/finverse/
   x-github: https://github.com/api-evangelist/finverse
+- name: Finvygo
+  url: https://artifacts.apis.io/finvygo-com/apis.yml
+  x-apis-io: https://apis.io/providers/finvygo-com/
+  x-github: https://github.com/api-evangelist/finvygo-com
 - name: finzdata-com
   url: https://artifacts.apis.io/finzdata-com/apis.yml
   x-apis-io: https://apis.io/providers/finzdata-com/
@@ -1977,10 +2409,6 @@ include:
   url: https://artifacts.apis.io/fipto/apis.yml
   x-apis-io: https://apis.io/providers/fipto/
   x-github: https://github.com/api-evangelist/fipto
-- name: Firebase
-  url: https://artifacts.apis.io/firebase/apis.yml
-  x-apis-io: https://apis.io/providers/firebase/
-  x-github: https://github.com/api-evangelist/firebase
 - name: Fireblocks
   url: https://artifacts.apis.io/fireblocks/apis.yml
   x-apis-io: https://apis.io/providers/fireblocks/
@@ -1993,6 +2421,14 @@ include:
   url: https://artifacts.apis.io/firecamp/apis.yml
   x-apis-io: https://apis.io/providers/firecamp/
   x-github: https://github.com/api-evangelist/firecamp
+- name: FireCMS
+  url: https://artifacts.apis.io/firecms-co/apis.yml
+  x-apis-io: https://apis.io/providers/firecms-co/
+  x-github: https://github.com/api-evangelist/firecms-co
+- name: Fire Compliance Cost
+  url: https://artifacts.apis.io/firecompliancecost-co-uk/apis.yml
+  x-apis-io: https://apis.io/providers/firecompliancecost-co-uk/
+  x-github: https://github.com/api-evangelist/firecompliancecost-co-uk
 - name: Firecracker
   url: https://artifacts.apis.io/firecracker/apis.yml
   x-apis-io: https://apis.io/providers/firecracker/
@@ -2045,6 +2481,10 @@ include:
   url: https://artifacts.apis.io/firemon/apis.yml
   x-apis-io: https://apis.io/providers/firemon/
   x-github: https://github.com/api-evangelist/firemon
+- name: firenum
+  url: https://artifacts.apis.io/firenum-com/apis.yml
+  x-apis-io: https://apis.io/providers/firenum-com/
+  x-github: https://github.com/api-evangelist/firenum-com
 - name: Firestorm
   url: https://artifacts.apis.io/firestorm/apis.yml
   x-apis-io: https://apis.io/providers/firestorm/
@@ -2073,11 +2513,35 @@ include:
   url: https://artifacts.apis.io/firma-dev/apis.yml
   x-apis-io: https://apis.io/providers/firma-dev/
   x-github: https://github.com/api-evangelist/firma-dev
+- name: Firmaradar
+  url: https://artifacts.apis.io/firmaradar-no/apis.yml
+  x-apis-io: https://apis.io/providers/firmaradar-no/
+  x-github: https://github.com/api-evangelist/firmaradar-no
+- name: Firmastat
+  url: https://artifacts.apis.io/firmastat-cz/apis.yml
+  x-apis-io: https://apis.io/providers/firmastat-cz/
+  x-github: https://github.com/api-evangelist/firmastat-cz
+- name: Firmenwatch
+  url: https://artifacts.apis.io/firmenwatch-ch/apis.yml
+  x-apis-io: https://apis.io/providers/firmenwatch-ch/
+  x-github: https://github.com/api-evangelist/firmenwatch-ch
+- name: 'Firme Românești'
+  url: https://artifacts.apis.io/firmeromanesti-com/apis.yml
+  x-apis-io: https://apis.io/providers/firmeromanesti-com/
+  x-github: https://github.com/api-evangelist/firmeromanesti-com
+- name: FirmFax
+  url: https://artifacts.apis.io/firmfax-com/apis.yml
+  x-apis-io: https://apis.io/providers/firmfax-com/
+  x-github: https://github.com/api-evangelist/firmfax-com
 - name: FirmLedger
   url: https://artifacts.apis.io/firmledger-co-ke/apis.yml
   x-apis-io: https://apis.io/providers/firmledger-co-ke/
   x-github: https://github.com/api-evangelist/firmledger-co-ke
-- name: firmtape-com
+- name: Firmoscop
+  url: https://artifacts.apis.io/firmoscop-ro/apis.yml
+  x-apis-io: https://apis.io/providers/firmoscop-ro/
+  x-github: https://github.com/api-evangelist/firmoscop-ro
+- name: FirmTape
   url: https://artifacts.apis.io/firmtape-com/apis.yml
   x-apis-io: https://apis.io/providers/firmtape-com/
   x-github: https://github.com/api-evangelist/firmtape-com
@@ -2125,6 +2589,10 @@ include:
   url: https://artifacts.apis.io/first-direct/apis.yml
   x-apis-io: https://apis.io/providers/first-direct/
   x-github: https://github.com/api-evangelist/first-direct
+- name: First Dollar Test
+  url: https://artifacts.apis.io/first-dollar-test-com/apis.yml
+  x-apis-io: https://apis.io/providers/first-dollar-test-com/
+  x-github: https://github.com/api-evangelist/first-dollar-test-com
 - name: First Hawaiian Bank
   url: https://artifacts.apis.io/first-hawaiian-bank/apis.yml
   x-apis-io: https://apis.io/providers/first-hawaiian-bank/
@@ -2177,6 +2645,10 @@ include:
   url: https://artifacts.apis.io/firstcry/apis.yml
   x-apis-io: https://apis.io/providers/firstcry/
   x-github: https://github.com/api-evangelist/firstcry
+- name: FirstDig
+  url: https://artifacts.apis.io/firstdig-net/apis.yml
+  x-apis-io: https://apis.io/providers/firstdig-net/
+  x-github: https://github.com/api-evangelist/firstdig-net
 - name: FirstEnergy
   url: https://artifacts.apis.io/firstenergy/apis.yml
   x-apis-io: https://apis.io/providers/firstenergy/
@@ -2197,14 +2669,26 @@ include:
   url: https://artifacts.apis.io/firsthand-ai/apis.yml
   x-apis-io: https://apis.io/providers/firsthand-ai/
   x-github: https://github.com/api-evangelist/firsthand-ai
+- name: First100
+  url: https://artifacts.apis.io/firsthundred-app/apis.yml
+  x-apis-io: https://apis.io/providers/firsthundred-app/
+  x-github: https://github.com/api-evangelist/firsthundred-app
 - name: Firstjob.me
   url: https://artifacts.apis.io/firstjobme/apis.yml
   x-apis-io: https://apis.io/providers/firstjobme/
   x-github: https://github.com/api-evangelist/firstjobme
+- name: FirstKey
+  url: https://artifacts.apis.io/firstkey-io/apis.yml
+  x-apis-io: https://apis.io/providers/firstkey-io/
+  x-github: https://github.com/api-evangelist/firstkey-io
 - name: Firstory
   url: https://artifacts.apis.io/firstory/apis.yml
   x-apis-io: https://apis.io/providers/firstory/
   x-github: https://github.com/api-evangelist/firstory
+- name: firstpassmemo-com
+  url: https://artifacts.apis.io/firstpassmemo-com/apis.yml
+  x-apis-io: https://apis.io/providers/firstpassmemo-com/
+  x-github: https://github.com/api-evangelist/firstpassmemo-com
 - name: FirstPromoter
   url: https://artifacts.apis.io/firstpromoter/apis.yml
   x-apis-io: https://apis.io/providers/firstpromoter/
@@ -2213,6 +2697,10 @@ include:
   url: https://artifacts.apis.io/firstrade/apis.yml
   x-apis-io: https://apis.io/providers/firstrade/
   x-github: https://github.com/api-evangelist/firstrade
+- name: First Responder Guide
+  url: https://artifacts.apis.io/firstresponder-guide/apis.yml
+  x-apis-io: https://apis.io/providers/firstresponder-guide/
+  x-github: https://github.com/api-evangelist/firstresponder-guide
 - name: FirstVet
   url: https://artifacts.apis.io/firstvet/apis.yml
   x-apis-io: https://apis.io/providers/firstvet/
@@ -3165,14 +3653,42 @@ include:
   url: https://artifacts.apis.io/flutterflow/apis.yml
   x-apis-io: https://apis.io/providers/flutterflow/
   x-github: https://github.com/api-evangelist/flutterflow
+- name: FlutterGo
+  url: https://artifacts.apis.io/fluttergo-ai/apis.yml
+  x-apis-io: https://apis.io/providers/fluttergo-ai/
+  x-github: https://github.com/api-evangelist/fluttergo-ai
 - name: Flutterwave
   url: https://artifacts.apis.io/flutterwave/apis.yml
   x-apis-io: https://apis.io/providers/flutterwave/
   x-github: https://github.com/api-evangelist/flutterwave
+- name: Fluvigil
+  url: https://artifacts.apis.io/fluvigil-de/apis.yml
+  x-apis-io: https://apis.io/providers/fluvigil-de/
+  x-github: https://github.com/api-evangelist/fluvigil-de
+- name: Flux AI
+  url: https://artifacts.apis.io/fluxaipro-art/apis.yml
+  x-apis-io: https://apis.io/providers/fluxaipro-art/
+  x-github: https://github.com/api-evangelist/fluxaipro-art
+- name: FluxA
+  url: https://artifacts.apis.io/fluxapay-xyz/apis.yml
+  x-apis-io: https://apis.io/providers/fluxapay-xyz/
+  x-github: https://github.com/api-evangelist/fluxapay-xyz
 - name: Flux CD
   url: https://artifacts.apis.io/fluxcd/apis.yml
   x-apis-io: https://apis.io/providers/fluxcd/
   x-github: https://github.com/api-evangelist/fluxcd
+- name: Fluxito
+  url: https://artifacts.apis.io/fluxito-app/apis.yml
+  x-apis-io: https://apis.io/providers/fluxito-app/
+  x-github: https://github.com/api-evangelist/fluxito-app
+- name: FluxNative
+  url: https://artifacts.apis.io/fluxnative-app/apis.yml
+  x-apis-io: https://apis.io/providers/fluxnative-app/
+  x-github: https://github.com/api-evangelist/fluxnative-app
+- name: FluxSocial
+  url: https://artifacts.apis.io/fluxsocial-app/apis.yml
+  x-apis-io: https://apis.io/providers/fluxsocial-app/
+  x-github: https://github.com/api-evangelist/fluxsocial-app
 - name: Fluxx
   url: https://artifacts.apis.io/fluxx-grants/apis.yml
   x-apis-io: https://apis.io/providers/fluxx-grants/
@@ -3189,6 +3705,10 @@ include:
   url: https://artifacts.apis.io/fly-io/apis.yml
   x-apis-io: https://apis.io/providers/fly-io/
   x-github: https://github.com/api-evangelist/fly-io
+- name: FlyBest
+  url: https://artifacts.apis.io/flybest-org/apis.yml
+  x-apis-io: https://apis.io/providers/flybest-org/
+  x-github: https://github.com/api-evangelist/flybest-org
 - name: Flyby Robotics
   url: https://artifacts.apis.io/flyby-robotics/apis.yml
   x-apis-io: https://apis.io/providers/flyby-robotics/
@@ -3205,6 +3725,10 @@ include:
   url: https://artifacts.apis.io/flyfin/apis.yml
   x-apis-io: https://apis.io/providers/flyfin/
   x-github: https://github.com/api-evangelist/flyfin
+- name: Fly Frugal
+  url: https://artifacts.apis.io/flyfrugal-fyi/apis.yml
+  x-apis-io: https://apis.io/providers/flyfrugal-fyi/
+  x-github: https://github.com/api-evangelist/flyfrugal-fyi
 - name: FlyHomes
   url: https://artifacts.apis.io/flyhomes/apis.yml
   x-apis-io: https://apis.io/providers/flyhomes/
@@ -3217,6 +3741,10 @@ include:
   url: https://artifacts.apis.io/flyitalyadsb/apis.yml
   x-apis-io: https://apis.io/providers/flyitalyadsb/
   x-github: https://github.com/api-evangelist/flyitalyadsb
+- name: Flyn
+  url: https://artifacts.apis.io/flyn-to/apis.yml
+  x-apis-io: https://apis.io/providers/flyn-to/
+  x-github: https://github.com/api-evangelist/flyn-to
 - name: FLYR Labs
   url: https://artifacts.apis.io/flyr-labs/apis.yml
   x-apis-io: https://apis.io/providers/flyr-labs/
@@ -3225,6 +3753,10 @@ include:
   url: https://artifacts.apis.io/flyreel/apis.yml
   x-apis-io: https://apis.io/providers/flyreel/
   x-github: https://github.com/api-evangelist/flyreel
+- name: FlyScout
+  url: https://artifacts.apis.io/flyscout-lu/apis.yml
+  x-apis-io: https://apis.io/providers/flyscout-lu/
+  x-github: https://github.com/api-evangelist/flyscout-lu
 - name: Skyflow
   url: https://artifacts.apis.io/flyskyflow-com/apis.yml
   x-apis-io: https://apis.io/providers/flyskyflow-com/
@@ -3237,14 +3769,34 @@ include:
   url: https://artifacts.apis.io/flytedesk/apis.yml
   x-apis-io: https://apis.io/providers/flytedesk/
   x-github: https://github.com/api-evangelist/flytedesk
+- name: Flytel
+  url: https://artifacts.apis.io/flytel-fr/apis.yml
+  x-apis-io: https://apis.io/providers/flytel-fr/
+  x-github: https://github.com/api-evangelist/flytel-fr
+- name: Fly Travel Albania
+  url: https://artifacts.apis.io/flytravel-al/apis.yml
+  x-apis-io: https://apis.io/providers/flytravel-al/
+  x-github: https://github.com/api-evangelist/flytravel-al
 - name: Flytrex
   url: https://artifacts.apis.io/flytrex/apis.yml
   x-apis-io: https://apis.io/providers/flytrex/
   x-github: https://github.com/api-evangelist/flytrex
+- name: flyvolo-ai
+  url: https://artifacts.apis.io/flyvolo-ai/apis.yml
+  x-apis-io: https://apis.io/providers/flyvolo-ai/
+  x-github: https://github.com/api-evangelist/flyvolo-ai
+- name: Flyweel
+  url: https://artifacts.apis.io/flyweel-co/apis.yml
+  x-apis-io: https://apis.io/providers/flyweel-co/
+  x-github: https://github.com/api-evangelist/flyweel-co
 - name: Flywheel
   url: https://artifacts.apis.io/flywheel/apis.yml
   x-apis-io: https://apis.io/providers/flywheel/
   x-github: https://github.com/api-evangelist/flywheel
+- name: Intuitive Bricks AB
+  url: https://artifacts.apis.io/flywhereto-com/apis.yml
+  x-apis-io: https://apis.io/providers/flywhereto-com/
+  x-github: https://github.com/api-evangelist/flywhereto-com
 - name: Flywire
   url: https://artifacts.apis.io/flywire/apis.yml
   x-apis-io: https://apis.io/providers/flywire/
@@ -3269,10 +3821,22 @@ include:
   url: https://artifacts.apis.io/fmc-technologies/apis.yml
   x-apis-io: https://apis.io/providers/fmc-technologies/
   x-github: https://github.com/api-evangelist/fmc-technologies
+- name: fmcg.network
+  url: https://artifacts.apis.io/fmcg-network/apis.yml
+  x-apis-io: https://apis.io/providers/fmcg-network/
+  x-github: https://github.com/api-evangelist/fmcg-network
 - name: fmelo-net
   url: https://artifacts.apis.io/fmelo-net/apis.yml
   x-apis-io: https://apis.io/providers/fmelo-net/
   x-github: https://github.com/api-evangelist/fmelo-net
+- name: Fmind
+  url: https://artifacts.apis.io/fmind-dev/apis.yml
+  x-apis-io: https://apis.io/providers/fmind-dev/
+  x-github: https://github.com/api-evangelist/fmind-dev
+- name: FMlane
+  url: https://artifacts.apis.io/fmlane-com/apis.yml
+  x-apis-io: https://apis.io/providers/fmlane-com/
+  x-github: https://github.com/api-evangelist/fmlane-com
 - name: Fnality International
   url: https://artifacts.apis.io/fnality-international/apis.yml
   x-apis-io: https://apis.io/providers/fnality-international/
@@ -3285,6 +3849,10 @@ include:
   url: https://artifacts.apis.io/fnb-corp/apis.yml
   x-apis-io: https://apis.io/providers/fnb-corp/
   x-github: https://github.com/api-evangelist/fnb-corp
+- name: FnlOwl
+  url: https://artifacts.apis.io/fnlowl-com/apis.yml
+  x-apis-io: https://apis.io/providers/fnlowl-com/
+  x-github: https://github.com/api-evangelist/fnlowl-com
 - name: FNZ
   url: https://artifacts.apis.io/fnz/apis.yml
   x-apis-io: https://apis.io/providers/fnz/
@@ -3293,6 +3861,10 @@ include:
   url: https://artifacts.apis.io/foaas/apis.yml
   x-apis-io: https://apis.io/providers/foaas/
   x-github: https://github.com/api-evangelist/foaas
+- name: foam-ai
+  url: https://artifacts.apis.io/foam-ai/apis.yml
+  x-apis-io: https://apis.io/providers/foam-ai/
+  x-github: https://github.com/api-evangelist/foam-ai
 - name: Foaster
   url: https://artifacts.apis.io/foaster/apis.yml
   x-apis-io: https://apis.io/providers/foaster/
@@ -3309,6 +3881,10 @@ include:
   url: https://artifacts.apis.io/focal-systems/apis.yml
   x-apis-io: https://apis.io/providers/focal-systems/
   x-github: https://github.com/api-evangelist/focal-systems
+- name: Foca Upscaler
+  url: https://artifacts.apis.io/focaupscaler-com/apis.yml
+  x-apis-io: https://apis.io/providers/focaupscaler-com/
+  x-github: https://github.com/api-evangelist/focaupscaler-com
 - name: FOCUS (FinOps Open Cost and Usage Specification)
   url: https://artifacts.apis.io/focus-spec/apis.yml
   x-apis-io: https://apis.io/providers/focus-spec/
@@ -3325,6 +3901,10 @@ include:
   url: https://artifacts.apis.io/fodda-ai/apis.yml
   x-apis-io: https://apis.io/providers/fodda-ai/
   x-github: https://github.com/api-evangelist/fodda-ai
+- name: FoggyKitchen
+  url: https://artifacts.apis.io/foggykitchen-com/apis.yml
+  x-apis-io: https://apis.io/providers/foggykitchen-com/
+  x-github: https://github.com/api-evangelist/foggykitchen-com
 - name: FogHorn Systems (Johnson Controls)
   url: https://artifacts.apis.io/foghorn-systems-johnson-controls/apis.yml
   x-apis-io: https://apis.io/providers/foghorn-systems-johnson-controls/
@@ -3333,6 +3913,18 @@ include:
   url: https://artifacts.apis.io/fold/apis.yml
   x-apis-io: https://apis.io/providers/fold/
   x-github: https://github.com/api-evangelist/fold
+- name: Fold Laboratories
+  url: https://artifacts.apis.io/foldlaboratories-com/apis.yml
+  x-apis-io: https://apis.io/providers/foldlaboratories-com/
+  x-github: https://github.com/api-evangelist/foldlaboratories-com
+- name: Fold Laundry
+  url: https://artifacts.apis.io/foldlaundry-com/apis.yml
+  x-apis-io: https://apis.io/providers/foldlaundry-com/
+  x-github: https://github.com/api-evangelist/foldlaundry-com
+- name: 'Følgpris'
+  url: https://artifacts.apis.io/folgpris-no/apis.yml
+  x-apis-io: https://apis.io/providers/folgpris-no/
+  x-github: https://github.com/api-evangelist/folgpris-no
 - name: Folhamatic
   url: https://artifacts.apis.io/folhamatic/apis.yml
   x-apis-io: https://apis.io/providers/folhamatic/
@@ -3345,6 +3937,26 @@ include:
   url: https://artifacts.apis.io/folio/apis.yml
   x-apis-io: https://apis.io/providers/folio/
   x-github: https://github.com/api-evangelist/folio
+- name: FolioFact
+  url: https://artifacts.apis.io/foliofact-com/apis.yml
+  x-apis-io: https://apis.io/providers/foliofact-com/
+  x-github: https://github.com/api-evangelist/foliofact-com
+- name: Folionomiq
+  url: https://artifacts.apis.io/folionomiq-com/apis.yml
+  x-apis-io: https://apis.io/providers/folionomiq-com/
+  x-github: https://github.com/api-evangelist/folionomiq-com
+- name: Foliora
+  url: https://artifacts.apis.io/foliora-ai/apis.yml
+  x-apis-io: https://apis.io/providers/foliora-ai/
+  x-github: https://github.com/api-evangelist/foliora-ai
+- name: Folio
+  url: https://artifacts.apis.io/foliowiki-online/apis.yml
+  x-apis-io: https://apis.io/providers/foliowiki-online/
+  x-github: https://github.com/api-evangelist/foliowiki-online
+- name: Foliyo
+  url: https://artifacts.apis.io/foliyo-io/apis.yml
+  x-apis-io: https://apis.io/providers/foliyo-io/
+  x-github: https://github.com/api-evangelist/foliyo-io
 - name: Folk
   url: https://artifacts.apis.io/folk/apis.yml
   x-apis-io: https://apis.io/providers/folk/
@@ -3357,10 +3969,18 @@ include:
   url: https://artifacts.apis.io/folksam/apis.yml
   x-apis-io: https://apis.io/providers/folksam/
   x-github: https://github.com/api-evangelist/folksam
+- name: Folkso
+  url: https://artifacts.apis.io/folkso-app/apis.yml
+  x-apis-io: https://apis.io/providers/folkso-app/
+  x-github: https://github.com/api-evangelist/folkso-app
 - name: Follow Up Boss
   url: https://artifacts.apis.io/follow-up-boss/apis.yml
   x-apis-io: https://apis.io/providers/follow-up-boss/
   x-github: https://github.com/api-evangelist/follow-up-boss
+- name: Follow On Tours
+  url: https://artifacts.apis.io/followontours-com/apis.yml
+  x-apis-io: https://apis.io/providers/followontours-com/
+  x-github: https://github.com/api-evangelist/followontours-com
 - name: Folloze
   url: https://artifacts.apis.io/folloze/apis.yml
   x-apis-io: https://apis.io/providers/folloze/
@@ -3373,14 +3993,26 @@ include:
   url: https://artifacts.apis.io/fomo/apis.yml
   x-apis-io: https://apis.io/providers/fomo/
   x-github: https://github.com/api-evangelist/fomo
+- name: FOMOx
+  url: https://artifacts.apis.io/fomox-io/apis.yml
+  x-apis-io: https://apis.io/providers/fomox-io/
+  x-github: https://github.com/api-evangelist/fomox-io
 - name: Fond
   url: https://artifacts.apis.io/fond/apis.yml
   x-apis-io: https://apis.io/providers/fond/
   x-github: https://github.com/api-evangelist/fond
+- name: Fondatoria
+  url: https://artifacts.apis.io/fondatoria-com/apis.yml
+  x-apis-io: https://apis.io/providers/fondatoria-com/
+  x-github: https://github.com/api-evangelist/fondatoria-com
 - name: Fondue
   url: https://artifacts.apis.io/fondue/apis.yml
   x-apis-io: https://apis.io/providers/fondue/
   x-github: https://github.com/api-evangelist/fondue
+- name: Fonixia
+  url: https://artifacts.apis.io/fonixia-fr/apis.yml
+  x-apis-io: https://apis.io/providers/fonixia-fr/
+  x-github: https://github.com/api-evangelist/fonixia-fr
 - name: Fonoa
   url: https://artifacts.apis.io/fonoa/apis.yml
   x-apis-io: https://apis.io/providers/fonoa/
@@ -3425,6 +4057,10 @@ include:
   url: https://artifacts.apis.io/fooddata-central/apis.yml
   x-apis-io: https://apis.io/providers/fooddata-central/
   x-github: https://github.com/api-evangelist/fooddata-central
+- name: Food Hygiene Alerts
+  url: https://artifacts.apis.io/foodhygienealerts-co-uk/apis.yml
+  x-apis-io: https://apis.io/providers/foodhygienealerts-co-uk/
+  x-github: https://github.com/api-evangelist/foodhygienealerts-co-uk
 - name: Alwans
   url: https://artifacts.apis.io/foodics-com/apis.yml
   x-apis-io: https://apis.io/providers/foodics-com/
@@ -3433,10 +4069,26 @@ include:
   url: https://artifacts.apis.io/foodish/apis.yml
   x-apis-io: https://apis.io/providers/foodish/
   x-github: https://github.com/api-evangelist/foodish
+- name: foodnear.me
+  url: https://artifacts.apis.io/foodnear-me/apis.yml
+  x-apis-io: https://apis.io/providers/foodnear-me/
+  x-github: https://github.com/api-evangelist/foodnear-me
+- name: FoodNotes
+  url: https://artifacts.apis.io/foodnotes-org/apis.yml
+  x-apis-io: https://apis.io/providers/foodnotes-org/
+  x-github: https://github.com/api-evangelist/foodnotes-org
 - name: Foodology
   url: https://artifacts.apis.io/foodology/apis.yml
   x-apis-io: https://apis.io/providers/foodology/
   x-github: https://github.com/api-evangelist/foodology
+- name: foodose
+  url: https://artifacts.apis.io/foodose-co/apis.yml
+  x-apis-io: https://apis.io/providers/foodose-co/
+  x-github: https://github.com/api-evangelist/foodose-co
+- name: FoodPhoto
+  url: https://artifacts.apis.io/foodphoto-ai/apis.yml
+  x-apis-io: https://apis.io/providers/foodphoto-ai/
+  x-github: https://github.com/api-evangelist/foodphoto-ai
 - name: Foodsmart
   url: https://artifacts.apis.io/foodsmart/apis.yml
   x-apis-io: https://apis.io/providers/foodsmart/
@@ -3457,10 +4109,18 @@ include:
   url: https://artifacts.apis.io/foodzie/apis.yml
   x-apis-io: https://apis.io/providers/foodzie/
   x-github: https://github.com/api-evangelist/foodzie
+- name: FoolFish Games
+  url: https://artifacts.apis.io/foolfishgames-com/apis.yml
+  x-apis-io: https://apis.io/providers/foolfishgames-com/
+  x-github: https://github.com/api-evangelist/foolfishgames-com
 - name: Foot Locker
   url: https://artifacts.apis.io/foot-locker/apis.yml
   x-apis-io: https://apis.io/providers/foot-locker/
   x-github: https://github.com/api-evangelist/foot-locker
+- name: footage.cool
+  url: https://artifacts.apis.io/footage-cool/apis.yml
+  x-apis-io: https://apis.io/providers/footage-cool/
+  x-github: https://github.com/api-evangelist/footage-cool
 - name: Football Charts
   url: https://artifacts.apis.io/football-charts/apis.yml
   x-apis-io: https://apis.io/providers/football-charts/
@@ -3477,6 +4137,26 @@ include:
   url: https://artifacts.apis.io/football-standings/apis.yml
   x-apis-io: https://apis.io/providers/football-standings/
   x-github: https://github.com/api-evangelist/football-standings
+- name: Football Agent Index
+  url: https://artifacts.apis.io/footballagentindex-com/apis.yml
+  x-apis-io: https://apis.io/providers/footballagentindex-com/
+  x-github: https://github.com/api-evangelist/footballagentindex-com
+- name: FootballGPT
+  url: https://artifacts.apis.io/footballgpt-co/apis.yml
+  x-apis-io: https://apis.io/providers/footballgpt-co/
+  x-github: https://github.com/api-evangelist/footballgpt-co
+- name: Football Trials Database
+  url: https://artifacts.apis.io/footballtrialsdatabase-co-uk/apis.yml
+  x-apis-io: https://apis.io/providers/footballtrialsdatabase-co-uk/
+  x-github: https://github.com/api-evangelist/footballtrialsdatabase-co-uk
+- name: footdigest-com
+  url: https://artifacts.apis.io/footdigest-com/apis.yml
+  x-apis-io: https://apis.io/providers/footdigest-com/
+  x-github: https://github.com/api-evangelist/footdigest-com
+- name: Footfally
+  url: https://artifacts.apis.io/footfally-com/apis.yml
+  x-apis-io: https://apis.io/providers/footfally-com/
+  x-github: https://github.com/api-evangelist/footfally-com
 - name: Footprint Analytics
   url: https://artifacts.apis.io/footprint/apis.yml
   x-apis-io: https://apis.io/providers/footprint/
@@ -3485,6 +4165,10 @@ include:
   url: https://artifacts.apis.io/footway/apis.yml
   x-apis-io: https://apis.io/providers/footway/
   x-github: https://github.com/api-evangelist/footway
+- name: Foqal
+  url: https://artifacts.apis.io/foqal-io/apis.yml
+  x-apis-io: https://apis.io/providers/foqal-io/
+  x-github: https://github.com/api-evangelist/foqal-io
 - name: Fora
   url: https://artifacts.apis.io/fora/apis.yml
   x-apis-io: https://apis.io/providers/fora/
@@ -3625,6 +4309,10 @@ include:
   url: https://artifacts.apis.io/forged-sports-inc/apis.yml
   x-apis-io: https://apis.io/providers/forged-sports-inc/
   x-github: https://github.com/api-evangelist/forged-sports-inc
+- name: ForgeGUI
+  url: https://artifacts.apis.io/forgegui-net/apis.yml
+  x-apis-io: https://apis.io/providers/forgegui-net/
+  x-github: https://github.com/api-evangelist/forgegui-net
 - name: Forgejo
   url: https://artifacts.apis.io/forgejo/apis.yml
   x-apis-io: https://apis.io/providers/forgejo/

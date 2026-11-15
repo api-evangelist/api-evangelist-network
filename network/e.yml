@@ -1,8 +1,8 @@
 name: API Evangelist Network — providers E
-description: 'The 1208 API providers in the API Evangelist network whose repository name begins with E. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
+description: 'The 1254 API providers in the API Evangelist network whose repository name begins with E. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
 url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/e.yml
 created: '2026-02-27'
-modified: '2026-11-06'
+modified: '2026-11-15'
 specificationVersion: '0.23'
 tags:
 - Directory
@@ -17,6 +17,10 @@ include:
   url: https://artifacts.apis.io/e-cross/apis.yml
   x-apis-io: https://apis.io/providers/e-cross/
   x-github: https://github.com/api-evangelist/e-cross
+- name: IbiPoint Ltd
+  url: https://artifacts.apis.io/e-esim-com/apis.yml
+  x-apis-io: https://apis.io/providers/e-esim-com/
+  x-github: https://github.com/api-evangelist/e-esim-com
 - name: e& (Etisalat)
   url: https://artifacts.apis.io/e-etisalat/apis.yml
   x-apis-io: https://apis.io/providers/e-etisalat/
@@ -33,6 +37,14 @@ include:
   url: https://artifacts.apis.io/e-sign/apis.yml
   x-apis-io: https://apis.io/providers/e-sign/
   x-github: https://github.com/api-evangelist/e-sign
+- name: Vignette ID
+  url: https://artifacts.apis.io/e-vignettes-eu/apis.yml
+  x-apis-io: https://apis.io/providers/e-vignettes-eu/
+  x-github: https://github.com/api-evangelist/e-vignettes-eu
+- name: e18e
+  url: https://artifacts.apis.io/e18e-dev/apis.yml
+  x-apis-io: https://apis.io/providers/e18e-dev/
+  x-github: https://github.com/api-evangelist/e18e-dev
 - name: e2a-dev
   url: https://artifacts.apis.io/e2a-dev/apis.yml
   x-apis-io: https://apis.io/providers/e2a-dev/
@@ -45,6 +57,10 @@ include:
   url: https://artifacts.apis.io/e2iptechnologies/apis.yml
   x-apis-io: https://apis.io/providers/e2iptechnologies/
   x-github: https://github.com/api-evangelist/e2iptechnologies
+- name: e2llm
+  url: https://artifacts.apis.io/e2llm-com/apis.yml
+  x-apis-io: https://apis.io/providers/e2llm-com/
+  x-github: https://github.com/api-evangelist/e2llm-com
 - name: E2open
   url: https://artifacts.apis.io/e2open/apis.yml
   x-apis-io: https://apis.io/providers/e2open/
@@ -121,6 +137,14 @@ include:
   url: https://artifacts.apis.io/earli/apis.yml
   x-apis-io: https://apis.io/providers/earli/
   x-github: https://github.com/api-evangelist/earli
+- name: EarlyFrame
+  url: https://artifacts.apis.io/earlyfra-me/apis.yml
+  x-apis-io: https://apis.io/providers/earlyfra-me/
+  x-github: https://github.com/api-evangelist/earlyfra-me
+- name: earmarkIQ
+  url: https://artifacts.apis.io/earmarkiq-app/apis.yml
+  x-apis-io: https://apis.io/providers/earmarkiq-app/
+  x-github: https://github.com/api-evangelist/earmarkiq-app
 - name: Earn
   url: https://artifacts.apis.io/earn/apis.yml
   x-apis-io: https://apis.io/providers/earn/
@@ -153,6 +177,10 @@ include:
   url: https://artifacts.apis.io/earningscalls-dev/apis.yml
   x-apis-io: https://apis.io/providers/earningscalls-dev/
   x-github: https://github.com/api-evangelist/earningscalls-dev
+- name: Earnings Feed
+  url: https://artifacts.apis.io/earningsfeed-com/apis.yml
+  x-apis-io: https://apis.io/providers/earningsfeed-com/
+  x-github: https://github.com/api-evangelist/earningsfeed-com
 - name: EarningsWave
   url: https://artifacts.apis.io/earningswave/apis.yml
   x-apis-io: https://apis.io/providers/earningswave/
@@ -209,6 +237,14 @@ include:
   url: https://artifacts.apis.io/easecentral/apis.yml
   x-apis-io: https://apis.io/providers/easecentral/
   x-github: https://github.com/api-evangelist/easecentral
+- name: EaseClaw
+  url: https://artifacts.apis.io/easeclaw-com/apis.yml
+  x-apis-io: https://apis.io/providers/easeclaw-com/
+  x-github: https://github.com/api-evangelist/easeclaw-com
+- name: Eased UI
+  url: https://artifacts.apis.io/eased-dev/apis.yml
+  x-apis-io: https://apis.io/providers/eased-dev/
+  x-github: https://github.com/api-evangelist/eased-dev
 - name: Easee
   url: https://artifacts.apis.io/easee/apis.yml
   x-apis-io: https://apis.io/providers/easee/
@@ -221,6 +257,10 @@ include:
   url: https://artifacts.apis.io/easel-com/apis.yml
   x-apis-io: https://apis.io/providers/easel-com/
   x-github: https://github.com/api-evangelist/easel-com
+- name: easeweb-host
+  url: https://artifacts.apis.io/easeweb-host/apis.yml
+  x-apis-io: https://apis.io/providers/easeweb-host/
+  x-github: https://github.com/api-evangelist/easeweb-host
 - name: Easol
   url: https://artifacts.apis.io/easol/apis.yml
   x-apis-io: https://apis.io/providers/easol/
@@ -257,22 +297,54 @@ include:
   url: https://artifacts.apis.io/easy-metrics/apis.yml
   x-apis-io: https://apis.io/providers/easy-metrics/
   x-github: https://github.com/api-evangelist/easy-metrics
+- name: Easy2257
+  url: https://artifacts.apis.io/easy2257-com/apis.yml
+  x-apis-io: https://apis.io/providers/easy2257-com/
+  x-github: https://github.com/api-evangelist/easy2257-com
+- name: EasyAccessPDF
+  url: https://artifacts.apis.io/easyaccesspdf-com/apis.yml
+  x-apis-io: https://apis.io/providers/easyaccesspdf-com/
+  x-github: https://github.com/api-evangelist/easyaccesspdf-com
 - name: Easyaerospace
   url: https://artifacts.apis.io/easyaerospace/apis.yml
   x-apis-io: https://apis.io/providers/easyaerospace/
   x-github: https://github.com/api-evangelist/easyaerospace
+- name: '이지에이전시'
+  url: https://artifacts.apis.io/easyagency-co-kr/apis.yml
+  x-apis-io: https://apis.io/providers/easyagency-co-kr/
+  x-github: https://github.com/api-evangelist/easyagency-co-kr
 - name: EasyAR CRS API
   url: https://artifacts.apis.io/easyar-crs-api/apis.yml
   x-apis-io: https://apis.io/providers/easyar-crs-api/
   x-github: https://github.com/api-evangelist/easyar-crs-api
+- name: easybits-cloud
+  url: https://artifacts.apis.io/easybits-cloud/apis.yml
+  x-apis-io: https://apis.io/providers/easybits-cloud/
+  x-github: https://github.com/api-evangelist/easybits-cloud
+- name: EasyData
+  url: https://artifacts.apis.io/easydata-cc/apis.yml
+  x-apis-io: https://apis.io/providers/easydata-cc/
+  x-github: https://github.com/api-evangelist/easydata-cc
 - name: Easydial
   url: https://artifacts.apis.io/easydial/apis.yml
   x-apis-io: https://apis.io/providers/easydial/
   x-github: https://github.com/api-evangelist/easydial
+- name: Easy Email Verification
+  url: https://artifacts.apis.io/easyemailverification-com/apis.yml
+  x-apis-io: https://apis.io/providers/easyemailverification-com/
+  x-github: https://github.com/api-evangelist/easyemailverification-com
 - name: 'X402 AI 自助门店'
   url: https://artifacts.apis.io/easyfence-cn/apis.yml
   x-apis-io: https://apis.io/providers/easyfence-cn/
   x-github: https://github.com/api-evangelist/easyfence-cn
+- name: EasyGerber
+  url: https://artifacts.apis.io/easygerber-com/apis.yml
+  x-apis-io: https://apis.io/providers/easygerber-com/
+  x-github: https://github.com/api-evangelist/easygerber-com
+- name: EasyGroupFlights
+  url: https://artifacts.apis.io/easygroupflights-com/apis.yml
+  x-apis-io: https://apis.io/providers/easygroupflights-com/
+  x-github: https://github.com/api-evangelist/easygroupflights-com
 - name: Easyhealth
   url: https://artifacts.apis.io/easyhealth/apis.yml
   x-apis-io: https://apis.io/providers/easyhealth/
@@ -281,10 +353,18 @@ include:
   url: https://artifacts.apis.io/easyjet/apis.yml
   x-apis-io: https://apis.io/providers/easyjet/
   x-github: https://github.com/api-evangelist/easyjet
+- name: EasyKanban
+  url: https://artifacts.apis.io/easykanb-app/apis.yml
+  x-apis-io: https://apis.io/providers/easykanb-app/
+  x-github: https://github.com/api-evangelist/easykanb-app
 - name: EasyKnock
   url: https://artifacts.apis.io/easyknock/apis.yml
   x-apis-io: https://apis.io/providers/easyknock/
   x-github: https://github.com/api-evangelist/easyknock
+- name: EasyOnward
+  url: https://artifacts.apis.io/easyonward-com/apis.yml
+  x-apis-io: https://apis.io/providers/easyonward-com/
+  x-github: https://github.com/api-evangelist/easyonward-com
 - name: Easypanel
   url: https://artifacts.apis.io/easypanel/apis.yml
   x-apis-io: https://apis.io/providers/easypanel/
@@ -297,6 +377,10 @@ include:
   url: https://artifacts.apis.io/easypay/apis.yml
   x-apis-io: https://apis.io/providers/easypay/
   x-github: https://github.com/api-evangelist/easypay
+- name: EasyPDF
+  url: https://artifacts.apis.io/easypdf-fr/apis.yml
+  x-apis-io: https://apis.io/providers/easypdf-fr/
+  x-github: https://github.com/api-evangelist/easypdf-fr
 - name: EasyPost
   url: https://artifacts.apis.io/easypost/apis.yml
   x-apis-io: https://apis.io/providers/easypost/
@@ -309,6 +393,10 @@ include:
   url: https://artifacts.apis.io/easysize/apis.yml
   x-apis-io: https://apis.io/providers/easysize/
   x-github: https://github.com/api-evangelist/easysize
+- name: EasyVoice
+  url: https://artifacts.apis.io/easyvoice-ae/apis.yml
+  x-apis-io: https://apis.io/providers/easyvoice-ae/
+  x-github: https://github.com/api-evangelist/easyvoice-ae
 - name: EasyWay Technologies
   url: https://artifacts.apis.io/easyway-technologies/apis.yml
   x-apis-io: https://apis.io/providers/easyway-technologies/
@@ -317,6 +405,10 @@ include:
   url: https://artifacts.apis.io/easywebinar/apis.yml
   x-apis-io: https://apis.io/providers/easywebinar/
   x-github: https://github.com/api-evangelist/easywebinar
+- name: EasyWebshop
+  url: https://artifacts.apis.io/easywebshop-com/apis.yml
+  x-apis-io: https://apis.io/providers/easywebshop-com/
+  x-github: https://github.com/api-evangelist/easywebshop-com
 - name: easyweek-io
   url: https://artifacts.apis.io/easyweek-io/apis.yml
   x-apis-io: https://apis.io/providers/easyweek-io/
@@ -333,6 +425,14 @@ include:
   url: https://artifacts.apis.io/eat-just/apis.yml
   x-apis-io: https://apis.io/providers/eat-just/
   x-github: https://github.com/api-evangelist/eat-just
+- name: Loyalist
+  url: https://artifacts.apis.io/eatloyalist-com/apis.yml
+  x-apis-io: https://apis.io/providers/eatloyalist-com/
+  x-github: https://github.com/api-evangelist/eatloyalist-com
+- name: eatmundo
+  url: https://artifacts.apis.io/eatmundo-com/apis.yml
+  x-apis-io: https://apis.io/providers/eatmundo-com/
+  x-github: https://github.com/api-evangelist/eatmundo-com
 - name: Eaton
   url: https://artifacts.apis.io/eaton/apis.yml
   x-apis-io: https://apis.io/providers/eaton/
@@ -385,6 +485,10 @@ include:
   url: https://artifacts.apis.io/ebbo/apis.yml
   x-apis-io: https://apis.io/providers/ebbo/
   x-github: https://github.com/api-evangelist/ebbo
+- name: eBilanz Fabrik
+  url: https://artifacts.apis.io/ebilanzfabrik-de/apis.yml
+  x-apis-io: https://apis.io/providers/ebilanzfabrik-de/
+  x-github: https://github.com/api-evangelist/ebilanzfabrik-de
 - name: eBird
   url: https://artifacts.apis.io/ebird/apis.yml
   x-apis-io: https://apis.io/providers/ebird/
@@ -433,6 +537,10 @@ include:
   url: https://artifacts.apis.io/ecbo/apis.yml
   x-apis-io: https://apis.io/providers/ecbo/
   x-github: https://github.com/api-evangelist/ecbo
+- name: ECCA
+  url: https://artifacts.apis.io/eccaai-com/apis.yml
+  x-apis-io: https://apis.io/providers/eccaai-com/
+  x-github: https://github.com/api-evangelist/eccaai-com
 - name: Ecellix
   url: https://artifacts.apis.io/ecellix/apis.yml
   x-apis-io: https://apis.io/providers/ecellix/
@@ -457,6 +565,10 @@ include:
   url: https://artifacts.apis.io/echelon-ai/apis.yml
   x-apis-io: https://apis.io/providers/echelon-ai/
   x-github: https://github.com/api-evangelist/echelon-ai
+- name: EchelonGraph
+  url: https://artifacts.apis.io/echelongraph-io/apis.yml
+  x-apis-io: https://apis.io/providers/echelongraph-io/
+  x-github: https://github.com/api-evangelist/echelongraph-io
 - name: Echo
   url: https://artifacts.apis.io/echo/apis.yml
   x-apis-io: https://apis.io/providers/echo/
@@ -473,10 +585,18 @@ include:
   url: https://artifacts.apis.io/echo-labs/apis.yml
   x-apis-io: https://apis.io/providers/echo-labs/
   x-github: https://github.com/api-evangelist/echo-labs
+- name: Echo Memory
+  url: https://artifacts.apis.io/echo-mem-com/apis.yml
+  x-apis-io: https://apis.io/providers/echo-mem-com/
+  x-github: https://github.com/api-evangelist/echo-mem-com
 - name: echo3D
   url: https://artifacts.apis.io/echo3d/apis.yml
   x-apis-io: https://apis.io/providers/echo3d/
   x-github: https://github.com/api-evangelist/echo3d
+- name: Echo AI
+  url: https://artifacts.apis.io/echoai-so/apis.yml
+  x-apis-io: https://apis.io/providers/echoai-so/
+  x-github: https://github.com/api-evangelist/echoai-so
 - name: EchoAPI
   url: https://artifacts.apis.io/echoapi/apis.yml
   x-apis-io: https://apis.io/providers/echoapi/
@@ -489,6 +609,14 @@ include:
   url: https://artifacts.apis.io/echoleads/apis.yml
   x-apis-io: https://apis.io/providers/echoleads/
   x-github: https://github.com/api-evangelist/echoleads
+- name: EchoLedger
+  url: https://artifacts.apis.io/echoledger-ai/apis.yml
+  x-apis-io: https://apis.io/providers/echoledger-ai/
+  x-github: https://github.com/api-evangelist/echoledger-ai
+- name: Echoloc
+  url: https://artifacts.apis.io/echoloc-ai/apis.yml
+  x-apis-io: https://apis.io/providers/echoloc-ai/
+  x-github: https://github.com/api-evangelist/echoloc-ai
 - name: EchoMark
   url: https://artifacts.apis.io/echomark/apis.yml
   x-apis-io: https://apis.io/providers/echomark/
@@ -501,6 +629,10 @@ include:
   url: https://artifacts.apis.io/echorelay/apis.yml
   x-apis-io: https://apis.io/providers/echorelay/
   x-github: https://github.com/api-evangelist/echorelay
+- name: Echosaw
+  url: https://artifacts.apis.io/echosaw-com/apis.yml
+  x-apis-io: https://apis.io/providers/echosaw-com/
+  x-github: https://github.com/api-evangelist/echosaw-com
 - name: EchoStar
   url: https://artifacts.apis.io/echostar/apis.yml
   x-apis-io: https://apis.io/providers/echostar/
@@ -509,6 +641,10 @@ include:
   url: https://artifacts.apis.io/eci-solutions/apis.yml
   x-apis-io: https://apis.io/providers/eci-solutions/
   x-github: https://github.com/api-evangelist/eci-solutions
+- name: Eckari
+  url: https://artifacts.apis.io/eckari-com/apis.yml
+  x-apis-io: https://apis.io/providers/eckari-com/
+  x-github: https://github.com/api-evangelist/eckari-com
 - name: eClinicalWorks
   url: https://artifacts.apis.io/eclinicalworks/apis.yml
   x-apis-io: https://apis.io/providers/eclinicalworks/
@@ -545,6 +681,14 @@ include:
   url: https://artifacts.apis.io/eco2grow/apis.yml
   x-apis-io: https://apis.io/providers/eco2grow/
   x-github: https://github.com/api-evangelist/eco2grow
+- name: ecoa
+  url: https://artifacts.apis.io/ecoa-dev/apis.yml
+  x-apis-io: https://apis.io/providers/ecoa-dev/
+  x-github: https://github.com/api-evangelist/ecoa-dev
+- name: EcoAloha
+  url: https://artifacts.apis.io/ecoaloha-com/apis.yml
+  x-apis-io: https://apis.io/providers/ecoaloha-com/
+  x-github: https://github.com/api-evangelist/ecoaloha-com
 - name: ecobee
   url: https://artifacts.apis.io/ecobee/apis.yml
   x-apis-io: https://apis.io/providers/ecobee/
@@ -557,10 +701,22 @@ include:
   url: https://artifacts.apis.io/ecocart/apis.yml
   x-apis-io: https://apis.io/providers/ecocart/
   x-github: https://github.com/api-evangelist/ecocart
+- name: EcoCheck
+  url: https://artifacts.apis.io/ecocheck-ai/apis.yml
+  x-apis-io: https://apis.io/providers/ecocheck-ai/
+  x-github: https://github.com/api-evangelist/ecocheck-ai
+- name: EcoCitizenz
+  url: https://artifacts.apis.io/ecocitizenz-com/apis.yml
+  x-apis-io: https://apis.io/providers/ecocitizenz-com/
+  x-github: https://github.com/api-evangelist/ecocitizenz-com
 - name: EcoDataCenter
   url: https://artifacts.apis.io/ecodatacenter/apis.yml
   x-apis-io: https://apis.io/providers/ecodatacenter/
   x-github: https://github.com/api-evangelist/ecodatacenter
+- name: ecoExperten
+  url: https://artifacts.apis.io/ecoexperten-com/apis.yml
+  x-apis-io: https://apis.io/providers/ecoexperten-com/
+  x-github: https://github.com/api-evangelist/ecoexperten-com
 - name: EcoFlow
   url: https://artifacts.apis.io/ecoflow/apis.yml
   x-apis-io: https://apis.io/providers/ecoflow/
@@ -589,6 +745,10 @@ include:
   url: https://artifacts.apis.io/ecomap-technologies/apis.yml
   x-apis-io: https://apis.io/providers/ecomap-technologies/
   x-github: https://github.com/api-evangelist/ecomap-technologies
+- name: ecomdly
+  url: https://artifacts.apis.io/ecomdly-com/apis.yml
+  x-apis-io: https://apis.io/providers/ecomdly-com/
+  x-github: https://github.com/api-evangelist/ecomdly-com
 - name: EcomExperts
   url: https://artifacts.apis.io/ecomexperts/apis.yml
   x-apis-io: https://apis.io/providers/ecomexperts/
@@ -597,6 +757,10 @@ include:
   url: https://artifacts.apis.io/ecommercedataapi-com/apis.yml
   x-apis-io: https://apis.io/providers/ecommercedataapi-com/
   x-github: https://github.com/api-evangelist/ecommercedataapi-com
+- name: Ecom Image Optimizer
+  url: https://artifacts.apis.io/ecommerceimageoptimizer-com/apis.yml
+  x-apis-io: https://apis.io/providers/ecommerceimageoptimizer-com/
+  x-github: https://github.com/api-evangelist/ecommerceimageoptimizer-com
 - name: ECOMMPAY
   url: https://artifacts.apis.io/ecommpay/apis.yml
   x-apis-io: https://apis.io/providers/ecommpay/
@@ -609,6 +773,10 @@ include:
   url: https://artifacts.apis.io/ecomom-com/apis.yml
   x-apis-io: https://apis.io/providers/ecomom-com/
   x-github: https://github.com/api-evangelist/ecomom-com
+- name: EcomScout
+  url: https://artifacts.apis.io/ecomscout-com/apis.yml
+  x-apis-io: https://apis.io/providers/ecomscout-com/
+  x-github: https://github.com/api-evangelist/ecomscout-com
 - name: Econdb
   url: https://artifacts.apis.io/econdb/apis.yml
   x-apis-io: https://apis.io/providers/econdb/
@@ -653,6 +821,10 @@ include:
   url: https://artifacts.apis.io/ecovacs-robotics/apis.yml
   x-apis-io: https://apis.io/providers/ecovacs-robotics/
   x-github: https://github.com/api-evangelist/ecovacs-robotics
+- name: ecovanmove-com
+  url: https://artifacts.apis.io/ecovanmove-com/apis.yml
+  x-apis-io: https://apis.io/providers/ecovanmove-com/
+  x-github: https://github.com/api-evangelist/ecovanmove-com
 - name: Ecovate
   url: https://artifacts.apis.io/ecovate/apis.yml
   x-apis-io: https://apis.io/providers/ecovate/
@@ -661,6 +833,10 @@ include:
   url: https://artifacts.apis.io/ecpay/apis.yml
   x-apis-io: https://apis.io/providers/ecpay/
   x-github: https://github.com/api-evangelist/ecpay
+- name: ECPRO
+  url: https://artifacts.apis.io/ecpro-tw/apis.yml
+  x-apis-io: https://apis.io/providers/ecpro-tw/
+  x-github: https://github.com/api-evangelist/ecpro-tw
 - name: eCredit.com
   url: https://artifacts.apis.io/ecreditcom/apis.yml
   x-apis-io: https://apis.io/providers/ecreditcom/
@@ -697,6 +873,10 @@ include:
   url: https://artifacts.apis.io/eden-ai/apis.yml
   x-apis-io: https://apis.io/providers/eden-ai/
   x-github: https://github.com/api-evangelist/eden-ai
+- name: Eden Engine
+  url: https://artifacts.apis.io/eden-engine-com/apis.yml
+  x-apis-io: https://apis.io/providers/eden-engine-com/
+  x-github: https://github.com/api-evangelist/eden-engine-com
 - name: Eden Health
   url: https://artifacts.apis.io/eden-health/apis.yml
   x-apis-io: https://apis.io/providers/eden-health/
@@ -2757,6 +2937,10 @@ include:
   url: https://artifacts.apis.io/enterprise-products-partners/apis.yml
   x-apis-io: https://apis.io/providers/enterprise-products-partners/
   x-github: https://github.com/api-evangelist/enterprise-products-partners
+- name: Wikimedia Enterprise
+  url: https://artifacts.apis.io/enterprise-wikimedia-com/apis.yml
+  x-apis-io: https://apis.io/providers/enterprise-wikimedia-com/
+  x-github: https://github.com/api-evangelist/enterprise-wikimedia-com
 - name: EDB
   url: https://artifacts.apis.io/enterprisedb/apis.yml
   x-apis-io: https://apis.io/providers/enterprisedb/
@@ -3821,6 +4005,10 @@ include:
   url: https://artifacts.apis.io/eusend-dev/apis.yml
   x-apis-io: https://apis.io/providers/eusend-dev/
   x-github: https://github.com/api-evangelist/eusend-dev
+- name: Gobierno Vasco / Euskadi
+  url: https://artifacts.apis.io/euskadi-eus/apis.yml
+  x-apis-io: https://apis.io/providers/euskadi-eus/
+  x-github: https://github.com/api-evangelist/euskadi-eus
 - name: Euskalmet
   url: https://artifacts.apis.io/euskalmet/apis.yml
   x-apis-io: https://apis.io/providers/euskalmet/
@@ -4425,10 +4613,6 @@ include:
   url: https://artifacts.apis.io/excalidraw/apis.yml
   x-apis-io: https://apis.io/providers/excalidraw/
   x-github: https://github.com/api-evangelist/excalidraw
-- name: Excel Macros
-  url: https://artifacts.apis.io/excel-macros/apis.yml
-  x-apis-io: https://apis.io/providers/excel-macros/
-  x-github: https://github.com/api-evangelist/excel-macros
 - name: Excelergy
   url: https://artifacts.apis.io/excelergy/apis.yml
   x-apis-io: https://apis.io/providers/excelergy/

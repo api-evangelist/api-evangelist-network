@@ -1,6 +1,6 @@
 # API Evangelist Network — providers Q
 
-295 providers whose repository name begins with **Q**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/q.yml](../network/q.yml).
+296 providers whose repository name begins with **Q**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/q.yml](../network/q.yml).
 
 [← All providers](../README.md)
 
@@ -121,6 +121,7 @@
 | Quadratic | [quadratic](https://apis.io/providers/quadratic/) | [quadratic](https://github.com/api-evangelist/quadratic) |
 | Quadric | [quadric](https://apis.io/providers/quadric/) | [quadric](https://github.com/api-evangelist/quadric) |
 | Quadrillion | [quadrillion](https://apis.io/providers/quadrillion/) | [quadrillion](https://github.com/api-evangelist/quadrillion) |
+| Quady3D AI | [quady3d-com](https://apis.io/providers/quady3d-com/) | [quady3d-com](https://github.com/api-evangelist/quady3d-com) |
 | Quago Technologies | [quago-technologies-ltd](https://apis.io/providers/quago-technologies-ltd/) | [quago-technologies-ltd](https://github.com/api-evangelist/quago-technologies-ltd) |
 | Quai Network | [quai-network](https://apis.io/providers/quai-network/) | [quai-network](https://github.com/api-evangelist/quai-network) |
 | Quaise Energy | [quaise-energy](https://apis.io/providers/quaise-energy/) | [quaise-energy](https://github.com/api-evangelist/quaise-energy) |

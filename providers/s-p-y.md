@@ -1,6 +1,6 @@
 # API Evangelist Network — providers Sp-Sy
 
-1,225 providers whose repository name begins with **Sp-Sy**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/s-p-y.yml](../network/s-p-y.yml).
+1,231 providers whose repository name begins with **Sp-Sy**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/s-p-y.yml](../network/s-p-y.yml).
 
 [← All providers](../README.md)
 
@@ -374,6 +374,7 @@
 | StackShare | [stackshare](https://apis.io/providers/stackshare/) | [stackshare](https://github.com/api-evangelist/stackshare) |
 | StackSocial | [stacksocial](https://apis.io/providers/stacksocial/) | [stacksocial](https://github.com/api-evangelist/stacksocial) |
 | StackYard | [stackyard](https://apis.io/providers/stackyard/) | [stackyard](https://github.com/api-evangelist/stackyard) |
+| Stad Gent | [stad-gent](https://apis.io/providers/stad-gent/) | [stad-gent](https://github.com/api-evangelist/stad-gent) |
 | Stader Labs | [stader-labs](https://apis.io/providers/stader-labs/) | [stader-labs](https://github.com/api-evangelist/stader-labs) |
 | Stadia Maps | [stadia-maps](https://apis.io/providers/stadia-maps/) | [stadia-maps](https://github.com/api-evangelist/stadia-maps) |
 | Staffbase | [staffbase](https://apis.io/providers/staffbase/) | [staffbase](https://github.com/api-evangelist/staffbase) |
@@ -467,7 +468,10 @@
 | Stash | [stashapp](https://apis.io/providers/stashapp/) | [stashapp](https://github.com/api-evangelist/stashapp) |
 | StashAway | [stashaway](https://apis.io/providers/stashaway/) | [stashaway](https://github.com/api-evangelist/stashaway) |
 | stat-api-com | [stat-api-com](https://apis.io/providers/stat-api-com/) | [stat-api-com](https://github.com/api-evangelist/stat-api-com) |
+| Statistics Finland | [stat-fi](https://apis.io/providers/stat-fi/) | [stat-fi](https://github.com/api-evangelist/stat-fi) |
+| Statistics Poland (GUS) | [stat-gov-pl](https://apis.io/providers/stat-gov-pl/) | [stat-gov-pl](https://github.com/api-evangelist/stat-gov-pl) |
 | Statable Stats API | [statable-stats-api](https://apis.io/providers/statable-stats-api/) | [statable-stats-api](https://github.com/api-evangelist/statable-stats-api) |
+| Statbel (Belgian statistics) | [statbel-be](https://apis.io/providers/statbel-be/) | [statbel-be](https://github.com/api-evangelist/statbel-be) |
 | StatCounter | [statcounter](https://apis.io/providers/statcounter/) | [statcounter](https://github.com/api-evangelist/statcounter) |
 | State Authority for Geospatial Information (ASIG) | [state-authority-for-geospatial-information-asig](https://apis.io/providers/state-authority-for-geospatial-information-asig/) | [state-authority-for-geospatial-information-asig](https://github.com/api-evangelist/state-authority-for-geospatial-information-asig) |
 | State Employees' Credit Union | [state-employees-credit-union](https://apis.io/providers/state-employees-credit-union/) | [state-employees-credit-union](https://github.com/api-evangelist/state-employees-credit-union) |
@@ -479,6 +483,7 @@
 | Statespace | [statespace-gg](https://apis.io/providers/statespace-gg/) | [statespace-gg](https://github.com/api-evangelist/statespace-gg) |
 | Statically | [statically](https://apis.io/providers/statically/) | [statically](https://github.com/api-evangelist/statically) |
 | Statistics Centre - Abu Dhabi | [statistics-centre-abu-dhabi](https://apis.io/providers/statistics-centre-abu-dhabi/) | [statistics-centre-abu-dhabi](https://github.com/api-evangelist/statistics-centre-abu-dhabi) |
+| Statistik Austria | [statistik-at](https://apis.io/providers/statistik-at/) | [statistik-at](https://github.com/api-evangelist/statistik-at) |
 | StatMuse | [statmuse](https://apis.io/providers/statmuse/) | [statmuse](https://github.com/api-evangelist/statmuse) |
 | StatOrigin | [statorigin](https://apis.io/providers/statorigin/) | [statorigin](https://github.com/api-evangelist/statorigin) |
 | Statorium | [statorium](https://apis.io/providers/statorium/) | [statorium](https://github.com/api-evangelist/statorium) |
@@ -773,7 +778,6 @@
 | Subway | [subway](https://apis.io/providers/subway/) | [subway](https://github.com/api-evangelist/subway) |
 | SuccessionMatching | [successionmatching](https://apis.io/providers/successionmatching/) | [successionmatching](https://github.com/api-evangelist/successionmatching) |
 | Succinct | [succinct](https://apis.io/providers/succinct/) | [succinct](https://github.com/api-evangelist/succinct) |
-| sudhanva-me | [sudhanva-me](https://apis.io/providers/sudhanva-me/) | [sudhanva-me](https://github.com/api-evangelist/sudhanva-me) |
 | sudomock-com | [sudomock-com](https://apis.io/providers/sudomock-com/) | [sudomock-com](https://github.com/api-evangelist/sudomock-com) |
 | Sudoswap | [sudoswap](https://apis.io/providers/sudoswap/) | [sudoswap](https://github.com/api-evangelist/sudoswap) |
 | Sudowrite | [sudowrite](https://apis.io/providers/sudowrite/) | [sudowrite](https://github.com/api-evangelist/sudowrite) |
@@ -856,6 +860,7 @@
 | Sunthetics | [sunthetics](https://apis.io/providers/sunthetics/) | [sunthetics](https://github.com/api-evangelist/sunthetics) |
 | SUNWODA | [sunwoda](https://apis.io/providers/sunwoda/) | [sunwoda](https://github.com/api-evangelist/sunwoda) |
 | Sunyur | [sunyur](https://apis.io/providers/sunyur/) | [sunyur](https://github.com/api-evangelist/sunyur) |
+| Suomi.fi | [suomi-fi](https://apis.io/providers/suomi-fi/) | [suomi-fi](https://github.com/api-evangelist/suomi-fi) |
 | SUPA | [supa](https://apis.io/providers/supa/) | [supa](https://github.com/api-evangelist/supa) |
 | Supabase | [supabase](https://apis.io/providers/supabase/) | [supabase](https://github.com/api-evangelist/supabase) |
 | supadata-ai | [supadata-ai](https://apis.io/providers/supadata-ai/) | [supadata-ai](https://github.com/api-evangelist/supadata-ai) |
@@ -1168,6 +1173,7 @@
 | Syndicate | [syndicate](https://apis.io/providers/syndicate/) | [syndicate](https://github.com/api-evangelist/syndicate) |
 | Syndigo | [syndigo](https://apis.io/providers/syndigo/) | [syndigo](https://github.com/api-evangelist/syndigo) |
 | Syndio | [syndio](https://apis.io/providers/syndio/) | [syndio](https://github.com/api-evangelist/syndio) |
+| Synento | [synento-com](https://apis.io/providers/synento-com/) | [synento-com](https://github.com/api-evangelist/synento-com) |
 | Syneos Health | [syneos-health](https://apis.io/providers/syneos-health/) | [syneos-health](https://github.com/api-evangelist/syneos-health) |
 | SynergyList | [synergylist](https://apis.io/providers/synergylist/) | [synergylist](https://github.com/api-evangelist/synergylist) |
 | SynergySuite | [synergysuite](https://apis.io/providers/synergysuite/) | [synergysuite](https://github.com/api-evangelist/synergysuite) |

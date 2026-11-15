@@ -1,8 +1,8 @@
 name: API Evangelist Network — providers G
-description: 'The 1299 API providers in the API Evangelist network whose repository name begins with G. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
+description: 'The 1293 API providers in the API Evangelist network whose repository name begins with G. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
 url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/g.yml
 created: '2026-02-27'
-modified: '2026-11-06'
+modified: '2026-11-15'
 specificationVersion: '0.23'
 tags:
 - Directory
@@ -653,6 +653,10 @@ include:
   url: https://artifacts.apis.io/genasys/apis.yml
   x-apis-io: https://apis.io/providers/genasys/
   x-github: https://github.com/api-evangelist/genasys
+- name: Generalitat de Catalunya
+  url: https://artifacts.apis.io/gencat-cat/apis.yml
+  x-apis-io: https://apis.io/providers/gencat-cat/
+  x-github: https://github.com/api-evangelist/gencat-cat
 - name: Gencove
   url: https://artifacts.apis.io/gencove/apis.yml
   x-apis-io: https://apis.io/providers/gencove/
@@ -1449,6 +1453,10 @@ include:
   url: https://artifacts.apis.io/getfabric-com/apis.yml
   x-apis-io: https://apis.io/providers/getfabric-com/
   x-github: https://github.com/api-evangelist/getfabric-com
+- name: Filmcraft
+  url: https://artifacts.apis.io/getfilmcraft-org/apis.yml
+  x-apis-io: https://apis.io/providers/getfilmcraft-org/
+  x-github: https://github.com/api-evangelist/getfilmcraft-org
 - name: Flank
   url: https://artifacts.apis.io/getflank-ai/apis.yml
   x-apis-io: https://apis.io/providers/getflank-ai/
@@ -2425,10 +2433,6 @@ include:
   url: https://artifacts.apis.io/gm-onstar/apis.yml
   x-apis-io: https://apis.io/providers/gm-onstar/
   x-github: https://github.com/api-evangelist/gm-onstar
-- name: Gmail
-  url: https://artifacts.apis.io/gmail/apis.yml
-  x-apis-io: https://apis.io/providers/gmail/
-  x-github: https://github.com/api-evangelist/gmail
 - name: GMI Cloud
   url: https://artifacts.apis.io/gmi-cloud/apis.yml
   x-apis-io: https://apis.io/providers/gmi-cloud/
@@ -2905,6 +2909,10 @@ include:
   url: https://artifacts.apis.io/goodstack/apis.yml
   x-apis-io: https://apis.io/providers/goodstack/
   x-github: https://github.com/api-evangelist/goodstack
+- name: Good Timing
+  url: https://artifacts.apis.io/goodtiming-ai/apis.yml
+  x-apis-io: https://apis.io/providers/goodtiming-ai/
+  x-github: https://github.com/api-evangelist/goodtiming-ai
 - name: GoodUnited
   url: https://artifacts.apis.io/goodunited/apis.yml
   x-apis-io: https://apis.io/providers/goodunited/
@@ -2937,7 +2945,7 @@ include:
   url: https://artifacts.apis.io/google-ad-manager/apis.yml
   x-apis-io: https://apis.io/providers/google-ad-manager/
   x-github: https://github.com/api-evangelist/google-ad-manager
-- name: Google ADK
+- name: Google Agent Development Kit (ADK)
   url: https://artifacts.apis.io/google-adk/apis.yml
   x-apis-io: https://apis.io/providers/google-adk/
   x-github: https://github.com/api-evangelist/google-adk
@@ -3001,10 +3009,6 @@ include:
   url: https://artifacts.apis.io/google-books/apis.yml
   x-apis-io: https://apis.io/providers/google-books/
   x-github: https://github.com/api-evangelist/google-books
-- name: Google Business Messages
-  url: https://artifacts.apis.io/google-business-messages/apis.yml
-  x-apis-io: https://apis.io/providers/google-business-messages/
-  x-github: https://github.com/api-evangelist/google-business-messages
 - name: Google Business Profile
   url: https://artifacts.apis.io/google-business-profile/apis.yml
   x-apis-io: https://apis.io/providers/google-business-profile/
@@ -3049,10 +3053,6 @@ include:
   url: https://artifacts.apis.io/google-cloud-assured-workloads/apis.yml
   x-apis-io: https://apis.io/providers/google-cloud-assured-workloads/
   x-github: https://github.com/api-evangelist/google-cloud-assured-workloads
-- name: Google Cloud AutoML
-  url: https://artifacts.apis.io/google-cloud-automl/apis.yml
-  x-apis-io: https://apis.io/providers/google-cloud-automl/
-  x-github: https://github.com/api-evangelist/google-cloud-automl
 - name: Google Cloud Batch
   url: https://artifacts.apis.io/google-cloud-batch/apis.yml
   x-apis-io: https://apis.io/providers/google-cloud-batch/
@@ -3093,10 +3093,6 @@ include:
   url: https://artifacts.apis.io/google-cloud-contact-center-ai/apis.yml
   x-apis-io: https://apis.io/providers/google-cloud-contact-center-ai/
   x-github: https://github.com/api-evangelist/google-cloud-contact-center-ai
-- name: Google Cloud Container Registry
-  url: https://artifacts.apis.io/google-cloud-container-registry/apis.yml
-  x-apis-io: https://apis.io/providers/google-cloud-container-registry/
-  x-github: https://github.com/api-evangelist/google-cloud-container-registry
 - name: Google Cloud Data Catalog
   url: https://artifacts.apis.io/google-cloud-data-catalog/apis.yml
   x-apis-io: https://apis.io/providers/google-cloud-data-catalog/
@@ -3193,10 +3189,6 @@ include:
   url: https://artifacts.apis.io/google-cloud-monitoring/apis.yml
   x-apis-io: https://apis.io/providers/google-cloud-monitoring/
   x-github: https://github.com/api-evangelist/google-cloud-monitoring
-- name: Google Cloud Natural
-  url: https://artifacts.apis.io/google-cloud-natural/apis.yml
-  x-apis-io: https://apis.io/providers/google-cloud-natural/
-  x-github: https://github.com/api-evangelist/google-cloud-natural
 - name: Google Cloud Natural Language
   url: https://artifacts.apis.io/google-cloud-natural-language/apis.yml
   x-apis-io: https://apis.io/providers/google-cloud-natural-language/
@@ -3301,10 +3293,6 @@ include:
   url: https://artifacts.apis.io/google-custom-search/apis.yml
   x-apis-io: https://apis.io/providers/google-custom-search/
   x-github: https://github.com/api-evangelist/google-custom-search
-- name: Google Data Studio
-  url: https://artifacts.apis.io/google-data-studio/apis.yml
-  x-apis-io: https://apis.io/providers/google-data-studio/
-  x-github: https://github.com/api-evangelist/google-data-studio
 - name: Google Dataplex
   url: https://artifacts.apis.io/google-dataplex/apis.yml
   x-apis-io: https://apis.io/providers/google-dataplex/
@@ -3381,10 +3369,6 @@ include:
   url: https://artifacts.apis.io/google-kubernetes-engine/apis.yml
   x-apis-io: https://apis.io/providers/google-kubernetes-engine/
   x-github: https://github.com/api-evangelist/google-kubernetes-engine
-- name: Google Looker
-  url: https://artifacts.apis.io/google-looker/apis.yml
-  x-apis-io: https://apis.io/providers/google-looker/
-  x-github: https://github.com/api-evangelist/google-looker
 - name: Google Maps Platform
   url: https://artifacts.apis.io/google-maps/apis.yml
   x-apis-io: https://apis.io/providers/google-maps/
@@ -3409,10 +3393,6 @@ include:
   url: https://artifacts.apis.io/google-news/apis.yml
   x-apis-io: https://apis.io/providers/google-news/
   x-github: https://github.com/api-evangelist/google-news
-- name: Google Optimize
-  url: https://artifacts.apis.io/google-optimize/apis.yml
-  x-apis-io: https://apis.io/providers/google-optimize/
-  x-github: https://github.com/api-evangelist/google-optimize
 - name: Google PageSpeed
   url: https://artifacts.apis.io/google-pagespeed/apis.yml
   x-apis-io: https://apis.io/providers/google-pagespeed/
@@ -3445,10 +3425,6 @@ include:
   url: https://artifacts.apis.io/google-play-console/apis.yml
   x-apis-io: https://apis.io/providers/google-play-console/
   x-github: https://github.com/api-evangelist/google-play-console
-- name: Google Pub/Sub
-  url: https://artifacts.apis.io/google-pub-sub/apis.yml
-  x-apis-io: https://apis.io/providers/google-pub-sub/
-  x-github: https://github.com/api-evangelist/google-pub-sub
 - name: Google Quantum AI
   url: https://artifacts.apis.io/google-quantum-ai/apis.yml
   x-apis-io: https://apis.io/providers/google-quantum-ai/
@@ -3493,10 +3469,6 @@ include:
   url: https://artifacts.apis.io/google-tasks/apis.yml
   x-apis-io: https://apis.io/providers/google-tasks/
   x-github: https://github.com/api-evangelist/google-tasks
-- name: Google TensorFlow
-  url: https://artifacts.apis.io/google-tensorflow/apis.yml
-  x-apis-io: https://apis.io/providers/google-tensorflow/
-  x-github: https://github.com/api-evangelist/google-tensorflow
 - name: Google Cloud Translation API
   url: https://artifacts.apis.io/google-translate/apis.yml
   x-apis-io: https://apis.io/providers/google-translate/
@@ -3573,6 +3545,10 @@ include:
   url: https://artifacts.apis.io/gorest/apis.yml
   x-apis-io: https://apis.io/providers/gorest/
   x-github: https://github.com/api-evangelist/gorest
+- name: GoRewards
+  url: https://artifacts.apis.io/gorewards-ca/apis.yml
+  x-apis-io: https://apis.io/providers/gorewards-ca/
+  x-github: https://github.com/api-evangelist/gorewards-ca
 - name: Gorgias
   url: https://artifacts.apis.io/gorgias/apis.yml
   x-apis-io: https://apis.io/providers/gorgias/

@@ -1,8 +1,8 @@
 name: API Evangelist Network — providers V
-description: 'The 821 API providers in the API Evangelist network whose repository name begins with V. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
+description: 'The 823 API providers in the API Evangelist network whose repository name begins with V. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
 url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/v.yml
 created: '2026-02-27'
-modified: '2026-11-06'
+modified: '2026-11-15'
 specificationVersion: '0.23'
 tags:
 - Directory
@@ -201,6 +201,10 @@ include:
   url: https://artifacts.apis.io/valinor/apis.yml
   x-apis-io: https://apis.io/providers/valinor/
   x-github: https://github.com/api-evangelist/valinor
+- name: Valjean Specialty
+  url: https://artifacts.apis.io/valjeanspecialty/apis.yml
+  x-apis-io: https://apis.io/providers/valjeanspecialty/
+  x-github: https://github.com/api-evangelist/valjeanspecialty
 - name: valksor-com
   url: https://artifacts.apis.io/valksor-com/apis.yml
   x-apis-io: https://apis.io/providers/valksor-com/
@@ -237,6 +241,10 @@ include:
   url: https://artifacts.apis.io/valorant-non-official/apis.yml
   x-apis-io: https://apis.io/providers/valorant-non-official/
   x-github: https://github.com/api-evangelist/valorant-non-official
+- name: Valo.Data
+  url: https://artifacts.apis.io/valotcg/apis.yml
+  x-apis-io: https://apis.io/providers/valotcg/
+  x-github: https://github.com/api-evangelist/valotcg
 - name: VALR
   url: https://artifacts.apis.io/valr/apis.yml
   x-apis-io: https://apis.io/providers/valr/
@@ -341,10 +349,6 @@ include:
   url: https://artifacts.apis.io/vanquis-banking-group/apis.yml
   x-apis-io: https://apis.io/providers/vanquis-banking-group/
   x-github: https://github.com/api-evangelist/vanquis-banking-group
-- name: vanshul-com
-  url: https://artifacts.apis.io/vanshul-com/apis.yml
-  x-apis-io: https://apis.io/providers/vanshul-com/
-  x-github: https://github.com/api-evangelist/vanshul-com
 - name: Vanta
   url: https://artifacts.apis.io/vanta/apis.yml
   x-apis-io: https://apis.io/providers/vanta/
@@ -1937,6 +1941,10 @@ include:
   url: https://artifacts.apis.io/viewlogic-systems/apis.yml
   x-apis-io: https://apis.io/providers/viewlogic-systems/
   x-github: https://github.com/api-evangelist/viewlogic-systems
+- name: ViewMax Studio
+  url: https://artifacts.apis.io/viewmax-studio/apis.yml
+  x-apis-io: https://apis.io/providers/viewmax-studio/
+  x-github: https://github.com/api-evangelist/viewmax-studio
 - name: Viewpoints AI
   url: https://artifacts.apis.io/viewpoints-ai/apis.yml
   x-apis-io: https://apis.io/providers/viewpoints-ai/
@@ -2037,7 +2045,7 @@ include:
   url: https://artifacts.apis.io/vineti/apis.yml
   x-apis-io: https://apis.io/providers/vineti/
   x-github: https://github.com/api-evangelist/vineti
-- name: vineverse-bible
+- name: VineVerse
   url: https://artifacts.apis.io/vineverse-bible/apis.yml
   x-apis-io: https://apis.io/providers/vineverse-bible/
   x-github: https://github.com/api-evangelist/vineverse-bible

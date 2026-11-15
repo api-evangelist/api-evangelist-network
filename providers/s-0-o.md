@@ -1,6 +1,6 @@
 # API Evangelist Network — providers S0-So
 
-1,965 providers whose repository name begins with **S0-So**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/s-0-o.yml](../network/s-0-o.yml).
+1,970 providers whose repository name begins with **S0-So**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/s-0-o.yml](../network/s-0-o.yml).
 
 [← All providers](../README.md)
 
@@ -117,6 +117,7 @@
 | Salesforce Net Zero Cloud | [salesforce-net-zero-cloud](https://apis.io/providers/salesforce-net-zero-cloud/) | [salesforce-net-zero-cloud](https://github.com/api-evangelist/salesforce-net-zero-cloud) |
 | Salesforce Sales Cloud | [salesforce-sales-cloud](https://apis.io/providers/salesforce-sales-cloud/) | [salesforce-sales-cloud](https://github.com/api-evangelist/salesforce-sales-cloud) |
 | Salesgraph | [salesgraph](https://apis.io/providers/salesgraph/) | [salesgraph](https://github.com/api-evangelist/salesgraph) |
+| SalesJobs.Now | [salesjobs-now](https://apis.io/providers/salesjobs-now/) | [salesjobs-now](https://github.com/api-evangelist/salesjobs-now) |
 | Salesloft | [salesloft](https://apis.io/providers/salesloft/) | [salesloft](https://github.com/api-evangelist/salesloft) |
 | Salido | [salido](https://apis.io/providers/salido/) | [salido](https://github.com/api-evangelist/salido) |
 | Salient | [salient](https://apis.io/providers/salient/) | [salient](https://github.com/api-evangelist/salient) |
@@ -361,7 +362,6 @@
 | Schedex | [schedex](https://apis.io/providers/schedex/) | [schedex](https://github.com/api-evangelist/schedex) |
 | Schedules Direct | [schedules-direct](https://apis.io/providers/schedules-direct/) | [schedules-direct](https://github.com/api-evangelist/schedules-direct) |
 | Scheduling Wizard | [scheduling-wizard](https://apis.io/providers/scheduling-wizard/) | [scheduling-wizard](https://github.com/api-evangelist/scheduling-wizard) |
-| scheir-eu | [scheir-eu](https://apis.io/providers/scheir-eu/) | [scheir-eu](https://github.com/api-evangelist/scheir-eu) |
 | Schema.org | [schema-org](https://apis.io/providers/schema-org/) | [schema-org](https://github.com/api-evangelist/schema-org) |
 | SchemaExtract | [schemaextract](https://apis.io/providers/schemaextract/) | [schemaextract](https://github.com/api-evangelist/schemaextract) |
 | SchemaSure | [schemasure](https://apis.io/providers/schemasure/) | [schemasure](https://github.com/api-evangelist/schemasure) |
@@ -447,6 +447,7 @@
 | scrapingbot-io | [scrapingbot-io](https://apis.io/providers/scrapingbot-io/) | [scrapingbot-io](https://github.com/api-evangelist/scrapingbot-io) |
 | ScrapingDog | [scrapingdog](https://apis.io/providers/scrapingdog/) | [scrapingdog](https://github.com/api-evangelist/scrapingdog) |
 | scrappa-co | [scrappa-co](https://apis.io/providers/scrappa-co/) | [scrappa-co](https://github.com/api-evangelist/scrappa-co) |
+| Scrappy.gg | [scrappy-gg](https://apis.io/providers/scrappy-gg/) | [scrappy-gg](https://github.com/api-evangelist/scrappy-gg) |
 | scraptik-com | [scraptik-com](https://apis.io/providers/scraptik-com/) | [scraptik-com](https://github.com/api-evangelist/scraptik-com) |
 | Scrapy | [scrapy](https://apis.io/providers/scrapy/) | [scrapy](https://github.com/api-evangelist/scrapy) |
 | Scrapybara | [scrapybara](https://apis.io/providers/scrapybara/) | [scrapybara](https://github.com/api-evangelist/scrapybara) |
@@ -603,6 +604,7 @@
 | Seedance2AI (SixBryan LLC) | [seedance2ai](https://apis.io/providers/seedance2ai/) | [seedance2ai](https://github.com/api-evangelist/seedance2ai) |
 | Seedbase Financial Systems | [seedbase](https://apis.io/providers/seedbase/) | [seedbase](https://github.com/api-evangelist/seedbase) |
 | Seed Club | [seedclub](https://apis.io/providers/seedclub/) | [seedclub](https://github.com/api-evangelist/seedclub) |
+| SeedVideo AI | [seeddance-io](https://apis.io/providers/seeddance-io/) | [seeddance-io](https://github.com/api-evangelist/seeddance-io) |
 | SeedFi | [seedfi](https://apis.io/providers/seedfi/) | [seedfi](https://github.com/api-evangelist/seedfi) |
 | SeedLegals | [seedlegals](https://apis.io/providers/seedlegals/) | [seedlegals](https://github.com/api-evangelist/seedlegals) |
 | Seedsight | [seedsight](https://apis.io/providers/seedsight/) | [seedsight](https://github.com/api-evangelist/seedsight) |
@@ -789,6 +791,7 @@
 | Sequence Holdings | [sequence-holdings](https://apis.io/providers/sequence-holdings/) | [sequence-holdings](https://github.com/api-evangelist/sequence-holdings) |
 | Sequence | [sequence-hq](https://apis.io/providers/sequence-hq/) | [sequence-hq](https://github.com/api-evangelist/sequence-hq) |
 | Sequence Markets | [sequence-markets](https://apis.io/providers/sequence-markets/) | [sequence-markets](https://github.com/api-evangelist/sequence-markets) |
+| Sequenzy | [sequenzy](https://apis.io/providers/sequenzy/) | [sequenzy](https://github.com/api-evangelist/sequenzy) |
 | Sequin | [sequin-io](https://apis.io/providers/sequin-io/) | [sequin-io](https://github.com/api-evangelist/sequin-io) |
 | SequoiaDB | [sequoiadb](https://apis.io/providers/sequoiadb/) | [sequoiadb](https://github.com/api-evangelist/sequoiadb) |
 | Serbia Company Data | [serbia-company-data](https://apis.io/providers/serbia-company-data/) | [serbia-company-data](https://github.com/api-evangelist/serbia-company-data) |
@@ -806,8 +809,8 @@
 | SerMorpheus | [sermorpheus](https://apis.io/providers/sermorpheus/) | [sermorpheus](https://github.com/api-evangelist/sermorpheus) |
 | SerpApi | [serpapi](https://apis.io/providers/serpapi/) | [serpapi](https://github.com/api-evangelist/serpapi) |
 | Serper | [serper](https://apis.io/providers/serper/) | [serper](https://github.com/api-evangelist/serper) |
-| serpkite-com | [serpkite-com](https://apis.io/providers/serpkite-com/) | [serpkite-com](https://github.com/api-evangelist/serpkite-com) |
-| serpresult-com | [serpresult-com](https://apis.io/providers/serpresult-com/) | [serpresult-com](https://github.com/api-evangelist/serpresult-com) |
+| SerpKite | [serpkite-com](https://apis.io/providers/serpkite-com/) | [serpkite-com](https://github.com/api-evangelist/serpkite-com) |
+| SerpResult | [serpresult-com](https://apis.io/providers/serpresult-com/) | [serpresult-com](https://github.com/api-evangelist/serpresult-com) |
 | serpstack | [serpstack](https://apis.io/providers/serpstack/) | [serpstack](https://github.com/api-evangelist/serpstack) |
 | SerpWow | [serpwow](https://apis.io/providers/serpwow/) | [serpwow](https://github.com/api-evangelist/serpwow) |
 | SERTICA | [sertica](https://apis.io/providers/sertica/) | [sertica](https://github.com/api-evangelist/sertica) |
@@ -820,7 +823,6 @@
 | ServGhost Agent API | [servghost-agent-api](https://apis.io/providers/servghost-agent-api/) | [servghost-agent-api](https://github.com/api-evangelist/servghost-agent-api) |
 | Salesforce Service Cloud APIs | [service-cloud](https://apis.io/providers/service-cloud/) | [service-cloud](https://github.com/api-evangelist/service-cloud) |
 | Service Corp International | [service-corp-international](https://apis.io/providers/service-corp-international/) | [service-corp-international](https://github.com/api-evangelist/service-corp-international) |
-| Service Fabric | [service-fabric](https://apis.io/providers/service-fabric/) | [service-fabric](https://github.com/api-evangelist/service-fabric) |
 | Service Partner One | [service-partner-one](https://apis.io/providers/service-partner-one/) | [service-partner-one](https://github.com/api-evangelist/service-partner-one) |
 | Service Properties Trust | [service-properties-trust](https://apis.io/providers/service-properties-trust/) | [service-properties-trust](https://github.com/api-evangelist/service-properties-trust) |
 | servicebox-io | [servicebox-io](https://apis.io/providers/servicebox-io/) | [servicebox-io](https://github.com/api-evangelist/servicebox-io) |
@@ -881,6 +883,7 @@
 | Sfox | [sfox](https://apis.io/providers/sfox/) | [sfox](https://github.com/api-evangelist/sfox) |
 | SFTP | [sftp](https://apis.io/providers/sftp/) | [sftp](https://github.com/api-evangelist/sftp) |
 | SFX | [sfx](https://apis.io/providers/sfx/) | [sfx](https://github.com/api-evangelist/sfx) |
+| SFXMint | [sfxmint-com](https://apis.io/providers/sfxmint-com/) | [sfxmint-com](https://github.com/api-evangelist/sfxmint-com) |
 | sgeet | [sgeet](https://apis.io/providers/sgeet/) | [sgeet](https://github.com/api-evangelist/sgeet) |
 | SGH Ltd | [sghl](https://apis.io/providers/sghl/) | [sghl](https://github.com/api-evangelist/sghl) |
 | SGI (Silicon Graphics) | [sgi](https://apis.io/providers/sgi/) | [sgi](https://github.com/api-evangelist/sgi) |
@@ -925,7 +928,6 @@
 | SharpTools | [sharptools](https://apis.io/providers/sharptools/) | [sharptools](https://github.com/api-evangelist/sharptools) |
 | Shasqi | [shasqi](https://apis.io/providers/shasqi/) | [shasqi](https://github.com/api-evangelist/shasqi) |
 | Shawbrook Bank | [shawbrook-bank](https://apis.io/providers/shawbrook-bank/) | [shawbrook-bank](https://github.com/api-evangelist/shawbrook-bank) |
-| shawndurrani-ai | [shawndurrani-ai](https://apis.io/providers/shawndurrani-ai/) | [shawndurrani-ai](https://github.com/api-evangelist/shawndurrani-ai) |
 | Shazam | [shazam](https://apis.io/providers/shazam/) | [shazam](https://github.com/api-evangelist/shazam) |
 | ShearShare | [shearshare](https://apis.io/providers/shearshare/) | [shearshare](https://github.com/api-evangelist/shearshare) |
 | Shearwell Data | [shearwell](https://apis.io/providers/shearwell/) | [shearwell](https://github.com/api-evangelist/shearwell) |
@@ -1134,6 +1136,7 @@
 | SideQuest | [sidequest](https://apis.io/providers/sidequest/) | [sidequest](https://github.com/api-evangelist/sidequest) |
 | Sidewinder Therapeutics | [sidewinder-therapeutics](https://apis.io/providers/sidewinder-therapeutics/) | [sidewinder-therapeutics](https://github.com/api-evangelist/sidewinder-therapeutics) |
 | Siduma | [siduma](https://apis.io/providers/siduma/) | [siduma](https://github.com/api-evangelist/siduma) |
+| Siebly | [siebly](https://apis.io/providers/siebly/) | [siebly](https://github.com/api-evangelist/siebly) |
 | Siemens | [siemens](https://apis.io/providers/siemens/) | [siemens](https://github.com/api-evangelist/siemens) |
 | Siemens Healthineers | [siemens-healthineers](https://apis.io/providers/siemens-healthineers/) | [siemens-healthineers](https://github.com/api-evangelist/siemens-healthineers) |
 | Siemens Insights Hub (MindSphere) | [siemens-mindsphere](https://apis.io/providers/siemens-mindsphere/) | [siemens-mindsphere](https://github.com/api-evangelist/siemens-mindsphere) |
@@ -1292,6 +1295,7 @@
 | Simpler | [simpler](https://apis.io/providers/simpler/) | [simpler](https://github.com/api-evangelist/simpler) |
 | SimpleTexting | [simpletexting](https://apis.io/providers/simpletexting/) | [simpletexting](https://github.com/api-evangelist/simpletexting) |
 | SimpleTix | [simpletix](https://apis.io/providers/simpletix/) | [simpletix](https://github.com/api-evangelist/simpletix) |
+| SimpleVerifier | [simpleverifier-com](https://apis.io/providers/simpleverifier-com/) | [simpleverifier-com](https://github.com/api-evangelist/simpleverifier-com) |
 | SimpleVoIP | [simplevoip](https://apis.io/providers/simplevoip/) | [simplevoip](https://github.com/api-evangelist/simplevoip) |
 | Simplex | [simplex](https://apis.io/providers/simplex/) | [simplex](https://github.com/api-evangelist/simplex) |
 | Simplifai Labs | [simplifai-labs](https://apis.io/providers/simplifai-labs/) | [simplifai-labs](https://github.com/api-evangelist/simplifai-labs) |
@@ -1386,7 +1390,6 @@
 | Sitefinity CMS | [sitefinity-cms](https://apis.io/providers/sitefinity-cms/) | [sitefinity-cms](https://github.com/api-evangelist/sitefinity-cms) |
 | Sitefire | [sitefire](https://apis.io/providers/sitefire/) | [sitefire](https://github.com/api-evangelist/sitefire) |
 | sitegpt-ai | [sitegpt-ai](https://apis.io/providers/sitegpt-ai/) | [sitegpt-ai](https://github.com/api-evangelist/sitegpt-ai) |
-| SiteGrab Screenshot API (LaminarForge) | [sitegrab](https://apis.io/providers/sitegrab/) | [sitegrab](https://github.com/api-evangelist/sitegrab) |
 | SiteJabber | [sitejabber](https://apis.io/providers/sitejabber/) | [sitejabber](https://github.com/api-evangelist/sitejabber) |
 | Siteline | [siteline](https://apis.io/providers/siteline/) | [siteline](https://github.com/api-evangelist/siteline) |
 | Sitemate | [sitemate](https://apis.io/providers/sitemate/) | [sitemate](https://github.com/api-evangelist/sitemate) |
@@ -1424,7 +1427,6 @@
 | Sketchdeck.ai | [sketchdeckai](https://apis.io/providers/sketchdeckai/) | [sketchdeckai](https://github.com/api-evangelist/sketchdeckai) |
 | Sketchfab | [sketchfab](https://apis.io/providers/sketchfab/) | [sketchfab](https://github.com/api-evangelist/sketchfab) |
 | Sketchpro | [sketchpro](https://apis.io/providers/sketchpro/) | [sketchpro](https://github.com/api-evangelist/sketchpro) |
-| sketchxflow-com | [sketchxflow-com](https://apis.io/providers/sketchxflow-com/) | [sketchxflow-com](https://github.com/api-evangelist/sketchxflow-com) |
 | Skew | [skew](https://apis.io/providers/skew/) | [skew](https://github.com/api-evangelist/skew) |
 | SK Finance | [skfin](https://apis.io/providers/skfin/) | [skfin](https://github.com/api-evangelist/skfin) |
 | Skience (The Athene Group) | [skience-the-athene-group](https://apis.io/providers/skience-the-athene-group/) | [skience-the-athene-group](https://github.com/api-evangelist/skience-the-athene-group) |
@@ -1454,6 +1456,7 @@
 | Skootar | [skootar](https://apis.io/providers/skootar/) | [skootar](https://github.com/api-evangelist/skootar) |
 | Skopenow | [skopenow](https://apis.io/providers/skopenow/) | [skopenow](https://github.com/api-evangelist/skopenow) |
 | Skout | [skout](https://apis.io/providers/skout/) | [skout](https://github.com/api-evangelist/skout) |
+| Sveriges Kommuner och Regioner | [skr-se](https://apis.io/providers/skr-se/) | [skr-se](https://github.com/api-evangelist/skr-se) |
 | Skribble | [skribble](https://apis.io/providers/skribble/) | [skribble](https://github.com/api-evangelist/skribble) |
 | Skry | [skry](https://apis.io/providers/skry/) | [skry](https://github.com/api-evangelist/skry) |
 | SKU IQ | [sku-iq](https://apis.io/providers/sku-iq/) | [sku-iq](https://github.com/api-evangelist/sku-iq) |
@@ -1538,7 +1541,6 @@
 | slideforge-dev | [slideforge-dev](https://apis.io/providers/slideforge-dev/) | [slideforge-dev](https://github.com/api-evangelist/slideforge-dev) |
 | SlideRule | [sliderule](https://apis.io/providers/sliderule/) | [sliderule](https://github.com/api-evangelist/sliderule) |
 | Slik | [slik](https://apis.io/providers/slik/) | [slik](https://github.com/api-evangelist/slik) |
-| Slime Sandwich | [slime-sandwich](https://apis.io/providers/slime-sandwich/) | [slime-sandwich](https://github.com/api-evangelist/slime-sandwich) |
 | Sling Money | [sling-money](https://apis.io/providers/sling-money/) | [sling-money](https://github.com/api-evangelist/sling-money) |
 | Slingshot | [slingshot](https://apis.io/providers/slingshot/) | [slingshot](https://github.com/api-evangelist/slingshot) |
 | Slingshot Aerospace | [slingshot-aerospace](https://apis.io/providers/slingshot-aerospace/) | [slingshot-aerospace](https://github.com/api-evangelist/slingshot-aerospace) |
@@ -1642,6 +1644,7 @@
 | Smoobu | [smoobu](https://apis.io/providers/smoobu/) | [smoobu](https://github.com/api-evangelist/smoobu) |
 | Smooth Integration | [smooth-integration](https://apis.io/providers/smooth-integration/) | [smooth-integration](https://github.com/api-evangelist/smooth-integration) |
 | Smore | [smore](https://apis.io/providers/smore/) | [smore](https://github.com/api-evangelist/smore) |
+| smry-ai | [smry-ai](https://apis.io/providers/smry-ai/) | [smry-ai](https://github.com/api-evangelist/smry-ai) |
 | SMS Assist | [sms-assist](https://apis.io/providers/sms-assist/) | [sms-assist](https://github.com/api-evangelist/sms-assist) |
 | SMS.ru | [sms-ru](https://apis.io/providers/sms-ru/) | [sms-ru](https://github.com/api-evangelist/sms-ru) |
 | SMS Aero | [smsaero](https://apis.io/providers/smsaero/) | [smsaero](https://github.com/api-evangelist/smsaero) |
@@ -1767,6 +1770,7 @@
 | SoftPro | [softpro](https://apis.io/providers/softpro/) | [softpro](https://github.com/api-evangelist/softpro) |
 | Softr | [softr](https://apis.io/providers/softr/) | [softr](https://github.com/api-evangelist/softr) |
 | Scopic | [softsync](https://apis.io/providers/softsync/) | [softsync](https://github.com/api-evangelist/softsync) |
+| SoftSync AI | [softsync-ai](https://apis.io/providers/softsync-ai/) | [softsync-ai](https://github.com/api-evangelist/softsync-ai) |
 | Software | [software](https://apis.io/providers/software/) | [software](https://github.com/api-evangelist/software) |
 | Software Advice | [software-advice](https://apis.io/providers/software-advice/) | [software-advice](https://github.com/api-evangelist/software-advice) |
 | Software AG | [software-ag](https://apis.io/providers/software-ag/) | [software-ag](https://github.com/api-evangelist/software-ag) |
@@ -1951,6 +1955,7 @@
 | Sourcehut GraphQL | [sourcehut-graphql](https://apis.io/providers/sourcehut-graphql/) | [sourcehut-graphql](https://github.com/api-evangelist/sourcehut-graphql) |
 | Sourcemap | [sourcemap](https://apis.io/providers/sourcemap/) | [sourcemap](https://github.com/api-evangelist/sourcemap) |
 | Sourcepoint | [sourcepoint](https://apis.io/providers/sourcepoint/) | [sourcepoint](https://github.com/api-evangelist/sourcepoint) |
+| SourcePost | [sourcepost](https://apis.io/providers/sourcepost/) | [sourcepost](https://github.com/api-evangelist/sourcepost) |
 | Sourcery Technologies | [sourcery-technologies](https://apis.io/providers/sourcery-technologies/) | [sourcery-technologies](https://github.com/api-evangelist/sourcery-technologies) |
 | Sourcery.AI | [sourceryai](https://apis.io/providers/sourceryai/) | [sourceryai](https://github.com/api-evangelist/sourceryai) |
 | Sourgum | [sourgum](https://apis.io/providers/sourgum/) | [sourgum](https://github.com/api-evangelist/sourgum) |

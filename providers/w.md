@@ -1,6 +1,6 @@
 # API Evangelist Network — providers W
 
-787 providers whose repository name begins with **W**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/w.yml](../network/w.yml).
+789 providers whose repository name begins with **W**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/w.yml](../network/w.yml).
 
 [← All providers](../README.md)
 
@@ -53,10 +53,12 @@
 | Walldorf Solutions | [walldorfsolutions](https://apis.io/providers/walldorfsolutions/) | [walldorfsolutions](https://github.com/api-evangelist/walldorfsolutions) |
 | Wallester | [wallester](https://apis.io/providers/wallester/) | [wallester](https://github.com/api-evangelist/wallester) |
 | Wallet Studio | [wallet-studio](https://apis.io/providers/wallet-studio/) | [wallet-studio](https://github.com/api-evangelist/wallet-studio) |
+| Wallet Master | [walletmaster-tools](https://apis.io/providers/walletmaster-tools/) | [walletmaster-tools](https://github.com/api-evangelist/walletmaster-tools) |
 | WalletWallet | [walletwallet](https://apis.io/providers/walletwallet/) | [walletwallet](https://github.com/api-evangelist/walletwallet) |
 | Wallex | [wallex](https://apis.io/providers/wallex/) | [wallex](https://github.com/api-evangelist/wallex) |
 | Wallhaven | [wallhaven](https://apis.io/providers/wallhaven/) | [wallhaven](https://github.com/api-evangelist/wallhaven) |
 | WALLIX | [wallix](https://apis.io/providers/wallix/) | [wallix](https://github.com/api-evangelist/wallix) |
+| Géoportail de la Wallonie | [wallonie-be](https://apis.io/providers/wallonie-be/) | [wallonie-be](https://github.com/api-evangelist/wallonie-be) |
 | Wallos | [wallos](https://apis.io/providers/wallos/) | [wallos](https://github.com/api-evangelist/wallos) |
 | WallstreetBets | [wallstreetbets](https://apis.io/providers/wallstreetbets/) | [wallstreetbets](https://github.com/api-evangelist/wallstreetbets) |
 | Walltime | [walltime](https://apis.io/providers/walltime/) | [walltime](https://github.com/api-evangelist/walltime) |

@@ -1,8 +1,8 @@
 name: API Evangelist Network — providers S0-So
-description: 'The 1965 API providers in the API Evangelist network whose repository name begins with S0-So. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
+description: 'The 1970 API providers in the API Evangelist network whose repository name begins with S0-So. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
 url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/s-0-o.yml
 created: '2026-02-27'
-modified: '2026-11-06'
+modified: '2026-11-15'
 specificationVersion: '0.23'
 tags:
 - Directory
@@ -453,6 +453,10 @@ include:
   url: https://artifacts.apis.io/salesgraph/apis.yml
   x-apis-io: https://apis.io/providers/salesgraph/
   x-github: https://github.com/api-evangelist/salesgraph
+- name: SalesJobs.Now
+  url: https://artifacts.apis.io/salesjobs-now/apis.yml
+  x-apis-io: https://apis.io/providers/salesjobs-now/
+  x-github: https://github.com/api-evangelist/salesjobs-now
 - name: Salesloft
   url: https://artifacts.apis.io/salesloft/apis.yml
   x-apis-io: https://apis.io/providers/salesloft/
@@ -1429,10 +1433,6 @@ include:
   url: https://artifacts.apis.io/scheduling-wizard/apis.yml
   x-apis-io: https://apis.io/providers/scheduling-wizard/
   x-github: https://github.com/api-evangelist/scheduling-wizard
-- name: scheir-eu
-  url: https://artifacts.apis.io/scheir-eu/apis.yml
-  x-apis-io: https://apis.io/providers/scheir-eu/
-  x-github: https://github.com/api-evangelist/scheir-eu
 - name: Schema.org
   url: https://artifacts.apis.io/schema-org/apis.yml
   x-apis-io: https://apis.io/providers/schema-org/
@@ -1773,6 +1773,10 @@ include:
   url: https://artifacts.apis.io/scrappa-co/apis.yml
   x-apis-io: https://apis.io/providers/scrappa-co/
   x-github: https://github.com/api-evangelist/scrappa-co
+- name: Scrappy.gg
+  url: https://artifacts.apis.io/scrappy-gg/apis.yml
+  x-apis-io: https://apis.io/providers/scrappy-gg/
+  x-github: https://github.com/api-evangelist/scrappy-gg
 - name: scraptik-com
   url: https://artifacts.apis.io/scraptik-com/apis.yml
   x-apis-io: https://apis.io/providers/scraptik-com/
@@ -2397,6 +2401,10 @@ include:
   url: https://artifacts.apis.io/seedclub/apis.yml
   x-apis-io: https://apis.io/providers/seedclub/
   x-github: https://github.com/api-evangelist/seedclub
+- name: SeedVideo AI
+  url: https://artifacts.apis.io/seeddance-io/apis.yml
+  x-apis-io: https://apis.io/providers/seeddance-io/
+  x-github: https://github.com/api-evangelist/seeddance-io
 - name: SeedFi
   url: https://artifacts.apis.io/seedfi/apis.yml
   x-apis-io: https://apis.io/providers/seedfi/
@@ -3141,6 +3149,10 @@ include:
   url: https://artifacts.apis.io/sequence-markets/apis.yml
   x-apis-io: https://apis.io/providers/sequence-markets/
   x-github: https://github.com/api-evangelist/sequence-markets
+- name: Sequenzy
+  url: https://artifacts.apis.io/sequenzy/apis.yml
+  x-apis-io: https://apis.io/providers/sequenzy/
+  x-github: https://github.com/api-evangelist/sequenzy
 - name: Sequin
   url: https://artifacts.apis.io/sequin-io/apis.yml
   x-apis-io: https://apis.io/providers/sequin-io/
@@ -3209,11 +3221,11 @@ include:
   url: https://artifacts.apis.io/serper/apis.yml
   x-apis-io: https://apis.io/providers/serper/
   x-github: https://github.com/api-evangelist/serper
-- name: serpkite-com
+- name: SerpKite
   url: https://artifacts.apis.io/serpkite-com/apis.yml
   x-apis-io: https://apis.io/providers/serpkite-com/
   x-github: https://github.com/api-evangelist/serpkite-com
-- name: serpresult-com
+- name: SerpResult
   url: https://artifacts.apis.io/serpresult-com/apis.yml
   x-apis-io: https://apis.io/providers/serpresult-com/
   x-github: https://github.com/api-evangelist/serpresult-com
@@ -3265,10 +3277,6 @@ include:
   url: https://artifacts.apis.io/service-corp-international/apis.yml
   x-apis-io: https://apis.io/providers/service-corp-international/
   x-github: https://github.com/api-evangelist/service-corp-international
-- name: Service Fabric
-  url: https://artifacts.apis.io/service-fabric/apis.yml
-  x-apis-io: https://apis.io/providers/service-fabric/
-  x-github: https://github.com/api-evangelist/service-fabric
 - name: Service Partner One
   url: https://artifacts.apis.io/service-partner-one/apis.yml
   x-apis-io: https://apis.io/providers/service-partner-one/
@@ -3509,6 +3517,10 @@ include:
   url: https://artifacts.apis.io/sfx/apis.yml
   x-apis-io: https://apis.io/providers/sfx/
   x-github: https://github.com/api-evangelist/sfx
+- name: SFXMint
+  url: https://artifacts.apis.io/sfxmint-com/apis.yml
+  x-apis-io: https://apis.io/providers/sfxmint-com/
+  x-github: https://github.com/api-evangelist/sfxmint-com
 - name: sgeet
   url: https://artifacts.apis.io/sgeet/apis.yml
   x-apis-io: https://apis.io/providers/sgeet/
@@ -3685,10 +3697,6 @@ include:
   url: https://artifacts.apis.io/shawbrook-bank/apis.yml
   x-apis-io: https://apis.io/providers/shawbrook-bank/
   x-github: https://github.com/api-evangelist/shawbrook-bank
-- name: shawndurrani-ai
-  url: https://artifacts.apis.io/shawndurrani-ai/apis.yml
-  x-apis-io: https://apis.io/providers/shawndurrani-ai/
-  x-github: https://github.com/api-evangelist/shawndurrani-ai
 - name: Shazam
   url: https://artifacts.apis.io/shazam/apis.yml
   x-apis-io: https://apis.io/providers/shazam/
@@ -4521,6 +4529,10 @@ include:
   url: https://artifacts.apis.io/siduma/apis.yml
   x-apis-io: https://apis.io/providers/siduma/
   x-github: https://github.com/api-evangelist/siduma
+- name: Siebly
+  url: https://artifacts.apis.io/siebly/apis.yml
+  x-apis-io: https://apis.io/providers/siebly/
+  x-github: https://github.com/api-evangelist/siebly
 - name: Siemens
   url: https://artifacts.apis.io/siemens/apis.yml
   x-apis-io: https://apis.io/providers/siemens/
@@ -5153,6 +5165,10 @@ include:
   url: https://artifacts.apis.io/simpletix/apis.yml
   x-apis-io: https://apis.io/providers/simpletix/
   x-github: https://github.com/api-evangelist/simpletix
+- name: SimpleVerifier
+  url: https://artifacts.apis.io/simpleverifier-com/apis.yml
+  x-apis-io: https://apis.io/providers/simpleverifier-com/
+  x-github: https://github.com/api-evangelist/simpleverifier-com
 - name: SimpleVoIP
   url: https://artifacts.apis.io/simplevoip/apis.yml
   x-apis-io: https://apis.io/providers/simplevoip/
@@ -5529,10 +5545,6 @@ include:
   url: https://artifacts.apis.io/sitegpt-ai/apis.yml
   x-apis-io: https://apis.io/providers/sitegpt-ai/
   x-github: https://github.com/api-evangelist/sitegpt-ai
-- name: SiteGrab Screenshot API (LaminarForge)
-  url: https://artifacts.apis.io/sitegrab/apis.yml
-  x-apis-io: https://apis.io/providers/sitegrab/
-  x-github: https://github.com/api-evangelist/sitegrab
 - name: SiteJabber
   url: https://artifacts.apis.io/sitejabber/apis.yml
   x-apis-io: https://apis.io/providers/sitejabber/
@@ -5681,10 +5693,6 @@ include:
   url: https://artifacts.apis.io/sketchpro/apis.yml
   x-apis-io: https://apis.io/providers/sketchpro/
   x-github: https://github.com/api-evangelist/sketchpro
-- name: sketchxflow-com
-  url: https://artifacts.apis.io/sketchxflow-com/apis.yml
-  x-apis-io: https://apis.io/providers/sketchxflow-com/
-  x-github: https://github.com/api-evangelist/sketchxflow-com
 - name: Skew
   url: https://artifacts.apis.io/skew/apis.yml
   x-apis-io: https://apis.io/providers/skew/
@@ -5801,6 +5809,10 @@ include:
   url: https://artifacts.apis.io/skout/apis.yml
   x-apis-io: https://apis.io/providers/skout/
   x-github: https://github.com/api-evangelist/skout
+- name: Sveriges Kommuner och Regioner
+  url: https://artifacts.apis.io/skr-se/apis.yml
+  x-apis-io: https://apis.io/providers/skr-se/
+  x-github: https://github.com/api-evangelist/skr-se
 - name: Skribble
   url: https://artifacts.apis.io/skribble/apis.yml
   x-apis-io: https://apis.io/providers/skribble/
@@ -6137,10 +6149,6 @@ include:
   url: https://artifacts.apis.io/slik/apis.yml
   x-apis-io: https://apis.io/providers/slik/
   x-github: https://github.com/api-evangelist/slik
-- name: Slime Sandwich
-  url: https://artifacts.apis.io/slime-sandwich/apis.yml
-  x-apis-io: https://apis.io/providers/slime-sandwich/
-  x-github: https://github.com/api-evangelist/slime-sandwich
 - name: Sling Money
   url: https://artifacts.apis.io/sling-money/apis.yml
   x-apis-io: https://apis.io/providers/sling-money/
@@ -6553,6 +6561,10 @@ include:
   url: https://artifacts.apis.io/smore/apis.yml
   x-apis-io: https://apis.io/providers/smore/
   x-github: https://github.com/api-evangelist/smore
+- name: smry-ai
+  url: https://artifacts.apis.io/smry-ai/apis.yml
+  x-apis-io: https://apis.io/providers/smry-ai/
+  x-github: https://github.com/api-evangelist/smry-ai
 - name: SMS Assist
   url: https://artifacts.apis.io/sms-assist/apis.yml
   x-apis-io: https://apis.io/providers/sms-assist/
@@ -7053,6 +7065,10 @@ include:
   url: https://artifacts.apis.io/softsync/apis.yml
   x-apis-io: https://apis.io/providers/softsync/
   x-github: https://github.com/api-evangelist/softsync
+- name: SoftSync AI
+  url: https://artifacts.apis.io/softsync-ai/apis.yml
+  x-apis-io: https://apis.io/providers/softsync-ai/
+  x-github: https://github.com/api-evangelist/softsync-ai
 - name: Software
   url: https://artifacts.apis.io/software/apis.yml
   x-apis-io: https://apis.io/providers/software/
@@ -7789,6 +7805,10 @@ include:
   url: https://artifacts.apis.io/sourcepoint/apis.yml
   x-apis-io: https://apis.io/providers/sourcepoint/
   x-github: https://github.com/api-evangelist/sourcepoint
+- name: SourcePost
+  url: https://artifacts.apis.io/sourcepost/apis.yml
+  x-apis-io: https://apis.io/providers/sourcepost/
+  x-github: https://github.com/api-evangelist/sourcepost
 - name: Sourcery Technologies
   url: https://artifacts.apis.io/sourcery-technologies/apis.yml
   x-apis-io: https://apis.io/providers/sourcery-technologies/

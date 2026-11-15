@@ -1,8 +1,8 @@
 name: API Evangelist Network — providers A0-Al
-description: 'The 2200 API providers in the API Evangelist network whose repository name begins with A0-Al. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
+description: 'The 2195 API providers in the API Evangelist network whose repository name begins with A0-Al. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
 url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/a-0-l.yml
 created: '2026-02-27'
-modified: '2026-11-06'
+modified: '2026-11-15'
 specificationVersion: '0.23'
 tags:
 - Directory
@@ -49,7 +49,7 @@ include:
   url: https://artifacts.apis.io/a-to-mind-com/apis.yml
   x-apis-io: https://apis.io/providers/a-to-mind-com/
   x-github: https://github.com/api-evangelist/a-to-mind-com
-- name: 'a-un — Agent Upgrade Network'
+- name: Agent Upgrade Network
   url: https://artifacts.apis.io/a-upgradenet-com/apis.yml
   x-apis-io: https://apis.io/providers/a-upgradenet-com/
   x-github: https://github.com/api-evangelist/a-upgradenet-com
@@ -105,7 +105,7 @@ include:
   url: https://artifacts.apis.io/a2a402-market/apis.yml
   x-apis-io: https://apis.io/providers/a2a402-market/
   x-github: https://github.com/api-evangelist/a2a402-market
-- name: A2A TrustGate
+- name: A2A Infrastructure
   url: https://artifacts.apis.io/a2ainfrastructure-com/apis.yml
   x-apis-io: https://apis.io/providers/a2ainfrastructure-com/
   x-github: https://github.com/api-evangelist/a2ainfrastructure-com
@@ -541,10 +541,6 @@ include:
   url: https://artifacts.apis.io/abnormal-security/apis.yml
   x-apis-io: https://apis.io/providers/abnormal-security/
   x-github: https://github.com/api-evangelist/abnormal-security
-- name: Abnormal Load Quotes
-  url: https://artifacts.apis.io/abnormalloadquotes-co-uk/apis.yml
-  x-apis-io: https://apis.io/providers/abnormalloadquotes-co-uk/
-  x-github: https://github.com/api-evangelist/abnormalloadquotes-co-uk
 - name: Aboard
   url: https://artifacts.apis.io/aboard-sh/apis.yml
   x-apis-io: https://apis.io/providers/aboard-sh/
@@ -865,10 +861,6 @@ include:
   url: https://artifacts.apis.io/accertify/apis.yml
   x-apis-io: https://apis.io/providers/accertify/
   x-github: https://github.com/api-evangelist/accertify
-- name: Access Control Cost
-  url: https://artifacts.apis.io/accesscontrolcost-co-uk/apis.yml
-  x-apis-io: https://apis.io/providers/accesscontrolcost-co-uk/
-  x-github: https://github.com/api-evangelist/accesscontrolcost-co-uk
 - name: AccessFintech
   url: https://artifacts.apis.io/accessfintech/apis.yml
   x-apis-io: https://apis.io/providers/accessfintech/
@@ -2353,10 +2345,6 @@ include:
   url: https://artifacts.apis.io/adresse-data-gouv-fr/apis.yml
   x-apis-io: https://apis.io/providers/adresse-data-gouv-fr/
   x-github: https://github.com/api-evangelist/adresse-data-gouv-fr
-- name: adrianhomelab-com
-  url: https://artifacts.apis.io/adrianhomelab-com/apis.yml
-  x-apis-io: https://apis.io/providers/adrianhomelab-com/
-  x-github: https://github.com/api-evangelist/adrianhomelab-com
 - name: Adrio
   url: https://artifacts.apis.io/adrio-ai/apis.yml
   x-apis-io: https://apis.io/providers/adrio-ai/
@@ -2421,7 +2409,7 @@ include:
   url: https://artifacts.apis.io/adsmom-inc/apis.yml
   x-apis-io: https://apis.io/providers/adsmom-inc/
   x-github: https://github.com/api-evangelist/adsmom-inc
-- name: adson-jp
+- name: ADSON
   url: https://artifacts.apis.io/adson-jp/apis.yml
   x-apis-io: https://apis.io/providers/adson-jp/
   x-github: https://github.com/api-evangelist/adson-jp
@@ -3709,6 +3697,10 @@ include:
   url: https://artifacts.apis.io/agentexchange-work/apis.yml
   x-apis-io: https://apis.io/providers/agentexchange-work/
   x-github: https://github.com/api-evangelist/agentexchange-work
+- name: AgentExec
+  url: https://artifacts.apis.io/agentexec-dev/apis.yml
+  x-apis-io: https://apis.io/providers/agentexec-dev/
+  x-github: https://github.com/api-evangelist/agentexec-dev
 - name: Agent Experiences
   url: https://artifacts.apis.io/agentexperiences-com/apis.yml
   x-apis-io: https://apis.io/providers/agentexperiences-com/
@@ -3913,6 +3905,10 @@ include:
   url: https://artifacts.apis.io/agentifizierung-de/apis.yml
   x-apis-io: https://apis.io/providers/agentifizierung-de/
   x-github: https://github.com/api-evangelist/agentifizierung-de
+- name: Agentik
+  url: https://artifacts.apis.io/agentik-cc/apis.yml
+  x-apis-io: https://apis.io/providers/agentik-cc/
+  x-github: https://github.com/api-evangelist/agentik-cc
 - name: AgentIndex
   url: https://artifacts.apis.io/agentindex-app/apis.yml
   x-apis-io: https://apis.io/providers/agentindex-app/
@@ -4205,7 +4201,7 @@ include:
   url: https://artifacts.apis.io/agentsgather-org/apis.yml
   x-apis-io: https://apis.io/providers/agentsgather-org/
   x-github: https://github.com/api-evangelist/agentsgather-org
-- name: Agents Get Paid
+- name: Agents Get Paid More
   url: https://artifacts.apis.io/agentsgetpaidmore-com/apis.yml
   x-apis-io: https://apis.io/providers/agentsgetpaidmore-com/
   x-github: https://github.com/api-evangelist/agentsgetpaidmore-com
@@ -4277,7 +4273,7 @@ include:
   url: https://artifacts.apis.io/agentstackdirectory-com/apis.yml
   x-apis-io: https://apis.io/providers/agentstackdirectory-com/
   x-github: https://github.com/api-evangelist/agentstackdirectory-com
-- name: AgentStamp
+- name: agentstamp-org
   url: https://artifacts.apis.io/agentstamp-org/apis.yml
   x-apis-io: https://apis.io/providers/agentstamp-org/
   x-github: https://github.com/api-evangelist/agentstamp-org
@@ -4349,6 +4345,11 @@ include:
   url: https://artifacts.apis.io/agentwebmap-com/apis.yml
   x-apis-io: https://apis.io/providers/agentwebmap-com/
   x-github: https://github.com/api-evangelist/agentwebmap-com
+- name: AgentWorld
+  url: https://artifacts.apis.io/agentworld-io/apis.yml
+  x-apis-io: https://apis.io/providers/agentworld-io/
+  x-github: https://github.com/api-evangelist/agentworld-io
+  x-store: pending  # page is live; the apis.yml has not reached the profile store yet
 - name: Agent World
   url: https://artifacts.apis.io/agentworld-me/apis.yml
   x-apis-io: https://apis.io/providers/agentworld-me/
@@ -4681,10 +4682,6 @@ include:
   url: https://artifacts.apis.io/agricultural-statistics-service/apis.yml
   x-apis-io: https://apis.io/providers/agricultural-statistics-service/
   x-github: https://github.com/api-evangelist/agricultural-statistics-service
-- name: Agricultural Building Cost
-  url: https://artifacts.apis.io/agriculturalbuildingcost-co-uk/apis.yml
-  x-apis-io: https://apis.io/providers/agriculturalbuildingcost-co-uk/
-  x-github: https://github.com/api-evangelist/agriculturalbuildingcost-co-uk
 - name: Agriful
   url: https://artifacts.apis.io/agriful/apis.yml
   x-apis-io: https://apis.io/providers/agriful/
@@ -5421,10 +5418,6 @@ include:
   url: https://artifacts.apis.io/aiignore/apis.yml
   x-apis-io: https://apis.io/providers/aiignore/
   x-github: https://github.com/api-evangelist/aiignore
-- name: AIImplementationCost
-  url: https://artifacts.apis.io/aiimplementationcost-com/apis.yml
-  x-apis-io: https://apis.io/providers/aiimplementationcost-com/
-  x-github: https://github.com/api-evangelist/aiimplementationcost-com
 - name: AI Interview Agents
   url: https://artifacts.apis.io/aiinterviewagents-com/apis.yml
   x-apis-io: https://apis.io/providers/aiinterviewagents-com/
@@ -7061,10 +7054,6 @@ include:
   url: https://artifacts.apis.io/alexishr/apis.yml
   x-apis-io: https://apis.io/providers/alexishr/
   x-github: https://github.com/api-evangelist/alexishr
-- name: Alex Polonsky
-  url: https://artifacts.apis.io/alexpolonsky-com/apis.yml
-  x-apis-io: https://apis.io/providers/alexpolonsky-com/
-  x-github: https://github.com/api-evangelist/alexpolonsky-com
 - name: Alexza Pharmaceuticals
   url: https://artifacts.apis.io/alexza-pharmaceuticals/apis.yml
   x-apis-io: https://apis.io/providers/alexza-pharmaceuticals/
@@ -8069,10 +8058,6 @@ include:
   url: https://artifacts.apis.io/alokai-formerly-vue-storefront/apis.yml
   x-apis-io: https://apis.io/providers/alokai-formerly-vue-storefront/
   x-github: https://github.com/api-evangelist/alokai-formerly-vue-storefront
-- name: Alok Barnwal
-  url: https://artifacts.apis.io/alokbarnwal-com/apis.yml
-  x-apis-io: https://apis.io/providers/alokbarnwal-com/
-  x-github: https://github.com/api-evangelist/alokbarnwal-com
 - name: Alongside
   url: https://artifacts.apis.io/alongside/apis.yml
   x-apis-io: https://apis.io/providers/alongside/
@@ -8101,10 +8086,6 @@ include:
   url: https://artifacts.apis.io/alpayana/apis.yml
   x-apis-io: https://apis.io/providers/alpayana/
   x-github: https://github.com/api-evangelist/alpayana
-- name: Alpay Celik
-  url: https://artifacts.apis.io/alpaycelik-dev/apis.yml
-  x-apis-io: https://apis.io/providers/alpaycelik-dev/
-  x-github: https://github.com/api-evangelist/alpaycelik-dev
 - name: Alpen Labs
   url: https://artifacts.apis.io/alpen-labs/apis.yml
   x-apis-io: https://apis.io/providers/alpen-labs/

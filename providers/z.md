@@ -1,6 +1,6 @@
 # API Evangelist Network — providers Z
 
-390 providers whose repository name begins with **Z**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/z.yml](../network/z.yml).
+391 providers whose repository name begins with **Z**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/z.yml](../network/z.yml).
 
 [← All providers](../README.md)
 
@@ -206,6 +206,7 @@
 | Zeus | [zeus](https://apis.io/providers/zeus/) | [zeus](https://github.com/api-evangelist/zeus) |
 | ZF Friedrichshafen | [zf-friedrichshafen](https://apis.io/providers/zf-friedrichshafen/) | [zf-friedrichshafen](https://github.com/api-evangelist/zf-friedrichshafen) |
 | Zencore Biologics | [zgbiotech](https://apis.io/providers/zgbiotech/) | [zgbiotech](https://github.com/api-evangelist/zgbiotech) |
+| Kanton Zürich | [zh-ch](https://apis.io/providers/zh-ch/) | [zh-ch](https://github.com/api-evangelist/zh-ch) |
 | Zhangmen | [zhangmen](https://apis.io/providers/zhangmen/) | [zhangmen](https://github.com/api-evangelist/zhangmen) |
 | zhaohu365 | [zhaohu365](https://apis.io/providers/zhaohu365/) | [zhaohu365](https://github.com/api-evangelist/zhaohu365) |
 | zhaosuliao | [zhaosuliao](https://apis.io/providers/zhaosuliao/) | [zhaosuliao](https://github.com/api-evangelist/zhaosuliao) |
@@ -390,7 +391,7 @@
 | Zymvol | [zymvol](https://apis.io/providers/zymvol/) | [zymvol](https://github.com/api-evangelist/zymvol) |
 | Zynga | [zynga](https://apis.io/providers/zynga/) | [zynga](https://github.com/api-evangelist/zynga) |
 | Zynk Software Limited | [zynk](https://apis.io/providers/zynk/) | [zynk](https://github.com/api-evangelist/zynk) |
-| zyntra-app | [zyntra-app](https://apis.io/providers/zyntra-app/) | [zyntra-app](https://github.com/api-evangelist/zyntra-app) |
+| Zyntra | [zyntra-app](https://apis.io/providers/zyntra-app/) | [zyntra-app](https://github.com/api-evangelist/zyntra-app) |
 | Zype | [zype](https://apis.io/providers/zype/) | [zype](https://github.com/api-evangelist/zype) |
 | Zypl | [zypl](https://apis.io/providers/zypl/) | [zypl](https://github.com/api-evangelist/zypl) |
 | Zyte | [zyte](https://apis.io/providers/zyte/) | [zyte](https://github.com/api-evangelist/zyte) |

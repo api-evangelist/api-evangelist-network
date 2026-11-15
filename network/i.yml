@@ -1,8 +1,8 @@
 name: API Evangelist Network — providers I
-description: 'The 1031 API providers in the API Evangelist network whose repository name begins with I. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
+description: 'The 1037 API providers in the API Evangelist network whose repository name begins with I. Each include points at the provider apis.yml in the profile store; x-apis-io is the provider page on APIs.io and x-github the repository.'
 url: https://raw.githubusercontent.com/api-evangelist/api-evangelist-network/refs/heads/main/network/i.yml
 created: '2026-02-27'
-modified: '2026-11-06'
+modified: '2026-11-15'
 specificationVersion: '0.23'
 tags:
 - Directory
@@ -737,6 +737,10 @@ include:
   url: https://artifacts.apis.io/ikigai/apis.yml
   x-apis-io: https://apis.io/providers/ikigai/
   x-github: https://github.com/api-evangelist/ikigai
+- name: iLang
+  url: https://artifacts.apis.io/ilang-ai/apis.yml
+  x-apis-io: https://apis.io/providers/ilang-ai/
+  x-github: https://github.com/api-evangelist/ilang-ai
 - name: ilert
   url: https://artifacts.apis.io/ilert/apis.yml
   x-apis-io: https://apis.io/providers/ilert/
@@ -833,6 +837,10 @@ include:
   url: https://artifacts.apis.io/image-upload/apis.yml
   x-apis-io: https://apis.io/providers/image-upload/
   x-github: https://github.com/api-evangelist/image-upload
+- name: Image3D
+  url: https://artifacts.apis.io/image3d-io/apis.yml
+  x-apis-io: https://apis.io/providers/image3d-io/
+  x-github: https://github.com/api-evangelist/image3d-io
 - name: ImageKit
   url: https://artifacts.apis.io/imagekit/apis.yml
   x-apis-io: https://apis.io/providers/imagekit/
@@ -961,6 +969,10 @@ include:
   url: https://artifacts.apis.io/imgur/apis.yml
   x-apis-io: https://apis.io/providers/imgur/
   x-github: https://github.com/api-evangelist/imgur
+- name: IMGW-PIB
+  url: https://artifacts.apis.io/imgw-pl/apis.yml
+  x-apis-io: https://apis.io/providers/imgw-pl/
+  x-github: https://github.com/api-evangelist/imgw-pl
 - name: iMile
   url: https://artifacts.apis.io/imile/apis.yml
   x-apis-io: https://apis.io/providers/imile/
@@ -1849,6 +1861,10 @@ include:
   url: https://artifacts.apis.io/inframarket/apis.yml
   x-apis-io: https://apis.io/providers/inframarket/
   x-github: https://github.com/api-evangelist/inframarket
+- name: InfraNest
+  url: https://artifacts.apis.io/infranest/apis.yml
+  x-apis-io: https://apis.io/providers/infranest/
+  x-github: https://github.com/api-evangelist/infranest
 - name: infranode-dev
   url: https://artifacts.apis.io/infranode-dev/apis.yml
   x-apis-io: https://apis.io/providers/infranode-dev/
@@ -3501,6 +3517,10 @@ include:
   url: https://artifacts.apis.io/ipma/apis.yml
   x-apis-io: https://apis.io/providers/ipma/
   x-github: https://github.com/api-evangelist/ipma
+- name: IPO Radar
+  url: https://artifacts.apis.io/ipogmpradar-com/apis.yml
+  x-apis-io: https://apis.io/providers/ipogmpradar-com/
+  x-github: https://github.com/api-evangelist/ipogmpradar-com
 - name: IPQualityScore
   url: https://artifacts.apis.io/ipqualityscore/apis.yml
   x-apis-io: https://apis.io/providers/ipqualityscore/
@@ -3633,6 +3653,10 @@ include:
   url: https://artifacts.apis.io/irl/apis.yml
   x-apis-io: https://apis.io/providers/irl/
   x-github: https://github.com/api-evangelist/irl
+- name: Irmu
+  url: https://artifacts.apis.io/irmu-com/apis.yml
+  x-apis-io: https://apis.io/providers/irmu-com/
+  x-github: https://github.com/api-evangelist/irmu-com
 - name: iRobot
   url: https://artifacts.apis.io/irobot/apis.yml
   x-apis-io: https://apis.io/providers/irobot/

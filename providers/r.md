@@ -1,6 +1,6 @@
 # API Evangelist Network — providers R
 
-1,312 providers whose repository name begins with **R**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/r.yml](../network/r.yml).
+1,314 providers whose repository name begins with **R**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/r.yml](../network/r.yml).
 
 [← All providers](../README.md)
 
@@ -466,6 +466,7 @@
 | Refold | [refold](https://apis.io/providers/refold/) | [refold](https://github.com/api-evangelist/refold) |
 | Reforge | [reforge](https://apis.io/providers/reforge/) | [reforge](https://github.com/api-evangelist/reforge) |
 | Reform | [reform](https://apis.io/providers/reform/) | [reform](https://github.com/api-evangelist/reform) |
+| Refract | [refract-social](https://apis.io/providers/refract-social/) | [refract-social](https://github.com/api-evangelist/refract-social) |
 | refresh | [refresh](https://apis.io/providers/refresh/) | [refresh](https://github.com/api-evangelist/refresh) |
 | Refuel | [refuel-ai](https://apis.io/providers/refuel-ai/) | [refuel-ai](https://github.com/api-evangelist/refuel-ai) |
 | REFUGE Restrooms | [refuge-restrooms](https://apis.io/providers/refuge-restrooms/) | [refuge-restrooms](https://github.com/api-evangelist/refuge-restrooms) |
@@ -534,7 +535,7 @@
 | Relay | [relay-financial](https://apis.io/providers/relay-financial/) | [relay-financial](https://github.com/api-evangelist/relay-financial) |
 | Relay Payments | [relay-payments](https://apis.io/providers/relay-payments/) | [relay-payments](https://github.com/api-evangelist/relay-payments) |
 | Relay Therapeutics | [relay-therapeutics](https://apis.io/providers/relay-therapeutics/) | [relay-therapeutics](https://github.com/api-evangelist/relay-therapeutics) |
-| relayger-com | [relayger-com](https://apis.io/providers/relayger-com/) | [relayger-com](https://github.com/api-evangelist/relayger-com) |
+| Relayger | [relayger-com](https://apis.io/providers/relayger-com/) | [relayger-com](https://github.com/api-evangelist/relayger-com) |
 | relaygpu-com | [relaygpu-com](https://apis.io/providers/relaygpu-com/) | [relaygpu-com](https://github.com/api-evangelist/relaygpu-com) |
 | relaystation-ai | [relaystation-ai](https://apis.io/providers/relaystation-ai/) | [relaystation-ai](https://github.com/api-evangelist/relaystation-ai) |
 | relayxapi-com | [relayxapi-com](https://apis.io/providers/relayxapi-com/) | [relayxapi-com](https://github.com/api-evangelist/relayxapi-com) |
@@ -1171,6 +1172,7 @@
 | Route Mobile | [route-mobile](https://apis.io/providers/route-mobile/) | [route-mobile](https://github.com/api-evangelist/route-mobile) |
 | Routebase | [routebase](https://apis.io/providers/routebase/) | [routebase](https://github.com/api-evangelist/routebase) |
 | Routefusion | [routefusion](https://apis.io/providers/routefusion/) | [routefusion](https://github.com/api-evangelist/routefusion) |
+| RouteMux | [routemux-com](https://apis.io/providers/routemux-com/) | [routemux-com](https://github.com/api-evangelist/routemux-com) |
 | RouterOS | [routeros](https://apis.io/providers/routeros/) | [routeros](https://github.com/api-evangelist/routeros) |
 | RouterPlex | [routerplex](https://apis.io/providers/routerplex/) | [routerplex](https://github.com/api-evangelist/routerplex) |
 | RouterPlus | [routerplus-com](https://apis.io/providers/routerplus-com/) | [routerplus-com](https://github.com/api-evangelist/routerplus-com) |

@@ -1,6 +1,6 @@
 # API Evangelist Network — providers V
 
-821 providers whose repository name begins with **V**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/v.yml](../network/v.yml).
+823 providers whose repository name begins with **V**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/v.yml](../network/v.yml).
 
 [← All providers](../README.md)
 
@@ -54,6 +54,7 @@
 | Validus Capital | [validus-capital](https://apis.io/providers/validus-capital/) | [validus-capital](https://github.com/api-evangelist/validus-capital) |
 | Valimail | [valimail](https://apis.io/providers/valimail/) | [valimail](https://github.com/api-evangelist/valimail) |
 | Valinor | [valinor](https://apis.io/providers/valinor/) | [valinor](https://github.com/api-evangelist/valinor) |
+| Valjean Specialty | [valjeanspecialty](https://apis.io/providers/valjeanspecialty/) | [valjeanspecialty](https://github.com/api-evangelist/valjeanspecialty) |
 | valksor-com | [valksor-com](https://apis.io/providers/valksor-com/) | [valksor-com](https://github.com/api-evangelist/valksor-com) |
 | Valley National Bank | [valley-national](https://apis.io/providers/valley-national/) | [valley-national](https://github.com/api-evangelist/valley-national) |
 | Vallor | [vallor](https://apis.io/providers/vallor/) | [vallor](https://github.com/api-evangelist/vallor) |
@@ -63,6 +64,7 @@
 | Valor Water Analytics | [valor-water-analytics](https://apis.io/providers/valor-water-analytics/) | [valor-water-analytics](https://github.com/api-evangelist/valor-water-analytics) |
 | Valora | [valora](https://apis.io/providers/valora/) | [valora](https://github.com/api-evangelist/valora) |
 | Valorant (non-official) | [valorant-non-official](https://apis.io/providers/valorant-non-official/) | [valorant-non-official](https://github.com/api-evangelist/valorant-non-official) |
+| Valo.Data | [valotcg](https://apis.io/providers/valotcg/) | [valotcg](https://github.com/api-evangelist/valotcg) |
 | VALR | [valr](https://apis.io/providers/valr/) | [valr](https://github.com/api-evangelist/valr) |
 | Vals Ai | [vals-ai](https://apis.io/providers/vals-ai/) | [vals-ai](https://github.com/api-evangelist/vals-ai) |
 | Valsoft Corporation | [valsoft-corporation](https://apis.io/providers/valsoft-corporation/) | [valsoft-corporation](https://github.com/api-evangelist/valsoft-corporation) |
@@ -89,7 +91,6 @@
 | VanMoof | [vanmoof](https://apis.io/providers/vanmoof/) | [vanmoof](https://github.com/api-evangelist/vanmoof) |
 | Vannevar Labs | [vannevar](https://apis.io/providers/vannevar/) | [vannevar](https://github.com/api-evangelist/vannevar) |
 | Vanquis Banking Group | [vanquis-banking-group](https://apis.io/providers/vanquis-banking-group/) | [vanquis-banking-group](https://github.com/api-evangelist/vanquis-banking-group) |
-| vanshul-com | [vanshul-com](https://apis.io/providers/vanshul-com/) | [vanshul-com](https://github.com/api-evangelist/vanshul-com) |
 | Vanta | [vanta](https://apis.io/providers/vanta/) | [vanta](https://github.com/api-evangelist/vanta) |
 | Vantaca | [vantaca](https://apis.io/providers/vantaca/) | [vantaca](https://github.com/api-evangelist/vantaca) |
 | Vantage Data Centers | [vantage-data-centers](https://apis.io/providers/vantage-data-centers/) | [vantage-data-centers](https://github.com/api-evangelist/vantage-data-centers) |
@@ -488,6 +489,7 @@
 | Viewabo | [viewabo](https://apis.io/providers/viewabo/) | [viewabo](https://github.com/api-evangelist/viewabo) |
 | Viewlocity | [viewlocity](https://apis.io/providers/viewlocity/) | [viewlocity](https://github.com/api-evangelist/viewlocity) |
 | Viewlogic Systems | [viewlogic-systems](https://apis.io/providers/viewlogic-systems/) | [viewlogic-systems](https://github.com/api-evangelist/viewlogic-systems) |
+| ViewMax Studio | [viewmax-studio](https://apis.io/providers/viewmax-studio/) | [viewmax-studio](https://github.com/api-evangelist/viewmax-studio) |
 | Viewpoints AI | [viewpoints-ai](https://apis.io/providers/viewpoints-ai/) | [viewpoints-ai](https://github.com/api-evangelist/viewpoints-ai) |
 | ViewsMeet | [viewsmeet-com](https://apis.io/providers/viewsmeet-com/) | [viewsmeet-com](https://github.com/api-evangelist/viewsmeet-com) |
 | Vigil | [vigil-wtf](https://apis.io/providers/vigil-wtf/) | [vigil-wtf](https://github.com/api-evangelist/vigil-wtf) |
@@ -513,7 +515,7 @@
 | Vinculum | [vinculum](https://apis.io/providers/vinculum/) | [vinculum](https://github.com/api-evangelist/vinculum) |
 | Vindicia | [vindicia](https://apis.io/providers/vindicia/) | [vindicia](https://github.com/api-evangelist/vindicia) |
 | Vineti | [vineti](https://apis.io/providers/vineti/) | [vineti](https://github.com/api-evangelist/vineti) |
-| vineverse-bible | [vineverse-bible](https://apis.io/providers/vineverse-bible/) | [vineverse-bible](https://github.com/api-evangelist/vineverse-bible) |
+| VineVerse | [vineverse-bible](https://apis.io/providers/vineverse-bible/) | [vineverse-bible](https://github.com/api-evangelist/vineverse-bible) |
 | Vineyard | [vineyard](https://apis.io/providers/vineyard/) | [vineyard](https://github.com/api-evangelist/vineyard) |
 | Vinkius | [vinkius-com](https://apis.io/providers/vinkius-com/) | [vinkius-com](https://github.com/api-evangelist/vinkius-com) |
 | VINNO | [vinno](https://apis.io/providers/vinno/) | [vinno](https://github.com/api-evangelist/vinno) |

@@ -1,6 +1,6 @@
 # API Evangelist Network — providers X
 
-142 providers whose repository name begins with **X**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/x.yml](../network/x.yml).
+145 providers whose repository name begins with **X**. Each links to the provider's page on APIs.io, where the profile, the rating and every artifact are published, and to the GitHub repository that is the public record for corrections. Machine-readable: [network/x.yml](../network/x.yml).
 
 [← All providers](../README.md)
 
@@ -9,6 +9,7 @@
 | X | [x](https://apis.io/providers/x/) | [x](https://github.com/api-evangelist/x) |
 | X-energy | [x-energy](https://apis.io/providers/x-energy/) | [x-energy](https://github.com/api-evangelist/x-energy) |
 | X mart | [x-mart](https://apis.io/providers/x-mart/) | [x-mart](https://github.com/api-evangelist/x-mart) |
+| X-Road (NIIS) | [x-road-global](https://apis.io/providers/x-road-global/) | [x-road-global](https://github.com/api-evangelist/x-road-global) |
 | x-tention | [x-tention](https://apis.io/providers/x-tention/) | [x-tention](https://github.com/api-evangelist/x-tention) |
 | X Zell | [x-zell](https://apis.io/providers/x-zell/) | [x-zell](https://github.com/api-evangelist/x-zell) |
 | X1 | [x1](https://apis.io/providers/x1/) | [x1](https://github.com/api-evangelist/x1) |
@@ -31,6 +32,7 @@
 | Xapo | [xapo](https://apis.io/providers/xapo/) | [xapo](https://github.com/api-evangelist/xapo) |
 | Xapo | [xapo-com](https://apis.io/providers/xapo-com/) | [xapo-com](https://github.com/api-evangelist/xapo-com) |
 | Xata | [xata](https://apis.io/providers/xata/) | [xata](https://github.com/api-evangelist/xata) |
+| XAUConnect | [xauconnect-com](https://apis.io/providers/xauconnect-com/) | [xauconnect-com](https://github.com/api-evangelist/xauconnect-com) |
 | xavio-in | [xavio-in](https://apis.io/providers/xavio-in/) | [xavio-in](https://github.com/api-evangelist/xavio-in) |
 | Xayn (now Noxtua) | [xayn](https://apis.io/providers/xayn/) | [xayn](https://github.com/api-evangelist/xayn) |
 | xbonline | [xbonline](https://apis.io/providers/xbonline/) | [xbonline](https://github.com/api-evangelist/xbonline) |
@@ -104,6 +106,7 @@
 | XOCEAN | [xocean](https://apis.io/providers/xocean/) | [xocean](https://github.com/api-evangelist/xocean) |
 | Xona Space Systems | [xona-space-systems](https://apis.io/providers/xona-space-systems/) | [xona-space-systems](https://github.com/api-evangelist/xona-space-systems) |
 | Xoom | [xoom](https://apis.io/providers/xoom/) | [xoom](https://github.com/api-evangelist/xoom) |
+| XOOMAR | [xoomar-com](https://apis.io/providers/xoomar-com/) | [xoomar-com](https://github.com/api-evangelist/xoomar-com) |
 | Xoserve | [xoserve](https://apis.io/providers/xoserve/) | [xoserve](https://github.com/api-evangelist/xoserve) |
 | Xoxoday | [xoxoday](https://apis.io/providers/xoxoday/) | [xoxoday](https://github.com/api-evangelist/xoxoday) |
 | XP Health | [xp-health](https://apis.io/providers/xp-health/) | [xp-health](https://github.com/api-evangelist/xp-health) |
